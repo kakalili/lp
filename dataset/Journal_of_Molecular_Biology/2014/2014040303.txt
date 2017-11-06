@@ -1,0 +1,6 @@
+The Folding of a Family of Three-Helix Bundle Proteins: Spectrin R15 Has a Robust Folding Nucleus, Unlike Its Homologous Neighbours
+6508124211,12798910500,55994106900,55440867800,37037726200,7403197330
+protein folding,Φ-value,energy landscape,internal friction
+Three homologous spectrin domains have remarkably different folding characteristics. We have previously shown that the slow-folding R16 and R17 spectrin domains can be altered to resemble the fast folding R15, in terms of speed of folding (and unfolding), landscape roughness and folding mechanism, simply by substituting five residues in the core. Here we show that, by contrast, R15 cannot be engineered to resemble R16 and R17. It is possible to engineer a slow-folding version of R15, but our analysis shows that this protein neither has a rougher energy landscape nor does change its folding mechanism. Quite remarkably, R15 appears to be a rare example of a protein with a folding nucleus that does not change in position or in size when its folding nucleus is disrupted. Thus, while two members of this protein family are remarkably plastic, the third has apparently a restricted folding landscape.
+http://www.sciencedirect.com/science/article/pii/S0022283613007845
+00222836

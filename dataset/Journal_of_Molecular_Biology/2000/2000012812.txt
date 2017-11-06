@@ -1,0 +1,6 @@
+Post-translational modification of p53 protein in response to ionizing radiation analyzed by mass spectrometry11Edited by M. Yaniv
+56223973000,7404901446,7101850018,7006413104
+p53,phosphorylation,acetylation,mass spectrometry,post-translational
+The p53 tumor suppressor protein promotes cell cycle arrest or apoptosis in response to DNA damage and other forms of stress. p53 protein functions as a transcription factor by binding to specific DNA sequences and regulating the transcription of target genes. This activity of p53 is reported to be regulated by phosphorylation and acetylation occuring at various sites on the molecule. Here, we have used a direct and non-radioactive approach involving mass spectrometric analysis of p53 protein to identify sites that are covalently modified in vivo, either constitutively or in response to ionizing radiation. Following partial purification by immuno-affinity chromatography and enzymatic in-gel digestion, the resulting p53 peptides were analyzed by MALDI-TOF and nanoelectrospray mass spectrometry. Mass spectrometry analyses identified four sites at the N terminus that were phosphorylated in response to irradiation, a single constitutive phosphorylation site at serine 315 and several acetylation sites.
+http://www.sciencedirect.com/science/article/pii/S0022283699934150
+00222836

@@ -1,0 +1,6 @@
+The Crystal Structure of the Gene Targeting Homing Endonuclease I-SceI Reveals the Origins of its Target Site Specificity
+7006066617,7004155553,35499249800
+homing endonuclease,structure,protein–DNA interactions,asymmetry,metal binding
+The I-SceI homing endonuclease enhances gene targeting by introducing double-strand breaks at specific chromosomal loci, thereby increasing the recombination frequency. Here, we report the crystal structure of the enzyme complexed to its DNA substrate and Ca2+ determined at 2.25Å resolution. The structure shows the prototypical β-saddle of LAGLIDADG homing endonucleases that is contributed by two pseudo-symmetric domains. The high specificity of I-SceI is explained by the large number of protein–DNA contacts, many that are made by a long β-hairpin loop that reaches into the major groove of the DNA. The DNA minor groove is compressed at the catalytic center, bringing the two scissile phosphodiester bonds into close proximity. The protein–Ca2+–DNA structure shows the protein bound to its DNA substrate in a pre-reactive state that is defined by the presence of two asymmetric active sites, one of which appears poised to first cleave the DNA bottom strand.
+http://www.sciencedirect.com/science/article/pii/S0022283603012233
+00222836

@@ -1,0 +1,6 @@
+Domain rotations between open, closed and bullet-shaped forms of the thermosome, an archaeal chaperonin11Edited by A. R. Fersht
+7004564177,15738452600,7006588485,7403682319,35492295700
+chaperone,thermosome,archaea,cryo-electron microscopy,three-dimensional reconstruction
+Three conformations of the thermosome, an archaeal group II chaperonin, have been determined by cryo-electron microscopy (EM). We describe an open form of the double-ring oligomer, a closed form and a bullet-shaped form with one ring open and the other closed. Domain movements have been deduced by docking atomic coordinates into the EM maps. The subunit apical domains, bearing the putative substrate binding sites, rotate about 30 ° upwards and twist in the plane of the ring from the closed to the open conformation. The closed rings have their nucleotide binding pockets closed by the intermediate domains, but in the open rings, the pocket is accessible.
+http://www.sciencedirect.com/science/article/pii/S0022283600939524
+00222836

@@ -1,0 +1,6 @@
+Protein-protein interactions of hcsl4p with other human exosome subunits11Edited by J. Karn
+6602675695,6504614934,7103081344,7007034645
+exosome,exoribonuclease,nucleolus,PM/Scl complex,mammalian two-hybrid
+The exosome is a complex of 3′ → 5′ exoribonucleases, which functions in a variety of cellular processes, all requiring the processing or degradation of RNA. We demonstrate that the two human proteins hCsl4p and hRrp42p, which have been identified on the basis of their sequence homology with Saccharomyces cerevisiae proteins, are associated with the human exosome. By mammalian two-hybrid and GST pull-down assays, we show that the hCsl4p protein interacts directly with two other exosome proteins, hRrp42p and hRrp46p. Mutants of hCsl4p that fail to interact with either hRrp42p or hRrp46p are also not able to associate with exosome complexes in vivo. These results indicate that the association of hCsl4p with the exosome is mediated by protein-protein interactions with hRrp42p and hRrp46p.
+http://www.sciencedirect.com/science/article/pii/S0022283601952659
+00222836

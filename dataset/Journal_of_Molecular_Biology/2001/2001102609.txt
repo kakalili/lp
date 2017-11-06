@@ -1,0 +1,6 @@
+A simple way to measure protein refolding rates in water11Edited by C. R. Matthews
+7004094833,55958959700
+cyclodextrin,SDS,protein folding,stopped-flow,chevron plots
+Refolding of proteins is traditionally carried out either by diluting the denaturant-unfolded protein into buffer (GdmCl-jump) or by mixing the acid-denatured protein with strong buffer (pH-jump). The first method does not allow direct measurement of folding rates in water since the GdmCl cannot be infinitely diluted, and the second method suffers from the limitation that many proteins cannot be pH-denatured. Further, some proteins do not refold reversibly from low pH where they get trapped as aggregation prone intermediates. Here, we present an alternative approach for direct measurement of refolding rates in water, which does not rely on extrapolation. The protein is denatured in SDS, and is then mixed with α-cyclodextrin, which rapidly strips SDS molecules from the protein, leaving the naked unfolded protein to refold.
+http://www.sciencedirect.com/science/article/pii/S0022283601950399
+00222836

@@ -1,0 +1,6 @@
+Crystal Structure of a Multi-domain Immunophilin from Arabidopsis thaliana: A Paradigm for Regulation of Plant ABC Transporters
+56533810400,10240588300,6602976119
+FKBP42,Arabidopsis thaliana,X-ray crystallography,HSP90,ABC transporter
+FKBP42 is a membrane-anchored immunophilin playing a critical role in morphogenesis and development of higher plants. We present the X-ray structure of the cytoplasmic portion of FKBP42 comprising both the FKBP-like domain and the TPR domain at 2.85 Å resolution. The data shed light on the probable binding modes of key interaction partners, including HSP90 and two classes of ABC transporters. The resulting models provide a structural background for further investigation of the unique biological properties of this protein.
+http://www.sciencedirect.com/science/article/pii/S0022283606012769
+00222836

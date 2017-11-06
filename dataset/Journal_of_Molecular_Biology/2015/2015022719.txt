@@ -1,0 +1,6 @@
+The Cobalamin-Independent Methionine Synthase Enzyme Captured in a Substrate-Induced Closed Conformation
+53265082200,35511157700
+fungal enzyme,X-ray structure,zinc,tetrahydrofolate activation,homocysteine
+The cobalamin-independent methionine synthase enzyme catalyzes a challenging reaction: the direct transfer of a methyl from 5-methyl-tetrahydrofolate-glutamate3 to the l-homocysteine thiol. The enzyme has a dual (βα)8 TIM barrel structure that binds, activates and brings the reactants into reaction proximity by conformational movements. In the previously observed open structures, the substrates bind too far apart to react, but we have captured a ternary complex with both substrates bound in a closed form of the enzyme. The closing is described in terms of a hinge between the N- and C-terminal TIM barrels and a rearrangement of key loops within the C domain. The substrate specificity can now be rationalized and the structure reveals His707 as the acid that protonates the THF leaving group through a water molecule trapped in the closed active site. The substrates are correctly oriented for an in-line attack by l-homocysteine on the N5-methyl.
+http://www.sciencedirect.com/science/article/pii/S0022283614006494
+00222836

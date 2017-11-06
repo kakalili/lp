@@ -1,0 +1,6 @@
+Structural Basis for the Recognition of Ubc13 by the Shigella flexneri Effector OspI
+55257049800,35069893000,7403092927,24343559600,37000230800,7004577002,56463602800
+Shigella flexneri,Ubc13,deamidase,ubiquitination,crystal structure
+Ubc13 is a ubiquitin-conjugating enzyme that plays a key role in the nuclear factor-κB signal transduction pathway in human diseases. The Shigella flexneri effector OspI affects inflammatory responses by catalyzing the deamidation of a specific glutamine residue at position 100 in Ubc13 during infection. This modification prevents the activation of the TNF (tumor necrosis factor) receptor-associated factor 6, leading to modulation of the diacylglycerol–CBM (CARD–Bcl10–Malt1) complex–TNF receptor-associated factor 6–nuclear factor-κB signaling pathway. To elucidate the structural basis of OspI function, we determined the crystal structures of the catalytically inert OspI C62A mutant and its complex with Ubc13 at resolutions of 3.0 and 2.96Å, respectively. The structure of the OspI–Ubc13 complex revealed that the interacting surfaces between OspI and Ubc13 are a hydrophobic surface and a complementary charged surface. Furthermore, we predict that the complementary charged surface of OspI plays a key role in substrate specificity determination.
+http://www.sciencedirect.com/science/article/pii/S0022283613001964
+00222836

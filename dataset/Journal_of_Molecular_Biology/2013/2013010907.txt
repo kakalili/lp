@@ -1,0 +1,6 @@
+The Regulatory Domain Stabilizes the p53 Tetramer by Intersubunit Contacts with the DNA Binding Domain
+15078606100,24069009800,56588733200,35310964300,35344606200,16245892200,35725981900,7202209456,7005734918
+tumor suppressor,phosphorylation,regulation of activity,quaternary structure,DNA binding
+The tumor suppressor protein p53 is often referred to as the guardian of the genome. In the past, controversial findings have been presented for the role of the C-terminal regulatory domain (RD) of p53 as both a negative regulator and a positive regulator of p53 activity. However, the underlying mechanism remained enigmatic.To understand the function of the RD and of a dominant phosphorylation site within the RD, we analyzed p53 variants in vivo and in vitro. Our experiments revealed, surprisingly, that the p53 RD of one subunit interacts with the DNA binding domain of an adjacent subunit in the tetramer. This leads to the formation of intersubunit contacts that stabilize the tetrameric state of p53 and enhance its transcriptional activity in a cooperative manner. These effects are further modulated by phosphorylation of a conserved serine within the RD.
+http://www.sciencedirect.com/science/article/pii/S0022283612008339
+00222836

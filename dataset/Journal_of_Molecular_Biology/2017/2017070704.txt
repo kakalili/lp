@@ -1,0 +1,6 @@
+RNA G-Quadruplexes in Biology: Principles and Molecular Mechanisms
+57189507445,55515739300,57189697740
+RNA,G-quadruplex,RNA structure,RNA regulation
+G-quadruplexes (G4s) are extremely stable DNA or RNA secondary structures formed by sequences rich in guanine. These structures are implicated in many essential cellular processes, and the number of biological functions attributed to them continues to grow. While DNA G4s are well understood on structural and, to some extent, functional levels, RNA G4s and their functions have received less attention. The presence of bona fide RNA G4s in cells has long been a matter of debate. The development of G4-specific antibodies and ligands hinted on their presence in vivo, but recent advances in RNA sequencing coupled with chemical footprinting suggested the opposite. In this review, we will critically discuss the biology of RNA G4s focusing on the molecular mechanisms underlying their proposed functions.
+http://www.sciencedirect.com/science/article/pii/S0022283617302462
+00222836

@@ -1,0 +1,6 @@
+A New Regulatory Mechanism of NF-κB Activation by I-κBβ in Cancer Cells
+57191682021,7006018669,25627584100,56109724900,55568359200,7601584172
+transglutaminase 2,I-κBα,I-κBβ,NF-κB,polymerization
+Transglutaminase 2 (TGase 2) catalyzes covalent isopeptide bond formation between glutamine and lysine residues. Recently, we reported that TGase 2 activates nuclear factor-kappa B (NF-κB) by depleting inhibitor of NF-κBα (I-κBα) levels via polymer formation. Furthermore, TGase 2 expression synergistically increases NF-κB activity with canonical pathway. The major I-κB proteins such as I-κBα and I-κBβ resemble each other in both primary sequence and tertiary structure. However, I-κBβ does not degrade fully, while I-κBα degrades immediately in response to most stimuli. We found that I-κBβ does not contain any of the previously identified TGase 2 target sites. In this study, both an in vitro cross-linking assay and a TGase 2 transfection assay revealed that I-κBβ is independent from TGase 2-mediated polymerization. Furthermore, increased I-κBβ expression reversed NF-κB activation in cancer cells, compensating for the loss of I-κBα via TGase 2 polymerization.
+http://www.sciencedirect.com/science/article/pii/S0022283608012710
+00222836

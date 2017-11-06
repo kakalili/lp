@@ -1,0 +1,6 @@
+Conformation of BCL-XL upon Membrane Integration
+56504276400,6701771707,56543776500,7102434013,8212073500,7006609500,35587249100
+BCL-2,apoptosis,nanodisc,structure,NMR
+BCL-XL is an anti-apoptotic BCL-2 family protein found both in the cytosol and bound to intracellular membranes. Structural studies of BCL-XL have advanced by deleting its hydrophobic C-terminus and adding detergents to enhance solubility. However, since the C-terminus is essential for function and detergents strongly affect structure and activity, the molecular mechanisms controlling intracellular localization and cytoprotective activity are incompletely understood. Here we describe the conformations and ligand binding activities of water-soluble and membrane-bound BCL-XL, with its complete C-terminus, in detergent-free environments. We show that the C-terminus interacts with a conserved surface groove in the water-soluble state of the protein and inserts across the phospholipid bilayer in the membrane-bound state. Contrary to current models, membrane binding does not induce a conformational change in the soluble domain and both states bind a known ligand with affinities that are modulated by the specific state of the protein.
+http://www.sciencedirect.com/science/article/pii/S0022283615001138
+00222836

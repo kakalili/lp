@@ -1,0 +1,6 @@
+CheA–Receptor Interaction Sites in Bacterial Chemotaxis
+54783734000,56219079900,55246498400,7005515220
+signal transduction,NMR spectroscopy,protein–protein interaction,histidine kinase,MCP
+In bacterial chemotaxis, transmembrane chemoreceptors, the CheA histidine kinase, and the CheW coupling protein assemble into signaling complexes that allow bacteria to modulate their swimming behavior in response to environmental stimuli. Among the protein–protein interactions in the ternary complex, CheA–CheW and CheW–receptor interactions were studied previously, whereas CheA–receptor interaction has been less investigated. Here, we characterize the CheA–receptor interaction in Thermotoga maritima by NMR spectroscopy and validate the identified receptor binding site of CheA in Escherichia coli chemotaxis. We find that CheA interacts with a chemoreceptor in a manner similar to that of CheW, and the receptor binding site of CheA's regulatory domain is homologous to that of CheW. Collectively, the receptor binding sites in the CheA–CheW complex suggest that conformational changes in CheA are required for assembly of the CheA–CheW–receptor ternary complex and CheA activation.
+http://www.sciencedirect.com/science/article/pii/S0022283612004081
+00222836

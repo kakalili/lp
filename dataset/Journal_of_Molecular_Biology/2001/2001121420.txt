@@ -1,0 +1,6 @@
+Crystal structures of human serum albumin complexed with monounsaturated and polyunsaturated fatty acids11Edited by R. Huber
+6602560395,7005713926,7402635398,7203018468
+crystal structure,human serum albumin,unsaturated fatty-acid,cis double bond
+The primary ligands of human serum albumin (HSA), an abundant plasma protein, are non-esterified fatty acids. In vivo, the majority of fatty acids associated with the protein are unsaturated. We present here the first high-resolution crystal structures of HSA complexed with two important unsaturated fatty acids, the monounsaturated oleic acid (C18:1) and the polyunsaturated arachidonic acid (C20:4). Both compounds are observed to occupy the seven binding sites distributed across the protein that are also bound by medium and long-chain saturated fatty acids. Although C18:1 fatty acid binds each site on HSA in a conformation almost identical with that of the corresponding saturated compound (C18:0), the presence of multiple cis double bonds in C20:4 induces distinct binding configurations at some sites. The observed restriction on binding configurations plausibly accounts for differences in the pattern of binding affinities for the primary sites between polyunsaturated fatty acids and their saturated or monounsaturated counterparts.
+http://www.sciencedirect.com/science/article/pii/S0022283600952082
+00222836

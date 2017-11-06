@@ -1,0 +1,6 @@
+BII Nucleotides in the B and C Forms of Natural-sequence Polymeric DNA: A New Model for the C Form of DNA
+6603779868,7201999793
+DNA structure,C-DNA,BII conformation,31P solid-state NMR,model building
+A combination of solid-state 31P and 13C NMR, X-ray diffraction, and model building is used to show that the B and C forms of fibrous macromolecular DNA consist of two distinct nucleotide conformations, which correspond closely to the BI and BII nucleotide conformations known from oligonucleotide crystals. The proportion of the BII conformation is higher in the C form than in the B form. We show structural models for a 101 double helix involving BI nucleotides and a 91 double helix involving BII nucleotides. The 101BI model is similar to a previous model of B-form DNA, while the 91BII model is novel. The BII model has a very deep and narrow minor groove, a shallow and wide major groove, and highly inclined bases. This work shows that the B to C transition in fibers corresponds to BI to BII conformational changes of the individual nucleotides.
+http://www.sciencedirect.com/science/article/pii/S0022283600941949
+00222836

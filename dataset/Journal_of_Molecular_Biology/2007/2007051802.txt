@@ -1,0 +1,6 @@
+The DNA Structure Responds Differently to Physiological Concentrations of K+ or Na+
+14041764200,34975052500,56362002400,7201381315
+DNA structure,BI–BII equilibrium,counterion effects,sequence effects,31P NMR
+The influence of monovalent cations on DNA conformation and readout is an open question. This NMR study of DNA with either Na+ or K+ at physiological concentrations shows that the nature of the cation affects the 31P chemical shifts (δP) and the sequential distances H2′i–H6/8i+1, H2ʺi–H6/8i+1, and H6/8i–H6/8i+1. The δP and distance variations ascertain that the nature of the cation affects the DNA overall structure, i.e. both the conformational equilibria between the backbone BI (ε–ζ &lt;0°) and BII (ε–ζ &gt;0°) states and the helical parameters, via their strong mechanical coupling. These results reveal that Na+ and K+ interactions with DNA are different and sequence-dependent. These ions modulate the overall intrinsic properties of DNA, and possibly its packaging and readout.
+http://www.sciencedirect.com/science/article/pii/S0022283607003415
+00222836

@@ -1,0 +1,6 @@
+Asymmetric Removal of Supercoils Suggests how Topoisomerase II Simplifies DNA Topology
+6602382990,6507585636,6701445603,36878942500,7101624422
+DNA binding,DNA bend,DNA topology,supercoiled DNA,topoisomerase
+Type-IIA topoisomerases consume ATP as they catalyse the interconversion of DNA topoisomers by transporting one DNA segment through a transient break in another. It remains unclear how their activity simplifies the topology of DNA below equilibrium values. Here we report that eukaryotic topoisomerase II narrows the thermal distribution of DNA supercoils, by mainly removing negative DNA crossings. Surprisingly, this asymmetry in supercoil removal is not due to deformation of the DNA before strand passage. Topoisomerase II neither bends nor alters the helical conformation of the interacting DNA. Rather, it appears to interact with a third DNA segment, in addition to the gated and the transported segments. Remarkably, the simultaneous interaction with three DNA segments accounts for the asymmetric removal of supercoils in relaxed DNA and gives a clue to how topoisomerase II simplifies the topology of DNA against the thermal drive.
+http://www.sciencedirect.com/science/article/pii/S0022283603014086
+00222836

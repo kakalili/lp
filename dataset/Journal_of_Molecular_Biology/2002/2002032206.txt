@@ -1,0 +1,6 @@
+Crystal structure of yeast acetohydroxyacid synthase: a target for herbicidal inhibitors11Edited by R. Huber
+7402527765,7007167574,7004857189
+acetohydroxyacid synthase,acetolactate synthase,FAD,thiamin diphosphate,herbicide inhibition
+Acetohydroxyacid synthase (AHAS; EC 4.1.3.18) catalyzes the first step in branched-chain amino acid biosynthesis. The enzyme requires thiamin diphosphate and FAD for activity, but the latter is unexpected, because the reaction involves no oxidation or reduction. Due to its presence in plants, AHAS is a target for sulfonylurea and imidazolinone herbicides. Here, the crystal structure to 2.6 Å resolution of the catalytic subunit of yeast AHAS is reported. The active site is located at the dimer interface and is near the proposed herbicide-binding site. The conformation of FAD and its position in the active site are defined. The structure of AHAS provides a starting point for the rational design of new herbicides.
+http://www.sciencedirect.com/science/article/pii/S0022283601954191
+00222836

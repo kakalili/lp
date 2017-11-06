@@ -1,0 +1,6 @@
+An archaeal holliday junction resolving enzyme from Sulfolobus solfataricus exhibits unique properties11Edited by J. Karn
+6602596374,7404176673
+Holliday junction,archaea,endonuclease,resolving enzyme,homologous recombination
+The rearrangement and repair of DNA by homologous recombination often involves the creation of Holliday junctions, which must be cleaved by junction-specific endonucleases to yield recombinant duplex DNA products. Holliday junction resolving enzymes are a ubiquitous class of proteins with diverse structural and mechanistic characteristics. We have characterised an endonuclease (Hje) from the thermophilic crenarchaeote Sulfolobus solfataricus that exhibits a high degree of specificity for Holliday junctions via an apparently novel mechanism. Hje resolves four-way DNA junctions by the introduction of paired nicks in a reaction that is independent of the local nucleotide sequence, but is restricted solely to strands that are continuous in the stacked-X form of the junction. Three-way DNA junctions are cleaved only when the presence of a bulge in one strand allows the junction to stack in an analogous manner to four-way junctions. These properties differentiate Hje from all other known junction resolving enzymes.
+http://www.sciencedirect.com/science/article/pii/S0022283699933636
+00222836

@@ -1,0 +1,6 @@
+Physical Properties of a Genomic Condensed Chromatin Fragment
+57190002071,36757319100,6602956204,6701451588,7006904234
+chromatin structure,condensed chromatin,heterochromatin,hydrodynamics,physical genomics
+We have studied the physical properties of a segment of condensed chromatin that lies upstream of the chicken β-globin locus. This segment can be excised from an avian erythroleukemia cell line by restriction enzyme digestion and released from the nucleus as an essentially homogeneous fragment about 15.5kbp long. Because of this homogeneity we could measure its sedimentation coefficient quite accurately by a combination of sucrose gradient and analytical ultracentrifugation. By measuring additionally the buoyant density of the cross-linked particle in CsCl we could deduce the total mass of the particle, hence its frictional coefficient, f, directly related to its shape. The measured value of f is consistent with a rod-like particle of the approximate length and diameter proposed earlier for the 30 nm chromatin fiber. The method is generally applicable to homogeneous particles of unique sequence at genomic abundance.
+http://www.sciencedirect.com/science/article/pii/S002228360301564X
+00222836

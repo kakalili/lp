@@ -1,0 +1,6 @@
+RGK Family G-Domain:GTP Analog Complex Structures and Nucleotide-Binding Properties
+49762195500,10440572600,35564409700,7402780557
+G-protein,conformational switch,crystallography,fluorescence spectroscopy
+The RGK family of small G-proteins, including Rad, Gem, Rem1, and Rem2, is inducibly expressed in various mammalian tissues and interacts with voltage-dependent calcium channels and Rho kinase. Many questions remain regarding their physiological roles and molecular mechanism. Previous crystallographic studies reported RGK G-domain:guanosine di-phosphate structures. To test whether RGK proteins undergo a nucleotide-induced conformational change, we determined the crystallographic structures of Rad:GppNHp and Rem2:GppNHp to 1.7 and 1.8 Å resolutions, respectively. Also, we characterized the nucleotide-binding properties and conformations for Gem, Rad, and several structure-based mutants using fluorescence spectroscopy. The results suggest that RGK G-proteins may not behave as Ras-like canonical nucleotide-induced molecular switches. Further, the RGK proteins have differing structures and nucleotide-binding properties, which may have implications for their varied action on effectors.
+http://www.sciencedirect.com/science/article/pii/S0022283611008990
+00222836

@@ -1,0 +1,6 @@
+Induced Fit, Folding, and Recognition of the NF-κB-Nuclear Localization Signals by IκBα and IκBβ
+15135987200,6602250743,7006337558,7005521043,35474728700
+protein folding,protein binding,induced fit,energy landscape,protein recognition
+Protein structure prediction codes based on the associative memory Hamiltonian were used to probe the binding modes between the nuclear localization signal (NLS) polypeptide of NF-κB and the inhibitors IκBα and IκBβ. Experimentally, it is known that the NLS polypeptide is unstructured in the NF-κB complex with DNA but it forms an extended helical structure with the NLS (residues 301–304) between the two helices in the NF-κB/IκBα complex. The simulations included the NF-κB(p65) and (p50) NLS polypeptides and various mutants alone and in the presence of IκBα and IκBβ. The simulations predict that the NLS polypeptide by itself binds tightly to IκBα and IκBβ. In the NF-κB (p50/p65) heterodimer, the p50 NLS is predicted to remain free to bind to importin α. In the interaction with IκBα, both p65 NLSs are predicted to be bound. In IκBβ, the NLS polypeptide binds to two binding sites, as seen in the crystal structure, with one site heavily favored for stable binding.
+http://www.sciencedirect.com/science/article/pii/S0022283606016652
+00222836

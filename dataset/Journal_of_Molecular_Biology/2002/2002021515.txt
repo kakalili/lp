@@ -1,0 +1,6 @@
+Comparison of the folding processes of T. thermophilus and E. coli Ribonucleases H11Edited by C. R. Matthews
+6603042761,7007050019
+protein folding,thermophilic,ribonuclease H,protein stability,hydrogen exchange
+In order to examine how the stabilization of thermophilic proteins affects their folding, we have characterized the folding process of Thermus thermophilus ribonuclease H using circular dichroism, fluorescence, and pulse-labeling hydrogen exchange. Like its homolog from Escherichia coli, this thermophilic protein populates a partially folded kinetic intermediate within the first few milliseconds of folding. The structure of this intermediate is similar to that of E. coli RNase H and corresponds remarkably well to a partially folded form that is populated at low levels in the native state of the protein. Proline isomerization appears to partly limit the folding of the thermophilic but not the mesophilic protein. Lastly, unlike other thermophilic proteins, which unfold much more slowly than their mesophilic counterparts, T. thermophilus RNase H folds and unfolds with overall rates similar to those of E. coli RNase H.
+http://www.sciencedirect.com/science/article/pii/S002228360195346X
+00222836

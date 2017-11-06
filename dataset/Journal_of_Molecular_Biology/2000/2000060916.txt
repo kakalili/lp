@@ -1,0 +1,6 @@
+Scanning force microscopy of the complexes of p53 core domain with supercoiled DNA11Edited by M. Yaniv
+34769668300,7003527291,15119629900,7102837477
+DNA/protein complexes,p53,supercoiled DNA,cruciform,scanning force microscopy
+We used scanning force microscopy to analyse the interaction of the core domain of the tumor suppressor protein p53 (p53CD, amino acid residues 94 to 312), with supercoiled DNA (scDNA) molecules. The complexes were attached to a mica substrate by the divalent cation spreading technique. p53CD bound to supercoiled plasmid pPGM1 bearing the consensus sequence 5′-AGACATGCCTAGACATGCCT-3′ (p53CON) was imaged as a globular complex. Only one such complex was observed with each scDNA molecule. In contrast, binding to supercoiled pBluescript II SK− DNA (lacking the consensus sequence) resulted in the appearance of multiple, variable size complexes of various sizes on single DNA molecules. Addition of p53CD to scDNA containing a cruciform-forming (AT)34 insert resulted in the binding of the protein exclusively at the cruciform. The data presented here suggest that p53CD can form stable specific and non-specific complexes with supercoiled DNA molecules, albeit of variable multimeric organization.
+http://www.sciencedirect.com/science/article/pii/S0022283600937598
+00222836

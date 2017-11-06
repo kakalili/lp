@@ -1,0 +1,6 @@
+YhiQ Is RsmJ, the Methyltransferase Responsible for Methylation of G1516 in 16S rRNA of E. coli
+12647099500,54388875000,7005037421,35974552100
+E. coli,methyltransferase,RNA modification,small ribosomal subunit
+Ten methyltransferases and one pseudouridine synthase are required for complete modification of the small ribosomal subunit in Escherichia coli. Nine methyltransferases, as well as the pseudouridine synthase, are already known. Here, we identify RsmJ, the last unknown methyltransferase required for methylation of m2G1516 in 16S ribosomal RNA (rRNA), as the protein encoded by yhiQ. Reverse transcription primer extension analysis reveals that rRNA extracted from a yhiQ deletion strain is not methylated at G1516. Moreover, methylation is restored upon gene complementation. Also, purified recombinant YhiQ specifically methylates 30S subunits extracted from the deletion strain. The absence of the yhiQ gene leads to a cold-sensitive phenotype. Based on these data, we propose that the yhiQ gene be renamed rsmJ.
+http://www.sciencedirect.com/science/article/pii/S0022283611011934
+00222836

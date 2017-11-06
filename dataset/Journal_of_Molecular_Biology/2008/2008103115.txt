@@ -1,0 +1,6 @@
+Identification of Dynamic Structural Motifs Involved in Peptidoglycan Glycosyltransfer
+7006580400,14031066000,7004323948
+peptidoglycan,glycosyltransferase,penicillin,crystal structure,π-bulge
+We have determined the structure of a new form of the bifunctional peptidoglycan glycosyltransferase (GT)/transpeptidase penicillin-binding protein 2 from the pathogen Staphylococcus aureus. We observe several previously unstructured regions of the GT substrate-binding pockets, including a π-bulge in the outer helix that may be responsible for the conformational flexibility of active-site motifs required for transfer of product to the donor binding site during processive rounds of peptidoglycan polymerization. The identification of a β-hairpin in the usually unstructured region of the fold shares local structural homology to that of an exomuramidase, heightening comparisons between this biosynthetic enzyme and lytic peptidoglycan transglycosylases. This new form also shows remarkable interdomain flexibility, causing the linker region of the fold to project into the GT active site. This self-interaction may have significant consequences for the regulation of polymerization activity. The derived information is used to build a catalytic model of both donor and acceptor glycolipid substrates.
+http://www.sciencedirect.com/science/article/pii/S0022283608010139
+00222836

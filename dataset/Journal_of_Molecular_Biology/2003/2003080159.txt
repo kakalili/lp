@@ -1,0 +1,6 @@
+Cooperative Omega Loops in Cytochrome c: Role in Folding and Function
+35584909700,56169671400,6603704032,7005855921
+omega loop,protein folding,hydrogen exchange,cytochrome c,protein function
+Hydrogen exchange experiments under slow exchange conditions show that an omega loop in cytochrome c (residues 40–57) acts as a cooperative unfolding/refolding unit under native conditions. This unit behavior accounts for an initial step on the unfolding pathway, a final step in refolding, and a number of other structural, functional and evolutionary properties.
+http://www.sciencedirect.com/science/article/pii/S0022283603006971
+00222836

@@ -1,0 +1,6 @@
+PARP-1 Interaction with VP1 Capsid Protein Regulates Polyomavirus Early Gene Expression†
+7101700621,35269845800,14831127800,6507327527,7404277152,6603889196,55059203200,7004233341
+PARP-1,polyomavirus VP1,early transcription
+Poly(ADP-ribose)polymerases are involved in fundamental cellular events as well as they seem to be associated to some viral infection process. In this work, the poly(ADP-ribose)polymerase-1 (PARP-1) role in the polyomavirus life cycle has been investigated. Early viral transcription was reduced by competitive inhibitors of PARPs in Swiss 3T3 cells and almost abolished in PARP-1 knockout fibroblasts and in wild-type fibroblasts when PARP-1 was silenced by RNA interference. In vivo chromatin immunoprecipitation assays showed that poly(ADP-ribosyl)ation (poly(ADP-ribose)) facilitates the release of the capsid protein viral protein 1 (VP1) from the chromatin of infecting virions. In vitro experiments demonstrated that VP1 stimulates the enzymatic activity of PARP-1 and binds non-covalently both protein-free and PARP-1-bound poly(ADP-ribose). Our studies suggest that PARP-1 promotes the complete VP1 displacement from viral DNA favouring the viral early transcription.
+http://www.sciencedirect.com/science/article/pii/S0022283606007613
+00222836

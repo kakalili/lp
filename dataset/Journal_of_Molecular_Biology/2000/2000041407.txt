@@ -1,0 +1,6 @@
+Structure and thermodynamics of RNA-protein binding: using molecular dynamics and free energy analyses to calculate the free energies of binding and conformational change11Edited by B. Honig
+7101898763,36044775300
+human U1A protein,RNA,molecular dynamics,continuum solvent models,MM/PBSA
+An adaptive binding mechanism, requiring large conformational rearrangements, occurs commonly with many RNA-protein associations. To explore this process of reorganization, we have investigated the conformational change upon spliceosomal U1A-RNA binding with molecular dynamics (MD) simulations and free energy analyses. We computed the energetic cost of conformational change in U1A-hairpin and U1A-internal loop binding using a hybrid of molecular mechanics and continuum solvent methods. Encouragingly, in all four free energy comparisons (two slightly different proteins, two different RNAs), the free macromolecule was more stable than the bound form by the physically reasonable value of ∼10 kcal/mol. We calculated the absolute binding free energies for both complexes to be in the same range as that found experimentally.
+http://www.sciencedirect.com/science/article/pii/S0022283600936295
+00222836

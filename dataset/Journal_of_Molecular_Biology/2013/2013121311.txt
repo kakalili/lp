@@ -1,0 +1,6 @@
+The Antiviral Innate Immune Response in Fish: Evolution and Conservation of the IFN System
+8747722700,55878337400,55877500000,37054489100,6701425138,6602494911
+innate antiviral immunity,fish immunology,interferon,evolution of immunity,virus
+Innate immunity constitutes the first line of the host defense after pathogen invasion. Viruses trigger the expression of interferons (IFNs). These master antiviral cytokines induce in turn a large number of interferon-stimulated genes, which possess diverse effector and regulatory functions. The IFN system is conserved in all tetrapods as well as in fishes, but not in tunicates or in the lancelet, suggesting that it originated in early vertebrates. Viral diseases are an important concern of fish aquaculture, which is why fish viruses and antiviral responses have been studied mostly in species of commercial value, such as salmonids. More recently, there has been an interest in the use of more tractable model fish species, notably the zebrafish. Progress in genomics now makes it possible to get a relatively complete image of the genes involved in innate antiviral responses in fish. In this review, by comparing the IFN system between teleosts and mammals, we will focus on its evolution in vertebrates.
+http://www.sciencedirect.com/science/article/pii/S0022283613006177
+00222836

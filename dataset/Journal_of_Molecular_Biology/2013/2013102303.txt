@@ -1,0 +1,6 @@
+Eukaryotic mRNA Decay: Methodologies, Pathways, and Links to Other Stages of Gene Expression
+7003752115,6603311983,7003298083,6701617958
+synthegradases,degradation rate,half-life,transcription rate,mRNA coordinators
+mRNA concentration depends on the balance between transcription and degradation rates. On both sides of the equilibrium, synthesis and degradation show, however, interesting differences that have conditioned the evolution of gene regulatory mechanisms. Here, we discuss recent genome-wide methods for determining mRNA half-lives in eukaryotes. We also review pre- and posttranscriptional regulons that coordinate the fate of functionally related mRNAs by using protein- or RNA-based trans factors. Some of these factors can regulate both transcription and decay rates, thereby maintaining proper mRNA homeostasis during eukaryotic cell life.
+http://www.sciencedirect.com/science/article/pii/S0022283613001319
+00222836

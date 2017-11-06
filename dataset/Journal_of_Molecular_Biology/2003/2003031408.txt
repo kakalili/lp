@@ -1,0 +1,6 @@
+Crystal Structure and Evolution of a Prokaryotic Glucoamylase
+7005007593,7201811312,7005998980,7202795971
+crystal structure,glucoamylase,glycoaminoglycan lyase,maltose phosphorylase,Thermoanaerobacterium thermosaccharolyticum
+The first crystal structures of a two-domain, prokaryotic glucoamylase were determined to high resolution from the clostridial species Thermoanaerobacterium thermosaccharolyticum with and without acarbose. The N-terminal domain has 18 antiparallel strands arranged in β-sheets of a super-β-sandwich. The C-terminal domain is an (α/α)6 barrel, lacking the peripheral subdomain of eukaryotic glucoamylases. Interdomain contacts are common to all prokaryotic Family GH15 proteins. Domains similar to those of prokaryotic glucoamylases in maltose phosphorylases (Family GH65) and glycoaminoglycan lyases (Family PL8) suggest evolution from a common ancestor. Eukaryotic glucoamylases may have evolved from prokaryotic glucoamylases by the substitution of the N-terminal domain with the peripheral subdomain and by the addition of a starch-binding domain.
+http://www.sciencedirect.com/science/article/pii/S0022283603000846
+00222836

@@ -1,0 +1,6 @@
+Structural Insights into Yeast DNA Polymerase δ by Small Angle X-ray Scattering
+56212960600,6701408382,57126573500,7102772462,7202838645,56247514700
+DNA replication,DNA polymerase,cancer,mutagenesis
+DNA polymerase δ (Polδ) is a multisubunit polymerase that plays an indispensable role in replication from yeast to humans. Polδ from Saccharomyces cerevisiae is composed of three subunits: Pol3, Pol31, and Pol32. Despite the elucidation of the structures and models of the individual subunits (or portions, thereof), the nature of their assembly remains unclear. We present here a small-angle X-ray scattering analysis of a yeast Polδ complex (PolδT) composed of Pol3, Pol31, and Pol32N (amino acids 1–103 of Pol32). From the small angle X-ray scattering global parameters and reconstructed envelopes, we show that PolδT adopts an elongated conformation with a radius of gyration (Rg) of ∼52 Å and a maximal dimension of ∼190 Å. We also propose an orientation for the accessory Pol31–Pol32N subunits relative to the Pol3 catalytic core that best agrees with the experimental scattering profile. The analysis also points to significant conformational variability that may allow Polδ to better coordinate its action with other proteins at the replication fork.
+http://www.sciencedirect.com/science/article/pii/S0022283609012169
+00222836

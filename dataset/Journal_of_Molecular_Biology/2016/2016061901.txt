@@ -1,0 +1,6 @@
+The RNA Response to DNA Damage
+6506950740,55362665200,56798368300,36087261000,7402191168,7006345926
+DNA damage response,p53,RNA processing,alternative splicing,ncRNAs
+Multicellular organisms must ensure genome integrity to prevent accumulation of mutations, cell death, and cancer. The DNA damage response (DDR) is a complex network that senses, signals, and executes multiple programs including DNA repair, cell cycle arrest, senescence, and apoptosis. This entails regulation of a variety of cellular processes: DNA replication and transcription, RNA processing, mRNA translation and turnover, and post-translational modification, degradation, and relocalization of proteins.Accumulated evidence over the past decades has shown that RNAs and RNA metabolism are both regulators and regulated actors of the DDR. This review aims to present a comprehensive overview of the current knowledge on the many interactions between the DNA damage and RNA fields.
+http://www.sciencedirect.com/science/article/pii/S0022283616001777
+00222836

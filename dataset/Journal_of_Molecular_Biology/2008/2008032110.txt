@@ -1,0 +1,6 @@
+A Ligand-Induced Switch in the Periplasmic Domain of Sensor Histidine Kinase CitA
+6507669111,36674176800,6603770792,6602696386,7102788531,7004378363,7007114436,7006923529,7005617296,7402398883
+CitA,histidine kinase,two-component system,periplasmic sensor domain,switch mechanism
+Sensor histidine kinases of two-component signal-transduction systems are essential for bacteria to adapt to variable environmental conditions. However, despite their prevalence, it is not well understood how extracellular signals such as ligand binding regulate the activity of these sensor kinases. CitA is the sensor histidine kinase in Klebsiella pneumoniae that regulates the transport and anaerobic metabolism of citrate in response to its extracellular concentration. We report here the X-ray structures of the periplasmic sensor domain of CitA in the citrate-free and citrate-bound states. A comparison of the two structures shows that ligand binding causes a considerable contraction of the sensor domain. This contraction may represent the molecular switch that activates transmembrane signaling in the receptor.
+http://www.sciencedirect.com/science/article/pii/S0022283608000466
+00222836

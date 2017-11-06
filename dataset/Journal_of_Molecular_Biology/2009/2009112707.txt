@@ -1,0 +1,6 @@
+The 20S Proteasome as an Assembly Platform for the 19S Regulatory Complex
+7004639111,25225733400,7406928293,7201930792,6603247548,7006283191,6602321211
+ubiquitin,proteasome,protein assembly,degradation,AAA
+26S proteasomes consist of cylindrical 20S proteasomes with 19S regulatory complexes attached to the ends. Treatment with high concentrations of salt causes the regulatory complexes to separate into two sub-complexes, the base, which is in contact with the 20S proteasome, and the lid, which is the distal part of the 19S complex. Here, we describe two assembly intermediates of the human regulatory complex. One is a dimer of the two ATPase subunits, Rpt3 and Rpt6. The other is a complex of nascent Rpn2, Rpn10, Rpn11, Rpn13, and Txnl1, attached to preexisting 20S proteasomes. This early assembly complex does not yet contain Rpn1 or any of the ATPase subunits of the base. Thus, assembly of 19S regulatory complexes takes place on preexisting 20S proteasomes, and part of the lid is assembled before the base.
+http://www.sciencedirect.com/science/article/pii/S0022283609011656
+00222836

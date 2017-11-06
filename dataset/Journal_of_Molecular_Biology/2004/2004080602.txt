@@ -1,0 +1,6 @@
+Downstream DNA Selectively Affects a Paused Conformation of Human RNA Polymerase II
+6508310923,6506069621,7005639387
+RNA polymerase,transcription,pausing,HIV-I,DNA bending
+Transcriptional pausing by human RNA polymerase II (RNAPII) in the HIV-1 LTR is caused principally by a weak RNA:DNA hybrid that allows rearrangement of reactive or catalytic groups in the enzyme's active site. This rearrangement creates a transiently paused state called the unactivated intermediate that can backtrack into a more long-lived paused species. We report that three different regions of the not-yet-transcribed DNA just downstream of the pause site affect the duration of the HIV-1 pause, and also can influence pause formation. Downstream DNA in at least one region, a T-tract from +5 to +8, increases pause duration by specifically affecting the unactivated intermediate, without corresponding effects on the active or backtracked states. We suggest this effect depends on RNAPII-modulated DNA plasticity and speculate it is mediated by the “trigger loop” thought to participate in RNAP's catalytic cycle. These findings provide a new framework for understanding downstream DNA effects on RNAP.
+http://www.sciencedirect.com/science/article/pii/S0022283604006734
+00222836

@@ -1,0 +1,6 @@
+The Automatic Discovery of Structural Principles Describing Protein Fold Space
+6506068228,7003491952,7101911184
+protein structure,machine learning,inductive logic programming,fold space
+The study of protein structure has been driven largely by the careful inspection of experimental data by human experts. However, the rapid determination of protein structures from structural-genomics projects will make it increasingly difficult to analyse (and determine the principles responsible for) the distribution of proteins in fold space by inspection alone. Here, we demonstrate a machine-learning strategy that automatically determines the structural principles describing 45 folds. The rules learnt were shown to be both statistically significant and meaningful to protein experts. With the increasing emphasis on high-throughput experimental initiatives, machine-learning and other automated methods of analysis will become increasingly important for many biological problems.
+http://www.sciencedirect.com/science/article/pii/S002228360300620X
+00222836

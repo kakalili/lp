@@ -1,0 +1,6 @@
+AMP Sensing by DEAD-Box RNA Helicases
+16178004800,6602677602
+AMP,RNA helicase,DEAD-box,unwinding,ATPase
+In eukaryotes, cellular levels of adenosine monophosphate (AMP) signal the metabolic state of the cell. AMP concentrations increase significantly upon metabolic stress, such as glucose deprivation in yeast. Here, we show that several DEAD-box RNA helicases are sensitive to AMP, which is not produced during ATP hydrolysis by these enzymes. We find that AMP potently inhibits RNA binding and unwinding by the yeast DEAD-box helicases Ded1p, Mss116p, and eIF4A. However, the yeast DEAD-box helicases Sub2p and Dbp5p are not inhibited by AMP. Our observations identify a subset of DEAD-box helicases as enzymes with the capacity to directly link changes in AMP concentrations to RNA metabolism.
+http://www.sciencedirect.com/science/article/pii/S0022283613003057
+00222836

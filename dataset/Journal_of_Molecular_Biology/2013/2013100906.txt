@@ -1,0 +1,6 @@
+MicroRNAs and the Genetic Network in Aging
+54401188000,7004379704
+lifespan,insulin signaling,small noncoding RNAs,Caenorhabditis elegans
+MicroRNAs (miRNAs) comprise a class of small RNAs important for the posttranscriptional regulation of numerous biological processes. Their combinatorial mode of function, in which an individual miRNA can target many genes and multiple miRNAs share targets, makes them especially suited for regulating processes and pathways at the “network” level. In particular, miRNAs have recently been implicated in aging, which is a complex process known to involve multiple pathways. Findings from genome-wide miRNA expression profiling studies highlight three themes in miRNA function during aging: many miRNAs are differentially expressed, many such miRNAs target known aging-associated pathways, and there are global trends in miRNA expression change over time. In addition, several miRNAs have emerged as potentially coordinating multiple pathways during aging. Elucidating the underlying network structure of genes and miRNAs involved in aging processes promises to advance our understanding of not only aging and associated pathogenesis but also how miRNAs can connect disparate pathways.
+http://www.sciencedirect.com/science/article/pii/S0022283613000399
+00222836

@@ -1,0 +1,6 @@
+Location of Auxilin Within a Clathrin Cage
+56171870700,7003371817,7006794329,7102638466,6505517610,55851901600,35492295700,7003555915
+auxilin,clathrin,cryo-electron microscopy,endocytosis,structure
+The Dna J homologue, auxilin, acts as a co-chaperone for Hsc70 in the uncoating of clathrin-coated vesicles during endocytosis. Biochemical studies have aided understanding of the uncoating mechanism but until now there was no structural information on how auxilin interacts with the clathrin cage. Here we have determined the three-dimensional structure of a complex of auxilin with clathrin cages by cryo-electron microscopy and single particle analysis. We show that auxilin forms a discrete shell of density on the inside of the clathrin cage. Peptide competition assays confirm that a candidate clathrin box motif in auxilin, LLGLE, can bind to a clathrin construct containing the β-propeller domain and also displace the well-characterised LLNLD clathrin box motif derived from the β-adaptin hinge region. The means by which auxilin could both aid clathrin coat assembly and displace clathrin from AP2 during uncoating is discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283603014785
+00222836

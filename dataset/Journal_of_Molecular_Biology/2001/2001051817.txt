@@ -1,0 +1,6 @@
+Rescuing a destabilized protein fold through backbone cyclization11Edited by P. E. Wright
+7005397956,8053124900,7501768634,7801458698,7006065148,7006500064,7103048598
+circular protein,SH3 domain,ligation
+We describe the physicochemical characterization of various circular and linear forms of the ∼60 residue N-terminal Src homology 3 (SH3) domain from the murine c-Crk adapter protein. Structural, dynamic, thermodynamic, kinetic and biochemical studies reveal that backbone circularization does not prevent the adoption of the natural folded structure in any of the circular proteins. Both the folding and unfolding rate of the protein increased slightly upon circularization. Circularization did not lead to a significant thermodynamic stabilization of the full-length protein, suggesting that destabilizing enthalpic effects (e.g. strain) negate the expected favorable entropic contribution to overall stability. In contrast, we find circularization results in a dramatic stabilization of a truncated version of the SH3 domain lacking a key glutamate residue. The ability to rescue the destabilized mutant indicates that circularization may be a useful tool in protein engineering programs geared towards generating minimized proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283601946315
+00222836

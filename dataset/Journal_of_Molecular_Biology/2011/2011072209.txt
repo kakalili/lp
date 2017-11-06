@@ -1,0 +1,6 @@
+Structure and Stoichiometry of Template-Directed Recombinant HIV-1 Gag Particles
+14833975500,12801191200,34869269100,56325768100,7004816643,55915196900
+HIV Gag,nanoparticle,templated virus assembly,liquid crystal,electron microscopy
+Size polydispersity of immature human immunodeficiency virus type 1 (HIV-1) particles represents a challenge for traditional methods of biological ultrastructural analysis. An in vitro model for immature HIV-1 particles constructed from recombinant Gag proteins lacking residues 16–99 and the p6 domain assembled around spherical nanoparticles functionalized with DNA. This template-directed assembly approach led to a significant reduction in size polydispersity and revealed previously unknown structural features of immature-like HIV-1 particles. Electron microscopy and image reconstruction of these particles suggest that the Gag shell formed from different protein regions that are connected by a “scar”—an extended defect connecting the edges of two continuous, regularly packed protein layers. Thus, instead of a holey protein array, the experimental model presented here appears to consist of a continuous array of ∼5000 proteins enveloping the core, in which regular regions are separated by extended areas of disorder.
+http://www.sciencedirect.com/science/article/pii/S002228361100427X
+00222836

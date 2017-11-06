@@ -1,0 +1,6 @@
+XAFS study of the high-affinity copper-binding site of human PrP91–231 and its low-resolution structure in solution11Edited by I. A. Wilson
+7102767936,7201572565,56509094600,57188770614,7403682319,35620199200,56243542500
+prion,copper,XAFS,protein,structure
+Here, we describe the structure of a C-terminal high-affinity copper-binding site within a truncated recombinant human PrP containing residues 91–231, which lacks the octapeptide repeat region. We show that at least two extra co-ordinating groups are involved in binding this copper(II) ion in conjunction with histidine residues 96 and 111 in a region of the molecule known to be critical in conferring strain type. In addition, using X-ray solution scattering, a low-resolution shape of PrP91–231 is provided. The restored molecular envelope is consistent with the picture where the N-terminal segment, residues 91–120, extends out from the previously known globular domain containing residues 121–231.
+http://www.sciencedirect.com/science/article/pii/S0022283601947953
+00222836

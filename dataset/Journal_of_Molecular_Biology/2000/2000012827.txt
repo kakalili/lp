@@ -1,0 +1,6 @@
+Conformational changes in the bacterial SRP receptor FtsY upon binding of guanine nucleotides and SRP11Edited by G. Von Heijne
+6602502290,7006116936,7004417004
+fluorescence,GTPase,protein targeting,rapid kinetics,signal recognition particle
+In cotranslational preprotein targeting in Escherichia coli, the signal recognition particle (SRP) binds to the signal peptide emerging from the ribosome and, subsequently, interacts with the signal recognition particle receptor, FtsY, at the plasma membrane. Both FtsY and the protein moiety of the signal recognition particle, Ffh, are GTPases, and GTP is required for the formation of the SRP-FtsY complex. We have studied the binding of GTP/GDP to FtsY as well as the SRP-FtsY complex formation by monitoring the fluorescence of tryptophan 343 in the I box of mutant FtsY. Thermodynamic and kinetic parameters of the FtsY complexes with GDP, GTP, and signal recognition particle are reported. Upon SRP-FtsY complex formation in the presence of GTP, the fluorescence of tryptophan 343 increased by 50 % and was blue-shifted by 10 nm. We conclude that GTP-dependent SRP-FtsY complex formation leads to an extensive conformational change in the I box insertion in the effector region of FtsY.
+http://www.sciencedirect.com/science/article/pii/S0022283699934277
+00222836

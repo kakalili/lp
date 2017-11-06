@@ -1,0 +1,6 @@
+Mapping of Interaction Domains Mediating Binding between BACE1 and RTN/Nogo Proteins
+7402007656,14822166200,49762126600,55743249200,34267721100,7402131475,7103172395
+BACE1,RTN,Nogo,reticular,amyloid peptide
+BACE1 is a membrane-bound aspartyl protease that specifically cleaves amyloid precursor protein (APP) at the β-secretase site. Membrane bound reticulon (RTN) family proteins interact with BACE1 and negatively modulate BACE1 activity through preventing access of BACE1 to its cellular APP substrate. Here, we focused our study on RTN3 and further show that a C-terminal QID triplet conserved among mammalian RTN members is required for the binding of RTN to BACE1. Although RTN3 can form homo- or heterodimers in cells, BACE1 mainly binds to the RTN monomer and disruption of the QID triplet does not interfere with the dimerization. Correspondingly, the C-terminal region of BACE1 is required for the binding of BACE1 to RTNs. Furthermore, we show that the negative modulation of BACE1 by RTN3 relies on the binding of RTN3 to BACE1. The knowledge from this study may potentially guide discovery of small molecules that can mimic the effect of RTN3 on the inhibition of BACE1 activity.
+http://www.sciencedirect.com/science/article/pii/S0022283606009971
+00222836

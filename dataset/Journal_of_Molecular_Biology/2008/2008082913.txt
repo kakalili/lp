@@ -1,0 +1,6 @@
+Internal Hydration Increases during Activation of the G-Protein-Coupled Receptor Rhodopsin
+8286173700,7006737735,7005834507,8908537100,7005067269
+molecular dynamics,NMR,hydration,GPCR
+Rhodopsin, the membrane protein responsible for dim-light vision, until recently was the only G-protein-coupled receptor (GPCR) with a known crystal structure. As a result, there is enormous interest in studying its structure, dynamics, and function. Here we report the results of three all-atom molecular dynamics simulations, each at least 1.5 μs, which predict that substantial changes in internal hydration play a functional role in rhodopsin activation. We confirm with 1H magic angle spinning NMR that the increased hydration is specific to the metarhodopsin-I intermediate. The internal water molecules interact with several conserved residues, suggesting that changes in internal hydration may be important during the activation of other GPCRs. The results serve to illustrate the synergism of long-time-scale molecular dynamics simulations and NMR in enhancing our understanding of GPCR function.
+http://www.sciencedirect.com/science/article/pii/S0022283608006025
+00222836

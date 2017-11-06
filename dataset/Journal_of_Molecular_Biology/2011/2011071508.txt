@@ -1,0 +1,6 @@
+Symmetry and Asymmetry of the RING–RING Dimer of Rad18
+35435487800,6505827870,34467511700,8842032200,6701642251,7006238724
+ubiquitination,Rad18,Rad6,NMR,X-ray crystallography
+The human ubiquitin-conjugating enzyme Rad6 (E2), with ubiquitin ligase enzyme Rad18 (RING E3), monoubiquitinates proliferating cell nuclear antigen at stalled replication forks in DNA translesion synthesis. Here, we determine the structure of the homodimeric Rad18 RING domains by X-ray crystallography and classify it to RING–RING dimers that dimerize through helices adjacent to the RING domains and through the canonical RING domains. Using NMR spectroscopy and site-directed mutagenesis, we demonstrate that the Rad6b binding site, for the Rad18 RING domain, strongly resembles that of other E2/E3 RING/U-box complexes. We show that the homodimeric Rad18 RING domain can recruit two Rad6b E2 enzymes, whereas the full-length Rad18 homodimer binds only to a single Rad6b molecule. Such asymmetry is a common feature of RING–RING heterodimers and has been observed for the CHIP U-box homodimer. We propose that asymmetry may be a common feature of dimeric RING E3 ligases.
+http://www.sciencedirect.com/science/article/pii/S0022283611004840
+00222836

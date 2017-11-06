@@ -1,0 +1,6 @@
+Noncoding RNAs: Regulators of the Mammalian Transcription Machinery
+16233112000,6603298974,7102131361
+RNA polymerase II,circular RNAs,enhancer RNAs,tethered RNAs,divergent RNAs
+Transcription by RNA polymerase II (Pol II) is required to produce mRNAs and some noncoding RNAs (ncRNAs) within mammalian cells. This coordinated process is precisely regulated by multiple factors, including many recently discovered ncRNAs. In this perspective, we will discuss newly identified ncRNAs that facilitate DNA looping, regulate transcription factor binding, mediate promoter-proximal pausing of Pol II, and/or interact with Pol II to modulate transcription. Moreover, we will discuss new roles for ncRNAs, as well as a novel Pol II RNA-dependent RNA polymerase activity that regulates an ncRNA inhibitor of transcription. As the multifaceted nature of ncRNAs continues to be revealed, we believe that many more ncRNA species and functions will be discovered.
+http://www.sciencedirect.com/science/article/pii/S0022283616001352
+00222836

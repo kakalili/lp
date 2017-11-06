@@ -1,0 +1,6 @@
+Stabilization of poliovirus by capsid-binding antiviral drugs is due to entropic effects11Edited by I. A. Wilson
+7102255900,11840260300,7201688183,7006580131
+poliovirus,antiviral,entropic stabilization,activation energy,capsid transition
+When poliovirus attaches to its receptor or is heated in hypotonic buffers, the virion undergoes an irreversible conformational transition from the native 160 S (or N) particle to the 135 S (or A) particle, which is believed to mediate cell entry. The first-order rate constants for the thermally induced transition have been measured as a function of temperature for virus alone and for complexes of the virus with capsid-binding drugs that inhibit the receptor and thermally mediated conversion. Although the drugs have minimum inhibitory concentrations (MIC) that differ by almost three orders of magnitude, the activation energies for the N to A transition for the drug complexes (145 kcal/mol) were indistinguishable from each other or from that of the virus alone. We conclude that the antiviral activity of these drugs derives from a novel mechanism in which drug-binding stabilizes the virions through entropic effects.
+http://www.sciencedirect.com/science/article/pii/S0022283699934836
+00222836

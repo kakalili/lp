@@ -1,0 +1,6 @@
+Ran alters nuclear pore complex conformation11Edited by J. Karn
+7404396096,7005986681,56229245700,7003424215,7006437391,35570687800,7401969663,7401878117
+Ran,nuclear pore complex,transport
+Transport across the nuclear membranes occurs through the nuclear pore complex (NPC), and is mediated by soluble transport factors including Ran, a small GTPase that is generally GDP-bound during import and GTP-bound for export. The dynamic nature of the NPC structure suggests a possible active role for it in driving translocation. Here we show that RanGTP but not RanGDP causes alterations of NPC structure when injected into the cytoplasm of Xenopus oocytes, including compaction of the NPC and extension of the cytoplasmic filaments. RanGTP caused accumulation of nucleoplasmin-gold along the length of extended cytoplasmic filaments, whereas RanGDP caused accumulation around the cytoplasmic rim of the NPC. This suggests a possible role for Ran in altering the conformation of the cytoplasmic filaments during transport.
+http://www.sciencedirect.com/science/article/pii/S0022283600938919
+00222836

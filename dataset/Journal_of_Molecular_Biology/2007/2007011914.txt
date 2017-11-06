@@ -1,0 +1,6 @@
+The Structural Basis of α-Glucan Recognition by a Family 41 Carbohydrate-binding Module from Thermotoga maritima
+8153654900,7004275432
+carbohydrate-binding module,α-glucan,starch,pullulan,Thermotoga maritima
+Starch recognition by carbohydrate-binding modules (CBMs) is important for the activity of starch-degrading enzymes. The N-terminal family 41 CBM, TmCBM41 (from pullulanase PulA secreted by Thermotoga maritima) was shown to have α-glucan binding activity with specificity for α-1,4-glucans but was able to tolerate the α-1,6-linkages found roughly every three or four glucose units in pullulan. Using X-ray crystallography, the structures were solved for TmCBM41 in an uncomplexed form and in complex with maltotetraose and 63-α-d-glucosyl-maltotriose (GM3). Ligand binding was facilitated by stacking interactions between the α-faces of the glucose residues and two tryptophan side-chains in the two main subsites of the carbohydrate-binding site. Overall, this mode of starch binding is quite well conserved by other starch-binding modules. The structure in complex with GM3 revealed a third binding subsite with the flexibility to accommodate an α-1,4- or an α-1,6-linked glucose.
+http://www.sciencedirect.com/science/article/pii/S002228360601357X
+00222836

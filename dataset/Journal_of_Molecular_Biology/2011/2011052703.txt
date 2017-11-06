@@ -1,0 +1,6 @@
+New Lessons from Random X-Chromosome Inactivation in the Mouse
+7005531909,7006710631
+dosage compensation,random X-chromosome inactivation,long noncoding RNAs,Xist,gene silencing
+X-chromosome inactivation (XCI) ensures dosage compensation in mammals. Random XCI is a process where a single X chromosome is silenced in each cell of the epiblast of mouse female embryos. Operating at the level of an entire chromosome, XCI is a major paradigm for epigenetic processes. Here we review the most recent discoveries concerning the role of long noncoding RNAs, pluripotency factors, and chromosome structure in random XCI.
+http://www.sciencedirect.com/science/article/pii/S0022283611001665
+00222836

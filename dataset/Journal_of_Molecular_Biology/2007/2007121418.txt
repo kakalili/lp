@@ -1,0 +1,6 @@
+Predicting Knot or Catenane Type of Site-Specific Recombination Products
+55002981200,6602936494
+site-specific recombination,DNA knots,serine recombinases,tyrosine recombinases,DNA topology
+Site-specific recombination on supercoiled circular DNA yields a variety of knotted or catenated products. Here, we present a topological model of this process and characterize all possible products of the most common substrates: unknots, unlinks, and torus knots and catenanes. This model tightly prescribes the knot or catenane type of previously uncharacterized data. We also discuss how the model helps to distinguish products of distributive recombination and, in some cases, determine the order of processive recombination products.
+http://www.sciencedirect.com/science/article/pii/S002228360701337X
+00222836

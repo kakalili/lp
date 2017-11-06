@@ -1,0 +1,6 @@
+Janus Model of The Na,K-ATPase β-Subunit Transmembrane Domain: Distinct Faces Mediate α/β Assembly and β-β Homo-oligomerization
+9744096900,7601602471,7006885644,7102792896,7004441440
+transmembrane domain,heptad repeat motif,GxxxG,glycine zipper,Na,K-ATPase
+Na,K-ATPase is a hetero-oligomer of α and β-subunits. The Na,K-ATPase β-subunit (Na,K-β) is involved in both the regulation of ion transport activity, and in cell–cell adhesion. By structure prediction and evolutionary analysis, we identified two distinct faces on the Na,K-β transmembrane domain (TMD) that could mediate protein–protein interactions: a glycine zipper motif and a conserved heptad repeat. Here, we show that the heptad repeat face is involved in the hetero-oligomeric interaction of Na,K-β with Na,K-α, and the glycine zipper face is involved in the homo-oligomerization of Na,K-β. Point mutations in the heptad repeat motif reduced Na,K-β binding to Na,K-α, and Na,K-ATPase activity. Na,K-β TMD homo-oligomerized in biological membranes, and mutation of the glycine zipper motif affected oligomerization and cell–cell adhesion. These results provide a structural basis for understanding how Na,K-β links ion transport and cell-cell adhesion.
+http://www.sciencedirect.com/science/article/pii/S0022283606013672
+00222836

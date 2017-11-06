@@ -1,0 +1,6 @@
+A Bacterial GAP-Like Protein, YihI, Regulating the GTPase of Der, an Essential GTP-Binding Protein in Escherichia coli
+56011202700,35395704500
+Der,GTPase,E. coli,ribosome,yeast two-hybrid
+Der (double Era-like GTPase) is an essential GTPase consisting of two GTP-binding motifs in tandem followed by a KH-like domain. Der plays a critical role in 50S ribosome maturation at a later biogenesis step. Here, we attempted to identify a protein interacting with Der that modulates its function and regulation. Using a yeast two-hybrid, we discovered that Der interacts with YihI, which activates the GTPase activity of Der. Its overexpression affected cell growth, causing accumulation of rRNA precursors and an aberrant ribosome profile that was similar to that of Der-depleted cells, suggesting that Der and YihI are involved in the 50S ribosome assembly. The yihI deletion strain showed a shorter lag phase than wild-type strain, suggesting that YihI may be a negative regulator for ribosome assembly. We propose that YihI is a GAP (GTPase-activating protein)-like protein that modulates Der function to negatively regulate cell growth at the beginning of exponential growth.
+http://www.sciencedirect.com/science/article/pii/S0022283610004286
+00222836

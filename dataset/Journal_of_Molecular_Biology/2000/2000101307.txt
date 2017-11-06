@@ -1,0 +1,6 @@
+Charge pair interactions in a model transmembrane helix in the ER membrane11Edited by F. E. Cohen
+7202172148,7102118731
+membrane protein,salt bridge,glycosylation,transmembrane helix,charge pair
+We have examined the effects of Lys-Asp charge pair interactions on the position of a model poly-Leu transmembrane helix in the ER membrane using the so-called “glycosylation mapping” technique. Based on an analysis of a set of constructs containing pairs of positively charged Lys and negatively charged Asp residues in various positions in the model helix, we show that the helix is located deeper in the membrane when Lys and Asp are placed one helical turn apart than for other spacings of the two residues. These results suggest that salt-bridge formation between residues located on the same face of a transmembrane helix may reduce the free energy of membrane partitioning.
+http://www.sciencedirect.com/science/article/pii/S0022283600941226
+00222836

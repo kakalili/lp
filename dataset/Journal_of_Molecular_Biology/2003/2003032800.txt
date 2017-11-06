@@ -1,0 +1,6 @@
+Bivalent Binding of IgA1 to FcαRI Suggests a Mechanism for Cytokine Activation of IgA Phagocytosis
+7005295805,7404153154,6701645762,56132693200,7004758558
+FcαRI,IgA1,stoichiometry,analytical ultracentrifugation,surface plasmon resonance
+FcαRI, the receptor specific for the Fc region of immunoglobulin A (IgA), is responsible for IgA-mediated phagocytosis, oxidative burst, and antibody-dependent cellular cytotoxicity. Using the techniques of analytical ultracentrifugation and equilibrium gel-filtration, we show that two FcαRI molecules bind to a single Fcα homodimer. Surface plasmon resonance studies confirm the 2:1 stoichiometry of binding, with equilibrium dissociation constants of 176nM and 431nM for the first and second binding events, respectively. The binding affinity decreases at acidic pH in a manner consistent with protonation of a single histidine residue in the binding site. A thermodynamic analysis indicates that the histidine residue does not participate in a salt-bridge in the complex; in fact, less than 10% of the free energy of binding was contributed by electrostatic interactions. The bivalent, pH-dependent interaction between FcαRI and IgA has important implications for cytokine-dependent phagocytosis of IgA and the FcαRI-mediated degradation or recycling of IgA.
+http://www.sciencedirect.com/science/article/pii/S0022283603001499
+00222836

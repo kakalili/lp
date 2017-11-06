@@ -1,0 +1,6 @@
+Amino Acid Propensities are Position-dependent Throughout the Length of α-Helices
+7102518553,7102582515
+de novo design,helix capping,fractional solvent accessibility,hydrophobicity,position-dependent propensity
+The 20 commonly occurring amino acids have been shown to have distinct position-dependent, helix-forming propensities near the ends of α-helices. Here, we show that the amino acids also have very strong position-dependent propensities throughout the length of a helix. Most helices are amphiphilic, and they have a strong tendency to both begin and end on the solvent-inaccessible face of the helix. These position-specific propensities should provide valuable parameters to guide de novo protein design, and should allow more precise prediction of helical topology in natural proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283604001500
+00222836

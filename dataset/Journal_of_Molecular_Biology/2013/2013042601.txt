@@ -1,0 +1,6 @@
+Solution Structure of the WNK1 Autoinhibitory Domain, a WNK-Specific PF2 Domain
+23027838700,56273710200,6603810166,55929771400,7202026013,7005387623
+WNK1,protein kinase,autoinhibitory domain,NMR,PF2
+WNK1 [with no lysine (K)-1] is a 250-kDa serine/threonine protein kinase involved in the maintenance of cellular salt levels and is directly linked to a hereditary form of hypertension. Here, we report the solution NMR structure of the autoinhibitory domain of WNK1 (WNK1-AI), a small regulatory subunit that lies immediately C-terminal of the kinase domain. We show that this domain is a homolog of the RFXV-binding PASK/FRAY homology 2 (PF2) domain found in OSR (oxidative stress responsive) and SPAK (serine/threonine proline–alanine-rich) kinases, which are substrates of WNK1. The WNK1-AI has a circularly permuted topology relative to the OSR1–PF2 domain. Nevertheless, like PF2 domains, WNK1-AI binds peptides that contain an RFXV motif with micromolar affinities as assessed by changes in 1H,15N heteronuclear single quantum coherence spectra. Mutations to the WNK1-AI and binding peptides confirm a similar binding mode.
+http://www.sciencedirect.com/science/article/pii/S0022283613000478
+00222836

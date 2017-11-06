@@ -1,0 +1,6 @@
+Complete Nucleotide Sequence and Likely Recombinatorial Origin of Bacteriophage T3
+6604003578,8599352700,7005327067,6603378132,7003775816
+bacteriophage T3,nucleotide sequence,palindromic sequences,recombination,evolution
+We report the complete genome sequence (38,208bp) of bacteriophage T3 and provide a bioinformatic comparative analysis with other completely sequenced members of the T7 group of phages. This comparison suggests that T3 has evolved from a recombinant between a T7-like coliphage and a yersiniophage. To assess this, recombination between T7 and the Yersinia enterocolitica serotype O:3 phage φYeO3-12 was accomplished in vivo; coliphage progeny from this cross were selected that had many biological properties of T3. This represents the first experimentally observed recombination between lytic phages whose normal hosts are different bacterial genera.
+http://www.sciencedirect.com/science/article/pii/S0022283602003844
+00222836

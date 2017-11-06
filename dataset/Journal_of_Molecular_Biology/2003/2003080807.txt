@@ -1,0 +1,6 @@
+The Central PPT of the Yeast Retrotransposon Ty1 is not Essential for Transposition
+7003522762,7202944918,7103335428
+Ty1,retrotransposon,polypurine tract,transposition,yeast
+The yeast retrotransposon Ty1 has structural and functional similarities to retroviruses. We report here that, as in retroviruses, the plus-strand DNA of Ty1 is synthesized as two segments. A central DNA flap is formed during reverse transcription consecutive to elongation (with strand displacement) of the upstream segment beyond the central polypurine tract (cPPT) until the replication machinery is stopped at the central termination sequence. Comparison of wild-type and cPPT-mutant Ty1 elements shows that the mutant element lacking the central DNA flap is only twofold defective in transposition.
+http://www.sciencedirect.com/science/article/pii/S002228360300812X
+00222836

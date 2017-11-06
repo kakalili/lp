@@ -1,0 +1,6 @@
+Increasing the thermal stability of an oligomeric protein, beta-glucuronidase11Edited by P. E. Wright
+7004945091,35497668300
+beta-glucuronidase,directed evolution,thermostability,random mutagenesis
+The reporter enzyme beta-glucuronidase was mutagenized and evolved for thermostability. After four cycles of screening the best variant was more active than the wild-type enzyme, and retained function at 70 °C, whereas the wild-type enzyme lost function at 65 °C. Variants derived from sequential mutagenesis were shuffled together, and re-screened for thermostability. The best variants retained activities at even higher temperatures (80 °C), but had specific activities that were now less than that of the wild-type enzyme. The mutations clustered near the tetramer interface of the enzyme, and many of the evolved variants showed much greater resistance to quaternary structure disruption at high temperatures, which is also a characteristic of naturally thermostable enzymes. Together, these results suggest a pathway for the evolution of thermostability in which enzymes initially become stable at high temperatures without loss of activity at low temperatures, while further evolution leads to enzymes that have kinetic parameters that are optimized for high temperatures.
+http://www.sciencedirect.com/science/article/pii/S0022283601952234
+00222836

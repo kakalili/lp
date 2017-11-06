@@ -1,0 +1,6 @@
+Base flexibility in HIV-2 TAR RNA mapped by solution 15N, 13C NMR relaxation11Edited by I. Tinoco
+57192587222,7103168664,7403199865
+13C,cross-correlation rates,RNA structure,function and recognition
+Binding of the HIV tat protein to the TAR (transactivating response region) RNA element activates transcription of the HIV viral genome. The complex of TAR with argininamide serves as a model for the RNA conformation in the tat-TAR complex. The dynamics of the HIV-2 TAR-argininamide complex was investigated by measurements of the relaxation rates of protonated base carbon and nitrogen nuclei. Six auto-correlation rates as well as cross-correlation rates were measured to map the frequencies of base motion in the HIV-2 TAR-argininamide complex. These measurements reveal a broad range of dynamic heterogeneity exhibited by hexanucleotide loop, the dinucleotide bulge, and the A-form helical regions. U23 in the bulge undergoes the largest dynamic change on binding argininamide, while U25 remains flexible, reflecting the large conformational change that is triggered upon ligand binding.
+http://www.sciencedirect.com/science/article/pii/S0022283601954245
+00222836

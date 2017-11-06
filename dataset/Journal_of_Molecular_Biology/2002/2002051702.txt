@@ -1,0 +1,6 @@
+Crystal Structure of a Non-canonical High Affinity Peptide Complexed with MHC Class I: A Novel Use of Alternative Anchors
+7006680221,7404272566,6603220592,55719041700,35415571300,7005251090,7401743864
+MHC class I,non-canonical anchor motif peptides,YEA9,vaccine design,H-2Kb
+The crystal structure of a non-standard peptide, YEA9, in complex with H-2Kb, at 1.5Å resolution demonstrates how YEA9 peptide can bind with surprisingly high affinity through insertion of alternative, long, non-canonical anchors into the B and E pockets. The use of “alternative pockets” represents a new mode of high affinity peptide binding, that should be considered when predicting peptide epitopes for MHC class I. These novel interactions encountered in this non-canonical high affinity peptide–MHC complex should help predict additional binding peptides from primary protein sequences and aid in the design of alternative approaches for peptide-based vaccines.
+http://www.sciencedirect.com/science/article/pii/S0022283602001985
+00222836

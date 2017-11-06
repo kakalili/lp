@@ -1,0 +1,6 @@
+R Loops and Links to Human Disease
+55186514400,7103012985
+R loops,genomic instability,chromatin reorganization,transcription,human diseases
+Aberrant R-loop structures are increasingly being realized as an important contributor to human disease. R loops, which are mainly co-transcriptional, abundant RNA/DNA hybrids, form naturally and can indeed be beneficial for transcription regulation at certain loci. However, their unwanted persistence elsewhere or in particular situations can lead to DNA double-strand breaks, chromosome rearrangements, and hypermutation, which are all sources of genomic instability. Mutations in genes involved in R-loop resolution or mutations leading to R-loop formation at specific genes affect the normal physiology of the cell. We discuss here the examples of diseases for which a link with R loops has been described, as well as how disease-causing mutations might participate in the development and/or progression of diseases that include repeat-associated conditions, other neurological disorders, and cancers.
+http://www.sciencedirect.com/science/article/pii/S0022283616303643
+00222836

@@ -1,0 +1,6 @@
+Structure and Function of Palladin's Actin Binding Domain
+7402769134,24334519400,6602279452,55246150700,56004504100,56004496300,57193838344,7402476627,55793847400,7003822155,7403000855
+actin binding protein,crosslinking,palladin,immunoglubulin-like domain,electrostatics
+Here, we report the NMR structure of the actin-binding domain contained in the cell adhesion protein palladin. Previously, we demonstrated that one of the immunoglobulin domains of palladin (Ig3) is both necessary and sufficient for direct filamentous actin binding in vitro. In this study, we identify two basic patches on opposite faces of Ig3 that are critical for actin binding and cross-linking. Sedimentation equilibrium assays indicate that the Ig3 domain of palladin does not self-associate. These combined data are consistent with an actin cross-linking mechanism that involves concurrent attachment of two actin filaments by a single palladin molecule by an electrostatic mechanism. Palladin mutations that disrupt actin binding show altered cellular distributions and morphology of actin in cells, revealing a functional requirement for the interaction between palladin and actin in vivo.
+http://www.sciencedirect.com/science/article/pii/S0022283613003951
+00222836

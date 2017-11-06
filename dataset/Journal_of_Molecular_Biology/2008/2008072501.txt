@@ -1,0 +1,6 @@
+High-Resolution Crystal Structure of Activated Cyt2Ba Monomer from Bacillus thuringiensis subsp. israelensis
+36909851800,6602294508,6603069100,7004221142,6603174616,6604037088,7006293240
+Cyt toxins,activated Cyt2Ba,insecticidal crystal proteins,membrane-active cytotoxin,X-ray crystal structure
+The Cyt family of proteins consists of δ-endotoxins expressed during sporulation of several subspecies of Bacillus thuringiensis. Its members possess insecticidal, hemolytic, and cytolytic activities through pore formation and attract attention due to their potential use as vehicles for targeted membrane destruction. The δ-endotoxins of subsp. israelensis include three Cyt species: a major Cyt1Aa and two minor proteins, Cyt2Ba and Cyt1Ca. A cleaved Cyt protein that lacks the N- and C-terminal segments forms a toxic monomer. Here, we describe the crystal structure of Cyt2Ba, cleaved at its amino and carboxy termini by bacterial endogenous protease(s). Overall, its fold resembles that of the previously described volvatoxin A2 and the nontoxic form of Cyt2Aa. The structural similarity between these three proteins may provide information regarding the mechanism(s) of membrane-perforating toxins.
+http://www.sciencedirect.com/science/article/pii/S0022283608005639
+00222836

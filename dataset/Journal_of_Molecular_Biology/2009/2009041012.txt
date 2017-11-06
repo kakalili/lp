@@ -1,0 +1,6 @@
+Crystal Structure of the Talin Integrin Binding Domain 2
+26321398100,26321461300,6602715182,8588637600,35235330500
+talin,integrin,X-ray crystallography,structure,cell adhesion
+Integrins are transmembrane receptors that mediate cell adhesion to the extracellular matrix and play essential roles in tissue development and maintenance. The cytoplasmic segment of integrin associates with talin, a large intracellular protein that links integrin to the actin cytoskeleton. Binding of talin via an integrin binding segment (IBS1) results in large conformational changes in the extracellular portion of integrin, which modulates the affinity of integrins for their extracellular matrix ligands. However, integrin binding also requires a second segment of talin (IBS2). Despite detailed descriptions of the integrin–IBS1 binding, the molecular determinants that drive the integrin–IBS2 association are poorly understood. Here, we describe the crystal structure of the talin IBS2 domain, which forms a five-helix bundle. The large structural homology with a vinculin binding domain hints at an ancient gene duplication and suggests that helix 4 may bind to vinculin if the bundle is unfolded. Mapping previous mutations on the surface highlights a likely binding interface for integrin.
+http://www.sciencedirect.com/science/article/pii/S0022283609001144
+00222836

@@ -1,0 +1,6 @@
+The structure of a LysM domain from E. coli membrane-bound lytic murein transglycosylase D (MltD)11Edited by P. E. Wight
+7102456158,7005973731
+protein structure,NMR,peptidoglycan,protein module
+The LysM domain is a widespread protein module. It was originally identified in enzymes that degrade bacterial cell walls but is also present in many other bacterial proteins. Several proteins that contain the domain, such as Staphylococcal IgG binding proteins and Escherichia coli intimin, are involved in bacterial pathogenesis. LysM domains are also found in some eukaryotic proteins, apparently as a result of horizontal gene transfer from bacteria. The available evidence suggests that the LysM domain is a general peptidoglycan-binding module. We have determined the structure of this domain from E. coli membrane-bound lytic murein transglycosylase D. The LysM domain has a βααβ secondary structure with the two helices packing onto the same side of an anti-parallel β sheet. The structure shows no similarity to other bacterial cell surface domains. A potential binding site in a shallow groove on surface of the protein has been identified.
+http://www.sciencedirect.com/science/article/pii/S0022283600937781
+00222836

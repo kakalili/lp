@@ -1,0 +1,6 @@
+Structure of human neutral endopeptidase (neprilysin) complexed with phosphoramidon11Edited by R. Huber
+7003310000,7004154584,7006436744,7005608751,7102367454
+enkephalinase,metalloprotease,phosphoramidon,X-ray structure,endothelin converting enzyme
+Neutral endopeptidase is a mammalian type II integral membrane zinc-containing endopeptidase, which degrades and inactivates a number of bioactive peptides. The range of substrates cleaved by neutral endopeptidase in vitro includes the enkephalins, substance P, endothelin, bradykinin and atrial natriuretic factor. Due to the physiological importance of neutral endopeptidase in the modulation of nociceptive and pressor responses there is considerable interest in inhibitors of this enzyme as novel analgesics and anti-hypertensive agents. Here we describe the crystal structure of the extracellular domain (residues 52-749) of human NEP complexed with the generic metalloproteinase inhibitor phosphoramidon at 2.1 Å resolution. The structure reveals two multiply connected folding domains which embrace a large central cavity containing the active site. The inhibitor is bound to one side of this cavity and its binding mode provides a detailed understanding of the ligand-binding and specificity determinants.
+http://www.sciencedirect.com/science/article/pii/S0022283699934927
+00222836

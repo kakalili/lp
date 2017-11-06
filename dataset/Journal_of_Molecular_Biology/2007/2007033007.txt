@@ -1,0 +1,6 @@
+β-Edge Interactions in a Pentadecameric Human Antibody Vκ Domain
+7201562905,36050782000,7005074750,7003350511,56848974700,21742584500,7202988467
+β-edge,amyloid,aggregation,antibody,light-chain deposition disease
+Antibodies are the archetypal molecules of the Ig-fold superfamily. Their highly conserved β-sheet architecture has evolved to avoid aggregation by protecting edge strands. However, the crystal structure of a human Vκ domain described here, reveals an exposed β-edge strand which mediates assembly of a helical pentadecameric oligomer. This edge strand is highly conserved in Vκ domains but is both shortened and capped by the use of two sequential trans-proline residues in Vλ domains. We suggest that the exposure of this β-edge in Vκ domains may explain why light-chain deposition disease is mediated predominantly by κ antibodies.
+http://www.sciencedirect.com/science/article/pii/S0022283606015208
+00222836

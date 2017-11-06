@@ -1,0 +1,6 @@
+Loading a Ring: Structure of the Bacillus subtilis DnaB Protein, a Co-loader of the Replicative Helicase
+12770396000,7003263069,35556044500,6603832546,35500936300,6603825649
+electron microscopy,DnaB,DNA replication,γ-complex,ring loader
+Loading of the ring-shaped replicative helicase is a critical step in the initiation of DNA replication. Bacillus subtilis has adopted a two-protein strategy to load its hexameric replicative helicase: DnaB and DnaI interact with the helicase and mediate its delivery onto DNA. We present here the 3D electron microscopy structure of the DnaB protein, along with a detailed analysis of both its oligomeric state and its domain organization. DnaB is organized as an asymmetric tetramer that is comprised of two stacked components, one arranged as a closed collar and the other as an open σ shape. Intriguingly, the 3D map of DnaB exhibits an overall architecture similar to the structure of the Escherichia coli γ-complex, the loader of the ring-shaped processivity factor. We propose a model whereby each DnaB monomer participates in both stacked components of the tetramer and displays a different overall shape. This asymmetric quaternary organization could be a general feature of ring loaders.
+http://www.sciencedirect.com/science/article/pii/S0022283607000137
+00222836

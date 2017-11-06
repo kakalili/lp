@@ -1,0 +1,6 @@
+Structure of an Influenza Neuraminidase–Diabody Complex by Electron Cryomicroscopy and Image Analysis
+7102734553,8161062900,18935211600
+electron cryomicroscopy,single-particle reconstruction,influenza neuraminidase,recombinant antibody,diabody
+The structure of a complex between a bivalent diabody and its antigen, influenza neuraminidase, has been determined by electron cryomicroscopy of single particles and image analysis. A three-dimensional reconstruction has been interpreted in terms of high-resolution X-ray models of the component proteins. The complex consists of two neuraminidase tetramers cross-linked by four diabodies with 422 point symmetry. The structure and symmetry of the complex is determined uniquely by packing constraints consistent with the maximum possible number of diabody cross-links. Diabodies may provide a useful approach to the structure determination of small proteins by incorporating the proteins into large symmetric complexes followed by single-particle electron microscopy.
+http://www.sciencedirect.com/science/article/pii/S0022283603012397
+00222836

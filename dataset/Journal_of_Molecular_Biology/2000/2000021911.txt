@@ -1,0 +1,6 @@
+Psoralen adducts induced by triplex-forming oligonucleotides are refractory to repair in HeLa cells11Edited by M. Yaniv
+6602963239,6603722393,7004517463,56219215300,7102497448
+triple helix,psoralen,repair,oligonucleotide
+The use of triple helix-forming oligonucleotides constitutes an attractive strategy to regulate gene expression by inhibition of transcription. Psoralen-oligonucleotide conjugates form, upon irradiation, covalent triplexes and thereby modify the specific target sequence. The processing of such photoproducts on the promoter of the gene coding for the interleukin-2 receptor α chain was investigated in HeLa cells and HeLa nuclear extracts. We demonstrate that psoralen cross-links are not repaired within the cell extracts nor inside cells. The mechanism of repair inhibition was elucidated in vitro: the presence of the third strand oligonucleotide inhibits the incision step of the damaged target by repair endonucleases. These results demonstrate the possibility of using this approach to induce a persistent intracellular DNA damage at a specific site and to afford prolonged transcription inhibition.
+http://www.sciencedirect.com/science/article/pii/S0022283699934666
+00222836

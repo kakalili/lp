@@ -1,0 +1,6 @@
+The Pex1/Pex6 Complex Is a Heterohexameric AAA+ Motor with Alternating and Highly Coordinated Subunits
+56527846500,23567879100,8877122600,55708423700
+peroxisome,AAA+ ATPase,Pex1,Pex6,Pex15
+Pex1 and Pex6 are Type-2 AAA+ ATPases required for the de novo biogenesis of peroxisomes. Mutations in Pex1 and Pex6 account for the majority of the most severe forms of peroxisome biogenesis disorders in humans. Here, we show that the ATP-dependent complex of Pex1 and Pex6 from Saccharomyces cerevisiae is a heterohexamer with alternating subunits. Within the Pex1/Pex6 complex, only the D2 ATPase ring hydrolyzes ATP, while nucleotide binding in the D1 ring promotes complex assembly. ATP hydrolysis by Pex1 is highly coordinated with that of Pex6. Furthermore, Pex15, the membrane anchor required for Pex1/Pex6 recruitment to peroxisomes, inhibits the ATP-hydrolysis activity of Pex1/Pex6.
+http://www.sciencedirect.com/science/article/pii/S0022283615000753
+00222836

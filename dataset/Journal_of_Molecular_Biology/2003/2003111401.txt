@@ -1,0 +1,6 @@
+De Novo Design of a Molecular Switch: Phosphorylation-dependent Association of Designed Peptides
+6505736020,7102582515
+de novo design,phosphorylation,molecular switch,helix capping,Lac repressor tetramerization domain
+The de novo design of peptides that switch their oligomerization state in response to a chemical stimulus is of interest, both as a tool for understanding the basis of molecular switching as well as development of reagents for the study of signal transduction in cells. The target of the current study is the design of a series of peptides that undergo a transition from an unstructured monomer to a four-helical bundle upon phosphorylation by the enzyme cyclic AMP-dependent protein kinase (PKA). The designed peptides are based on the 20-residue Lac repressor tetramerization domain. Beginning with this structure, we introduced a phosphorylation site near the N terminus. Phosphorylation leads to a 2–4.6kcal/mol increase in the stability of the tetramer, depending on the design. The most successful switches were designed such that phosphorylation would increase the stability of the individual helices and also relieve an unfavorable electrostatic interaction in the tetramer.
+http://www.sciencedirect.com/science/article/pii/S0022283603011914
+00222836

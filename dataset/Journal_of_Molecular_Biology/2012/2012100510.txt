@@ -1,0 +1,6 @@
+Two-Step Nucleation of Amyloid Fibrils: Omnipresent or Not?
+7003293107,9734687200,7003288860
+homogeneous nucleation,two-step nucleation,nucleation rate,amyloid fibrils,protein aggregation
+Amyloid protein fibrils feature in various diseases and nanotechnological products. Currently, it is debated whether they nucleate in one step (i.e., directly from the protein solution) or in two steps (step one being the appearance of nonfibrillar oligomers in the solution and step two being the oligomer conversion into fibrils). We employ nucleation theory to gain insight into the idiosyncrasy of two-step fibril nucleation and to determine the conditions under which this process can take place. Presenting an expression for the rate of two-step fibril nucleation, we use it to qualitatively describe experimental data for two-step nucleated amyloid-β fibrils. Our analysis helps in understanding why, in some experiments, oligomers rather than fibrils form and remain structurally unchanged and why, in others, the oligomers convert into fibrils.
+http://www.sciencedirect.com/science/article/pii/S0022283612004950
+00222836

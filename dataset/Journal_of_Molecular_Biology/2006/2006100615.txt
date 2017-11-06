@@ -1,0 +1,6 @@
+Differentiating Ligand and Inhibitor Interactions of a Single Antiporter
+8544665500,7101826977,24173563400
+atomic force microscopy,molecular interactions,NhaA,inactivation
+Regulatory mechanisms of ion and solute transporters are in focus of biomedical and biochemical studies and build a key for disease therapies. Inhibition of sodium/proton exchangers efficiently prevents ischemic heart disease and reperfusion development in humans, but molecular mechanisms behind are not clear. Using single-molecule force spectroscopy we observe the binding of the inhibitor 2-aminoperimidine (AP) to sodium/proton antiporters NhaA from Escherichia coli. Deactivating interactions were significantly suppressed at enhanced sodium concentrations of 200 mM as well as in the pH-locked inactive conformation of NhaA. New molecular interactions were quantified and localized within the protein occurring upon a competitive inhibitor binding. The inhibitor, which was targeted and bound to the ligand-binding pocket, altered interactions established at α-helix IX. These molecular mechanisms deactivating the antiporter were different to those established upon ligand binding and activation of NhaA.
+http://www.sciencedirect.com/science/article/pii/S0022283606008977
+00222836

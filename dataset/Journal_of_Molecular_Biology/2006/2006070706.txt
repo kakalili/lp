@@ -1,0 +1,6 @@
+The Crystal Structure of the Carboxy-Terminal Domain of Human Translation Initiation Factor eIF5
+12766426900,26650092000,8124764100,12143180000,7004373162,7102685121
+translation initiation,HEAT domain,eIF5,multi-factor complex
+The carboxy-terminal domain (CTD) of eukaryotic initiation factor 5 (eIF5) plays a central role in the formation of the multifactor complex (MFC), an important intermediate for the 43 S preinitiation complex assembly. The IF5-CTD interacts directly with the translation initiation factors eIF1, eIF2-β, and eIF3c, thus forming together with eIF2 bound Met-tRNAiMet the MFC. In this work we present the high resolution crystal structure of eIF5-CTD. This domain of the protein is exclusively composed out of alpha-helices and is homologous to the carboxy-terminal domain of eIF2B-ε (eIF2Bε-CTD). The most striking difference in the two structures is an additional carboxy-terminal helix in eIF5. The binding sites of eIF2-β, eIF3 and eIF1 were mapped onto the structure. eIF2-β and eIF3 bind to non-overlapping patches of negative and positive electrostatic potential, respectively.
+http://www.sciencedirect.com/science/article/pii/S0022283606006036
+00222836

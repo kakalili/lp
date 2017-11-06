@@ -1,0 +1,6 @@
+Crystal Structure of P58(IPK) TPR Fragment Reveals the Mechanism for its Molecular Chaperone Activity in UPR
+35084395300,22136122000,35600270900,7005779952
+P58(IPK),Chaperone,UPR,TPR
+P58(IPK) might function as an endoplasmic reticulum molecular chaperone to maintain protein folding homeostasis during unfolded protein responses. P58(IPK) contains nine tetratricopeptide repeat (TPR) motifs and a C-terminal J-domain within its primary sequence. To investigate the mechanism by which P58(IPK) functions to promote protein folding within the endoplasmic reticulum, we have determined the crystal structure of P58(IPK) TPR fragment to 2.5 Å resolution by the SAD method. The crystal structure of P58(IPK) revealed three domains (I–III) with similar folds and each domain contains three TPR motifs. An ELISA assay indicated that P58(IPK) acts as a molecular chaperone by interacting with misfolded proteins such as luciferase and rhodanese. The P58(IPK) structure reveals a conserved hydrophobic patch located in domain I that might be involved in binding the misfolded polypeptides. Structure-based mutagenesis for the conserved hydrophobic residues located in domain I significantly reduced the molecular chaperone activity of P58(IPK).
+http://www.sciencedirect.com/science/article/pii/S0022283610001865
+00222836

@@ -1,0 +1,6 @@
+Large Tilts in Transmembrane Helices Can Be Induced during Tertiary Structure Formation
+51864869800,26321373100,24329172200,56118124200,23976544500,26638532700,7003471235,7102118731,7202797059
+transmembrane helix,membrane protein folding,translocon
+While early structural models of helix-bundle integral membrane proteins posited that the transmembrane α-helices [transmembrane helices (TMHs)] were orientated more or less perpendicular to the membrane plane, there is now ample evidence from high-resolution structures that many TMHs have significant tilt angles relative to the membrane. Here, we address the question whether the tilt is an intrinsic property of the TMH in question or if it is imparted on the TMH during folding of the protein. Using a glycosylation mapping technique, we show that four highly tilted helices found in multi-spanning membrane proteins all have much shorter membrane-embedded segments when inserted by themselves into the membrane than seen in the high-resolution structures. This suggests that tilting can be induced by tertiary packing interactions within the protein, subsequent to the initial membrane-insertion step.
+http://www.sciencedirect.com/science/article/pii/S0022283614002046
+00222836

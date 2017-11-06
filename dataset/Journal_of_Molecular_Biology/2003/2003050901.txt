@@ -1,0 +1,6 @@
+Induction of Short Interspersed Nuclear Repeat-containing Transcripts in Epithelial Cells upon Infection with a Chicken Adenovirus
+6603444330,6508132575,6603054093,7005126445,6508173554,56981768300,7004525710,7102868589
+CELO virus,transcriptome,cDNA microarrays,small interspersed nuclear elements,Gam1
+Chicken embryo lethal orphan adenovirus (CELO) is used as a vector for expression of exogenous genes in mammalian cells. Here, we analyzed transcriptional alterations in mouse epithelial host cells following infection with CELO using cDNA microarray analysis. Sequence data characterization revealed that a major portion of CELO-induced genes contained short interspersed nuclear elements of the B2 subclass (B2 SINEs). In fact, we could identify SINEs and other repetitive sequences as contributing significantly to the cDNAs used for microarray construction. Moreover, we found that the CELO protein Gam1 was able to mediate transcriptional activation of these B2 SINE-containing RNAs. We hypothesize that upregulation of B2-SINE-containing RNAs could be a novel contribution of Gam1 to CELO host cell infection.
+http://www.sciencedirect.com/science/article/pii/S0022283603003632
+00222836

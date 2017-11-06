@@ -1,0 +1,6 @@
+Structure of the Bet3–Tpc6B Core of TRAPP: Two Tpc6 Paralogs Form Trimeric Complexes with Bet3 and Mum2
+11639608700,7404872408,11640936600,57189269783,7103045935
+TRAPP,vesicle tethering,Bet3,Tpc6/Trs33,crystal structure
+The transport protein particle (TRAPP) complexes are involved in the tethering process at different trafficking steps of vesicle transport. We here present the crystal structure of a human Bet3–Tpc6B heterodimer, which represents a core sub-complex in the assembly of TRAPP. We describe a conserved patch of Tpc6 with uncharged pockets, forming a putative interaction interface for an anchoring moiety at the Golgi. The structural and functional comparison of the two paralogs Tpc6A and Tpc6B, only found in some organisms, indicates redundancy and added complexity of TRAPP architecture and function. Both iso-complexes, Bet3–Tpc6A and Bet3–Tpc6B, are able to recruit Mum2, a further TRAPP subunit, and we identify the α1–α2 loop regions as a binding site for Mum2. Our study reveals similar stability of the iso-complexes and similar expression patterns of the tpc6 variants in different mouse organs. These findings raise the possibility that the Tpc6 paralogs might contribute to the formation of two distinct TRAPP complexes that differ in function.
+http://www.sciencedirect.com/science/article/pii/S0022283606007042
+00222836

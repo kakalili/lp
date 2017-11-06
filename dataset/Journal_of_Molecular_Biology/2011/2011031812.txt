@@ -1,0 +1,6 @@
+Nucleotide Pocket Thermodynamics Measured by EPR Reveal How Energy Partitioning Relates Myosin Speed to Efficiency
+35248933100,6603872926,6602303324,7201720426,36604233500,7402340465,6601940153,35601298800,7003385890,7003833834,7402645682
+myosin,actin,muscle,efficiency,EPR spectroscopy
+We have used spin-labeled ADP to investigate the dynamics of the nucleotide-binding pocket in a series of myosins, which have a range of velocities. Electron paramagnetic resonance spectroscopy reveals that the pocket is in equilibrium between open and closed conformations. In the absence of actin, the closed conformation is favored. When myosin binds actin, the open conformation becomes more favored, facilitating nucleotide release. We found that faster myosins favor a more closed pocket in the actomyosin•ADP state, with smaller values of ΔH0 and ΔS0, even though these myosins release ADP at a faster rate. A model involving a partitioning of free energy between work-generating steps prior to rate-limiting ADP release explains both the unexpected correlation between velocity and opening of the pocket and the observation that fast myosins are less efficient than slow myosins.
+http://www.sciencedirect.com/science/article/pii/S0022283610012830
+00222836

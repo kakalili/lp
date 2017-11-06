@@ -1,0 +1,6 @@
+Asymmetry in Membrane Protein Sequence and Structure: Glycine Outside Rule
+57190840273,7202611424
+membrane proteins,asymmetry,structural informatics,OPM database,glycine outside rule
+The growth in the number of known membrane protein structures enables us to conduct new statistical analyses that were not possible before. Using the recently developed Orientation of Protein in Membrane database that has explicit orientation information, here we address the asymmetry in sequence and structure of transmembrane helical proteins. We found that the Gly is markedly more populated at the outer side, the noncytoplasmic side, rather than the inner side, and that Lys, Arg, Leu, and Ile are biased toward the inner side. The asymmetry in Gly distribution is partly attributed to the fact that the coil is more populated in the outer side. Moreover, the frequency of Gly in the coil, but not in the helix, is weakly biased toward the outer side. The asymmetry in Gly distribution is confirmed by a genome-wide sequence-based analysis of membrane proteins accompanied by transmembrane helix prediction.
+http://www.sciencedirect.com/science/article/pii/S0022283608000314
+00222836

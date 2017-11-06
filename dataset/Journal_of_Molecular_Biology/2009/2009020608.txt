@@ -1,0 +1,6 @@
+Molecular Biology of Background K Channels: Insights from K2P Knockout Mice
+55168099500,56212147600
+potassium channels,knockout mice,ion channels,anethesia,background channel
+K2P channels are a family of cellular proteins that are essential for electrical signaling throughout the body. There are six K2P channel subfamilies, consisting of 15 distinct mammalian genes. K2P channels display a remarkable range of regulation by cellular, physical and pharmacologic agents, including protein kinases, intracellular Ca2+, changes in internal and external pH, anesthetic agents, heat, stretch and membrane deformers. The molecular and cellular mechanisms underlying this regulation are complex and cooperate at many different levels. Recent research has provided strong evidence that the spatiotemporal-specific expression of K2P channels are determinants of physiologic selectivity and specificity. In recent years, knockout mice have been generated with inactivated K2P channel genes. These animals shed new light on the contribution of K2P channels to normal and abnormal physiology. In this review, we summarize the published data on these mice to broaden the understanding of the role of K2P channel activity.
+http://www.sciencedirect.com/science/article/pii/S0022283608014721
+00222836

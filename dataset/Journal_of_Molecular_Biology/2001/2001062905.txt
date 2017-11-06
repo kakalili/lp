@@ -1,0 +1,6 @@
+Solution structure of human IL-13 and implication for receptor binding11Edited by P. E. Wright
+7004389869,57189201369,56207812000,7202315004
+NMR,solution structure,interleukin-13,interleukin-4
+Interleukin-13 has been implicated as a key factor in asthma, allergy, atopy and inflammatory response, establishing the protein as a valuable therapeutic target. The high-resolution solution structure of human IL-13 has been determined by multidimensional NMR. The resulting structure is consistent with previous short-chain left-handed four-helix bundles, where a significant similarity in the folding topology between IL-13 and IL-4 was observed. IL-13 shares a significant overlap in biological function with IL-4, a result of the common α chain component (IL-4Rα) in their respective receptors. Based on the available structural and mutational data, an IL-13/IL-4Rα model and a sequential mechanism for forming the signaling heterodimer is proposed for IL-13.
+http://www.sciencedirect.com/science/article/pii/S0022283601947643
+00222836

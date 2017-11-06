@@ -1,0 +1,6 @@
+NMR Structures of α-Proteobacterial ATPase-Regulating ζ-Subunits
+22938990900,6504350332,25641547400,36047173900
+ATPase-regulating protein,ζ-subunit,α-proteobacteria,PF07345,NMR structure determination
+NMR structures of ζ-subunits, which are recently discovered α-proteobacterial F1F0-ATPase-regulatory proteins representing a Pfam protein family of 246 sequences from 219 species (PF07345), exhibit a four-helix bundle, which is different from all other known F1F0-ATPase inhibitors. Chemical shift mapping reveals a conserved ADP/ATP binding site in ζ-subunit, which mediates long-range conformational changes related to function, as revealed by the structure of the Paracoccus denitrificans ζ-subunit in complex with ADP. These structural data suggest a new mechanism of F1F0-ATPase regulation in α-proteobacteria.
+http://www.sciencedirect.com/science/article/pii/S0022283614002320
+00222836

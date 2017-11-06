@@ -1,0 +1,6 @@
+HMMSTR: a hidden Markov model for local sequence-structure correlations in proteins11Edited by J. Thornton
+6603854877,6602742809,55463548900
+hidden Markov models,I-sites library,sequence patterns,motifs,clustering
+We describe a hidden Markov model, HMMSTR, for general protein sequence based on the I-sites library of sequence-structure motifs. Unlike the linear hidden Markov models used to model individual protein families, HMMSTR has a highly branched topology and captures recurrent local features of protein sequences and structures that transcend protein family boundaries. The model extends the I-sites library by describing the adjacencies of different sequence-structure motifs as observed in the protein database and, by representing overlapping motifs in a much more compact form, achieves a great reduction in parameters. The HMM attributes a considerably higher probability to coding sequence than does an equivalent dipeptide model, predicts secondary structure with an accuracy of 74.3 %, backbone torsion angles better than any previously reported method and the structural context of β strands and turns with an accuracy that should be useful for tertiary structure prediction.
+http://www.sciencedirect.com/science/article/pii/S0022283600938373
+00222836

@@ -1,0 +1,6 @@
+Structure of an Archaeal RNA Polymerase
+23097969600,7005527136,15021120400,36041222400,56253894500,7102933900,7005337794
+multisubunit cellular RNA polymerase,gene transcription,archaeal gene expression,cryo-electron microscopy,homology modelling
+Related multisubunit RNA polymerases (RNAPs) carry out gene transcription in all kingdoms of life. Since structural information is limited to bacterial and eukaryotic RNAPs, we determined the cryo-electron microscopic structure of the RNAP from the thermophilic archaeon Pyrococcus furiosus at 13 Å resolution. Comparison with eukaryotic RNAP II reveals a conserved architecture, no homologues for subunits Rpb8 and Rpb9, and significant deviation in the polymerase foot, jaws, pore, and protrusion. The structural organization of the archaeal RNA polymerase serves as a reference for future structure–function analysis of the transcription mechanism and allows for evolutionary comparisons.
+http://www.sciencedirect.com/science/article/pii/S0022283607011485
+00222836

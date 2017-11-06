@@ -1,0 +1,6 @@
+Biochemical and Physiological Properties of the DNA Binding Domain of AraC Protein
+6506970606,7102573072,7006309611
+DNA binding domain,monomer affinity,cooperativity,induction mechanism,AraC
+Intact AraC protein is poorly soluble and difficult to purify, whereas its dimerization domain is the opposite. Unexpectedly, the DNA binding domain of AraC proved also to be soluble in cells when overproduced and is easily purified to homogeneity. The DNA binding affinity of the DNA binding domain for its binding site could not be measured by electrophoretic mobility shift because of its rapid association and dissociation rates, but its affinity could be measured with a fluorescence assay and was found to have a dissociation constant of 1×10−8M in 100 mM KCl. The binding of monomers of the DNA binding domain to adjacent half-sites occurs without substantial positive or negative cooperativity. A simple analysis relates the DNA binding affinities of monomers of DNA binding domain and normal dimeric AraC protein.
+http://www.sciencedirect.com/science/article/pii/S0022283604005856
+00222836

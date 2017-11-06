@@ -1,0 +1,6 @@
+A Comprehensive Analysis of Primer IDs to Study Heterogeneous HIV-1 Populations
+56480252600,36666027700,6603481073,57026991700,56330297900,7005951278,9238131100,6603710238
+HIV-1,next-generation sequencing,primer ID,PCR,RT
+Determining the composition of viral populations is becoming increasingly important in the field of medical virology. While recently developed computational tools for viral haplotype analysis allow for correcting sequencing errors, they do not always allow for the removal of errors occurring in the upstream experimental protocol, such as PCR errors. Primer IDs (pIDs) are one method to address this problem by harnessing redundant template resampling for error correction. By using a reference mixture of five HIV-1 strains, we show how pIDs can be useful for estimating key experimental parameters, such as the substitution rate of the PCR process and the reverse transcription (RT) error rate. In addition, we introduce a hidden Markov model for determining the recombination rate of the RT PCR process. We found no strong sequence-specific bias in pID abundances (the same RT efficiencies as compared to commonly used short, specific RT primers) and no effects of pIDs on the estimated distribution of the references viruses.
+http://www.sciencedirect.com/science/article/pii/S0022283615007032
+00222836

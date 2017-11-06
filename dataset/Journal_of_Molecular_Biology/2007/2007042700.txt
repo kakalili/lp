@@ -1,0 +1,6 @@
+The Structure of the KinA-Sda Complex Suggests an Allosteric Mechanism of Histidine Kinase Inhibition
+6602881303,7006056499,7003555579,8381227500,7402995101,7006408792,7005698672,7006461904
+histidine kinase,KinA,Sda,small-angle scattering,neutron contrast variation
+The Bacillus subtilis histidine kinase KinA controls activation of the transcription factor governing sporulation, Spo0A. The decision to sporulate involves KinA phosphorylating itself on a conserved histidine residue, after which the phosphate moiety is relayed via two other proteins to Spo0A. The DNA-damage checkpoint inhibitor Sda halts this pathway by binding KinA and blocking the autokinase reaction. We have performed small-angle X-ray scattering and neutron contrast variation studies on the complex formed by KinA and Sda. The data show that two Sda molecules bind to the base of the DHp dimerization domain of the KinA dimer. In this position Sda does not appear to be able to sterically block the catalytic domain from accessing its target histidine, as previously proposed, but rather may effect an allosteric mode of inhibition involving transmission of the inhibitory signal via the four-helix bundle that forms the DHp domain.
+http://www.sciencedirect.com/science/article/pii/S0022283607001283
+00222836

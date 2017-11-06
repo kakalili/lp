@@ -1,0 +1,6 @@
+Scrapie-Infected Transgenic Mice Expressing a Laminin Receptor Decoy Mutant Reveal a Prolonged Incubation Time Associated with Low Levels of PrPres
+26028027100,6507273488,12788948700,6602189879,16031673200,55942465700,19635514200,55821987100,7403678102
+prion,PrP,laminin receptor,LRP/LR,transdominant negative mutant
+The 37-kDa/67-kDa laminin receptor (LRP/LR) was identified as a cell surface receptor for prion proteins. The laminin receptor mutant LRP102–295∷FLAG interfered with PrPSc propagation in murine neuronal cells presumably acting as a decoy in a transdominant negative fashion by trapping PrP molecules in the extracellular matrix. Here, we generated hemizygous transgenic mice expressing LRP102–295∷FLAG in the brain. Scrapie-infected transgenic mice exhibit a significantly prolonged incubation time in comparison to scrapie-infected wild-type (FVB) mice. At the terminal stage, transgenic mice revealed significantly reduced proteinase-K-resistant PrP levels by 71% compared to wild-type mice. Our results recommend the laminin receptor decoy mutant as an alternative therapeutic tool for treatment of transmissible spongiform encephalopathies.
+http://www.sciencedirect.com/science/article/pii/S0022283609003015
+00222836

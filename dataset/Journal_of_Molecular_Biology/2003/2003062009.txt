@@ -1,0 +1,6 @@
+Mg2+-induced Variations in the Conformation and Dynamics of HIV-1 TAR RNA Probed Using NMR Residual Dipolar Couplings
+6602984450,7005316384,7201437287,15050049800,7402238251
+transactivation response element,RNA folding,collective motions,divalent metal ions,nucleic acids
+The effects of divalent Mg2+ on the conformation and dynamics of the stem-loop transactivation response element (TAR) RNA from HIV-1 have been characterized using NMR residual dipolar couplings (RDCs). Order matrix analysis of one bond 13C–1H RDCs measured in TAR at [Mg2+]:[TAR] stoichiometric ratios of ∼3:1 (TAR(3.0Mg)) and ∼4.5:1 (TAR(4.5Mg)) revealed that Mg2+ reduces the average inter-helical angle from 47(±5)° in TAR(free) to 5(±7)° in TAR(4.5Mg). In contrast to the TAR(free) state, the generalized degree of order for the two stems in TAR(4.5Mg) is found to be identical within experimental uncertainty, indicating that binding of Mg2+ leads to an arrest of inter-helical motions in TAR(free). Results demonstrate that RDC-NMR methodology can provide new insight into the effects of Mg2+ on both the conformation and dynamics of RNA.
+http://www.sciencedirect.com/science/article/pii/S0022283603005175
+00222836

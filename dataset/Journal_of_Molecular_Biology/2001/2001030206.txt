@@ -1,0 +1,6 @@
+pH-induced structural changes regulate histidine decarboxylase activity in Lactobacillus 30a11Edited by R. Huber
+6508101886,7006706511,6701476394,7201544591,35511157700
+histidine decarboxylase,helix disorder,pH regulation,X-ray,pyruvoyl
+Histidine decarboxylase (HDC) from Lactobacillus 30a produces histamine that is essential to counter waste acids, and to optimize cell growth. The HDC trimer is active at low pH and inactive at neutral to alkaline pH. We have solved the X-ray structure of HDC at pH 8 and revealed the novel mechanism of pH regulation. At high pH helix B is unwound, destroying the substrate binding pocket. At acid pH the helix is stabilized, partly through protonation of Asp198 and Asp53 on either side of the molecular interface, acting as a proton trap. In contrast to hemoglobin regulation, pH has a large effect on the tertiary structure of HDC monomers and relatively little or no effect on quaternary structure.
+http://www.sciencedirect.com/science/article/pii/S0022283600944309
+00222836

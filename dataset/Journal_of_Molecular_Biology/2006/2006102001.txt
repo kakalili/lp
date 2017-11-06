@@ -1,0 +1,6 @@
+Structure of Aart, a Designed Six-finger Zinc Finger Peptide, Bound to DNA
+7202933294,13808200900,14719090200,7101761746,7006630049
+zinc finger,Aart,structure,peptide
+Cys2-His2 zinc fingers are one of the most common types of DNA-binding domains. Modifications to zinc-finger binding specificity have recently enabled custom DNA-binding proteins to be designed to a wide array of target sequences. We present here a 1.96 Å structure of Aart, a designed six-zinc finger protein, bound to a consensus DNA target site. This is the first structure of a designed protein with six fingers, and was intended to provide insights into the unusual affinity and specificity characteristics of this protein. Most protein−DNA contacts were found to be consistent with expectations, while others were unanticipated or insufficient to explain specificity. Several were unexpectedly mediated by glycerol, water molecules or amino acid−base stacking interactions. These results challenge some conventional concepts of recognition, particularly the finding that triplets containing 5′A, C, or T are typically not specified by direct interaction with the amino acid in position 6 of the recognition helix.
+http://www.sciencedirect.com/science/article/pii/S002228360601028X
+00222836

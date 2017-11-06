@@ -1,0 +1,6 @@
+DNA Distortion and Specificity in a Sequence-Specific Endonuclease
+16047026700,7102984487,24773499300,6602246917,7006630049
+restriction endonuclease,indirect readout,protein-DNA complex
+Five new structures of the Q138F HincII enzyme bound to a total of three different DNA sequences and three different metal ions (Ca2+, Mg2+, and Mn2+) are presented. While previous structures were produced from soaking Ca2+ into preformed Q138F HincII/DNA crystals, the new structures are derived from cocrystallization with Ca2+, Mg2+, or Mn2+. The Mn2+-bound structure provides the first view of a product complex of Q138F HincII with cleaved DNA. Binding studies and a crystal structure show how Ca2+ allows trapping of a Q138F HincII complex with noncognate DNA in a catalytically incompetent conformation. Many Q138F HincII/DNA structures show asymmetry, despite the binding of a symmetric substrate by a symmetric enzyme. The various complexes are fit into a model describing the different conformations of the DNA-bound enzyme and show how DNA conformational energetics determine DNA-cleavage rates by the Q138F HincII enzyme.
+http://www.sciencedirect.com/science/article/pii/S0022283608010255
+00222836

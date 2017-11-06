@@ -1,0 +1,6 @@
+Quantitative Analysis of SecYEG-Mediated Insertion of Transmembrane α-Helices into the Bacterial Inner Membrane
+36523772800,24830031900,55711390300,7102118731
+SecYEG,leader peptidase,membrane protein,transmembrane helix
+Most integral membrane proteins, both in prokaryotic and eukaryotic cells, are co-translationally inserted into the membrane via Sec-type translocons: the SecYEG complex in prokaryotes and the Sec61 complex in eukaryotes. The contributions of individual amino acids to the overall free energy of membrane insertion of single transmembrane α-helices have been measured for Sec61-mediated insertion into the endoplasmic reticulum (ER) membrane (Nature 450:1026–1030) but have not been systematically determined for SecYEG-mediated insertion into the bacterial inner membrane. We now report such measurements, carried out in Escherichia coli. Overall, there is a good correlation between the results found for the mammalian ER and the E. coli inner membrane, but the hydrophobicity threshold for SecYEG-mediated insertion is distinctly lower than that for Sec61-mediated insertion.
+http://www.sciencedirect.com/science/article/pii/S0022283613002738
+00222836

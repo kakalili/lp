@@ -1,0 +1,6 @@
+Molecular Mechanisms of Two-Component Signal Transduction
+55336404600,57191093799,8580757200
+signal transduction,two-component system,sensor histidine kinase,response regulator
+Two-component systems (TCS) comprising sensor histidine kinases and response regulator proteins are among the most important players in bacterial and archaeal signal transduction and also occur in reduced numbers in some eukaryotic organisms. Given their importance to cellular survival, virulence, and cellular development, these systems are among the most scrutinized bacterial proteins. In the recent years, a flurry of bioinformatics, genetic, biochemical, and structural studies have provided detailed insights into many molecular mechanisms that underlie the detection of signals and the generation of the appropriate response by TCS. Importantly, it has become clear that there is significant diversity in the mechanisms employed by individual systems. This review discusses the current knowledge on common themes and divergences from the paradigm of TCS signaling. An emphasis is on the information gained by a flurry of recent structural and bioinformatics studies.
+http://www.sciencedirect.com/science/article/pii/S0022283616302947
+00222836

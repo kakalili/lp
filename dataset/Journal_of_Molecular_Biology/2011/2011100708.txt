@@ -1,0 +1,6 @@
+NanoRNAs: A Class of Small RNAs That Can Prime Transcription Initiation in Bacteria
+6602262963,35606731800
+RNA polymerase,small RNA,priming of transcription initiation with small RNAs,high-throughput sequencing,nanoRNA
+It has been widely assumed that all transcription in cells occur using NTPs only (i.e., de novo). However, it has been known for several decades that both prokaryotic and eukaryotic RNA polymerases can utilize small (2 to ∼5 nt) RNAs to prime transcription initiation in vitro, raising the possibility that small RNAs might also prime transcription initiation in vivo. A new study by Goldman et al. has now provided the first evidence that priming with so-called “nanoRNAs” (i.e., 2 to ∼5 nt RNAs) can, in fact, occur in vivo. Furthermore, this study provides evidence that altering the extent of nanoRNA-mediated priming of transcription initiation can profoundly influence global gene expression. In this perspective, we summarize the findings of Goldman et al. and discuss the prospect that nanoRNA-mediated priming of transcription initiation represents an underappreciated aspect of gene expression in vivo.
+http://www.sciencedirect.com/science/article/pii/S0022283611006528
+00222836

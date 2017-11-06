@@ -1,0 +1,6 @@
+Understanding the Sequence Specificity of tRNA Binding to Elongation Factor Tu using tRNA Mutagenesis
+26027207600,35561695400,7102610686
+EF-Tu,tRNA mutagenesis,tRNA protein interaction,T stem,thermodynamic compensation
+Measuring the binding affinities of 42 single-base-pair mutants in the acceptor and TΨC stems of Saccharomyces cerevisiae tRNAPhe to Thermus thermophilus elongation factor Tu (EF-Tu) revealed that much of the specificity for tRNA occurs at the 49–65, 50–64, and 51–63 base pairs. Introducing the same mutations at the three positions into Escherichia coli tRNACAGLeu resulted in similar changes in binding affinity. Swapping the three pairs from several E. coli tRNAs into yeast tRNAPhe resulted in chimeras with EF-Tu binding affinities similar to those for the donor tRNA. Finally, analysis of double- and triple-base-pair mutants of tRNAPhe showed that the thermodynamic contributions at the three sites are additive, permitting reasonably accurate prediction of the EF-Tu binding affinity for all E. coli tRNAs. Thus, it appears that the thermodynamic contributions of three base pairs in the TΨC stem primarily account for tRNA binding specificity to EF-Tu.
+http://www.sciencedirect.com/science/article/pii/S0022283609000564
+00222836

@@ -1,0 +1,6 @@
+EF-G Activation by Phosphate Analogs
+15221550400,56194176700,6602496356
+Ribosome,EF-G,mRNA translocation,GTP hydrolysis,Beryllium fluoride
+Elongation factor G (EF-G) is a universally conserved translational GTPase that promotes the translocation of tRNA and mRNA through the ribosome. EF-G binds to the ribosome in a GTP-bound form and subsequently catalyzes GTP hydrolysis. The contribution of the ribosome-stimulated GTP hydrolysis by EF-G to tRNA/mRNA translocation remains debated. Here, we show that while EF-G•GDP does not stably bind to the ribosome and induce translocation, EF-G•GDP in complex with phosphate group analogs BeF3− and AlF4− promotes the translocation of tRNA and mRNA. Furthermore, the rates of mRNA translocation induced by EF-G in the presence of GTP and a non-hydrolyzable analog of GTP, GDP•BeF3− are similar. Our results are consistent with the model suggesting that GTP hydrolysis is not directly coupled to mRNA/tRNA translocation. Hence, GTP binding is required to induce the activated, translocation-competent conformation of EF-G while GTP hydrolysis triggers EF-G release from the ribosome.
+http://www.sciencedirect.com/science/article/pii/S0022283616300444
+00222836

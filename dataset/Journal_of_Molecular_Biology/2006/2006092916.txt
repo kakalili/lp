@@ -1,0 +1,6 @@
+Uncoupling of a CLC Cl−/H+ Exchange Transporter by Polyatomic Anions
+9636868200,7406258602
+antiporter,coupling,anion binding,chloride channel,CLC
+CLC-ec1 is a bacterial archetype of CLC transporters, a ubiquitous class of proteins that catalyze transmembrane exchange of Cl− and H+ necessary for pH regulation of numerous physiological processes. Despite a profusion of high-resolution structures, the molecular mechanism of exchange remains unknown. Here, we rigorously demonstrate strict exchange stoichiometry of 2 Cl−/1 H+. In addition to Cl− and Br−, two non-halide ions, NO3− and SCN−, are shown to be transported by CLC-ec1, but with reduced H+ counter-transport. The loss of proton coupling to these anions is accompanied by an absence of bound anions in the central and external Cl− binding sites in the protein's anion selectivity region, as revealed by crystallographic comparison of Br− and SeCN− bound to this region.
+http://www.sciencedirect.com/science/article/pii/S002228360600859X
+00222836

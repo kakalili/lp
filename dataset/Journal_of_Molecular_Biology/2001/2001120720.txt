@@ -1,0 +1,6 @@
+Native-state energetics of a thermostabilized variant of ribonuclease HI11Edited by P. E. Wright
+6602816459,7007050019
+protein stability,thermophile,hydrogen exchange,ribonuclease H,cooperativity
+Escherichia coli RNase HI is a well-characterized model system for protein folding and stability. Controlling protein stability is critical for both natural proteins and for the development of engineered proteins that function under extreme conditions. We have used native-state hydrogen exchange on a variant containing the stabilizing mutation Asp10 to alanine in order to determine its residue-specific stabilities. On average, the ΔGunf value for each residue was increased by 2-3 kcal/mol, resulting in a lower relative population of partially unfolded forms. Though increased in stability by a uniform factor, D10A shows a distribution of stabilities in its secondary structural units that is similar to that of E. coli RNase H, but not the closely related protein from Thermus thermophilus. Hence, the simple mutation used to stabilize the enzyme does not recreate the balance of conformational flexibility evolved in the thermophilic protein.
+http://www.sciencedirect.com/science/article/pii/S0022283601951848
+00222836

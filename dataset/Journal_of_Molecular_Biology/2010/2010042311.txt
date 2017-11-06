@@ -1,0 +1,6 @@
+The Effect of Ribosome Assembly Cofactors on In Vitro 30S Subunit Reconstitution
+24463152700,25960984700,7005154266,7403199865
+ribosome assembly,kinetics,Era,RimM,RimP/YhbC
+Ribosome biogenesis is facilitated by a growing list of assembly cofactors, including helicases, GTPases, chaperones, and other proteins, but the specific functions of many of these assembly cofactors are still unclear. The effect of three assembly cofactors on 30S ribosome assembly was determined in vitro using a previously developed mass-spectrometry-based method that monitors the rRNA binding kinetics of ribosomal proteins. The essential GTPase Era caused several late-binding proteins to bind rRNA faster when included in a 30S reconstitution. RimP enabled faster binding of S9 and S19 and inhibited the binding of S12 and S13, perhaps by blocking those proteins' binding sites. RimM caused proteins S5 and S12 to bind dramatically faster. These quantitative kinetic data provide important clues about the roles of these assembly cofactors in the mechanism of 30S biogenesis.
+http://www.sciencedirect.com/science/article/pii/S0022283610002111
+00222836

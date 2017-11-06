@@ -1,0 +1,6 @@
+Nature disfavors sequences of alternating polar and non-polar amino acids: implications for amyloidogenesis11Edited by F. E. Cohen
+8152795600,36487891300
+amyloid,protein aggregation,fibril,protein design,binary patterning
+Recent experiments with combinatorial libraries of de novo proteins have demonstrated that sequences designed to contain polar and non-polar amino acid residues arranged in an alternating pattern form fibrillar structures resembling β-amyloid. This finding prompted us to probe the distribution of alternating patterns in the sequences of natural proteins. Analysis of a database of 250,514 protein sequences (79,708,024 residues) for all possible binary patterns of polar and non-polar amino acid residues revealed that alternating patterns occur significantly less often than other patterns with similar compositions. The under-representation of alternating binary patterns in natural protein sequences, coupled with the observation that such patterns promote amyloid-like structures in de novo proteins, suggests that sequences of alternating polar and non-polar amino acids are inherently amyloidogenic and consequently have been disfavored by evolutionary selection.
+http://www.sciencedirect.com/science/article/pii/S0022283600935149
+00222836

@@ -1,0 +1,6 @@
+Targeted gene transduction of mammalian cells expressing the HER2/neu receptor by filamentous phage11Edited by J. Karn
+57189487944,6507013257,57108782500,7101970914,7007175632,7004644694
+phage display,targeting,HER2/neu receptor,gene delivery,cancer
+Screening a random peptide library displayed on phage as fusion to the major capsid protein pVIII identified a ligand binding the human epidermal growth factor receptor 2 (HER2) specifically. By mutating the sequence of this ligand, a “secondary” library was generated, whose panning on HER2-positive cells isolated a phage-borne peptide with increased specific binding to HER2 (phage NL1.1). The same peptide recognised HER2 specifically when expressed as an N-terminal fusion to the minor coat protein pIII. Phage NL1.1 was engineered to include a mammalian expression cassette for a reporter gene within its genome. This modified phage transduced HER2-expressing cells with very high specificity (more than 1000-fold that of parental HER2-negative cells) and with an efficiency comparable to that of chemical transfection protocols. The gene delivery process was remarkably fast, requiring less than 15 minutes incubation of phage with target cells to generate detectable levels of gene expression.
+http://www.sciencedirect.com/science/article/pii/S0022283601951113
+00222836

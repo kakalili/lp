@@ -1,0 +1,6 @@
+Protein S20 Binds Two 16S rRNA Sites as Assembly Is Initiated
+36672914600,7202970668
+assembly,dynamics,16S rRNA,S20,ribosome
+Ribosomal protein S20 is a primary binding protein that bridges the 5′ domain and the 3′ minor domain of the 16S ribosomal RNA (rRNA) in the 30S ribosomal subunit. Using time-dependent dimethyl sulfate modification, we have determined that as it is bound to 16S rRNA, protein S20 causes rapid protection of bases A246, A274, A279, and A282 in the stem region of helix 11 in the 5′ domain and moderately fast modifications of helix 44 bases A1433 and A1434 in the 3′ minor domain. At a later time, enhancements occur with bases A181and A190 in helix 9, bases A325 and A327 in helix 13, and base C264 at the distal end of helix 11 in the 5′ domain of 16S rRNA. The modifications that occur in the stem region of helix 11 are distant from the binding site of protein S20, as determined from the crystal structure. Simultaneous addition of protein S17 with S20 to the complex significantly alters the modifications caused by protein S20 in the stem region of helix 11 but does not alter the remaining modifications. Our results indicate that protein S20 is binding to at least two alternate 16S rRNA sites during the early assembly process.
+http://www.sciencedirect.com/science/article/pii/S002228361000690X
+00222836

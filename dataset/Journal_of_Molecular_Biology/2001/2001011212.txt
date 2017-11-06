@@ -1,0 +1,6 @@
+A Novel Method for Sampling Alpha-helical Protein Backbones
+7004002849,35599984200
+proteins,helices,decoys,core
+We present a novel technique of sampling the configurations of helical proteins. Assuming knowledge of native secondary structure, we employ assembly rules gathered from a database of existing structures to enumerate the geometrically possible three-dimensional arrangements of the constituent helices. We produce a library of possible folds for 25 helical protein cores. In each case, our method finds significant numbers of conformations close to the native structure. In addition, we assign coordinates to all atoms for four of the 25 proteins and show that this has a small effect on the number of near-native conformations. In the context of database driven exhaustive enumeration our method performs extremely well, yielding significant percentages of conformations (between 0.02% and 82%) within 6Å of the native structure. The method's speed and efficiency make it a valuable tool for predicting protein structure.
+http://www.sciencedirect.com/science/article/pii/S0022283600942906
+00222836

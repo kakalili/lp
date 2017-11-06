@@ -1,0 +1,6 @@
+The MCM Helicase Motor of the Eukaryotic Replisome
+56707545400,7401876385
+MCM helicase,DNA replication,AAA+ ATPase,replication origin activation,molecular motor
+The MCM motor of the CMG helicase powers ahead of the eukaryotic replication machinery to unwind DNA, in a process that requires ATP hydrolysis. The reconstitution of DNA replication in vitro has established the succession of events that lead to replication origin activation by the MCM and recent studies have started to elucidate the structural basis of duplex DNA unwinding. Despite the exciting progress, how the MCM translocates on DNA remains a matter of debate.
+http://www.sciencedirect.com/science/article/pii/S0022283616000437
+00222836

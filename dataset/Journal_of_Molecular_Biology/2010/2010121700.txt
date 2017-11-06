@@ -1,0 +1,6 @@
+Molecular Mechanisms Modulating Glutamate Kinase Activity. Identification of the Proline Feedback Inhibitor Binding Site
+6508146317,35572854700,35549924800,24826577100
+docking,enzyme inhibition,glutamate kinase,pyrroline-5-carboxylate synthase,proline
+Proline, the feedback inhibitor of bacterial glutamate kinase (GK) and plant pyrroline-5-carboxylate synthase (P5CS) enzymes, is a key regulator of the osmotic and redox balance of cells. Using kinetic assays, site-directed mutagenesis, structure–activity analyses, and docking calculations, we have identified the binding site of this metabolite in three-dimensional structures of Escherichia coli and Campylobacter jejuni GKs. The proline-binding cavity partially overlaps with the glutamate substrate site, and the interaction of both proline and glutamate with GK is modulated by a flexible, 16-residue loop linking β-sheet 4 and α-helix E in the active-center cavity. This loop is also critical for regulation of plant and human P5CSs. Furthermore, our results indicate that the functional unit of the E. coli enzyme is dimeric and contains an intermolecular hydrogen-bond network that interconnects the active-center cavities of the monomers and is important for substrate binding.
+http://www.sciencedirect.com/science/article/pii/S0022283610011277
+00222836

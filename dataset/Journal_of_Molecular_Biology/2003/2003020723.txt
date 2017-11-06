@@ -1,0 +1,6 @@
+Structure and Catalytic Mechanism of the Cytosolic d-Ribulose-5-phosphate 3-Epimerase from Rice
+6508219866,7003739536,6701660902,35480103800
+amphibolic enzymes,methionine at zinc ion,oxidative pentose phosphate pathway,X-ray diffraction,zinc binding site
+Cytosolic d-ribulose-5-phosphate 3-epimerase from rice was crystallized after EDTA treatment and structurally elucidated by X-ray diffraction to 1.9Å resolution. A prominent Zn2+ site at the active center was established in a soaking experiment. The structure was compared with that of the EDTA-treated crystalline enzyme from the chloroplasts of potato plant leaves showing some structural differences, in particular the “closed” state of a strongly conserved mobile loop covering the substrate at its putative binding site. The previous proposal for the active center was confirmed and the most likely substrate binding position and conformation was derived from the locations of the bound zinc and sulfate ions and of three water molecules. Assuming that the bound zinc ion is an integral part of the enzyme, a reaction mechanism involving a well-stabilized cis-enediolate intermediate is suggested.
+http://www.sciencedirect.com/science/article/pii/S0022283602013748
+00222836

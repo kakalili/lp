@@ -1,0 +1,6 @@
+Human Polynucleotide Phosphorylase, hPNPase, is Localized in Mitochondria
+6603459997,6504170021,6602879453,6603694195,6603308563,7004248292
+mitochondria,polynucleotide phosphorylase,PNPase,RNA degradation
+The human gene encoding a polynucleotide phosphorylase (hPNPase) has been recently identified as strongly up-regulated in two processes leading to irreversible arrest of cell division: progeroid senescence and terminal differentiation. Here, we demonstrate that the hPNPase is localized in mitochondria. Our finding suggests the involvement of mitochondrial RNA metabolism in cellular senescence.
+http://www.sciencedirect.com/science/article/pii/S002228360300528X
+00222836

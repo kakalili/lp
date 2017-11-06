@@ -1,0 +1,6 @@
+Structural Basis for Myopathic Defects Engendered by Alterations in the Myosin Rod
+13008040700,36196927000,7004405861,55971685300,7004413420,7201589050
+electron microscopy,molecular dynamics,myopathy,myosin
+While mutations in the myosin subfragment 1 motor domain can directly disrupt the generation and transmission of force along myofibrils and lead to myopathy, the mechanism whereby mutations in the myosin rod influences mechanical function is less clear. Here, we used a combination of various imaging techniques and molecular dynamics simulations to test the hypothesis that perturbations in the myosin rod can disturb normal sarcomeric uniformity and, like motor domain lesions, would influence force production and propagation. We show that disrupting the rod can alter its nanomechanical properties and, in vivo, can drive asymmetric myofilament and sarcomere formation. Our imaging results indicate that myosin rod mutations likely disturb production and/or propagation of contractile force. This provides a unifying theory where common pathological cascades accompany both myosin motor and specific rod domain mutations. Finally, we suggest that sarcomeric inhomogeneity, caused by asymmetric thick filaments, could be a useful index of myopathic dysfunction.
+http://www.sciencedirect.com/science/article/pii/S0022283611011430
+00222836

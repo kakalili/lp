@@ -1,0 +1,6 @@
+A ph controlled conformational switch in the cleavage site of the VS ribozyme substrate RNA11Edited by I. Tinoco
+6602293874,6701475384
+VS ribozyme,tandem G·A base-pairs,RNA structure,NMR,protonated adenine
+The VS ribozyme is a 154 nucleotide sequence found in certain natural strains of Neurospora. The RNA can be divided into a substrate and a catalytic domain. Here we present the solution structure of the substrate RNA that is cleaved in a trans reaction by the catalytic domain in the presence of Mg2+. The 30 nucleotide substrate RNA forms a compact helix capped by a flexible loop. The cleavage site bulge contains three non-canonical base-pairs, including an A+·C pair with a protonated adenine. This adenine (A622) is a pH controlled conformational switch that opens up the internal loop at higher pH. The possible significance of this switch for substrate recognition and cleavage is discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283601946273
+00222836

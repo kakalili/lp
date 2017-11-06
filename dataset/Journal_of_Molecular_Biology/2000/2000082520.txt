@@ -1,0 +1,6 @@
+Membrane-induced conformational change during the activation of HIV-1 gp4111Edited by A. R. Fersht
+6602348305,6602949002,35497971800,7006584926
+HIV-1 gp41,membrane fusion,helix-helix interaction
+The human immunodeficiency virus type 1 gp41 ectodomain forms a three-hairpin protease-resistant core in the absence of membranes, namely, the putative gp41 fusion-active state. Here, we show that recombinant proteins corresponding to the ectodomain of gp41, but lacking the fusion peptide, bind membranes and consequently undergo a major conformational change. As a result, the protease-resistant core becomes susceptible to proteolytic digestion. Accordingly, synthetic peptides corresponding to the segments that construct this core bind the membrane. It is remarkable that the hetero-oligomer formed by these peptides dissociates upon binding to the membrane. These results are consistent with a model in which, after the three-hairpin conformation is formed, membrane binding induces opening of the gp41 core complex. We speculate that binding of the segments that constructed the core to the viral and cellular membranes could bring the membranes closer together and facilitate their merging.
+http://www.sciencedirect.com/science/article/pii/S002228360094004X
+00222836

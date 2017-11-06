@@ -1,0 +1,6 @@
+Structural diversity of ex vivo amyloid fibrils studied by cryo-electron microscopy11Edited by M. F. Moody
+55936287500,7003350511,56848974700,35492295700
+amyloid fibrils,apoli poprotein A1,lysozyme,single particle analysis
+Cryo-electron microscopy studies are presented on amyloid fibrils isolated from amyloidotic organs of two patients with different forms of hereditary non-neuropathic systemic amyloidosis, caused, respectively, by Leu60Arg apolipoprotein AI and Asp67His lysozyme. Although ex vivo amyloid fibrils were thought to be more uniform in structure than those assembled in vitro, our findings show that these fibrils are also quite variable in structure. Structural disorder and variability of the fibrils have precluded three-dimensional reconstruction, but averaged cryo-electron microscopy images suggest models for protofilament packing in the lysozyme fibrils. We conclude that ex vivo amyloid fibrils, although variable, assemble as characteristic structures according to the identity of the precursor protein.
+http://www.sciencedirect.com/science/article/pii/S0022283601948636
+00222836

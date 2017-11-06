@@ -1,0 +1,6 @@
+Crystal Structure of Human Filamin C Domain 23 and Small Angle Scattering Model for Filamin C 23–24 Dimer
+8204286100,24172646100,16231926800,6601921039,56264616800,7102618271,6603249113,18134896800,7003271553,56618154900
+filamin C dimer architecture,F-actin based cytoskeleton,Ig-like domain,macromolecular crystallography,small-angle X-ray scattering
+Filamin C is a dimeric, actin-binding protein involved in organization of cortical cytoskeleton and of the sarcomere. We performed crystallographic, small-angle X-ray scattering and analytical ultracentrifugation experiments on the constructs containing carboxy-terminal domains of the protein (domains 23–24 and 19–21). The crystal structure of domain 23 of filamin C showed that the protein adopts the expected immunoglobulin (Ig)-like fold. Small-angle X-ray scattering experiments performed on filamin C tandem Ig-like domains 23 and 24 reveal a dimer that is formed by domain 24 and that domain 23 has little interactions with itself or with domain 24, while the analytical ultracentrifugation experiments showed that the filamin C domains 19–21 form elongated monomers in diluted solutions.
+http://www.sciencedirect.com/science/article/pii/S0022283607001994
+00222836

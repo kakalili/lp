@@ -1,0 +1,6 @@
+Molecular Mechanism of the Interaction between MDM2 and p53
+57190147990,6603739256,7005973731,55637847000,36043863300
+phosphorylation,NMR,peptide
+We have investigated the kinetic and thermodynamic basis of the p53–MDM2 interaction using a set of peptides based on residues 15–29 of p53. Wild-type p53 peptide bound MDM2 with a dissociation constant of 580nM. Phosphorylation of S15 and S20 did not affect binding, but T18 phosphorylation weakened binding tenfold, indicating that phosphorylation of only T18 is responsible for abrogating p53–MDM2 binding. Truncation to residues 17–26 increased affinity 13-fold, but further truncation to 19–26 abolished binding. NMR studies of the binding of the p53-derived peptides revealed global conformational changes of the overall structure of MDM2, stretching far beyond the binding cleft, indicating significant changes in the domain dynamics of MDM2 upon ligand binding.
+http://www.sciencedirect.com/science/article/pii/S0022283602008525
+00222836

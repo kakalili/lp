@@ -1,0 +1,6 @@
+Crystal Structure of Human Pyrroline-5-carboxylate Reductase
+13407082800,7101735895,54395663200,56908431300,7407576735,6701775559,7102549060
+human P5CR,crystal structure,decamer,thermostability,thioproline oxidation
+Pyrroline-5-carboxylate reductase (P5CR) is a universal housekeeping enzyme that catalyzes the reduction of Δ1-pyrroline-5-carboxylate (P5C) to proline using NAD(P)H as the cofactor. The enzymatic cycle between P5C and proline is very important for the regulation of amino acid metabolism, intracellular redox potential, and apoptosis. Here, we present the 2.8 Å resolution structure of the P5CR apo enzyme, its 3.1 Å resolution ternary complex with NAD(P)H and substrate-analog. The refined structures demonstrate a decameric architecture with five homodimer subunits and ten catalytic sites arranged around a peripheral circular groove. Mutagenesis and kinetic studies reveal the pivotal roles of the dinucleotide-binding Rossmann motif and residue Glu221 in the human enzyme. Human P5CR is thermostable and the crystals were grown at 37 °C. The enzyme is implicated in oxidation of the anti-tumor drug thioproline.
+http://www.sciencedirect.com/science/article/pii/S0022283606005328
+00222836

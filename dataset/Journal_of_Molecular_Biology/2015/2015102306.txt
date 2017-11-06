@@ -1,0 +1,6 @@
+Using Transcriptional Signatures to Assess Immune Cell Function: From Basic Mechanisms to Immune-Related Disease
+24577878300,56652181200,24922786000,7101794848,12795061300,6603348150
+transcriptional signature,immunology,immune mediated disease,system biology
+Assessing human immune response remains a challenge as it involves multiple cell types in specific tissues. The use of microarray-based expression profiling as a tool for assessing the immune response has grown increasingly over the past decade. Transcriptome analyses provide investigators with a global perspective of the complex molecular and cellular events that unfold during the development of an immune response. In this review, we will detail the broad use of gene expression profiling to decipher the complexity of immune responses from disease biomarkers identification to cell activation, polarisation or functional specialisation. We will also describe how such data-driven strategies revealed the flexibility of immune function with common and specific transcriptional programme under multiple stimuli.
+http://www.sciencedirect.com/science/article/pii/S0022283615002909
+00222836

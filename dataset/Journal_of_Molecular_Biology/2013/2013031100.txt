@@ -1,0 +1,6 @@
+Metastasis-Promoting Anterior Gradient 2 Protein Has a Dimeric Thioredoxin Fold Structure and a Role in Cell Adhesion
+54407349800,7401438215,24281125500,22234127700,7005509037,7007008737,7005156195
+adhesion,AGR2,dimer,NMR,thioredoxin
+Anterior gradient 2 (AGR2) is a normal endoplasmic reticulum protein that has two important abnormal functions, amphibian limb regeneration and human cancer metastasis promotion. These normal intracellular and abnormal extracellular roles can be attributed to the multidomain structure of AGR2. The NMR structure shows that AGR2 consists of an unstructured N-terminal region followed by a thioredoxin fold. The protein exists in monomer–dimer equilibrium with a Kd of 8.83μM, and intermolecular salt bridges involving E60 and K64 within the folded domain serve to stabilize the dimer. The unstructured region is primarily responsible for the ability of AGR2 to promote cell adhesion, while dimerization is less important for this activity. The structural data of AGR2 show a separation between potential catalytic redox activity and adhesion function within the context of metastasis and development.
+http://www.sciencedirect.com/science/article/pii/S0022283612009424
+00222836

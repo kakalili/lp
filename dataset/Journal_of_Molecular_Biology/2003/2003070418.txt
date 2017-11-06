@@ -1,0 +1,6 @@
+In Silico Prediction of the Peroxisomal Proteome in Fungi, Plants and Animals
+6602300135,7003471235,7102118731,6602593938
+peroxisome,proteome,prediction,protein sorting,subcellular location
+In an attempt to improve our abilities to predict peroxisomal proteins, we have combined machine-learning techniques for analyzing peroxisomal targeting signals (PTS1) with domain-based cross-species comparisons between eight eukaryotic genomes. Our results indicate that this combined approach has a significantly higher specificity than earlier attempts to predict peroxisomal localization, without a loss in sensitivity. This allowed us to predict 430 peroxisomal proteins that almost completely lack a localization annotation. These proteins can be grouped into 29 families covering most of the known steps in all known peroxisomal pathways. In general, plants have the highest number of predicted peroxisomal proteins, and fungi the smallest number.
+http://www.sciencedirect.com/science/article/pii/S0022283603005539
+00222836

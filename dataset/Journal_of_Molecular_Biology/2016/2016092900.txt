@@ -1,0 +1,6 @@
+DNA-Damage Response RNA-Binding Proteins (DDRBPs): Perspectives from a New Class of Proteins and Their RNA Targets
+6603100191,56029666500
+genotoxic stress,DNA repair,noncoding RNA,post-transcriptional regulation,chromatin modification
+Upon DNA damage, cells trigger an early DNA-damage response (DDR) involving DNA repair and cell cycle checkpoints, and late responses involving gene expression regulation that determine cell fate. Screens for genes involved in the DDR have found many RNA-binding proteins (RBPs), while screens for novel RBPs have identified DDR proteins. An increasing number of RBPs are involved in early and/or late DDR. We propose to call this new class of actors of the DDR, which contain an RNA-binding activity, DNA-damage response RNA-binding proteins (DDRBPs). We then discuss how DDRBPs contribute not only to gene expression regulation in the late DDR but also to early DDR signaling, DNA repair, and chromatin modifications at DNA-damage sites through interactions with both long and short noncoding RNAs.
+http://www.sciencedirect.com/science/article/pii/S0022283616303990
+00222836

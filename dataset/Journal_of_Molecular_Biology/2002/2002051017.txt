@@ -1,0 +1,6 @@
+Sequence Conservation in Ig-like Domains: The Role of Highly Conserved Proline Residues in the Fibronectin Type III Superfamily
+7005434440,7102888605,7403197330
+fibronectin type III,proline,protein stability,protein folding,domain–domain interactions
+The role of conserved proline residues in fibronectin type III (fnIII) domains is investigated. Surprisingly, none of the standard set of explanations for residue conservation applies. The proline residues are not apparently conserved for function, or stability, or to nucleate folding, or to promote stabilising interactions across domain boundaries. However, when the most highly conserved proline residues are mutated to alanine there is an increase in the rate of aggregation of a fnIII double-module construct. The results suggest that proline residues may be conserved at domain–domain boundaries in fnIII domains to prevent aggregation in multi-modular proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283602001845
+00222836

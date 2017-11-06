@@ -1,0 +1,6 @@
+Multiple APOBEC3 Restriction Factors for HIV-1 and One Vif to Rule Them All
+36019868500,56080350200,35777422200,56079910800,36622906700,7103235578
+APOBEC3G,APOBEC3F,APOBEC3H,Vif,restriction factor
+Several members of the APOBEC3 family of cellular restriction factors provide intrinsic immunity to the host against viral infection. Specifically, APOBEC3DE, APOBEC3F, APOBEC3G, and APOBEC3H haplotypes II, V, and VII provide protection against HIV-1Δvif through hypermutation of the viral genome, inhibition of reverse transcription, and inhibition of viral DNA integration into the host genome. HIV-1 counteracts APOBEC3 proteins by encoding the viral protein Vif, which contains distinct domains that specifically interact with these APOBEC3 proteins to ensure their proteasomal degradation, allowing virus replication to proceed. Here, we review our current understanding of APOBEC3 structure, editing and non-editing mechanisms of APOBEC3-mediated restriction, Vif-APOBEC3 interactions that trigger APOBEC3 degradation, and the contribution of APOBEC3 proteins to restriction and control of HIV-1 replication in infected patients.
+http://www.sciencedirect.com/science/article/pii/S0022283613006906
+00222836

@@ -1,0 +1,6 @@
+Active-Site Mobility Revealed by the Crystal Structure of Arylmalonate Decarboxylase from Bordetella bronchiseptica
+6507359889,15519476900,35083744700,6507869221,6701364547
+AMDase,decarboxylation,X-ray crystallography,protein dynamics,biocatalysis
+Arylmalonate decarboxylase (AMDase) from Bordetella bronchiseptica catalyzes the enantioselective decarboxylation of arylmethylmalonates without the need for an organic cofactor or metal ion. The decarboxylation reaction is of interest for the synthesis of fine chemicals. As basis for an analysis of the catalytic mechanism of AMDase and for a rational enzyme design, we determined the X-ray structure of the enzyme up to 1.9 Å resolution. Like the distantly related aspartate or glutamate racemases, AMDase has an aspartate transcarbamoylase fold consisting of two α/β domains related by a pseudo dyad. However, the domain orientation of AMDase differs by about 30° from that of the glutamate racemases, and also significant differences in active-site structures are observed. In the crystals, four independent subunits showing different conformations of active-site loops are present. This finding is likely to reflect the active-site mobility necessary for catalytic activity.
+http://www.sciencedirect.com/science/article/pii/S0022283607017184
+00222836

@@ -1,0 +1,6 @@
+Pathogenic Cysteine Removal Mutations in FGFR Extracellular Domains Stabilize Receptor Dimers and Perturb the TM Dimer Structure
+16053538000,6604083257
+FGFR,cysteine mutation,disulfide bond,dimer stability,structural change
+Missense mutations that introduce or remove cysteine residues in receptor tyrosine kinases are believed to cause pathologies by stabilizing the active receptor tyrosine kinase dimers. However, the magnitude of this stabilizing effect has not been measured for full-length receptors. Here, we characterize the dimer stabilities of three full-length fibroblast growth factor receptor (FGFR) mutants harboring pathogenic cysteine substitutions: the C178S FGFR1 mutant, the C342R FGFR2 mutant, and the C228R FGFR3 mutant. We find that the three mutations stabilize the FGFR dimers. We further see that the mutations alter the configuration of the FGFR transmembrane dimers. Thus, both aberrant dimerization and perturbed dimer structure likely contribute to the pathological phenotypes arising due to these mutations.
+http://www.sciencedirect.com/science/article/pii/S0022283616303461
+00222836

@@ -1,0 +1,6 @@
+Mammalian Mitochondrial DNA Replication Intermediates Are Essentially Duplex but Contain Extensive Tracts of RNA/DNA Hybrid
+15726250300,8602443000,35747282000,56171897700,7005494583,7202275622,26535556000,15065093900,15725222100,6602561179,24725630600,36064657200,6701628756,35395845600,8949296100,35416295400,7004330316
+DNA replication,mitochondrial DNA,RNA/DNA hybrid,electrophoresis,electron microscopy
+We demonstrate, using transmission electron microscopy and immunopurification with an antibody specific for RNA/DNA hybrid, that intact mitochondrial DNA replication intermediates are essentially duplex throughout their length but contain extensive RNA tracts on one strand. However, the extent of preservation of RNA in such molecules is highly dependent on the preparative method used. These findings strongly support the strand-coupled model of mitochondrial DNA replication involving RNA incorporation throughout the lagging strand.
+http://www.sciencedirect.com/science/article/pii/S0022283610001944
+00222836

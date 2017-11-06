@@ -1,0 +1,6 @@
+Limb Patterning: From Signaling Gradients to Molecular Oscillations
+6504257550,7103114918,6603305227
+fibroblast growth factors,sonic hedgehog,retinoic acid,molecular clock,limb pattern formation
+The developing forelimb is patterned along the proximal–distal and anterior–posterior axes by opposing gradients of retinoic acid and fibroblast growth factors and by graded sonic hedgehog signaling, respectively. However, how coordinated patterning along both axes is accomplished with temporal precision remains unknown. The limb molecular oscillator hairy2 was recently shown to be a direct readout of the combined signaling activities of retinoic acid, fibroblast growth factor and sonic hedgehog in the limb mesenchyme. Herein, an integrated time-space model is presented to conciliate the progress zone and two-signal models for limb patterning. We propose that the limb clock may allow temporal information to be decoded into positional information when the distance between opposing signaling gradients is no longer sufficient to provide distinct cell fate specification.
+http://www.sciencedirect.com/science/article/pii/S002228361300733X
+00222836

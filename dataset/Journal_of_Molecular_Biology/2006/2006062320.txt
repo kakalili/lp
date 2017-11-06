@@ -1,0 +1,6 @@
+Interplay between the β′ Clamp and the β′ Jaw Domains during DNA Opening by the Bacterial RNA Polymerase at σ54-dependent Promoters
+6603419344,6504375614,7005509332,7201363666
+RNA polymerase,sigma factors,DNA opening,T7 gene protein (gp2),promoter stability
+The bacterial RNA polymerase (RNAP) is a multi-subunit, structurally flexible, complex molecular machine, in which activities associated with DNA opening for transcription-competent open promoter complex (OC) formation reside in the catalytic β and β′ subunits and the dissociable σ subunit. OC formation is a multi-step process that involves several structurally conserved mobile modules of β, β′, and σ. Here, we present evidence that two flexible modules of β′, the β′ jaw and the β′ clamp and a conserved regulatory Region I domain of σ54, jointly contribute to the maintenance of stable DNA strand separation around the trancription start site in OCs formed at σ54-dependent promoters. Clearly, regulated interplay between the mobile modules of the β′ and the σ subunits of the RNAP appears to be necessary for stable OC formation.
+http://www.sciencedirect.com/science/article/pii/S0022283606005493
+00222836

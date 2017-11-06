@@ -1,0 +1,6 @@
+The Malignant Brain Tumor Repeats of Human SCML2 Bind to Peptides Containing Monomethylated Lysine
+6603310983,24822964100,7404105591,6508367788,8516197400,55637847000,7005973731
+chromatin,transcription,epigenetics,PRC1
+SCML2 (sex comb on midleg-like 2) is a constituent of the Polycomb repressive complex 1, a large multiprotein assembly required for the repression of developmental control genes. It contains two MBT (malignant brain tumor) repeats; the MBT is a protein module structurally similar to domains that bind to methylated histones. We have used NMR spectroscopy to examine the binding specificity of these repeats. Our data show that they preferentially bind histone peptides monomethylated at lysine residues with no apparent sequence specificity. The crystal structure of the complex between the protein and monomethyllysine reveals that the modified amino acid binds to an aromatic rich pocket at one end of the β-barrel of the second repeat.
+http://www.sciencedirect.com/science/article/pii/S0022283608009509
+00222836

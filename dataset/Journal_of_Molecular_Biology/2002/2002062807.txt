@@ -1,0 +1,6 @@
+Mechanism of Action of the Escherichia coli Phage Shock Protein PspA in Repression of the AAA Family Transcription Factor PspF
+6507729280,35509770600,55704151200,6603689075,7201363666
+AAA+ proteins,NtrC,σ54,RNA polymerase,PspA
+The PspA protein, a negative regulator of the Escherichia coli phage shock psp operon, is produced when virulence factors are exported through secretins in many Gram-negative pathogenic bacteria and its homologue in plants, VIPP1, plays a critical role in thylakoid biogenesis, essential for photosynthesis. Activation of transcription by the enhancer-dependent bacterial σ54 containing RNA polymerase occurs through ATP hydrolysis-driven protein conformational changes enabled by activator proteins that belong to the large AAA+ mechanochemical protein family. We show that PspA directly and specifically acts upon and binds to the AAA+ domain of the PspF transcription activator. Interactions involving PspF and nucleotide are changed by the action of PspA. These changes and the complexes that form between PspF and PspA can explain how PspA exerts its negative effects upon transcription activated by PspF, and are of significance when considering how activities of other AAA+ proteins might be controlled.
+http://www.sciencedirect.com/science/article/pii/S0022283602004047
+00222836

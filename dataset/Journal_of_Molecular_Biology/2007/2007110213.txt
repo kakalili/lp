@@ -1,0 +1,6 @@
+Structure and Mechanism of HpcH: A Metal Ion Dependent Class II Aldolase from the Homoprotocatechuate Degradation Pathway of Escherichia coli
+7103391908,7005888702,7006795810,7006317297
+homoprotocatechuate,aromatic degradation,ldolase,Crystal Structure,Catalytic Mechanism
+Microorganisms are adept at degrading chemically resistant aromatic compounds. One of the longest and most well characterized aromatic catabolic pathways is the 4-hydroxyphenylacetic acid degradation pathway of Escherichia coli. The final step involves the conversion of 4-hydroxy-2-oxo-heptane-1,7-dioate into pyruvate and succinic semialdehyde. This reaction is catalyzed by 4-hydroxy-2-oxo-heptane-1,7-dioate aldolase (HpcH), a member of the divalent metal ion dependent class II aldolase enzymes that have great biosynthetic potential. We have solved the crystal structure of HpcH in the apo form, and with magnesium and the substrate analogue oxamate bound, to 1.6 Å and 2.0 Å, respectively. Comparison with similar structures of the homologous 2-dehydro-3-deoxygalactarate aldolase, coupled with site-directed mutagenesis data, implicate histidine 45 and arginine 70 as key catalytic residues.
+http://www.sciencedirect.com/science/article/pii/S0022283607008431
+00222836

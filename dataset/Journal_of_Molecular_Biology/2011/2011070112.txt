@@ -1,0 +1,6 @@
+Multiple POT1–TPP1 Proteins Coat and Compact Long Telomeric Single-Stranded DNA
+7406867340,6602001213,7006861729,7102774242
+telomeres,telomerase,POT1,TPP1
+Telomeres are nucleoprotein complexes that cap and protect the ends of linear chromosomes. In humans, telomeres end in 50–300 nt of G-rich single-stranded DNA (ssDNA) overhangs. Protection of telomeres 1 (POT1) binds with nanomolar affinity to the ssDNA overhangs and forms a dimer with another telomere-end binding protein called TPP1. Whereas most previous studies utilized telomeric oligonucleotides comprising single POT1–TPP1 binding sites, here, we examined 72- to 144-nt tracts of telomeric DNA containing 6–12 POT1–TPP1 binding sites. Using electrophoretic mobility gel shift assays, size-exclusion chromatography, and electron microscopy, we analyzed telomeric nucleoprotein complexes containing POT1 alone, POT1–TPP1, and a truncated version of POT1 (POT1-N) that maintains its DNA-binding domain. The results revealed that POT1-N and POT1–TPP1 can completely coat long telomeric ssDNA substrates. Furthermore, we show that ssDNA coated with human POT1–TPP1 heterodimers forms compact, potentially ordered structures.
+http://www.sciencedirect.com/science/article/pii/S0022283611004827
+00222836

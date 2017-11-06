@@ -1,0 +1,6 @@
+A General Computational Approach for Repeat Protein Design
+56243047200,56477844500,7003642963,7102017075,16481120100,55428799600,36673921700,15769909000,37038040600,23091079500,7006477241,56478005700,55463548900
+repeat proteins,computational design,thermodynamic stability,idealized proteins,de novo design
+Repeat proteins have considerable potential for use as modular binding reagents or biomaterials in biomedical and nanotechnology applications. Here we describe a general computational method for building idealized repeats that integrates available family sequences and structural information with Rosetta de novo protein design calculations. Idealized designs from six different repeat families were generated and experimentally characterized; 80% of the proteins were expressed and soluble and more than 40% were folded and monomeric with high thermal stability. Crystal structures determined for members of three families are within 1Å root-mean-square deviation to the design models. The method provides a general approach for fast and reliable generation of stable modular repeat protein scaffolds.
+http://www.sciencedirect.com/science/article/pii/S0022283614005828
+00222836

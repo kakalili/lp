@@ -1,0 +1,6 @@
+AKAP149 Binds to HIV-1 Reverse Transcriptase and Is Involved in the Reverse Transcription
+9634554200,24462146100,6602618017,6602276286,6506349965,16181243000,7005821923,56277753500,7405258983
+AKAP149,reverse transcriptase,HIV-1,PKA,siRNA,mutagenesis
+Like all retroviruses, human immunodeficiency virus type 1 (HIV-1) undergoes reverse transcription during its replication cycle. The cellular cofactors potentially involved in this process still remain to be identified. We show here that A-kinase anchoring protein 149 (AKAP149) interacts with HIV-1 reverse transcriptase (RT) in both the yeast two-hybrid system and human cells. The AKAP149 binding site has been mapped to the RNase H domain of HIV-1 RT. AKAP149 silencing by RNA interference in HIV-1-infected cells inhibited viral replication at the reverse transcription step. We selected single-point mutants of RT defective for AKAP149 binding and demonstrated that mutant G462R, despite retaining significant intrinsic RT activity in vitro, failed to carry out HIV-1 reverse transcription correctly in infected cells. This suggests that the interaction between RT and AKAP149 in infected cells may play an important role in HIV-1 reverse transcription.
+http://www.sciencedirect.com/science/article/pii/S0022283608010577
+00222836

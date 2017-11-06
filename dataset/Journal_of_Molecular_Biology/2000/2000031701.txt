@@ -1,0 +1,6 @@
+Variable zinc coordination in endostatin11Edited by R. Huber
+7004515782,7407396809,7401839463,56232530600
+angiogenesis,tumour growth,collagen,metal binding,mutagenesis
+Endostatin is a proteolytic fragment of collagen XVIII that potently inhibits angiogenesis and tumour growth. Human endostatin contains a zinc ion, bound near the N terminus, which was not observed in the original structure of mouse endostatin at pH 5. Controversial data exist on the role of this zinc ion in the anti-tumour activity. We report two new crystal structures of mouse endostatin at pH 8.5 with bound zinc. One crystal form shows a metal ion coordination similar to that in human endostatin (His132, His134, His142, Asp207), but the conformation of the N-terminal segment is different. In the other crystal form, Asp136 replaces His132 as a zinc ligand. Site-directed mutagenesis of zinc-binding residues demonstrates that both coordination geometries occur in solution. The large degree of structural heterogeneity of the zinc-binding site has implications for endostatin function. We conclude that zinc is likely to play a structural rather than a critical functional role in endostatin.
+http://www.sciencedirect.com/science/article/pii/S0022283600935538
+00222836

@@ -1,0 +1,6 @@
+Gene Silencing by Systemic Delivery of Synthetic siRNAs in Adult Mice
+7101972054,6603410451,7005641233
+RNA interference,small interfering RNA,gene silencing,TNF-α,antisense RNA
+In mammalian cells, RNA duplexes of 21–23 nucleotides, known as small interfering RNAs (siRNAs) specifically inhibit gene expression in vitro. Here, we show that systemic delivery of siRNAs can inhibited exogenous and endogenous gene expression in adult mice. Cationic liposome-based intravenous injection in mice of plasmid encoding the green fluorescent protein (GFP) with its cognate siRNA, inhibited GFP gene expression in various organs. Furthermore, intraperitoneal injection of anti-TNF-α siRNA inhibited lipopolysaccharide-induced TNF-α gene expression, whereas secretion of IL1-α was not inhibited. Importantly, the development of sepsis in mice following a lethal dose of lipopolysaccharide injection, was significantly inhibited by pre-treatment of the animals with anti-TNF-α siRNAs. Collectively, these results demonstrate that synthetic siRNAs can function in vivo as pharmaceutical drugs.
+http://www.sciencedirect.com/science/article/pii/S0022283603001815
+00222836

@@ -1,0 +1,6 @@
+Correlated motions in native proteins from MS analysis of NH exchange: evidence for a manifold of unfolding reactions in ovomucoid third domain11Edited by P. E. Wright
+9744158200,7403044404
+ensembles,protein unfolding,hydrogen exchange,electrospray mass spectrometry,ovomucoid third domain
+Native-state amide hydrogen exchange monitored by NMR spectroscopy and mass spectrometry (MS) has the potential to provide detailed residue-level information regarding correlated motions occurring on the microseconds to seconds timescale. To expand the applicability of MS to these studies, a new algorithm has been developed to interpret MS data for exchange occurring between the EX2 and EX1 kinetic limits. Re-interpretation of MS data for ovomucoid third domain reveals multiple unfolding or partial unfolding reactions.
+http://www.sciencedirect.com/science/article/pii/S0022283600938592
+00222836

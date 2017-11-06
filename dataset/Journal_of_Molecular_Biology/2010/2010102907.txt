@@ -1,0 +1,6 @@
+Power Law Distribution Defines Structural Disorder as a Structural Element Directly Linked with Function
+7004050821,36853583800
+intrinsically disordered protein,scale-free,secondary structure,tertiary structure
+Although intrinsically disordered proteins are prevalent and functionally important, it has never been asked whether structural disorder should be considered as a separate structural category on its own or merely as a lack of secondary and/or tertiary structure. We address this issue by showing that its length distribution in the human proteome follows a power law, with many short regions but also a significant incidence of very long disordered regions. This behavior is in sharp contrast with that of conventional secondary structural elements and is highly reminiscent of the distribution of tertiary structural units in proteins. We interpret this finding by the direct functional involvement of disorder, which distinguishes it from secondary structural elements and endows it with tertiary structural attributes.
+http://www.sciencedirect.com/science/article/pii/S002228361000820X
+00222836

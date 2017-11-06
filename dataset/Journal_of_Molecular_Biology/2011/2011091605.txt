@@ -1,0 +1,6 @@
+Structure-Guided Activity Restoration of the Silkworm Glutathione Transferase Omega GSTO3-3
+7408610774,24553869200,37072441500,46062348300,36064044700,39661413200,55881573300,25821698600,7202871507,7403346673
+Bombyx mori,glutathione transferase Omega,crystal structure,site-directed mutagenesis,enzymatic activity
+Glutathione transferases (GSTs) are ubiquitous detoxification enzymes that conjugate hydrophobic xenobiotics with reduced glutathione. The silkworm Bombyx mori encodes four isoforms of GST Omega (GSTO), featured with a catalytic cysteine, except that bmGSTO3-3 has an asparagine substitution of this catalytic residue. Here, we determined the 2.20-Å crystal structure of bmGSTO3-3, which shares a typical GST overall structure. However, the extended C-terminal segment that exists in all the four bmGSTOs occupies the G-site of bmGSTO3-3 and makes it unworkable, as shown by the activity assays. Upon mutation of Asn29 to Cys and truncation of the C-terminal segment, the in vitro GST activity of bmGSTO3-3 could be restored. These findings provided structural insights into the activity regulation of GSTOs.
+http://www.sciencedirect.com/science/article/pii/S002228361100773X
+00222836

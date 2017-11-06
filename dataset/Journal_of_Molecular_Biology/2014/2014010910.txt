@@ -1,0 +1,6 @@
+Transmembrane Segments Form Tertiary Hairpins in the Folding Vestibule of the Ribosome
+7005157367,55871735400,7102639587
+folding of nascent peptides,potassium channel voltage sensor biogenesis,transmembrane helical hairpin,PEG-MAL,intramolecular crosslinking
+Folding of membrane proteins begins in the ribosome as the peptide is elongated. During this process, the nascent peptide navigates along 100Å of tunnel from the peptidyltransferase center to the exit port. Proximal to the exit port is a “folding vestibule” that permits the nascent peptide to compact and explore conformational space for potential tertiary folding partners. The latter occurs for cytosolic subdomains but has not yet been shown for transmembrane segments. We now demonstrate, using an accessibility assay and an improved intramolecular crosslinking assay, that the helical transmembrane S3b–S4 hairpin (“paddle”) of a voltage-gated potassium (Kv) channel, a critical region of the Kv voltage sensor, forms in the vestibule. S3–S4 hairpin interactions are detected at an early stage of Kv biogenesis. Moreover, this vestibule hairpin is consistent with a closed-state conformation of the Kv channel in the plasma membrane.
+http://www.sciencedirect.com/science/article/pii/S0022283613005846
+00222836

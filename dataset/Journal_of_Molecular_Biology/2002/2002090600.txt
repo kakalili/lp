@@ -1,0 +1,6 @@
+DNA Knotting Caused by Head-on Collision of Transcription and Replication
+56119030200,7202206890,7003458097,7004203888
+DNA replication,transcription,knotting,supercoiling
+Collision of transcription and replication is uncommon, but the reason for nature to avoid this type of collision is still poorly understood. In Escherichia coli pBR322 is unstable and rapidly lost without selective pressure. Stability can be rescued if transcription of the tetracycline-resistance gene (TetR), progressing against replication, is avoided. We investigated the topological consequences of the collision of transcription and replication in pBR322-derived plasmids where head-on collision between the replication fork and the RNA polymerase transcribing the TetR gene was allowed or avoided. The results obtained indicate that this type of collision triggers knotting of the daughter duplexes behind the fork. We propose this deleterious topological consequence could explain the instability of pBR322 and could be also one of the reasons for nature to avoid head-on collision of transcription and replication.
+http://www.sciencedirect.com/science/article/pii/S0022283602007404
+00222836

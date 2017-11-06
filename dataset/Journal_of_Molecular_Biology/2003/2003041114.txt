@@ -1,0 +1,6 @@
+Sequence Dependence of Substrate Recognition and Cleavage by Yeast RNase III
+7003789427,6602279552,6506488579,7102324880,7005044034,6603873093
+RNase III,dsRNA,RNA recognition,ribonucleases,Rnt1p
+Yeast Rnt1p is a member of the double-stranded RNA (dsRNA) specific RNase III family of endoribonucleases involved in RNA processing and RNA interference (RNAi). Unlike other RNase III enzymes, which recognize a variety of RNA duplexes, Rnt1p cleaves specifically RNA stems capped with the conserved AGNN tetraloop. This unusual substrate specificity challenges the established dogma for substrate selection by RNase III and questions the dsRNA contribution to recognition by Rnt1p. Here we show that the dsRNA sequence adjacent to the tetraloop regulates Rnt1p cleavage by interfering with RNA binding. In context, sequences surrounding the cleavage site directly influence the cleavage efficiency. Introduction of sequences that stabilize the RNA helix enhanced binding while reducing the turnover rate indicating that, unlike the tetraloop, Rnt1p binding to the dsRNA helix may become rate-limiting. These results suggest that Rnt1p activity is strictly regulated by a combination of primary and tertiary structural elements allowing a substrate-specific binding and cleavage efficiency.
+http://www.sciencedirect.com/science/article/pii/S0022283603002316
+00222836

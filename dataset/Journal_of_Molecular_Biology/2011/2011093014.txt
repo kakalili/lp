@@ -1,0 +1,6 @@
+Crystal Structures of Cobalamin-Independent Methionine Synthase (MetE) from Streptococcus mutans: A Dynamic Zinc-Inversion Model
+14830274300,7801467235,8089503900,8089504000,7501572018,7402181908
+MetE,dynamic equilibrium,methionine synthase,homocysteine,methyltetrahydrofolate
+Cobalamin-independent methionine synthase (MetE) catalyzes the direct transfer of a methyl group from methyltetrahydrofolate to l-homocysteine to form methionine. Previous studies have shown that the MetE active site coordinates a zinc atom, which is thought to act as a Lewis acid and plays a role in the activation of thiol. Extended X-ray absorption fine structure studies and mutagenesis experiments identified the zinc-binding site in MetE from Escherichia coli. Further structural investigations of MetE from Thermotoga maritima lead to the proposition of two models: “induced fit” and “dynamic equilibrium”, to account for the catalytic mechanisms of MetE. Here, we present crystal structures of oxidized and zinc-replete MetE from Streptococcus mutans at the physiological pH. The structures reveal that zinc is mobile in the active center and has the possibility to invert even in the absence of homocysteine. These structures provide evidence for the dynamic equilibrium model.
+http://www.sciencedirect.com/science/article/pii/S0022283611008680
+00222836

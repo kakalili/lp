@@ -1,0 +1,6 @@
+Insights Into the Enzymatic Mechanism of 6-Phosphogluconolactonase from Trypanosoma brucei Using Structural Data and Molecular Dynamics Simulation
+14519018000,7005092603,6602218327,54967979200,7003509464,7006309502,7006940093,7006173270,6602728307
+6-phosphogluconolactonase,Trypanosoma brucei,molecular dynamics simulation,enzymatic mechanism,crystal structure
+Trypanosoma brucei is the causative agent of African sleeping sickness. Current work for the development of new drugs against this pathology includes evaluation of enzymes of the pentose phosphate pathway (PPP), which first requires a clear understanding of their function and mechanism of action. In this context, we focused on T. brucei 6-phosphogluconolactonase (Tb6PGL), which converts δ-6-phosphogluconolactone into 6-phosphogluconic acid in the second step of the PPP. We have determined the crystal structure of Tb6PGL in complex with two ligands, 6-phosphogluconic acid and citrate, at 2.2 Å and 2.0 Å resolution, respectively. We have performed molecular dynamics (MD) simulations on Tb6PGL in its empty form and in complex with δ-6-phosphogluconolactone, its natural ligand. Analysis of the structural data and MD simulations allowed us to propose a detailed enzymatic mechanism for 6PGL enzymes.
+http://www.sciencedirect.com/science/article/pii/S0022283609003702
+00222836

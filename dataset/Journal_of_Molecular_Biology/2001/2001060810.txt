@@ -1,0 +1,6 @@
+Yet Another Numbering Scheme for Immunoglobulin Variable Domains: An Automatic Modeling and Analysis Tool
+7004010509,7102515796
+immunoglobulin variable domains,numbering scheme,protein engineering,antibody engineering
+A common residue numbering scheme for all immunoglobulin variable domains (immunoglobulin light chain lambda (Vλ) and kappa (Vκ) variable domains, heavy chain variable domains (VH) and T-cell receptor alpha (Vα), beta (Vβ), gamma (Vγ) and delta (Vδ) variable domains) has been devised. Based on the spatial alignment of known three-dimensional structures of immunoglobulin domains, it places the alignment gaps in a way that minimizes the average deviation from the averaged structure of the aligned domains. This residue numbering scheme was applied to the immunoglobulin variable domain structures in the PDB database to automate the extraction of information on structural variations in homologous positions of the different molecules. A number of methods are presented that allow the automated projection of information derived from individual structures or from the comparison of multi-structure alignments onto a graphical representation of the sequence alignment.
+http://www.sciencedirect.com/science/article/pii/S0022283601946625
+00222836

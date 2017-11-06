@@ -1,0 +1,6 @@
+Quantitative analysis of DNA binding by the Escherichia coli arginine repressor11Edited by D. E. Draper
+6507215245,56392053900,8732928700,35579285200,57194028971,7402685911
+transcription,recombination,trimer,bending,analytical ultracentrifugation
+Allosteric activation of the hexameric arginine repressor (ArgR) for specific operator DNA binding appears to involve alteration in its quaternary structure. Current models for activation include subunit assembly and/or domain rearrangements in response to binding of the coeffector l-arginine. To investigate the molecular basis for ArgR operator interactions, we have carried out a series of quantitative analyses of ArgR subunit assembly and of the affinity, stoichiometry, cooperativity, and l-arginine- and DNA sequence-dependence of ArgR-DNA binding. The results indicate that subunit assembly plays no role in activation, although communication among subunits of the ArgR hexamer is required for specific DNA binding. The data suggest that DNA is also an allosteric effector of ArgR.
+http://www.sciencedirect.com/science/article/pii/S0022283601949411
+00222836

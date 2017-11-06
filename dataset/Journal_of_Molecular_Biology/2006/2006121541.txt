@@ -1,0 +1,6 @@
+A Conserved Base-pair between tRNA and 23 S rRNA in the Peptidyl Transferase Center Is Important for Peptide Release
+7102605419,7202289995
+ribosome,translocation,peptide bond,peptide release,tRNA
+The 3′ terminus of tRNAs has the universally conserved bases C74C75A76 that interact with the ribosomal large subunit. In the ribosomal P site, bases C74 and C75 of tRNA, form Watson–Crick base-pairs with G2252 and G2251, respectively, present in the conserved P-loop of 23 S rRNA. Previous studies have suggested that the G2252-C74 base-pair is important for peptide bond formation. Using a pure population of mutant ribosomes, we analyzed the precise role of this base-pair in peptide bond formation, elongation factor G-dependent translocation, and peptide release by release factor 1. Surprisingly, our results show that the G2252-C74 base-pair is not essential for peptide bond formation with intact aminoacyl tRNAs as substrates and for EF-G catalyzed translocation. Interestingly, however, peptide release was reduced substantially when base-pair formation between G2252 and C74 of P site tRNA was disrupted, indicating that this conserved base-pair plays an important role in ester bond hydrolysis during translation termination.
+http://www.sciencedirect.com/science/article/pii/S0022283606012460
+00222836

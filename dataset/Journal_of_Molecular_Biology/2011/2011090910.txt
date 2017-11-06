@@ -1,0 +1,6 @@
+InVivo and In Vitro Analyses of Toxic Mutants of HET-s: FTIR Antiparallel Signature Correlates with Amyloid Toxicity
+6602257109,37113040500,32067696500,55138380700,7004353187
+HET-s,aggregation,FTIR,folding,toxicity
+The folding and interactions of amyloid proteins are at the heart of the debate as to how these proteins may or may not become toxic to their host. Although little is known about this issue, the structure seems to be clearly involved with effects on molecular events. To understand how an amyloid may be toxic, we previously generated a yeast toxic amyloid (mutant 8) from the nontoxic HET-s(218–289) prion domain of Podospora anserina. Here, we performed a comprehensive structure–toxicity study by mutating individually each of the 10 mutations found in mutant 8. The study of the library of new mutants generated allowed us to establish a clear link between Fourier transform infrared antiparallel signature and amyloid toxicity. All of the mutants that form parallel β-sheets are not toxic. Double mutations may be sufficient to shift a parallel structure to antiparallel amyloids, which are toxic to yeast. Our findings also suggest that the toxicity of antiparallel structured mutants may be linked to interaction with membranes.
+http://www.sciencedirect.com/science/article/pii/S0022283611007625
+00222836

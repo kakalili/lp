@@ -1,0 +1,6 @@
+Covariance analysis of RNA recognition motifs identifies functionally linked amino acids11Edited by F. Cohen
+6604037021,7101772066,7006488558
+covariance,RNA-binding specificity,RNA-protein interaction,Sex-lethal protein,sequence network
+The RNA recognition motif (RRM) is one of the most common eukaryotic protein motifs. RRM sequences form a conserved globular structure known as the RNA-binding domain (RBD) or the ribonucleoprotein domain. Many proteins that contain RRM sequences bind RNA in a sequence-specific manner. To investigate the basis for the RNA-binding specificity of RRMs, we subjected 330 aligned RRM sequences to covariance analysis. The analysis revealed a single network of covariant amino acid pairs comprising the buried core of the RBD and a surface patch. Structural studies have implicated a subset of these residues in RNA binding. The covariance linkages identify a larger set of amino acid residues, including some not directly in contact with bound RNA, that may influence RNA-binding specificity.
+http://www.sciencedirect.com/science/article/pii/S0022283601947400
+00222836

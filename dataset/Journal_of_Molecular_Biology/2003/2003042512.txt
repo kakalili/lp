@@ -1,0 +1,6 @@
+Dolastatin 11 Connects Two Long-pitch Strands in F-actin to Stabilize Microfilaments
+35579616900,8636905400,6507472288,57194199090,7201690190
+actin,dolastatin 11,phalloidin,fiber diffraction,liquid crystal
+Dolastatin 11, a drug isolated from the Indian Ocean sea hare Dolabella auricularia, arrests cytokinesis in vivo and increases the amount of F-actin to stabilize F-actin in vitro, like phalloidin and jasplakinolide. However, according to the previous biochemical study, the binding of dolastatin 11 to F-actin does not compete with that of phalloidin, suggesting that the binding sites are different. To understand the mechanism of F-actin stabilization by dolastatin 11, we determined the position of bound dolastatin 11 in F-actin using the X-ray fiber diffraction from oriented filament sols. Our analysis shows that the position of dolastatin 11 is clearly different from that of phalloidin. However, these bound drugs are present in the gap between the two long-pitch F-actin strands in a similar way. The result suggests that the connection between the two long-pitch F-actin strands might be a key for the control of F-actin stabilization.
+http://www.sciencedirect.com/science/article/pii/S0022283603003061
+00222836

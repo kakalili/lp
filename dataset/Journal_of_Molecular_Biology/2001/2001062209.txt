@@ -1,0 +1,6 @@
+The alternatively folded state of the antibody CH3 domain11Edited by R. Huber
+7006330532,6506743755,56673540200,7005734918
+antibody structure,folding,molten globule,protein stability,immunoglobulin fold
+The CH3 domain of antibodies is characterized by two antiparallel β-sheets forming a disulfide-linked sandwich-like structure. At acidic pH values and low ionic strength, CH3 becomes completely unfolded. The addition of salt transforms the acid-unfolded protein into an alternatively folded state exhibiting a characteristic secondary structure. The transition from native to alternatively folded CH3 is a fast reaction. Interestingly, this reaction involves the formation of a defined oligomer consisting of 12-14 subunits. Association is completely reversible and the native dimer is quantitatively reformed at neutral pH. This alternatively folded protein is remarkably stable against thermal and chemical denaturation and the unfolding transitions are highly cooperative. With a tm of 80°C, the stability of the alternatively folded state is comparable to that of the native state of CH3. The defined oligomeric structure of CH3 at pH 2 seems to be a prerequisite for the cooperative unfolding transitions.
+http://www.sciencedirect.com/science/article/pii/S0022283601947072
+00222836

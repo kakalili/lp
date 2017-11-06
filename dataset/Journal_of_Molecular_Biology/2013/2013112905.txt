@@ -1,0 +1,6 @@
+Time to Be Versatile: Regulation of the Replication Timing Program in Budding Yeast
+55631134100,56327853000,6701696880
+initiation of DNA replication,histone deacetylases,replication foci,checkpoints
+Eukaryotic replication origins are activated at different times during the S phase of the cell cycle, following a temporal program that is stably transmitted to daughter cells. Although the mechanisms that control initiation at the level of individual origins are now well understood, much less is known on how cells coordinate replication at hundreds of origins distributed on the chromosomes. In this review, we discuss recent advances shedding new light on how this complex process is regulated in the budding yeast Saccharomyces cerevisiae. The picture that emerges from these studies is that replication timing is regulated in cis by mechanisms modulating the chromatin structure and the subnuclear organization of origins. These mechanisms do not affect the licensing of replication origins but determine their ability to compete for limiting initiation factors, which are recycled from early to late origins throughout the length of the S phase.
+http://www.sciencedirect.com/science/article/pii/S0022283613006049
+00222836

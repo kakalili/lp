@@ -1,0 +1,6 @@
+Unfinished Stories on Viral Quasispecies and Darwinian Views of Evolution
+7101620809,7003916452,21739007900,7402101002,35196455700
+cancer,superorganism,biofilm,disease,evolution
+Experimental evidence that RNA virus populations consist of distributions of mutant genomes, termed quasispecies, was first published 31 years ago. This work provided the earliest experimental support for a theory to explain a system that replicated with limited fidelity and to understand the self-organization and adaptability of early life forms on Earth. High mutation rates and quasispecies dynamics of RNA viruses are intimately related to both viral disease and antiviral treatment strategies. Moreover, the quasispecies concept is being applied to other biological systems such as cancer research in which cellular mutant spectra can be also detected. This review addresses some of the unanswered questions regarding viral and theoretical quasispecies concepts as well as more practical aspects concerning resistance to antiviral treatments and pathogenesis.
+http://www.sciencedirect.com/science/article/pii/S0022283610001555
+00222836

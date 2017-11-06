@@ -1,0 +1,6 @@
+Structural Convergence of Antibody Binding of Carbohydrate Determinants in Lewis Y Tumor Antigens
+7004592319,56627196200,35595354800,7006249545,35429505900
+antibody crystallography,cancer treatments,carbohydrate antigens,humanized antibody,tumor targeting
+Antibodies targeting human epithelial carcinomas bearing Lewis Y (Ley) carbohydrate antigens provide a striking illustration of convergent immune recognition. We report a 1.9Å resolution crystal structure of the Fab of a humanized antibody (hu3S193) in complex with the Ley tetrasaccharide, Fuc(α1→2)Gal(β1→4)[Fuc(α1→3)]GlcNAc. Comparisons of the hu3S193 and BR96 antibodies bound to Ley tumor antigens revealed extremely similar mechanisms for recognition of the carbohydrate epitopes. Solvent plays a critical role in hu3S193 antibody binding to the Ley carbohydrate epitope. Specificity for Ley is maintained because a conserved pocket accepts an N-acetyl group of the core Gal(β1→4)GlcNAc disaccharide. Closely related blood-group determinants (Lea and Leb) cannot enter the specificity pocket, making the Ley antibodies promising candidates for immunotherapy of epithelial cancer.
+http://www.sciencedirect.com/science/article/pii/S0022283604006072
+00222836

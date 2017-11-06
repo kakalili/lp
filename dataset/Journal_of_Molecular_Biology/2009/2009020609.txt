@@ -1,0 +1,6 @@
+In Vivo Generation of Flavoproteins with Modified Cofactors
+15132585000,22434453500,7006479902,26643089900
+roseoflavin,LOV,BLUF,blue light,photoreceptor
+To understand flavoprotein mechanisms and reactivity, biochemical and biophysical methods are usually employed, and differences between wild-type and mutated proteins with altered primary structures are placed under specific consideration. Alternatively, the cofactor can be modified, and modified flavoproteins can be studied accordingly. Here we present an efficient and general method for modifying the cofactor of flavoproteins in vivo. The modified cofactor is incorporated into apoprotein during protein biosynthesis in a riboflavin-auxotrophic Escherichia coli strain, which expresses a bacterial riboflavin transporter to import flavins from the medium. This system was used to introduce roseoflavin into the riboflavin-binding protein dodecin and into microbial blue-light photoreceptors of the BLUF (blue-light sensors using FAD) and LOV (light oxygen voltage) families. The modified photoreceptors showed absorption and fluorescence different from those of proteins carrying their natural cofactor or chromophores in solution, but did not show any photochemical reaction as implied by former physiological studies.
+http://www.sciencedirect.com/science/article/pii/S0022283608014101
+00222836

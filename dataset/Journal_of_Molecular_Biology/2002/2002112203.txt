@@ -1,0 +1,6 @@
+Fast and Slow Intermediate Accumulation and the Initial Barrier Mechanism in Protein Folding
+6701610818,7005096325,6603704032,7005855921,7005833979
+protein folding,barriers in protein folding,intermediates in protein folding,burst phase,initial barrier hypothesis
+Do stable intermediates form very early in the protein folding process? New results and a quantity of literature that bear on this issue are examined here. Results available provide little support for early intermediate accumulation before an initial search-dependent nucleation barrier.
+http://www.sciencedirect.com/science/article/pii/S002228360201029X
+00222836

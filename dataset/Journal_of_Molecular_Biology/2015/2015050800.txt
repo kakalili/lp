@@ -1,0 +1,6 @@
+On the pH Dependence of Class-1 RF-Dependent Termination of mRNA Translation
+56502145900,7006751442,6603401207,7006051841
+ribosome,release factor,conformational change,nucleophile,fast kinetics
+We have studied the pH dependence of the rate of termination of bacterial protein synthesis catalyzed by a class-1 release factor (RF1 or RF2). We used a classical quench-flow technique and a newly developed stopped-flow technique that relies on the use of fluorescently labeled peptides. We found the termination rate to increase with increasing pH and, eventually, to saturate at about 70s−1 with an apparent pKa value of about 7.6. From our data, we suggest that class-1 RF termination is rate limited by the chemistry of ester bond hydrolysis at low pH and by a stop-codon-dependent and pH-independent conformational change of RFs at high pH. We propose that RF-dependent termination depends on the participation of a hydroxide ion rather than a water molecule in the hydrolysis of the ester bond between the P-site tRNA and its peptide chain. We provide a simple explanation for why the rate of termination saturated at high pH in our experiments but not in those of others.
+http://www.sciencedirect.com/science/article/pii/S0022283615000285
+00222836

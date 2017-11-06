@@ -1,0 +1,6 @@
+Kinetic mechanism of end-to-end annealing of actin filaments11Edited by M. F. Moody
+56866034800,6603412271,6701722672,36050413200,36811507300
+capping protein,polymer dynamics,annealing,actin
+We investigated the effect of actin filament length and capping protein on the rate of end-to-end annealing of actin filaments. Long filaments were fragmented by shearing and allowed to recover. Stabilizing filaments with phalloidin in most experiments eliminated any contribution of subunit dissociation and association to the redistribution of lengths but did not affect the results. Two different assays, fluorescence microscopy to measure filament lengths and polymerization to measure concentration of barbed filament ends, gave the same time-course of annealing. The rate of annealing declines with time as the average filament length increases. Longer filaments also anneal slower than short filaments. The second-order annealing rate constant is inversely proportional to mean polymer length with a value of 1.1 mM−1 s−1/length in subunits. Capping protein slows but does not prevent annealing. Annealing is a highly favorable reaction with a strong influence on the length of polymers produced by spontaneous polymerization and should be considered in thinking about polymer dynamics in cells.
+http://www.sciencedirect.com/science/article/pii/S0022283601950053
+00222836

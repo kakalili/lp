@@ -1,0 +1,6 @@
+Crystal Structure of the CCTγ Apical Domain: Implications for Substrate Binding to the Eukaryotic Cytosolic Chaperonin
+6602825973,6507745601,13105777200,6701704362,7004364473,7005486548
+chaperone,chaperonin,protein folding,actin,tubulin
+The chaperonin containing TCP-1 (CCT, also known as TRiC) is the only member of the chaperonin family found in the cytosol of eukaryotes. Like other chaperonins, it assists the folding of newly synthesised proteins. It is, however, unique in its specificity towards only a small subset of non-native proteins. We determined two crystal structures of mouse CCTγ apical domain at 2.2Å and 2.8Å resolution. They reveal a surface patch facing the inside of the torus that is highly evolutionarily conserved and specific for the CCTγ apical domain. This putative substrate-binding region consists of predominantly positively charged side-chains. It suggests that the specificity of this apical domain towards its substrate, partially folded tubulin, is conferred by polar and electrostatic interactions. The site and nature of substrate interaction are thus profoundly different between CCT and its eubacterial homologue GroEL, consistent with their different functions in general versus specific protein folding assistance.
+http://www.sciencedirect.com/science/article/pii/S0022283602001900
+00222836

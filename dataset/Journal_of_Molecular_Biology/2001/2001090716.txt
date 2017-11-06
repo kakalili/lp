@@ -1,0 +1,6 @@
+Bacterial comparative genomic hybridization: a method for directly identifying lateral gene transfer11Edited by M. Belfont
+6507762829,7201980341,7203021871
+bacterial comparative genomic hybridization,lateral gene transfer,two-dimensional DNA electrophoresis,genome comparison
+Horizontally transferred DNA is largely responsible for the dissemination of virulence traits amongst bacteria. Rapid identification of acquired DNA remains difficult as whole-genome sequencing of outbreak strains is impractical, and microarray-based approaches, while powerful, are limited to genes present only in the reference strains. Here we present a novel bacterial comparative genomic hybridization method that directly compares the genomes of related strains at sub-kilobase resolution in order to identify acquired DNA. Bacterial comparative genomic hybridization utilizes the concept of metaphase chromosome comparative genomic hybridization, and exploits the resolving power of two-dimensional DNA electrophoresis. Comparison of isogenic variants of the pathogen Pseudomonas aeruginosa detected a single-copy gene insertion responsible for gentamicin resistance.
+http://www.sciencedirect.com/science/article/pii/S0022283601949253
+00222836

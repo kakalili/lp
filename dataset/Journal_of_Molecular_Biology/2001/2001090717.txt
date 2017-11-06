@@ -1,0 +1,6 @@
+Understanding hierarchical protein evolution from first principles11Edited by J. Thornton
+7004230696,35600851100
+protein evolution,energy gap model,profile solution
+We propose a model that explains the hierarchical organization of proteins in fold families. The model, which is based on the evolutionary selection of proteins by their native state stability, reproduces patterns of amino acids conserved across protein families. Due to its dynamic nature, the model sheds light on the evolutionary time-scales. By studying the relaxation of the correlation function between consecutive mutations at a given position in proteins, we observe separation of the evolutionary time-scales: at short time intervals families of proteins with similar sequences and structures are formed, while at long time intervals the families of structurally similar proteins that have low sequence similarity are formed. We discuss the evolutionary implications of our model. We provide a “profile” solution to our model and find agreement between predicted patterns of conserved amino acids and those actually observed in nature.
+http://www.sciencedirect.com/science/article/pii/S0022283601949496
+00222836

@@ -1,0 +1,6 @@
+Long-Range Energetic Changes Triggered by a Proline Switch in the Signal Adapter Protein c-CrkII
+39362374700,56982670200,56983056100,7201441882
+c-CrkII,prolyl isomerization,protein folding,protein–ligand interaction,allostery
+The signal adapter protein c-CrkII from chicken but not from human uses isomerization at Pro238 in the SH3C domain to regulate the activity of the SH3N domain. The different behavior of human and chicken c-CrkII originates from only two differences in sequence, at positions 239 after Pro238 and 272 in the N-Src loop of SH3C. We analyzed the kinetics of substrate binding to SH3N and an assay for its coupling with Pro238 isomerization in SH3C to identify the molecular path from Pro238 to the substrate binding site of SH3N. The trans→cis isomerization at Pro238 and a relocation of Phe239 re-organize the energetics of a hydrophobic cluster in the N-Src loop of SH3C and re-shape this region to optimize its interactions with SH3N. Concomitantly, the backbone becomes strained at Met272. We suggest that, in human c-CrkII, movement at position 239 and strain at position 272 are not tolerated because the β-branched residues Ile239 and Val272 restrain the backbone mobility and thus destabilize the cis Pro238 form.
+http://www.sciencedirect.com/science/article/pii/S0022283615005513
+00222836

@@ -1,0 +1,6 @@
+Structural and Functional Analysis of the Globular Head Domain of p115 Provides Insight into Membrane Tethering
+55025774200,7501946308,7006734546,6603052705,7004026970,7007144993,7401743864,7102039021
+vesicle transport,membrane trafficking,membrane tethering,p115,membrane fusion
+Molecular tethers have a central role in the organization of the complex membrane architecture of eukaryotic cells. p115 is a ubiquitous, essential tether involved in vesicle transport and the structural organization of the exocytic pathway. We describe two crystal structures of the N-terminal domain of p115 at 2.0 Å resolution. The p115 structures show a novel α-solenoid architecture constructed of 12 armadillo-like, tether-repeat, α-helical tripod motifs. We find that the H1 TR binds the Rab1 GTPase involved in endoplasmic reticulum to Golgi transport. Mutation of the H1 motif results in the dominant negative inhibition of endoplasmic reticulum to Golgi trafficking. We propose that the H1 helical tripod contributes to the assembly of Rab-dependent complexes responsible for the tether and SNARE-dependent fusion of membranes.
+http://www.sciencedirect.com/science/article/pii/S0022283609004574
+00222836

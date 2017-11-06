@@ -1,0 +1,6 @@
+Molecular Architecture of CAG Repeats in Human Disease Related Transcripts
+6506620571,7004064977
+CAG repeats,RNA structure,mRNA sequence context,full length mRNA,SNP
+CAG repeats are present in numerous human transcripts but neither their structures nor physiological functions have been satisfactorily recognized. The expanded CAG repeats are present in transcripts from several mutant genes associated with hereditary neurodegenerative diseases but their contribution to pathogenesis has not been documented convincingly. Here, we show that the structures formed by the repeats and their natural flanking sequences in the spinocerebellar ataxia (SCA) type 3 and type 6, and dentatorubral-palidoluysian atrophy (DRPLA) transcripts have different molecular architectures which may have functional meaning. We provide evidence that the hairpin structure formed by CAG repeats in mRNA fragments is preserved in full-length mRNA. We also demonstrate that the single-nucleotide polymorphism (SNP) that is located immediately adjacent (3′) to the repeats of the SCA3 transcript modulates the structures formed by these sequences, and may have functional significance, as only one of its variants is selected in human evolution.
+http://www.sciencedirect.com/science/article/pii/S0022283604005868
+00222836

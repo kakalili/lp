@@ -1,0 +1,6 @@
+The RecB Nuclease Domain Binds to RecA-DNA Filaments: Implications for Filament Loading
+16304528400,8858326600,7102056911,7404115272,7006626082,7005654856
+recombination,electron microscopy,helical polymers
+The E. coli RecBCD enzyme facilitates the loading of RecA onto single-stranded DNA produced by the combined helicase/nuclease activity of RecBCD. The nuclease domain of RecB protein, RecBnuc, has been previously shown to bind RecA. Surprisingly, RecBnuc also binds to phage and eukaryotic homologs of RecA, leading to the suggestion that RecBnuc interacts with the polymerization motif that is present in all three proteins. This mode of interaction could only be with monomeric RecA, as this motif would be buried in filaments. We show that RecBnuc binds extensively to the outside of RecA-DNA filaments. Three-dimensional reconstructions suggest that RecBnuc binds to the ATP-binding core of RecA, with a displacement of the C-terminal domain of RecA. Solution experiments confirm that the interaction of RecBnuc is only with the RecA core. Since the RecA C-terminal domain has been shown to be regulatory, the interaction observed may be part of the loading mechanism where RecB displaces the RecA C-terminal domain and activates a RecA monomer for polymerization.
+http://www.sciencedirect.com/science/article/pii/S0022283609007621
+00222836

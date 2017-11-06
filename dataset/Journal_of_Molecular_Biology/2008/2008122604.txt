@@ -1,0 +1,6 @@
+dsRNA Binding Properties of RDE-4 and TRBP Reflect Their Distinct Roles in RNAi
+36901261100,15623838400,7102786105
+cooperativity,RNA interference,Dicer,C. elegans,siRNA
+Double-stranded RNA (dsRNA)-binding proteins facilitate Dicer functions in RNA interference. Caenorhabditis elegans RDE-4 facilitates cleavage of long dsRNA to small interfering RNA (siRNA), while human trans-activation response RNA-binding protein (TRBP) functions downstream to pass siRNA to the RNA-induced silencing complex. We show that these distinct in vivo roles are reflected in in vitro binding properties. RDE-4 preferentially binds long dsRNA, while TRBP binds siRNA with an affinity that is independent of dsRNA length. These properties are mechanistically based on the fact that RDE-4 binds cooperatively, via contributions from multiple domains, while TRBP binds noncooperatively. Our studies offer a paradigm for how dsRNA-binding proteins, which are not sequence specific, discern dsRNA length. Additionally, analyses of the ability of RDE-4 deletion constructs and RDE-4/TRBP chimeras to reconstitute Dicer activity suggest RDE-4 promotes activity using its dsRNA-binding motif 2 to bind dsRNA, its linker region to interact with Dicer, and its C-terminus for Dicer activation.
+http://www.sciencedirect.com/science/article/pii/S0022283608012618
+00222836

@@ -1,0 +1,6 @@
+Structural Analysis of a Multifunctional, Tandemly Repeated Inositol Polyphosphatase
+16645619800,7004515797,6602757087
+inositol phosphatase,tandem repeat,protein tyrosine phosphatase,phytase,myo-inositol
+Mitsuokella multacida expresses a unique inositol polyphosphatase (PhyAmm) that is composed of tandem repeats (TRs). Each repeat possesses a protein tyrosine phosphatase (PTP) active-site signature sequence and fold. Using a combination of structural, mutational, and kinetic studies, we show that the N-terminal (D1) and C-terminal (D2) active sites of the TR have diverged and possess significantly different specificities for inositol polyphosphate. Structural analysis and molecular docking calculations identify steric and electrostatic differences within the substrate binding pocket of each TR that may be involved in the altered substrate specificity. The implications of our results for the biological function of related PTP-like phytases are discussed. Finally, the structures and activities of PhyAmm and tandemly repeated receptor PTPs are compared and discussed. To our knowledge, this is the first example of an inositol phosphatase with tandem PTP domains possessing substrate specificity for different inositol phosphates.
+http://www.sciencedirect.com/science/article/pii/S0022283609006731
+00222836

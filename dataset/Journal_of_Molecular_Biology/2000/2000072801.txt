@@ -1,0 +1,6 @@
+Recognition of oriT for DNA processing at termination of a round of conjugal transfer11Edited by M. Gottesman
+7203088685,7404077593
+conjugation,relaxase,oriT,plasmid,protein-DNA binding
+Conjugal transfer of plasmid DNA is terminated when the transferred strand, linearized at the 38 base-pair origin of transfer (oriT), is recircularized. For the plasmid R1162, it is the protein MobA, covalently linked to the linear strand, that rejoins the ends by a reversible transesterification reaction. We have identified from those oligonucleotides with a partially degenerate oriT base sequence, subpopulations bound by MobA that undergo transesterification, and support efficient termination of conjugal transfer. Two domains of oriT, a ten base-pair inverted repeat and an adjacent TAA, are required for tight binding by the protein, whereas the location of the dinucleotide YG determines the site of strand cleavage. The results indicate that capture of MobA by oriT, and subsequent processing of the DNA for termination, are determined by different sequence motifs within this locus.
+http://www.sciencedirect.com/science/article/pii/S0022283600939020
+00222836

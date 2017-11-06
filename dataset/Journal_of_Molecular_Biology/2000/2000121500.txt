@@ -1,0 +1,6 @@
+From Minichaperone to GroEL 1: Information on GroEL-Polypeptide Interactions from Crystal Packing of Minichaperones†
+56332743500,35547911900,36043863300
+protein folding,chaperone,recognition,flexibility
+We are reconstructing the mechanism of action of GroEL by a reductionist approach of isolating its minimal fragment that has residual activity (the “minichaperone” core) and then identifying how additional elements of structure confer further activity and function. We report here the 2.0Å resolution crystal structure of the minichaperone GroEL(193-345). The structure provides further clues on the nature of GroEL-polypeptide substrate interactions, because two molecules in the asymmetric unit interact by the binding of one molecule in the active site of its partner, thus mimicking a chaperone-polypeptide substrate complex. The results may explain some experimental observations, including the preference of GroEL for net positive charges (mediated by Glu238 and Glu257) and the key role of Tyr203 in mediating polypeptide binding. The larger binding site identified by these studies forms a continuous surface near the opening of the central cavity of GroEL that can accommodate a wide range of non-native protein conformations that differ in size and in structural and chemical properties.
+http://www.sciencedirect.com/science/article/pii/S0022283600942761
+00222836

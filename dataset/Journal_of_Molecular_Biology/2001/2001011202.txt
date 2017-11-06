@@ -1,0 +1,6 @@
+In vitro Evolution of Beta-glucuronidase into a Beta-galactosidase Proceeds Through Non-specific Intermediates
+7006590292,35497668300
+beta-glucuronidase,beta-galactosidase,substrate specificity,in vitro evolution,DNA shuffling
+The Escherichia coli beta-glucuronidase (GUS) was evolved in vitro to catalyze the hydrolysis of a beta-galactoside substrate 500 times more efficiently (kcat/Km) than the wild-type, with a 52 million-fold inversion in specificity. The amino acid substitutions that recurred among 32 clones isolated in three rounds of DNA shuffling and screening were mapped to the active site. The functional consequences of these mutations were investigated by introducing them individually or in combination into otherwise wild-type gusA genes. The kinetic behavior of the purified mutant proteins in reactions with a series of substrate analogues show that four mutations account for the changes in substrate specificity, and that they are synergistic. An evolutionary intermediate, unlike the wild-type and evolved forms, exhibits broadened specificity for substrates dissimilar to either glucuronides or galactosides. These results are consistent with the “patchwork” hypothesis, which postulates that modern enzymes diverged from ancestors with broad specificity.
+http://www.sciencedirect.com/science/article/pii/S0022283600942591
+00222836

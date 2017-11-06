@@ -1,0 +1,6 @@
+The RNA Polymerase II CTD: The Increasing Complexity of a Low-Complexity Protein Domain
+8761795000,57150402400,35378325400
+RNA polymerase II C-terminal domain,CTD phosphatases,CTD kinases,CDK7/Kin28,mediator
+The largest subunit of RNA polymerase II contains a C-terminal domain (CTD) that plays key roles in coordinating transcription with co-transcriptional events. The heptapeptide repeats that form the CTD are dynamically phosphorylated on serine, tyrosine and threonine residues during the various steps of transcription, thereby regulating the recruitment of various proteins involved in gene expression. In this “Perspective,” we review the recent literature related to the function of the CTD, to CTD kinases (Kin28, CDK7, CDK9, CDK12, ERK1/2 and DYRK1A) and to CTD phosphatases (Rtr1, RPAP2, Ssu72, Fcp1 and Gcl7). We discuss unresolved and controversial issues and try to provide constructive suggestions. This review also highlights emerging themes in the CTD field, such as crosstalk and feedback mechanisms, as well as gene-specific and tissue-specific functions of the CTD. Finally, promising therapeutic avenues for a recently developed CTD kinase inhibitor are discussed.
+http://www.sciencedirect.com/science/article/pii/S002228361600111X
+00222836

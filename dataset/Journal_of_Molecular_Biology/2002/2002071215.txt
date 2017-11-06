@@ -1,0 +1,6 @@
+Atomic Structures of Human Dihydrofolate Reductase Complexed with NADPH and Two Lipophilic Antifolates at 1.09Å and 1.05Å Resolution
+6603292519,6701529134,7201761629,7103235566,7405668177,7201699516,7003801229
+lipophilic antifolates,distorted geometry,inhibitor selectivity
+The crystal structures of two human dihydrofolate reductase (hDHFR) ternary complexes, each with bound NADPH cofactor and a lipophilic antifolate inhibitor, have been determined at atomic resolution. The potent inhibitors 6-([5-quinolylamino]methyl)-2,4-diamino-5-methylpyrido[2,3-d]pyrimidine (SRI-9439) and (Z)-6-(2-[2,5-dimethoxyphenyl]ethen-1-yl)-2,4-diamino-5-methylpyrido[2,3-d]pyrimidine (SRI-9662) were developed at Southern Research Institute against Toxoplasma gondii DHFR-thymidylate synthase. The 5-deazapteridine ring of each inhibitor adopts an unusual puckered conformation that enables the formation of identical contacts in the active site. Conversely, the quinoline and dimethoxybenzene moieties exhibit distinct binding characteristics that account for the differences in inhibitory activity. In both structures, a salt-bridge is formed between Arg70 in the active site and Glu44 from a symmetry-related molecule in the crystal lattice that mimics the binding of methotrexate to DHFR.
+http://www.sciencedirect.com/science/article/pii/S0022283602004692
+00222836

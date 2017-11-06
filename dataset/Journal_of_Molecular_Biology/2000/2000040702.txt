@@ -1,0 +1,6 @@
+Crystallization of the yeast MATα2/MCM1/DNA ternary complex: general methods and principles for protein/DNA cocrystallization11Edited by K. Nagai
+7403366669,6507840364,56524765400,7006137434
+protein/DNA cocrystallization,X-ray crystallography,yeast mating type transcription factors,protein purification,MATα2 transcription factor
+We describe our efforts to crystallize binary MCM1/DNA and ternary MATα2/MCM1/DNA complexes, including the unsuccessful attempts to crystallize MCM1/DNA complexes and the successful design of DNA crystal packing that resulted in high-resolution crystals of the MATα2/MCM1/DNA complex. We detail general procedures useful for preparing protein/DNA cocrystals, including improved methods for producing and purifying DNA-binding proteins and DNA fragments, for purifying protein/DNA complexes, and for controlling pH conditions during crystallization. We also describe the rational design of DNA for protein/DNA cocrystallization attempts, based on our analysis of how straight and bent DNA with single base-pair overhangs can pack end-to-end in a crystal.
+http://www.sciencedirect.com/science/article/pii/S0022283600936064
+00222836

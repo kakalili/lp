@@ -1,0 +1,6 @@
+Monomeric Rhodopsin Is the Minimal Functional Unit Required for Arrestin Binding
+7201633700,56234496000,35073685600,7003305956
+rhodopsin,G-protein-coupled receptor,arrestin,oligomerization,nanodiscs
+We have tested whether arrestin binding requires the G-protein-coupled receptor be a dimer or a multimer. To do this, we encapsulated single-rhodopsin molecules into nanoscale phospholipid particles (so-called nanodiscs) and measured their ability to bind arrestin. Our data clearly show that both visual arrestin and β-arrestin 1 can bind to monomeric rhodopsin and stabilize the active metarhodopsin II form. Interestingly, we find that the monomeric rhodopsin in nanodiscs has a higher affinity for wild-type arrestin binding than does oligomeric rhodopsin in liposomes or nanodiscs, as assessed by stabilization of metarhodopsin II. Together, these results establish that rhodopsin self-association is not required to enable arrestin binding.
+http://www.sciencedirect.com/science/article/pii/S0022283610004031
+00222836

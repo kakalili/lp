@@ -1,0 +1,6 @@
+Translocation of a tRNA with an Extended Anticodon Through the Ribosome
+7006407329,7006647546,7102324880,8086446300,7005044034,7202289995
+ribosome,tRNA,translocation,extended anticodon stem–loop,suppressor frameshift
+Coordinated translocation of the tRNA–mRNA complex by the ribosome occurs in a precise, stepwise movement corresponding to a distance of three nucleotides along the mRNA. Frameshift suppressor tRNAs generally contain an extra nucleotide in the anticodon loop and they subvert the normal mechanisms used by the ribosome for frame maintenance. The mechanism by which suppressor tRNAs traverse the ribosome during translocation is poorly understood. Here, we demonstrate translocation of a tRNA by four nucleotides from the A site to the P site, and from the P site to the E site. We show that translocation of a punctuated mRNA is possible with an extra, unpaired nucleotide between codons. Interestingly, the NMR structure of the four nucleotide anticodon stem–loop reveals a conformation different from the canonical tRNA structure. Flexibility within the loop may allow conformational adjustment upon A site binding and for interacting with the four nucleotide codon in order to shift the mRNA reading frame.
+http://www.sciencedirect.com/science/article/pii/S002228360600595X
+00222836

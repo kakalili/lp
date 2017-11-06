@@ -1,0 +1,6 @@
+Mechanism of Repression by Bacillus subtilis CcpC, a LysR Family Regulator
+7601600462,6506550818,7004662735,7007141757
+CcpC,citB,catabolite repression,Bacillus subtilis,citrate
+Bacillus subtilis CcpC is a LysR family transcriptional regulatory protein that negatively regulates genes encoding enzymes of the tricarboxylic acid branch of the Krebs cycle. In the present work, the promoter region of the aconitase (citB) gene was used to investigate the mechanism of repression by CcpC. The binding of CcpC to the citB promoter region was shown to depend on DNA elements located near positions −66 and −27. Binding to these elements induced a bend in the DNA at position −41. Introduction of mutations in the −27 region and the presence of citrate, the inducer, had similar effects. In either case, citB expression was derepressed in vivo, the affinity of CcpC binding was reduced in vitro, the angle of the bend was relaxed, and RNA polymerase gained greater access to the −35 region of the promoter.
+http://www.sciencedirect.com/science/article/pii/S0022283603012567
+00222836

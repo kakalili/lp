@@ -1,0 +1,6 @@
+Crystal Structure of TB-RBP, a Novel RNA-binding and Regulating Protein
+7102681712,7202375647,7102285414,35511157700
+X-ray structure,novel fold,RNA-binding protein,mRNA expression control
+The testis/brain-RNA-binding protein (TB-RBP) spatially and temporally controls the expression of specific mRNAs in developing male germ cells and brain cells, and is implicated in DNA recombination and repair events. We report the 2.65Å crystal structure of mouse TB-RBP. The structure is predominantly α-helical and exhibits a novel protein fold and mode of assembly. Crystal symmetry and molecular symmetry combine to form an octet of TB-RBP monomers in the shape of an elongated spherical particle with a large cavity at its center. Amino acid residues that affect RNA and DNA binding are located on the interior surface of the assembled particle, and a putative nucleotide-binding domain that controls RNA binding is located at a dimer interface. Other modes of assembly are suggested for TB-RBP based on our structure and recently reported electron microscopic reconstructions of human TB-RBP.
+http://www.sciencedirect.com/science/article/pii/S0022283602003649
+00222836

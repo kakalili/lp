@@ -1,0 +1,6 @@
+A Novel Loop Domain in Superantigens Extends their T Cell Receptor Recognition Site
+24449269900,7202667319,8882013900,16745089700,35081515600,36819968500,20436394900,7502081723,7004922153,55619307347,7003496100
+superantigens,T cell receptor,T cell activity,X-ray crystallography,surface plasmon resonance
+Superantigens (SAGs) interact with host immune receptors to induce a massive release of inflammatory cytokines that can lead to toxic shock syndrome and death. Bacterial SAGs can be classified into five distinct evolutionary groups. Group V SAGs are characterized by the α3-β8 loop, a unique ∼15 amino acid residue extension that is required for optimal T cell activation. Here, we report the X-ray crystal structures of the group V SAG staphylococcal enterotoxin K (SEK) alone and in complex with the TCR hVβ5.1 domain. SEK adopts a unique TCR binding orientation relative to other SAG–TCR complexes, which results in the α3-β8 loop contacting the apical loop of framework region 4, thereby extending the known TCR recognition site of SAGs. These interactions are absolutely required for TCR binding and T cell activation by SEK, and dictate the TCR Vβ domain specificity of SEK and other group V SAGs.
+http://www.sciencedirect.com/science/article/pii/S0022283607006742
+00222836

@@ -1,0 +1,6 @@
+Arginine Changes the Conformation of the Arginine Attenuator Peptide Relative to the Ribosome Tunnel
+7501667962,55262376300,7403225182,7005157367,7102639587,7410012234,7202222231
+translational regulation,nascent peptide,photocross-linking,upstream open reading frame,ribosome exit tunnel
+The fungal arginine attenuator peptide (AAP) is a regulatory peptide that controls ribosome function. As a nascent peptide within the ribosome exit tunnel, it acts to stall ribosomes in response to arginine (Arg). We used three approaches to probe the molecular basis for stalling. First, PEGylation assays revealed that the AAP did not undergo overall compaction in the tunnel in response to Arg. Second, site-specific photocross-linking showed that Arg altered the conformation of the wild-type AAP, but not of nonfunctional mutants, with respect to the tunnel. Third, using time-resolved spectral measurements with a fluorescent probe placed in the nascent AAP, we detected sequence-specific changes in the disposition of the AAP near the peptidyltransferase center in response to Arg. These data provide evidence that an Arg-induced change in AAP conformation and/or environment in the ribosome tunnel is important for stalling.
+http://www.sciencedirect.com/science/article/pii/S0022283612000083
+00222836

@@ -1,0 +1,6 @@
+Zinc-mediated Amino Acid Discrimination in Cysteinyl-tRNA Synthetase
+22137153000,57189047535,56416200100,7004375258,7402198867
+zinc–thiolate bond,cobalt spectroscopy,cysteinyl-tRNA synthetase
+Escherichia coli cysteinyl-tRNA synthetase (CysRS) achieves a high level of amino acid specificity without an editing reaction. The crystal structure of CysRS bound to substrate cysteine suggested that direct thiol coordination to a tightly bound zinc ion at the base of the active site is the primary determinant of selectivity against non-cognate amino acids. This hypothesis has now been supported by spectroscopic studies of cobalt-substituted CysRS. Binding of cysteine, but not non-cognate amino acids, induces high absorption in the ligand-to-metal charge transfer region, providing evidence for formation of a metal–thiolate bond. In addition, mutations in the zinc ligands alter the absorption spectrum without reducing the discrimination against non-cognate amino acids. These results argue strongly for a major role for the zinc ion in amino acid discrimination by CysRS, where the tight zinc–thiolate interaction and the strict structural geometry of the metal ion are sufficient to reject serine by more than 20,000-fold at the binding step.
+http://www.sciencedirect.com/science/article/pii/S0022283603002419
+00222836

@@ -1,0 +1,6 @@
+Refinement of Protein Structures into Low-Resolution Density Maps Using Rosetta
+26535786000,14623428900,56979442100,7201503414,55463548900
+cryoEM,density fitting,structure prediction,Rosetta,comparative modeling
+We describe a method based on Rosetta structure refinement for generating high-resolution, all-atom protein models from electron cryomicroscopy density maps. A local measure of the fit of a model to the density is used to directly guide structure refinement and to identify regions incompatible with the density that are then targeted for extensive rebuilding. Over a range of test cases using both simulated and experimentally generated data, the method consistently increases the accuracy of starting models generated either by comparative modeling or by hand-tracing the density. The method can achieve near-atomic resolution starting from density maps at 4–6 Å resolution.
+http://www.sciencedirect.com/science/article/pii/S0022283609008341
+00222836

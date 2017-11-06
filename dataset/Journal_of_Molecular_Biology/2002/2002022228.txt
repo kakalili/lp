@@ -1,0 +1,6 @@
+Differences between the prion protein and its homolog doppel: a partially structured state with implications for scrapie formation11Edited by P. E. Wright
+16837313100,7102662254,56822190400,7202941953,7007050019
+prion protein,amide hydrogen exchange,protein folding,protein stability
+The key event in the pathogenesis of prion diseases is a conformational change in the prion protein (PrP). Models for conversion of PrPC into PrPSc typically implicate an, as yet, unidentified intermediate. In an attempt to identify such an intermediate, we used native-state hydrogen exchange monitored with NMR. Although we were unable to detect an intermediate directly, we observed substantial protection above that expected based upon measurements of the global stability of PrP (&gt;2 kcal mol−1 super protection). This super protection implicates either structure in the denatured state or the presence of an intermediate. Similar experiments with Doppel, a homolog of PrP that does not form infectious prions, failed to demonstrate such super protection. This suggests that the partially structured state of PrP encompassing portions of the B and C helices, may be a significant factor in the ability of PrP to convert from PrPC to PrPSc.
+http://www.sciencedirect.com/science/article/pii/S0022283601953471
+00222836

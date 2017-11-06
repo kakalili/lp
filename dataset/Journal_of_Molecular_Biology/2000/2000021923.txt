@@ -1,0 +1,6 @@
+Structural basis of RXR-DNA interactions11Edited by P. E. Wright
+55743375000,7801625648,6602821046,6506328033,7003541633,7003368604
+RXR,transcription factor,DNA-binding,nuclear receptor,structure
+The 9-cis retinoic acid receptor, RXR, binds DNA effectively as a homodimer or as a heterodimer with other nuclear receptors. The DNA-binding sites for these RXR complexes are direct repeats of a consensus sequence separated by one to five base-pairs of intervening space. Here, we report the 2.1 Å crystal structure of the RXR-DNA-binding domain as a homodimer in complex with its idealized direct repeat DNA target. The structure shows how a gene-regulatory site can induce conformational changes in a transcription factor that promote homo-cooperative assembly. Specifically, an alpha-helix in the T-box is disrupted to allow efficient DNA-binding and subunit dimerization. RXR displays a relaxed mode of sequence recognition, interacting with only three base-pairs in each hexameric half-site. The structure illustrates how site selection is achieved in this large eukaryotic transcription factor family through discrete protein-protein interactions and the use of tandem DNA binding sites with characteristic spacings.
+http://www.sciencedirect.com/science/article/pii/S0022283699934575
+00222836

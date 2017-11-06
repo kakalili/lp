@@ -1,0 +1,6 @@
+Canonical DNA Repair Pathways Influence R-Loop-Driven Genome Instability
+6603947020,7006930573
+Genome Instability,R-loops,DNA repair,Fanconi Anemia,Fork protection
+DNA repair defects create cancer predisposition in humans by fostering a higher rate of mutations. While DNA repair is quite well characterized, recent studies have identified previously unrecognized relationships between DNA repair and R-loop-mediated genome instability. R-loops are three-stranded nucleic acid structures in which RNA binds to genomic DNA to displace a loop of single-stranded DNA. Mutations in homologous recombination, nucleotide excision repair, crosslink repair, and DNA damage checkpoints have all now been linked to formation and function of transcription-coupled R-loops. This perspective will summarize recent literature linking DNA repair to R-loop-mediated genomic instability and discuss how R-loops may contribute to mutagenesis in DNA-repair-deficient cancers.
+http://www.sciencedirect.com/science/article/pii/S0022283616302595
+00222836

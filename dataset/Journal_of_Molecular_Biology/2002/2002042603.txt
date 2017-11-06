@@ -1,0 +1,6 @@
+Determination of the Interface of a Large Protein Complex by Transferred Cross-saturation Measurements
+11040353600,7203083848,7006665974,7005495218,55711657000,35458815800
+protein–protein interaction,interface,low-affinity,NMR,transferred cross-saturation
+In an earlier paper, it was shown that the cross-saturation method enables us to identify the contact residues of large protein complexes in a more rigorous manner than is possible using chemical shift perturbation and hydrogen–deuterium exchange experiments. However, there are limitations within the determination of the contact residues by the cross-saturation method, in that the method is difficult to apply to protein complexes with a molecular mass over 150kDa and/or with weak binding, since the resonances originating from the complexes should be observed directly in the method. In the present work, to overcome these limitations, we carried out the cross-saturation measurements under conditions of a fast exchange between free and bound states on the NMR time-scale, and determined the contact residues of the complex of the B domain of protein A and intact IgG, which has a molecular mass of 164kDa and shows weak binding.
+http://www.sciencedirect.com/science/article/pii/S0022283602000189
+00222836

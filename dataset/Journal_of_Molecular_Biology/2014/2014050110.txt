@@ -1,0 +1,6 @@
+Context-Dependent Remodeling of Rad51–DNA Complexes by Srs2 Is Mediated by a Specific Protein–Protein Interaction
+55878512800,13105993200,25637362800,56059082200,9043346900,6507111496
+Srs2,DNA unwinding,Rad51,homologous recombination,helicase
+The yeast Srs2 helicase removes Rad51 nucleoprotein filaments from single-stranded DNA (ssDNA), preventing DNA strand invasion and exchange by homologous recombination. This activity requires a physical interaction between Srs2 and Rad51, which stimulates ATP turnover in the Rad51 nucleoprotein filament and causes dissociation of Rad51 from ssDNA. Srs2 also possesses a DNA unwinding activity and here we show that assembly of more than one Srs2 molecule on the 3′ ssDNA overhang is required to initiate DNA unwinding. When Rad51 is bound on the double-stranded DNA, its interaction with Srs2 blocks the helicase (DNA unwinding) activity of Srs2. Thus, in different DNA contexts, the physical interaction of Rad51 with Srs2 can either stimulate or inhibit the remodeling functions of Srs2, providing a means for tailoring DNA strand exchange activities to enhance the fidelity of recombination.
+http://www.sciencedirect.com/science/article/pii/S0022283614000965
+00222836

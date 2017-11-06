@@ -1,0 +1,6 @@
+Understanding Discrimination by the Ribosome: Stability Testing and Groove Measurement of Codon–Anticodon Pairs
+6701844383,7202289995
+ribosome,molecular dynamics,translation,RNA,proofreading
+The ribosome must discriminate between correct and incorrect tRNAs with sufficient speed and accuracy to sustain an adequate rate of cell growth. Here, we report the results of explicit solvent molecular dynamics simulations, which address the mechanism of discrimination by the ribosome. The universally conserved 16S rRNA base A1493 and the kink in mRNA between A and P sites amplify differences in stability between cognate and near-cognate codon–anticodon pairs. Destabilization by the mRNA kink also provides a geometric explanation for the higher error rates observed for mismatches in the first codon position relative to mismatches in the second codon position. For more stable near-cognates, the repositioning of the universally conserved bases A1492 and G530 results in increased solvent exposure and an uncompensated loss of hydrogen bonds, preventing correct codon–anticodon–ribosome interactions from forming.
+http://www.sciencedirect.com/science/article/pii/S0022283603002365
+00222836

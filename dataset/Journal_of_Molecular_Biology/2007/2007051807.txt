@@ -1,0 +1,6 @@
+Using Reaction Mechanism to Measure Enzyme Similarity
+6506512790,8555606800,9735643700,55478373000
+reaction similarity,MACiE,enzyme reaction,enzyme mechanism,enzyme classification
+The concept of reaction similarity has been well studied in terms of the overall transformation associated with a reaction, but not in terms of mechanism. We present the first method to give a quantitative measure of the similarity of reactions based upon their explicit mechanisms. Two approaches are presented to measure the similarity between individual steps of mechanisms: a fingerprint-based approach that incorporates relevant information on each mechanistic step; and an approach based only on bond formation, cleavage and changes in order. The overall similarity for two reaction mechanisms is then calculated using the Needleman–Wunsch alignment algorithm. An analysis of MACiE, a database of enzyme mechanisms, using our measure of similarity identifies some examples of convergent evolution of chemical mechanisms. In many cases, mechanism similarity is not reflected by similarity according to the EC system of enzyme classification. In particular, little mechanistic information is conveyed by the class level of the EC system.
+http://www.sciencedirect.com/science/article/pii/S0022283607002574
+00222836

@@ -1,0 +1,6 @@
+The Crystal Structure of DehI Reveals a New α-Haloacid Dehalogenase Fold and Active-Site Mechanism
+13407197400,7004850054,7004346862,56247908700,7003621929
+bioremediation,dehalogenase,crystallography,reaction mechanism,stereoselectivity
+Haloacid dehalogenases catalyse the removal of halides from organic haloacids and are of interest for bioremediation and for their potential use in the synthesis of industrial chemicals. We present the crystal structure of the homodimer DehI from Pseudomonas putida strain PP3, the first structure of a group I α-haloacid dehalogenase that can process both l- and d-substrates. The structure shows that the DehI monomer consists of two domains of ∼130 amino acids that have ∼16% sequence identity yet adopt virtually identical and unique folds that form a pseudo-dimer. Analysis of the active site reveals the likely binding mode of both l- and d-substrates with respect to key catalytic residues. Asp189 is predicted to activate a water molecule for nucleophilic attack of the substrate chiral centre resulting in an inversion of configuration of either l- or d-substrates in contrast to d-only enzymes. These details will assist with future bioengineering of dehalogenases.
+http://www.sciencedirect.com/science/article/pii/S0022283608002325
+00222836

@@ -1,0 +1,6 @@
+Nucleosome Core Particles Containing a Poly(dA·dT) Sequence Element Exhibit a Locally Distorted DNA Structure
+7202213669,7404153702,7004826653
+crystal structure,fluorescence resonance energy transfer,nucleosome,DNA structure
+Poly(dA·dT) DNA sequence elements are thought to promote transcription by either excluding nucleosomes or by altering their structural or dynamic properties. Here, the stability and structure of a defined nucleosome core particle containing a 16 base-pair poly(dA·dT) element (A16 NCP) was investigated. The A16 NCP requires a significantly higher temperature for histone octamer sliding in vitro compared to comparable nucleosomes that do not contain a poly(dA·dT) element. Fluorescence resonance energy transfer showed that the interactions between the nucleosomal DNA ends and the histone octamer were destabilized in A16 NCP. The crystal structure of A16 NCP was determined to a resolution of 3.2 Å. The overall structure was maintained except for local deviations in DNA conformation. These results are consistent with previous in vivo and in vitro observations that poly(dA·dT) elements cause only modest changes in DNA accessibility and modest increases in steady-state transcription levels.
+http://www.sciencedirect.com/science/article/pii/S0022283606007960
+00222836

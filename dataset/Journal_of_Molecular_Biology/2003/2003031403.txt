@@ -1,0 +1,6 @@
+Chromatin Fiber Folding: Requirement for the Histone H4 N-terminal Tail
+6602818418,7801657287,6602383714,7006137434
+chromatin fiber,higher-order structure,nucleosome array,histone tails,sedimentation
+We have developed a self-assembly system for nucleosome arrays in which recombinant, post-translationally unmodified histone proteins are combined with DNA of defined-sequence to form chromatin higher-order structure. The nucleosome arrays obtained are highly homogeneous and sediment at 53S when maximally folded in 1mM or 100mM MgCl2. The folding properties are comparable to established systems. Analytical ultracentrifugation is used to determine the consequence of individual histone tail domain deletions on array folding. Fully compacted chromatin fibers are obtained with any one of the histone tails deleted with the exception of the H4 N terminus. The region of the H4 tail, which mediates compaction, resides in the stretch of amino acids 14–19.
+http://www.sciencedirect.com/science/article/pii/S0022283603000251
+00222836

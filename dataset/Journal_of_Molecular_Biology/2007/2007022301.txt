@@ -1,0 +1,6 @@
+Limping of Homodimeric Kinesin Motors
+7201549389,35329548200,7405458140
+kinesin,limping,mechanism,model
+Conventional kinesin, a homodimeric motor protein that transports cargo in various cells, walks limpingly along microtubule. Here, based on our previously proposed partially coordinated hand-over-hand model, we present a new mechanism for the limping behaviors of both wild-type and mutant kinesin homodimers. The limping is caused by different vertical forces acting on the heads in two successive steps during the processive movement of the dimer. From the model, various theoretical results, such as the dependences of the mean dwell time and dwell time ratio on the coiled-coil length and on the external load as well as the effect of vertical force on velocity, are in good agreement with previous experimental results. We predict that a high degree of limping will correlate strongly with a high sensitivity of ATP turnover rate to upwards force.
+http://www.sciencedirect.com/science/article/pii/S0022283606015063
+00222836

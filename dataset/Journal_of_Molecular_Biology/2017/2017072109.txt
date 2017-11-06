@@ -1,0 +1,6 @@
+The Changing Face of Aging: Highly Sulfated Glycosaminoglycans Induce Amyloid Formation in a Lattice Corneal Dystrophy Model Protein
+56197759900,56197624500,57192104610,7005014985,7004094833
+TGFBIp,heparin
+Glycosaminoglycans (GAGs) are related to multiple biological functions and diseases. There is growing evidence that GAG concentration and sulfate content increase with age. The destabilizing mutation A546T in the corneal protein TGFBIp leads to lattice-type corneal dystrophy, but symptoms only appear in the fourth decade of life. We hypothesize that this delayed phenotype can be explained by increased GAG sulfation over time. Using in vitro assays with the C-terminal TGFIBIp domain Fas1–4, previously shown to recapitulate many properties of full-length TGFBIp, we find that only long GAGs with multiple sulfate groups on each repeating unit increase the amount of worm-like aggregates and induce long, straight fibrils in A546T. In contrast, GAGs did not induce aggregation of wildtype Fas1–4, suggesting that the finding might be specific for lattice corneal dystrophy mutants. Our results highlight a possible role of changing GAG sulfation in the accumulation of amyloid, which also may have implications for the development of neurodegenerative diseases.
+http://www.sciencedirect.com/science/article/pii/S0022283617303510
+00222836

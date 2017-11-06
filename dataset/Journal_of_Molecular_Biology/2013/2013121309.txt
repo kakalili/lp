@@ -1,0 +1,6 @@
+Emerging Role of the Host Restriction Factor Tetherin in Viral Immune Sensing
+55755743900,35338187200,7005249256
+HIV-1,Vpu,tetherin,immune signaling
+Tetherin (BST-2, CD317) is an interferon-inducible cellular factor that inhibits the release of diverse enveloped viruses by tethering them to the cell surface. Its importance in antiviral immunity is underscored by the observation that various viruses have evolved antagonists against this restriction factor. Accumulating evidence suggests that this is not only due to its ability to inhibit virus release but that tetherin also acts as an innate immune sensor of viral infections that activates NF-κB to induce an inflammatory response. Furthermore, tetherin modulates immune activation through interactions with the immunoglobulin-like transcript 7 (ILT7, LILRA4). This surface receptor is specifically expressed on plasmacytoid dendritic cells, which are the main producers of type I interferons in response to viral infections. Here, we summarize some of our current knowledge about the role of tetherin as a viral immune sensor and discuss how the accessory HIV-1 (human immunodeficiency virus type 1) Vpu protein counteracts this effect.
+http://www.sciencedirect.com/science/article/pii/S002228361300613X
+00222836

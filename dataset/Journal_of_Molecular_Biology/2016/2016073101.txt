@@ -1,0 +1,6 @@
+Environmental Stress Induces Trinucleotide Repeat Mutagenesis in Human Cells by Alt-Nonhomologous End Joining Repair
+56567549500,8304368700,6602155253,55725879400
+environmental stress,trinucleotide repeats,mutagenesis,double-strand break repair (DSBR),alt-nonhomologous end joining (alt-NHEJ)
+Multiple pathways modulate the dynamic mutability of trinucleotide repeats (TNRs), which are implicated in neurodegenerative disease and evolution. Recently, we reported that environmental stresses induce TNR mutagenesis via stress responses and rereplication, with more than 50% of mutants carrying deletions or insertions—molecular signatures of DNA double-strand break repair. We now show that knockdown of alt-nonhomologous end joining (alt-NHEJ) components—XRCC1, LIG3, and PARP1—suppresses stress-induced TNR mutagenesis, in contrast to the components of homologous recombination and NHEJ, which have no effect. Thus, alt-NHEJ, which contributes to genetic mutability in cancer cells, also plays a novel role in environmental stress-induced TNR mutagenesis.
+http://www.sciencedirect.com/science/article/pii/S0022283616302121
+00222836

@@ -1,0 +1,6 @@
+Activation of p53 Facilitates the Target Search in DNA by Enhancing the Target Recognition Probability
+57190090276,56717262900,7402352047,6504575846,7404563436,7407715018,6603551649
+transcription factor,p53,mutation,single molecule,target binding
+Tumor suppressor p53 binds to the target in a genome and regulates the expression of downstream genes. p53 searches for the target by combining three-dimensional diffusion and one-dimensional sliding along the DNA. To examine the regulation mechanism of the target binding, we constructed the pseudo-wild type (pseudo-WT), activated (S392E), and inactive (R248Q) mutants of p53 and observed their target binding in long DNA using single-molecule fluorescence imaging. The pseudo-WT sliding along the DNA showed many pass events over the target and possessed target recognition probability (TRP) of 7±2%. The TRP increased to 18±2% for the activated mutant but decreased to 0% for the inactive mutant. Furthermore, the fraction of the target binding by the one-dimensional sliding among the total binding events increased from 63±9% for the pseudo-WT to 87±2% for the activated mutant. Control of TRP upon activation, as demonstrated here for p53, might be a general activation mechanism of transcription factors.
+http://www.sciencedirect.com/science/article/pii/S002228361630208X
+00222836

@@ -1,0 +1,6 @@
+GTP Hydrolysis Mechanism of Ras-like GTPases
+55934922300,56132107800
+signal transduction,G protein,GTP-binding protein,Ras,Rab
+The Ras-like GTPases regulate diverse cellular functions via the chemical cycle of binding and hydrolyzing GTP molecules. They alternate between GTP- and GDP-bound conformations. The GTP-bound conformation is biologically active and promotes a cellular function, such as signal transduction, cytoskeleton organization, protein synthesis/translocation, or a membrane budding/fusion event. GTP hydrolysis turns off the GTPase switch by converting it to the inactive GDP-bound conformation. The fundamental GTP hydrolysis mechanism by these GTPases has generated considerable interest over the last two decades but remained to be firmly established. This review provides an update on the catalytic mechanism with discussions on recent developments from kinetic, structural, and model studies in the context of the various GTP hydrolysis models proposed over the years.
+http://www.sciencedirect.com/science/article/pii/S0022283604006576
+00222836

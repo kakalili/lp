@@ -1,0 +1,6 @@
+NEDD8 Overexpression Results in Neddylation of Ubiquitin Substrates by the Ubiquitin Pathway
+23097702500,24345041600,7006115764
+NEDD8,ubiquitin,p53,Caspase 7,ubiquitin E1 enzyme
+Ubiquitin and ubiquitin-like proteins use unique E1, E2, and E3 enzymes for conjugation to their substrates. We and others have recently reported that increases in the relative concentration of the ubiquitin-like protein NEDD8 over ubiquitin lead to activation of NEDD8 by the ubiquitin E1 enzyme. We now show that this results in erroneous conjugation of NEDD8 to ubiquitin substrates, such as p53, Caspase 7, and Hif1α, demonstrating that overexpression of NEDD8 is not appropriate for identification of substrates of the NEDD8 pathway.
+http://www.sciencedirect.com/science/article/pii/S0022283612003981
+00222836

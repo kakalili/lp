@@ -1,0 +1,6 @@
+Towards Predictive Models of the Human Gut Microbiome
+25225229800,55220759500
+mathematical modeling,network inference,metagenomics,antibiotic,biofilm
+The intestinal microbiota is an ecosystem susceptible to external perturbations such as dietary changes and antibiotic therapies. Mathematical models of microbial communities could be of great value in the rational design of microbiota-tailoring diets and therapies. Here, we discuss how advances in another field, engineering of microbial communities for wastewater treatment bioreactors, could inspire development of mechanistic mathematical models of the gut microbiota. We review the state of the art in bioreactor modeling and current efforts in modeling the intestinal microbiota. Mathematical modeling could benefit greatly from the deluge of data emerging from metagenomic studies, but data-driven approaches such as network inference that aim to predict microbiome dynamics without explicit mechanistic knowledge seem better suited to model these data. Finally, we discuss how the integration of microbiome shotgun sequencing and metabolic modeling approaches such as flux balance analysis may fulfill the promise of a mechanistic model.
+http://www.sciencedirect.com/science/article/pii/S0022283614001788
+00222836

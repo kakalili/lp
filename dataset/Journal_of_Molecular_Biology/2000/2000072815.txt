@@ -1,0 +1,6 @@
+The contribution of buried polar groups to the conformational stability of the GCN4 coiled coil11Edited by C. R. Matthews
+56131453600,56630697500,7005256411,55958106900
+leucine zippers,protein stability,hydrogen bonds,hydrophobic interaction
+The dimeric interface of the leucine zipper coiled coil from GCN4 has been used to probe the contributions of hydrophobic and hydrogen bonding interactions to protein stability. We have determined the energetics of placing Ile or Asn residues at four buried positions in a two-stranded coiled coil. As expected, Ile is favored over Asn at these buried positions, but not as much as predicted by considering only the hydrophobic effect. It appears that interstrand hydrogen bonds form between the side-chains of the buried Asn residues and these contribute to the conformational stability of the coiled-coil peptides. However, these contributions are highly dependent on the locations of the Asn pairs. The effect of an Ile to Asn mutation is greatest at the N terminus of the peptide and decreases almost twofold as we move the substitution from the N to C-terminal heptads.
+http://www.sciencedirect.com/science/article/pii/S0022283600939366
+00222836

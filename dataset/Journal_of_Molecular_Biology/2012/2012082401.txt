@@ -1,0 +1,6 @@
+Propagation of the Prion Phenomenon: Beyond the Seeding Principle
+36673529800,7006705007
+amyloid,prion,prion-like,aggregation,neurodegenerative diseases
+The deposition of misfolded proteins is the hallmark of the late-onset, rapidly progressive and devastating neurodegenerative diseases including Alzheimer's disease, Parkinson's disease, Huntington's disease and amyotrophic lateral sclerosis. These diseases are caused by a gain of toxic properties associated with the propensity of otherwise soluble proteins to misfold. What governs the deposition of the disease-causing proteins in aged neurons is unclear, but recent evidence suggests that once misfolded, the diverse proteins associated with the neurodegenerative diseases can induce aggregation of their soluble counterpart, thereby sharing one of the defining properties of prions. In addition to the seeded polymerization, prions have the ability to replicate their aberrant conformation indefinitely and are transmissible. Are these properties also shared by diverse misfolded proteins?
+http://www.sciencedirect.com/science/article/pii/S0022283612000058
+00222836

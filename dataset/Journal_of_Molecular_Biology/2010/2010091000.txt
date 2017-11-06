@@ -1,0 +1,6 @@
+The Role of the T7 Gp2 Inhibitor of Host RNA Polymerase in Phage Development
+6504375614,36950088500,7006930329,7003775816,7005509332
+bacteriophage T7,RNA polymerase,RNA polymerase inhibitor,transcription regulation
+Bacteriophage T7 relies on its own RNA polymerase (RNAp) to transcribe its middle and late genes. Early genes, which include the viral RNAp gene, are transcribed by the host RNAp from three closely spaced strong promoters—A1, A2, and A3. One middle T7 gene product, gp2, is a strong inhibitor of the host RNAp. Gp2 is essential and is required late in infection, during phage DNA packaging. Here, we explore the role of gp2 in controlling host RNAp transcription during T7 infection. We demonstrate that in the absence of gp2, early viral transcripts continue to accumulate throughout the infection. Decreasing transcription from early promoter A3 is sufficient to make gp2 dispensable for phage infection. Gp2 also becomes dispensable when an antiterminating element boxA, located downstream of early promoters, is deleted. The results thus suggest that antiterminated transcription by host RNAp from the A3 promoter is interfering with phage development and that the only essential role for gp2 is to prevent this transcription.
+http://www.sciencedirect.com/science/article/pii/S0022283610007655
+00222836

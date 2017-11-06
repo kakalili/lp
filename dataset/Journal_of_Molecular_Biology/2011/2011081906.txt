@@ -1,0 +1,6 @@
+Structural Basis for the Function of Tim50 in the Mitochondrial Presequence Translocase
+7402052733,20433439300,53363667600,47761688500,36019331400,6603502175,7005398936,7102395155,7005779952
+mitochondrial inner membrane,preprotein,protein sorting,Saccharomyces cerevisiae,Tim23
+Many mitochondrial proteins are synthesized as preproteins carrying amino-terminal presequences in the cytosol. The preproteins are imported by the translocase of the outer mitochondrial membrane and the presequence translocase of the inner membrane. Tim50 and Tim23 transfer preproteins through the intermembrane space to the inner membrane. We report the crystal structure of the intermembrane space domain of yeast Tim50 to 1.83 Å resolution. A protruding β-hairpin of Tim50 is crucial for interaction with Tim23, providing a molecular basis for the cooperation of Tim50 and Tim23 in preprotein translocation to the protein-conducting channel of the mitochondrial inner membrane.
+http://www.sciencedirect.com/science/article/pii/S0022283611006668
+00222836

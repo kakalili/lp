@@ -1,0 +1,6 @@
+Evidence for DNA bending at the T7 RNA polymerase promoter11Edited by R. Ebright
+6602473669,7405841927
+
+Phage T7 RNA polymerase is the only DNA-dependent RNA polymerase for which we have a high-resolution structure of the promoter-bound complex. Recent studies with the more complex RNA polymerases have suggested a role for DNA wrapping in the initiation of transcription. Here, circular permutation gel retardation assays provide evidence that the polymerase does indeed bend its promoter DNA. A complementary set of experiments employing differential phasing from an array of phased A-tracts provides further evidence for both intrinsic and polymerase-induced bends in the T7 RNA polymerase promoter DNA. The bend in the complex is predicted to be about 40-60° and to be centered around positions −2 to +1, at the start site for transcription, while the intrinsic bend is much smaller (about 10°). These results, viewed in the light of a recent crystal structure for the complex, suggest a mechanism by which binding leads directly to bending. Bending at the start site would then facilitate the melting necessary to initiate transcription.
+http://www.sciencedirect.com/science/article/pii/S0022283699934186
+00222836

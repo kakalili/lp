@@ -1,0 +1,6 @@
+Micro-Managing the Circadian Clock: The Role of microRNAs in Biological Timekeeping
+55503141700,24480447800
+microRNAs,circadian rhythms,gene expression,noncoding RNAs
+Evolved under the selective pressures of a 24-h world, circadian timekeeping mechanisms are present in virtually all living organisms to coordinate daily rhythms in physiology and behavior. Until recently, the circadian clock was modeled as simple, interlocked transcription–translation feedback loops driving rhythms in gene expression of a handful of core clock genes. However, it has become evident that circadian clock regulation is immensely more complex than once thought and involves posttranscriptional, translational and posttranslational mechanisms. In particular, there has been a growing awareness of the vital role played by microRNAs (miRNAs) in regulating various aspects of circadian clock function. In this review, we will summarize our current knowledge of miRNA-dependent regulation of the circadian timing system in multiple organisms, including flies, mammals and higher plants. We will also discuss future perspectives for research on the role of miRNAs and noncoding RNAs in circadian regulation of health and disease.
+http://www.sciencedirect.com/science/article/pii/S0022283612008558
+00222836

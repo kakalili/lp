@@ -1,0 +1,6 @@
+Reconstitution and Analysis of the Multienzyme Escherichia coli RNA Degradosome
+7005853424,24558815400,23479123600,36958519300,52464565500,36477644700,6506776654,7004221679
+RNA degradosome,RNase E,DEAD box helicase,polynucleotide phosphorylase,Hfq
+The Escherichia coli RNA degradosome is a multienzyme assembly that functions in transcript turnover and maturation of structured RNA precursors. We have developed a procedure to reconstitute the RNA degradosome from recombinant components using modular coexpression vectors. The reconstituted assembly can be purified on a scale that has enabled biochemical and biophysical analyses, and we compare the properties of recombinant and cell-extracted RNA degradosomes. We present evidence that auxiliary protein components can be recruited to the ‘superprotomer’ core of the assembly through a dynamic equilibrium involving RNA intermediaries. We discuss the implications for the regulation of RNA degradosome function in vivo.
+http://www.sciencedirect.com/science/article/pii/S0022283608009133
+00222836

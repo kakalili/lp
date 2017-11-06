@@ -1,0 +1,6 @@
+Equilibrium Folding and Stability of Myotrophin: A Model Ankyrin Repeat Protein
+7801520628,7404834845,56794810400
+myotrophin,internal repeat sequences,ankyrin repeat,stability,two-state folding
+Proteins containing stretches of repeating amino acid sequences are prevalent throughout nature, yet little is known about the general folding and assembly mechanisms of these systems. Here we propose myotrophin as a model system to study the folding of ankyrin repeat proteins. Myotrophin is folded over a large pH range and is soluble at high concentrations. Thermal and urea denaturation studies show that the protein displays cooperative two-state folding properties despite its modular nature. Taken together with previous studies on other ankyrin repeat proteins, our data suggest that the two-state folding pathway may be characteristic of ankyrin repeat proteins and other integrated α-helical repeat proteins in general.
+http://www.sciencedirect.com/science/article/pii/S0022283602004412
+00222836

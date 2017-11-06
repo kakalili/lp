@@ -1,0 +1,6 @@
+Projection Structure of yidC: A Conserved Mediator of Membrane Protein Assembly
+7101784015,7202631409,7006010107,6602085939
+protein translocation,membrane insertion,yidC,electron microscopy,projection map
+Bacteria, mitochondria and chloroplasts harbour factors that facilitate the insertion, folding and assembly of membrane proteins. In Escherichia coli, yidC is required for membrane insertion, acting in both a Sec-dependent and a Sec-independent manner. There is an expanding volume of biochemical work on its role in this process, but none so far on its structure. We present the first of this class of membrane proteins determined by electron cryomicroscopy in the near-nativelike state of the membrane. yidC forms dimers in the membrane and each monomer has an area of low density that may be part of the path transmembrane segments follow during their insertion. Upon consideration of the structures of yidC and SecYEG, we speculate on the nature of the interfaces that facilitate the alternative pathways (Sec-dependent and -independent) of membrane protein insertion.
+http://www.sciencedirect.com/science/article/pii/S0022283607014647
+00222836

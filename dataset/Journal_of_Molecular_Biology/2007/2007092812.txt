@@ -1,0 +1,6 @@
+High-resolution Structure of the Major Periplasmic Domain from the Cell Shape-determining Filament MreC
+7006580400,7004323948
+cell shape,filament,peptidoglycan,crystal structure,periplasm
+Bacterial cell shape is dictated by the cell wall, a plastic structure that must adapt to growth and division whilst retaining its function as a selectively permeable barrier. The modulation of cell wall structure is achieved by a variety of enzymatic functions, all of which must be spatially regulated in a precise manner. The membrane-spanning essential protein MreC has been identified as the central hub in this process, linking the bacterial cytoskeleton to a variety of cell wall-modifying enzymes. Additionally, MreC can form filaments, believed to run perpendicularly to the membrane. We present here the 1.2 Å resolution crystal structure of the major periplasmic domain of Streptococcus pneumoniae MreC. The protein shows a novel arrangement of two barrel-shaped domains, one of which shows homology to a known protein oligomerization motif, with the other resembling a catalytic domain from a bacterial protease. We discuss the implications of these results for MreC function, and detail the structural features of the molecule that may be responsible for the binding of partner proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283607009552
+00222836

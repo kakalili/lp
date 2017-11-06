@@ -1,0 +1,6 @@
+Allosteric Loss-of-function Mutations in HIV-1 Nef from a Long-term Non-progressor
+6506908608,8513056900,6603417861,6701413045,6602551499,7006513776
+HIV-1,Src-family kinase,Hck,Nef,SH3 domain
+Activation of Src family kinases by human immunodeficiency virus type 1 (HIV-1) Nef may play an important role in the pathogenesis of HIV/AIDS. Here we investigated whether diverse Nef sequences universally activate Hck, a Src family member expressed in macrophages and other HIV-1 target cells. In general, we observed that Hck activation is a highly conserved Nef function. However, we identified an unusual Nef variant from an HIV-positive individual that did not develop AIDS which failed to activate Hck despite the presence of conserved residues linked to Hck SH3 domain binding and kinase activation. Amino acid sequence alignment with active Nef proteins revealed differences in regions not previously implicated in Hck activation, including a large internal flexible loop absent from available Nef structures. Substitution of these residues in active Nef compromised Hck activation without affecting SH3 domain binding. These findings show that residues at a distance from the SH3 domain binding site influence Nef interactions allosterically with a key effector protein linked to AIDS progression.
+http://www.sciencedirect.com/science/article/pii/S0022283607011837
+00222836

@@ -1,0 +1,6 @@
+The Evidence of Large-Scale DNA-Induced Compaction in the Mycobacterial Chromosomal ParB
+7101623089,16240675400
+SAXS,intrinsic disorder,ParB,chromosome segregation,DNA-binding protein
+The bacterial chromosome trafficking apparatus or the segrosome participates in the mitotic-like segregation of the chromosomes prior to cell division in several bacteria. ParB, which is the parS DNA-binding component of the segrosome, polymerizes on the parS-adjacent chromosome to form a nucleoprotein filament of unknown nature for the segregation function. We combined static light scattering, circular dichroism and small-angle X-ray scattering to present evidence that the apo form of the mycobacterial ParB forms an elongated dimer with intrinsically disordered regions as well as folded domains in solution. A comparison of the solution scattering of the apo and the parS-bound ParBs indicates a rather drastic compaction of the protein upon DNA binding. We propose that this binding-induced conformational transition is priming the ParB for polymerization on the DNA template.
+http://www.sciencedirect.com/science/article/pii/S0022283611008497
+00222836

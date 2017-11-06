@@ -1,0 +1,6 @@
+In silico Protein Recombination: Enhancing Template and Sequence Alignment Selection for Comparative Protein Modelling
+6602677166,6506554798,7201982123
+protein structure prediction,comparative modelling,template selection,alignment errors,genetic algorithm
+Comparative modelling of proteins is a predictive technique to build an atomic model for a given amino acid sequence, on the basis of the structures of other proteins (templates) that have been determined experimentally. Critical problems arise in this procedure: selecting the correct templates, aligning the query sequence with them and building the non-conserved surface loops. In this work, we apply a genetic algorithm, with crossover and mutation, as a new tool to overcome the first two. In silico protein recombination proves to be an effective way to exploit the variability of templates and sequence alignments to produce populations of optimized models by artificial selection. Despite some limitations, the procedure is shown to be robust to alignment errors, while simplifying the task of selecting templates, making it a good candidate for automatic building of reliable protein models.
+http://www.sciencedirect.com/science/article/pii/S0022283603003097
+00222836

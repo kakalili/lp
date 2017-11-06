@@ -1,0 +1,6 @@
+SF2/ASF binds to a splicing enhancer in the third HIV-1 tat exon and stimulates U2AF binding independently of the RS domain11Edited by J. Karn
+36814656000,35426050200
+RNA splicing,exon splicing enhancer,exon splicing silencer,SF2/ASF,U2AF
+Splicing of a single HIV-1 primary transcript into more than 30 different mRNAs is regulated by a combination of suboptimal splice sites, cis-acting RNA splicing enhancers and silencers, and trans-acting factors. We have studied the splicing of the second tat intron (SD4 to SA7) and find that activation of splicing by SF2/ASF is mediated by a degenerate exon splicing enhancer (ESE3), consisting of at least three functionally independent sub-elements. One of these sub-elements appears to have both enhancing and silencing properties, depending on the context. SF2/ASF stimulates U2AF65 binding to the suboptimal tat polypyrimidine tract in an ESE3-dependent manner, whereas the exon splicing silencer (ESS3) that is located downstream of the ESE3 inhibits this step. Truncated SF2/ASF protein without the RS domain binds specifically to the ESE3 and retains almost full capacity to stimulate U2AF65 binding and activate splicing. This suggests that SF2/ASF can stimulate the recruitment of U2AF65 by an RS domain-independent mechanism.
+http://www.sciencedirect.com/science/article/pii/S002228360194971X
+00222836

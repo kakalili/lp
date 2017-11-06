@@ -1,0 +1,6 @@
+Minimalist Protein Model as a Diagnostic Tool for Misfolding and Aggregation
+8508571100,7004494909
+protein folding,misfolding,aggregation,minimalist model,gatekeeper
+We propose a realistic coarse-grained protein model and a technique to “anchor” the model to available experimental data. We apply this procedure to characterize the effect of multiple mutations on the folding mechanism of protein S6. We show that the mutation of a few “gatekeeper” residues triggers significant changes on the folding landscape of S6. These results suggest that gatekeeper residues control the flexibility of critical regions of S6, that in turn regulates the delicate balance between folding and aggregation. Although obtained with a minimalist protein model, these results are fully consistent with experimental evidence and offer a clue to understand the interplay between folding and aggregation in protein S6.
+http://www.sciencedirect.com/science/article/pii/S0022283606009879
+00222836

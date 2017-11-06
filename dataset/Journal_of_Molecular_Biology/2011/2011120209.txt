@@ -1,0 +1,6 @@
+Structure of the Escherichia coli Phosphonate Binding Protein PhnD and Rationally Optimized Phosphonate Biosensors
+6507218665,7004475583,25925945100,35497668300,6602848770,17344439700
+phosphonate,periplasmic binding protein,crystal structure,biosensor,fluorescence
+The phnD gene of Escherichia coli encodes the periplasmic binding protein of the phosphonate (Pn) uptake and utilization pathway. We have crystallized and determined structures of E. coli PhnD (EcPhnD) in the absence of ligand and in complex with the environmentally abundant 2-aminoethylphosphonate (2AEP). Similar to other bacterial periplasmic binding proteins, 2AEP binds near the center of mass of EcPhnD in a cleft formed between two lobes. Comparison of the open, unliganded structure with the closed 2AEP-bound structure shows that the two lobes pivot around a hinge by ∼70° between the two states. Extensive hydrogen bonding and electrostatic interactions stabilize 2AEP, which binds to EcPhnD with low nanomolar affinity. These structures provide insight into Pn uptake by bacteria and facilitated the rational design of high signal-to-noise Pn biosensors based on both coupled small-molecule dyes and autocatalytic fluorescent proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283611010874
+00222836

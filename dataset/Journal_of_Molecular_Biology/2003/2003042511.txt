@@ -1,0 +1,6 @@
+Atomic Resolution Structures of Native Copper Nitrite Reductase from Alcaligenes xylosoxidans and the Active Site Mutant Asp92Glu
+7402181496,7004001288,7006617939,7103375066,7102767936
+copper nitrite reductase,Alcaligenes xylosoxidans,denitrification,proton channel
+We provide the first atomic resolution (&lt;1.20Å) structure of a copper protein, nitrite reductase, and of a mutant of the catalytically important Asp92 residue (D92E). The atomic resolution where carbon–carbon bonds of the peptide become clearly resolved, remains a key goal of structural analysis. Despite much effort and technological progress, still very few structures are known at such resolution. For example, in the Protein Data Bank (PDB) there are some 200 structures of copper proteins but the highest resolution structure is that of amicyanin, a small (12kDa) protein, which has been resolved to 1.30Å. Here, we present the structures of wild-type copper nitrite reductase (wtNiR) from Alcaligenes xylosoxidans (36.5kDa monomer), the “half-apo” recombinant native protein and the D92E mutant at 1.04, 1.15 and 1.12Å resolutions, respectively. These structures provide the basis from which to build a detailed mechanism of this important enzyme.
+http://www.sciencedirect.com/science/article/pii/S0022283603003085
+00222836

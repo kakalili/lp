@@ -1,0 +1,6 @@
+The Geometry of the Ribosomal Polypeptide Exit Tunnel
+24559518200,24755400900,7102949800,7403684759
+ribosome,exit tunnel,geometry,solvent content
+The geometry of the polypeptide exit tunnel has been determined using the crystal structure of the large ribosomal subunit from Haloarcula marismortui. The tunnel is a component of a much larger, interconnected system of channels accessible to solvent that permeates the subunit and is connected to the exterior at many points. Since water and other small molecules can diffuse into and out of the tunnel along many different trajectories, the large subunit cannot be part of the seal that keeps ions from passing through the ribosome-translocon complex. The structure referred to as the tunnel is the only passage in the solvent channel system that is both large enough to accommodate nascent peptides, and that traverses the particle. For objects of that size, it is effectively an unbranched tube connecting the peptidyl transferase center of the large subunit and the site where nascent peptides emerge. At no point is the tunnel big enough to accommodate folded polypeptides larger than α-helices.
+http://www.sciencedirect.com/science/article/pii/S002228360600605X
+00222836

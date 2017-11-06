@@ -1,0 +1,6 @@
+Uncovering Network Systems Within Protein Structures
+7201536187,6505948594
+networks,scale-free,small-world,protein structure,protein folding
+Traditionally, proteins have been viewed as a construct based on elements of secondary structure and their arrangement in three-dimensional space. In a departure from this perspective we show that protein structures can be modelled as network systems that exhibit small-world, single-scale, and to some degree, scale-free properties. The phenomenological network concept of degrees of separation is applied to three-dimensional protein structure networks and reveals how amino acid residues can be connected to each other within six degrees of separation. This work also illuminates the unique features of protein networks in comparison to other networks currently studied. Recognising that proteins are networks provides a means of rationalising the robustness in the overall three-dimensional fold of a protein against random mutations and suggests an alternative avenue to investigate the determinants of protein structure, function and folding.
+http://www.sciencedirect.com/science/article/pii/S0022283603010817
+00222836

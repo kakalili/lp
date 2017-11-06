@@ -1,0 +1,6 @@
+Crystallographic and functional studies of a modified form of eosinophil-derived neurotoxin (EDN) with novel biological activities11Edited by R. Huber
+36501191700,7202458905,35453517100,7102207781
+crystal structure,atomic resolution,cytotoxic ribonuclease,Kaposi sarcoma,active site
+The crystal structure of a post-translationally modified form of eosinophil-derived neurotoxin (EDN) with four extra residues on its N terminus ((−4)EDN) has been solved and refined at atomic resolution (1 Å). Two of the extra residues can be placed unambiguously, while the density corresponding to two others is poor. The modified N terminus appears to influence the position of the catalytically important His129, possibly explaining the diminished catalytic activity of this variant. However, (−4)EDN has been shown to be cytotoxic to a Kaposi’s sarcoma tumor cell line and other endothelial cell lines. Analysis of the structure and function suggests that the reason for cytotoxicity is most likely due to cellular recognition by the N-terminal extension, since the intrinsic activity of the enzyme is not sufficient for cytotoxicity and the N-terminal extension does not affect the conformation of EDN.
+http://www.sciencedirect.com/science/article/pii/S0022283602954069
+00222836

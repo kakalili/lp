@@ -1,0 +1,6 @@
+Structured Regions of α-Synuclein Fibrils Include the Early-Onset Parkinson's Disease Mutation Sites
+35387740400,36895020900,22985965500,13103630500,23009074500,53864973600,7202523635,7102939693,56321102400,6603607630
+Lewy bodies,magic-angle spinning,solid-state NMR,conformational dynamics,structural perturbations
+α-Synuclein (AS) fibrils are the major component of Lewy bodies, the pathological hallmark of Parkinson's disease (PD). Here, we use results from an extensive investigation employing solid-state NMR to present a detailed structural characterization and conformational dynamics quantification of full-length AS fibrils. Our results show that the core extends with a repeated structural motif. This result disagrees with the previously proposed fold of AS fibrils obtained with limited solid-state NMR data. Additionally, our results demonstrate that the three single point mutations associated with early-onset PD—A30P, E46K and A53T—are located in structured regions. We find that E46K and A53T mutations, located in rigid β-strands of the wild-type fibrils, are associated with major and minor structural perturbations, respectively.
+http://www.sciencedirect.com/science/article/pii/S0022283611006723
+00222836

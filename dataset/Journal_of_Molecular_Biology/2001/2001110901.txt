@@ -1,0 +1,6 @@
+A structural census of metabolic networks for E. coli11Edited by B. Honig
+6701736348,7101911184
+protein folds,metabolic pathways,protein functions,enzymes,structural genomics
+A structural survey of the Escherichia coli proteins occurring in metabolic networks in the KEGG database (release 19 of LIGAND) has been carried out. A measure of structural coverage of a network is defined and calculated for each network. Twentyfour networks have 50 % or more of the enzyme steps assigned in E. coli and of these 21 have a structural coverage of 50 % or more. For those proteins that have a region matching a SCOP domain 50 % fall on or below the 30 % sequence identity threshold and represent non-trivial comparative modelling targets highlighting the need for experimental structure determination studies. The survey reveals the predominance of α/β and α+β folds for enzymes involved in metabolic pathways and that this general trend is maintained at the level of each pathway. The most popular superfamilies are coenzyme binding domains and are involved in the supply of energy to reactions. Although a few superfamilies are found in many pathways, in general there is a specificity of a particular superfamily for a particular pathway.
+http://www.sciencedirect.com/science/article/pii/S0022283601951071
+00222836

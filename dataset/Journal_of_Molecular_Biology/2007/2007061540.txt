@@ -1,0 +1,6 @@
+A DNA-translocating Snf2 Molecular Motor: Saccharomyces cerevisiae Rdh54 Displays Processive Translocation and Extrudes DNA Loops
+11140794100,7403143015,16311368800,7005534230,7102074349,11140975000
+Rdh54,homologous recombination,single-molecule,TIRFM,DNA curtain
+We have used total internal reflection fluorescence microscopy (TIRFM) to investigate the characteristics of the yeast homologous recombination factor Rdh54 on DNA. Our results demonstrate translocation of Rdh54 on DNA and extrusion of DNA loops by Rdh54 in an ATP hydrolysis-dependent manner. The translocating Rdh54 was highly processive and displayed a variety of behavior, including variations in translocation rate and distance, pauses, and reversals. We provide evidence that the DNA loops generated encompass an average of 6 kb, and Rdh54 often abruptly releases the extruded DNA. Rdh54 forms a multimeric complex, which we speculate has at least two functionally distinct DNA-binding sites, one of which enables translocation while the other remains anchored to another DNA locale. Our work, together with other recent studies, suggests that translocation-coupled DNA loop extrusion is a common mechanistic feature among the Snf2-family of chromatin-remodeling proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283607004597
+00222836

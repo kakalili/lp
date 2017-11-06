@@ -1,0 +1,6 @@
+Structure of the Complex between HER2 and an Antibody Paratope Formed by Side Chains from Tryptophan and Serine
+7403555681,6701742256,6506914936,36878314000,36673707600,6507138458,7102079606,7004735860
+antibody sequence diversity,binary phage library,HER2,receptor oligomer,X-ray structure
+Engineered antibody paratopes with limited sequence diversity permit assessment of the roles played by different amino acid side chains in creating the high-affinity, high-specificity interactions characteristic of antibodies. We describe a paratope raised against the human ErbB family member HER2, using a binary diversity tryptophan/serine library displayed on phage. Fab37 binds to the extracellular domain of HER2 with sub-nanomolar affinity. An X-ray structure at 3.2 Å resolution reveals a contact paratope composed almost entirely of tryptophan and serine residues. Mutagenesis experiments reveal which of these side chains are more important for direct antigen interactions and which are more important for conformational flexibility. The crystal lattice contains an unprecedented trimeric arrangement of HER2 closely related to previously observed homodimers of the related epidermal growth factor receptor.
+http://www.sciencedirect.com/science/article/pii/S0022283610007801
+00222836

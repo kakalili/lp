@@ -1,0 +1,6 @@
+A Novel Method to Analyze Nucleocytoplasmic Transport In Vivo by Using Short Peptide Tags
+35742466900,55614345100,7102025822,8572479500
+nuclear transport,TetR-inducing peptides,gene regulation,nucleocytoplasmic shuttling,reporter gene assay
+Regulated nucleocytoplasmic transport is of vital importance for maintaining the physiology of the cell, and disturbed nucleocytoplasmic shuttling of certain proteins has been found in a variety of diseases including cancer. The most frequently used procedure to analyze those processes is to fuse the protein of interest to a fluorescent protein such as GFP (green fluorescent protein)—a technique that is prone to impair normal protein function and subcellular localization. We report a novel approach to monitor nucleocytoplasmic transport processes in vivo by combining short TetR inducing peptide tags (TIP) with a TetR-controlled reporter gene in a human cell line. The technology is exemplified by demonstrating nucleocytoplasmic shuttling of the glucocorticoid receptor and activity of two further TIP fusions to cancer-related proteins. The technology presented provides the basis for efficient screening systems to isolate compounds altering the nucleocytoplasmic distribution of a protein of interest.
+http://www.sciencedirect.com/science/article/pii/S0022283613000934
+00222836

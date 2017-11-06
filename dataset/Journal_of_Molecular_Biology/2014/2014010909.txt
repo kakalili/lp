@@ -1,0 +1,6 @@
+A Novel 8-nm Protein Cage Formed by Vibrio cholerae Acylphosphatase
+55383600300,55383214600,7004669730
+bacterial protein phosphatases,dynamic light scattering,protein crystallization,protein self-assembly,X-ray crystallography
+Here we show the formation of an ~8-nm cage formed by the self-assembly of acylphosphatase from Vibrio cholerae O395 (Vc-AcP). The 12-subunit cage structure forms spontaneously and is stabilized through binding of sulfate ions at its exterior face and interfacial regions. Crystal structure and studies in solutions illuminate the basis for the formation of the cage, while a single (Cys20→Arg) mutation (Vc-AcP-C20R) transforms Vc-AcP to a potent enzyme but disrupts the assembly into a trimer.
+http://www.sciencedirect.com/science/article/pii/S0022283613005858
+00222836

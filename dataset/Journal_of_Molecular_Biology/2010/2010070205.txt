@@ -1,0 +1,6 @@
+Mechanism of GTPase-Activity-Induced Self-Assembly of Human Guanylate Binding Protein 1
+8871168900,36673920000,8664850200,11241976000,36673500000,36055982900,56264851100,7103237480
+cross-linking,electrostatic interactions,GTPase,hGBP1,self-association
+Human guanylate binding protein 1 (hGBP1) belongs to the dynamin superfamily of large GTPases (LGs). In the course of GTP hydrolysis, the protein undergoes structural changes leading to self-assembly of the protein, which is a characteristic property of all family members. For self-assembly, the protein employs two distinct interaction sites, one of which is located within the LG domain of the protein located at the N-terminus, and the second is located in the C-terminal α-helical domain. Here, we identify intramolecular contacts between the LG domain and the helical part of hGBP1, which relay nucleotide-dependent structural changes from the N-terminus to the C-terminus and thereby mediate tetramer formation of the protein through a second contact site at the C-terminus. Furthermore, we demonstrate the impact of this intramolecular communication on the enzymatic activity of hGBP1 and on its cellular localization.
+http://www.sciencedirect.com/science/article/pii/S0022283610004419
+00222836

@@ -1,0 +1,6 @@
+A 3-D Reconstruction of Smooth Muscle α-Actinin by CryoEm Reveals Two Different Conformations at the Actin-binding Region
+55070579700,55475221500,35557662000
+actin-binding protein,muscle protein,image processing,2-D crystals,lipid monolayer,electron microscopy
+Cryoelectron microscopy was used to obtain a 3-D image at 2.0 nm resolution of 2-D arrays of smooth muscle α-actinin. The reconstruction reveals a well-resolved long central domain with 90° of left-handed twist and near 2-fold symmetry. However, the molecular ends which contain the actin binding and calmodulin-like domains, have different structures oriented ∼90° to each other. Atomic structures for the α-actinin domains were built by homology modeling and assembled into an atomic model. Model building suggests that in the 2-D arrays, the two calponin homology domains that comprise the actin-binding domain have a closed conformation at one end and an open conformation at the other end due to domain swapping. The open and closed conformations of the actin-binding domain suggests flexibility that may underlie Ca2+ regulation. The ∼90° orientation difference at the molecular ends may underlie α-actinin's ability to crosslink actin filaments in nearly any orientation.
+http://www.sciencedirect.com/science/article/pii/S0022283604001858
+00222836

@@ -1,0 +1,6 @@
+Ultra-high Resolution Crystal Structure of HIV-1 Protease Mutant Reveals Two Binding Sites for Clinical Inhibitor TMC114
+7004993010,55717440400,8399077100,7403963840,7202523747,7403907161,34574239300
+HIV-1 protease,drug resistance,darunavir,allosteric binding site,ultra-high resolution crystal structure
+TMC114 (darunavir) is a promising clinical inhibitor of HIV-1 protease (PR) for treatment of drug resistant HIV/AIDS. We report the ultra-high 0.84 Å resolution crystal structure of the TMC114 complex with PR containing the drug-resistant mutation V32I (PRV32I), and the 1.22 Å resolution structure of a complex with PRM46L. These structures show TMC114 bound at two distinct sites, one in the active-site cavity and the second on the surface of one of the flexible flaps in the PR dimer. Remarkably, TMC114 binds at these two sites simultaneously in two diastereomers related by inversion of the sulfonamide nitrogen. Moreover, the flap site is shaped to accommodate the diastereomer with the S-enantiomeric nitrogen rather than the one with the R-enantiomeric nitrogen. The existence of the second binding site and two diastereomers suggest a mechanism for the high effectiveness of TMC114 on drug-resistant HIV and the potential design of new inhibitors.
+http://www.sciencedirect.com/science/article/pii/S0022283606009958
+00222836

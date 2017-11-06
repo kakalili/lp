@@ -1,0 +1,6 @@
+Structural and Functional Evidence that Nck Interaction with CD3ε Regulates T-Cell Receptor Activity
+7403989823,7406557396,36485078100,8890931000,7404240134,36042849400,55480070200
+CD3ε,Nck,nuclear magnetic resonance,phosphorylation,receptor internalization
+Recruitment of signaling molecules to the cytoplasmic domains of the CD3 subunits of the T-cell receptor (TCR) is crucial for early T-cell activation. These transient associations either do or do not require tyrosine phosphorylation of CD3 immune tyrosine activation motifs (ITAMs). Here we show that the non-ITAM-requiring adaptor protein Nck forms a complex with an atypical PxxDY motif of the CD3ε tail, which encompasses Tyr166 within the ITAM and a TCR endocytosis signal. As suggested by the structure of the complex, we find that Nck binding inhibits phosphorylation of the CD3ε ITAM by Fyn and Lck kinases in vitro. Moreover, the CD3ε–Nck interaction downregulates TCR surface expression upon physiological stimulation in mouse primary lymph node cells. This indicates that Nck performs an important regulatory function in T lymphocytes by inhibiting ITAM phosphorylation and/or removing cell surface TCR via CD3ε interaction.
+http://www.sciencedirect.com/science/article/pii/S0022283608006037
+00222836

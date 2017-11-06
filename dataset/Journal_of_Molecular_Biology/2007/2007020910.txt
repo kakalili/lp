@@ -1,0 +1,6 @@
+VP4 Protein from Human Rhinovirus 14 Is Released by Pressure and Locked in the Capsid by the Antiviral Compound WIN
+7101988676,15769493500,7203087063,15081497400,35406650200,7403023233,35551491300
+human rhinovirus,WIN drugs,hydrostatic pressure,fluorescence,mass spectrometry
+Rhinoviruses are the major causative agents of the common cold in humans. Here, we studied the stability of human rhinovirus type 14 (HRV14) under conditions of high hydrostatic pressure, low temperature, and urea in the absence and presence of an antiviral drug. Capsid dissociation and changes in the protein conformation were monitored by fluorescence spectroscopy, light scattering, circular dichroism, gel filtration chromatography, mass spectrometry and infectivity assays. The data show that high pressure induces the dissociation of HRV14 and that this process is inhibited by WIN 52084. MALDI-TOF mass spectrometry experiments demonstrate that VP4, the most internal viral protein, is released from the capsid by pressure treatment. This release of VP4 is concomitant with loss of infectivity. Our studies also show that at least one antiviral effect of the WIN drugs involves the locking of VP4 inside the capsid by blocking the dynamics associated with cell attachment.
+http://www.sciencedirect.com/science/article/pii/S0022283606015737
+00222836

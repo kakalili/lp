@@ -1,0 +1,6 @@
+Reconstitution of hybrid proteasomes from purified PA700–20 S complexes and PA28αβ activator: ultrastructure and peptidase activities11Edited by R. Huber
+7004391375,7006698670,7005675651
+human,proteasome,activator,hybrid,electron microscopy
+The activity of the proteasome, the major non-lysosomal proteinase in eukaryotes, is stimulated by two activator complexes, PA700 and PA28. PA700–20 S-PA700 proteasome complexes, generally designated as 26 S proteasomes, degrade proteins, whereas complexes of the type PA28–20 S-PA28 degrade only peptides. We report, for the first time, the in vitro reconstitution of previously identified hybrid proteasomes (PA700–20 S-PA28) from purified PA700–20 S proteasome complexes and PA28 activator. In electron micrographs, the hybrid appears as a corkscrew-shaped particle with a PA700 and a PA28 activator each bound to a terminal α-disk of the 20 S core proteasome. The multiple peptidase activities of hybrid proteasomes are not different from those of PA28–20 S-PA28 or PA700–20 S-PA700 complexes.
+http://www.sciencedirect.com/science/article/pii/S0022283601950636
+00222836

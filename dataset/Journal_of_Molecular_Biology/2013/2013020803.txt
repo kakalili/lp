@@ -1,0 +1,6 @@
+Transcription Regulation of a Yeast Gene from a Downstream Location
+37054766200,25822768700,7202733558
+transcription,regulation,downstream,yeast,INO1
+Mechanisms for coregulation of transcription of tandem genes in yeast remain largely speculative. This study focused on inositol-mediated regulation of the tandem gene pair SNA3–INO1. While the pattern of regulation of these two genes was similar, results showed that intermediate levels of inositol repressed INO1 and induced SNA3. Results also showed that inositol-mediated regulation of the SNA3 gene was not a function of its promoter but occurred from factors within the SNA3–INO1 intergenic region. The basic helix–loop–helix proteins, Ino2p and Ino4p, mediated this regulation through the upstream activation sequence (UAS)INO (E-box) sequences in the intergenic region. These results provide a model for studying coregulation of yeast tandem genes. This is especially significant given that many tandem gene pairs in yeast are coregulated even though context-specific UAS sequences are known only for one gene in the pair.
+http://www.sciencedirect.com/science/article/pii/S002228361200890X
+00222836

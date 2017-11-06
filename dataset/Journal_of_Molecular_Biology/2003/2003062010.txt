@@ -1,0 +1,6 @@
+Open Complex Formation In Vitro by σ38 (rpoS) RNA Polymerase: Roles for Region 2 Amino Acids
+7601415463,7006480389
+fork junction,DNA melting,isomerization,rpoS,σ38
+Non-functional mutants of σ38(σS) were studied in vitro to identify the nature of their defects. Mutations in four amino acids led to severe defects in DNA binding and enzyme isomerization with promoter fork junction probes containing single-stranded non-template DNA. The same properties were previously seen with DNA mutations at the fork junction, implying that sigma:DNA interactions at the fork junction are used both for DNA binding and enzyme isomerization. An overlapping set of four mutants had defects that appear to be associated with DNA melting to create the fork junction. When mapped onto the σ70 structure, these groups of mutants suggest motifs used by σ factors to melt DNA and isomerize RNA polymerase to form functional open promoter complexes.
+http://www.sciencedirect.com/science/article/pii/S0022283603003693
+00222836

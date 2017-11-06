@@ -1,0 +1,6 @@
+Structural Basis of DNA Recognition by the Alternative Sigma-factor, σ54
+10143812700,7006602658,55246766200,7006405506,7103123247
+Sigma-54,Transcription initiation,Protein–DNA complex,RNA polymerase,RpoN box
+The σ subunit of bacterial RNA polymerase (RNAP) regulates gene expression by directing RNAP to specific promoters. Unlike σ70-type proteins, the alternative σ factor, σ54, requires interaction with an ATPase to open DNA. We present the solution structure of the C-terminal domain of σ54 bound to the −24 promoter element, in which the conserved RpoN box motif inserts into the major groove of the DNA. This structure elucidates the basis for sequence specific recognition of the −24 element, orients σ54 on the promoter, and suggests how the C-terminal domain of σ54 interacts with RNAP.
+http://www.sciencedirect.com/science/article/pii/S0022283607004822
+00222836

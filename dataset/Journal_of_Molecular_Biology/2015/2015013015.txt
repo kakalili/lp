@@ -1,0 +1,6 @@
+Light-Induced Helix Movements in Channelrhodopsin-2
+55477387200,23092759400,7006317098,7006010107
+microbial rhodopsin,channelrhodopsin,light-gated ion channel,electron cryo-microscopy,conformational changes
+Channelrhodopsin-2 (ChR2) is a cation-selective light-gated channel from Chlamydomonas reinhardtii (Nagel G, Szellas T, Huhn W, Kateriya S, Adeishvili N, Berthold P, et al. Channelrhodopsin-2, a directly light-gated cation-selective membrane channel. Proc Natl Acad Sci USA 2003;100:13940–5), which has become a powerful tool in optogenetics. Two-dimensional crystals of the slow photocycling C128T ChR2 mutant were exposed to 473nm light and rapidly frozen to trap the open state. Projection difference maps at 6Å resolution show the location, extent and direction of light-induced conformational changes in ChR2 during the transition from the closed state to the ion-conducting open state. Difference peaks indicate that transmembrane helices (TMHs) TMH2, TMH6 and TMH7 reorient or rearrange during the photocycle. No major differences were found near TMH3 and TMH4 at the dimer interface. While conformational changes in TMH6 and TMH7 are known from other microbial-type rhodopsins, our results indicate that TMH2 has a key role in light-induced channel opening and closing in ChR2.
+http://www.sciencedirect.com/science/article/pii/S0022283614005804
+00222836

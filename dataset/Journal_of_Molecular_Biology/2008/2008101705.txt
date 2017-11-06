@@ -1,0 +1,6 @@
+Crystal Structure of the RRM Domain of Poly(A)-Specific Ribonuclease Reveals a Novel m7G-Cap-Binding Mode
+56602676900,24597796000,6601962256,7004237468
+PARN,RRM,mRNA,cap,deadenylation
+Poly(A)-specific ribonuclease (PARN) is a processive 3′-exoribonuclease involved in the decay of eukaryotic mRNAs. Interestingly, PARN interacts not only with the 3′ end of the mRNA but also with its 5′ end as PARN contains an RRM domain that specifically binds both the poly(A) tail and the 7-methylguanosine (m7G) cap. The interaction of PARN with the 5′ cap of mRNAs stimulates the deadenylation activity and enhances the processivity of this reaction. We have determined the crystal structure of the PARN-RRM domain with a bound m7G triphosphate nucleotide, revealing a novel binding mode for the m7G cap. The structure of the m7G binding pocket is located outside of the canonical RNA-binding surface of the RRM domain and differs significantly from that of other m7G-cap-binding proteins. The crystal structure also shows a remarkable conformational flexibility of the RRM domain, leading to a perfect exchange of two α-helices with an adjacent protein molecule in the crystal lattice.
+http://www.sciencedirect.com/science/article/pii/S002228360800942X
+00222836

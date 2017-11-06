@@ -1,0 +1,6 @@
+OH1 from Orf Virus: A New Tyrosine Phosphatase that Displays Distinct Structural Features and Triple Substrate Specificity
+57195274451,6601999522,57195279254,57195287688,56525834700,24765430200,6603141496,24775088500,6602705733
+crystallography,Orf virus,tyrosine phosphatase,phosphatidylinositol
+Viral tyrosine phosphatases such as VH1 from Vaccinia and Variola virus are recognized as important effectors of host–pathogen interactions. While proteins sharing sequence to VH1 have been identified in other viruses, their structural and functional characterization is not known. In this work, we determined the crystal structure of the VH1 homolog in the Orf virus, herein named OH1. Similarly to Variola and Vaccinia VH1, the structure of OH1 shows a dimer with the typical dual-specificity phosphatase fold. In contrast to VH1, the OH1 dimer is covalently stabilized by a disulfide bond involving residue Cys15 in the N-terminal helix alpha-1 of both monomers, and Cys15 is a conserved residue within the Parapoxvirus genus. The in vitro functional characterization confirms that OH1 is a dual-specificity phosphatase and reveals its ability to dephosphorylate phosphatidylinositol 3,5-bisphosphate, a new activity potentially relevant in phosphoinositide recycling during virion maturation.
+http://www.sciencedirect.com/science/article/pii/S0022283617303674
+00222836

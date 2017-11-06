@@ -1,0 +1,6 @@
+Pathways for Virus Assembly around Nucleic Acids
+25637600600,56204994700,56001627800
+viral capsid,self assembly
+Understanding the pathways by which viral capsid proteins assemble around their genomes could identify key intermediates as potential drug targets. In this work, we use computer simulations to characterize assembly over a wide range of capsid protein–protein interaction strengths and solution ionic strengths. We find that assembly pathways can be categorized into two classes, in which intermediates are either predominantly ordered or disordered. Our results suggest that estimating the protein–protein and the protein–genome binding affinities may be sufficient to predict which pathway occurs. Furthermore, the calculated phase diagrams suggest that knowledge of the dominant assembly pathway and its relationship to control parameters could identify optimal strategies to thwart or redirect assembly to block infection. Finally, analysis of simulation trajectories suggests that the two classes of assembly pathways can be distinguished in single-molecule fluorescence correlation spectroscopy or bulk time-resolved small-angle X-ray scattering experiments.
+http://www.sciencedirect.com/science/article/pii/S0022283614003325
+00222836

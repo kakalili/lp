@@ -1,0 +1,6 @@
+Periodically Arranged Interactions within the Myosin Filament Backbone Revealed by Mechanical Unzipping
+55357578600,7005934096
+myosin,thick filament,atomic force microscopy,force spectroscopy,charge–charge interactions
+Numerous types of biological motion are driven by myosin thick filaments. Although the exact structure of the filament backbone is not known, it has long been hypothesized that periodically arranged charged regions along the myosin tail are the main contributors to filament stability. Here we provide a direct experimental test of this model by mechanically pulling apart synthetic myosin thick filaments. We find that unzipping is accompanied by broad force peaks periodically spaced at 4-, 14- and 43-nm intervals. This spacing correlates with the repeat distance of highly charged regions along the myosin tail. Lowering ionic strength does not change force-peak periodicity but increases the forces necessary for unzipping. The force peaks are partially reversible, indicating that the interactions are rapidly re-established upon mechanical relaxation. Thus, the zipping together of myosin tails via consecutive formation of periodically spaced bonds may be the underlying mechanism of spontaneous thick filament formation.
+http://www.sciencedirect.com/science/article/pii/S0022283608000417
+00222836

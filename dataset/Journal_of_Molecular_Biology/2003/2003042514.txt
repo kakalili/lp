@@ -1,0 +1,6 @@
+Perturbed Folding Kinetics of Circularly Permuted RNAs with Altered Topology
+6507033934,7006553529
+circular permutation,group I intron,RNA folding,ribozyme
+The folding pathway of the Tetrahymena ribozyme correlates inversely with the sequence distance between native interactions, or contact order. The rapidly folding P4–P6 domain has a low contact order, while the slowly folding P3–P7 region has a high contact order. To examine the role of topology and contact order in RNA folding, we screened for circular permutants of the ribozyme that retain catalytic activity. Permutants beginning in the P4–P6 domain fold 5 to 20 times more slowly than the wild-type ribozyme. By contrast, 50% of a permuted RNA that disjoins a non-native interaction in P3 folds tenfold faster than the wild-type ribozyme. Hence, the probability of rapidly folding to the native state depends on the topology of tertiary domains.
+http://www.sciencedirect.com/science/article/pii/S0022283603003048
+00222836

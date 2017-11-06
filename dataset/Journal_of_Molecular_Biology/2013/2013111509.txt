@@ -1,0 +1,6 @@
+In Vivo Trp Scanning of the Small Multidrug Resistance Protein EmrE Confirms 3D Structure Models'
+36144282800,36979586100,12240341100,55639610800,7007047212,7102118731
+EmrE,multidrug resistance,Trp scan
+The quaternary structure of the homodimeric small multidrug resistance protein EmrE has been studied intensely over the past decade. Structural models derived from both two- and three-dimensional crystals show EmrE as an anti-parallel homodimer. However, the resolution of the structures is rather low and their relevance for the in vivo situation has been questioned. Here, we have challenged the available structural models by a comprehensive in vivo Trp scanning of all four transmembrane helices in EmrE. The results are in close agreement with the degree of lipid exposure of individual residues predicted from coarse-grained molecular dynamics simulations of the anti-parallel dimeric structure obtained by X-ray crystallography, strongly suggesting that the X-ray structure provides a good representation of the active in vivo form of EmrE
+http://www.sciencedirect.com/science/article/pii/S0022283613005007
+00222836

@@ -1,0 +1,6 @@
+Solution structure of the TAZ2 (CH3) domain of the transcriptional adaptor protein CBP11Edited by M. F. Summers
+6602295247,36072262400,6602576519,7102413157,7404316832
+cyclic-AMP response-element binding protein (CBP),zinc-binding protein,NMR,distance geometry,simulated annealing
+The TAZ2 (CH3) domain of the transcriptional adapter protein CBP has been implicated in direct functional interactions with numerous cellular transcription factors and viral oncoproteins. The solution structure of the TAZ2 domain of murine CBP has been determined by nuclear magnetic resonance (NMR). The protein adopts a novel helical fold stabilized by three zinc ions, each of which is bound to one histidine and three cysteine ligands in HCCC-type motifs. Each zinc-binding site is formed from the carboxy terminus of an α-helix, a short loop, and the amino terminus of the next α-helix. A peptide derived from the N-terminal transactivation domain of p53 binds specifically to one face of the TAZ2 domain. The close similarities between the TAZ2 and TAZ1 (CH1 domain of CBP/p300) sequences suggest that both domains will adopt similar three-dimensional structures.
+http://www.sciencedirect.com/science/article/pii/S002228360094141X
+00222836

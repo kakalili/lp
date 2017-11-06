@@ -1,0 +1,6 @@
+Visualising a Viral RNA Genome Poised for Release from Its Receptor Complex
+23095967500,56270355500,6603463493
+virus,bacteriophage,receptor,structure,cryo-em
+We describe the cryo-electron microscopy structure of bacteriophage MS2 bound to its receptor, the bacterial F-pilus. The virus contacts the pilus at a capsid 5-fold vertex, thus locating the surface-accessible portion of the single copy of the pilin-binding maturation protein present in virions. This arrangement allows a 5-fold averaged map to be calculated, showing for the first time in any virus–receptor complex the nonuniform distribution of RNA within the capsid. Strikingly, at the vertex that contacts the pilus, a rod of density that may include contributions from both genome and maturation protein sits above a channel that goes through the capsid to the outside. This density is reminiscent of the DNA density observed in the exit channel of double-stranded DNA phages, suggesting that the RNA–maturation protein complex is poised to leave the capsid as the first step of the infection process.
+http://www.sciencedirect.com/science/article/pii/S0022283611001975
+00222836

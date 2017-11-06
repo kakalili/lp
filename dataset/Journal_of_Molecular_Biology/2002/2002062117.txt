@@ -1,0 +1,6 @@
+Prediction of Human Protein Function from Post-translational Modifications and Localization Features
+35548941900,7501322334,7006094614,7004062844,6602002725,6701789184,55506452600,6508164758,6507206595,7003703698,7202104368,7005168347,35373829300,16308427600,7005477388
+functional role,phosphorylation,glycosylation,protein sorting,amino acid composition
+We have developed an entirely sequence-based method that identifies and integrates relevant features that can be used to assign proteins of unknown function to functional classes, and enzyme categories for enzymes. We show that strategies for the elucidation of protein function may benefit from a number of functional attributes that are more directly related to the linear sequence of amino acids, and hence easier to predict, than protein structure. These attributes include features associated with post-translational modifications and protein sorting, but also much simpler aspects such as the length, isoelectric point and composition of the polypeptide chain.
+http://www.sciencedirect.com/science/article/pii/S0022283602003790
+00222836

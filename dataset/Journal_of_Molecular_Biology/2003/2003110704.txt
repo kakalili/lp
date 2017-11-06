@@ -1,0 +1,6 @@
+Structural Context of Exons in Protein Domains: Implications for Protein Modelling and Design
+6602677166,7202822587,7201982123
+protein evolution,intron–exon boundaries,comparative modelling,protein design
+Intron boundaries were extracted from genomic data and mapped onto single-domain human and murine protein structures taken from the Protein Data Bank. A first analysis of this set of proteins shows that intron boundaries prefer to be in non-regular secondary structure elements, while avoiding α-helices and β-strands. This fact alone suggests an evolutionary model in which introns are constrained by protein structure, particularly by tertiary structure contacts. In addition, in silico recombination experiments of a subset of these proteins together with their homologues, including those in different species, show that introns have a tendency to occur away from artificial crossover hot spots. Altogether, these findings support a model in which genes can preferentially harbour introns in less constrained regions of the protein fold they code for. In the light of these findings, we discuss some implications for protein modelling and design.
+http://www.sciencedirect.com/science/article/pii/S0022283603011598
+00222836

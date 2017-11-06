@@ -1,0 +1,6 @@
+Single-particle Image Reconstruction of a Tetramer of HIV Integrase Bound to DNA
+23493275900,7101642165,35425749000,35370839400
+HIV,integrase,DNA-binding,electron microscopy
+The HIV integrase enzyme (IN) catalyzes the initial DNA breaking and joining reactions that integrate viral DNA in the host chromosome. Structures for individual IN domains have been determined by X-ray crystallography and NMR spectroscopy, but the structure of the complete IN–DNA complex has remained elusive. Homogeneous complexes of IN tetramers were assembled on DNA three-way junction substrates designed to resemble integration intermediates. Electron microscopy and single-particle image analysis of these complexes yielded a three-dimensional reconstruction at ∼27 Å resolution. The map of the IN–DNA complex displays four lobes of density ∼50 Å in diameter. Three of the lobes form a roughly triangular base with a central channel ∼20 Å in diameter. The fourth lobe is centered between two lobes and extends ∼40 Å above the base. We propose that the central channel tethers the target DNA, and two of the lobes may bind the ends of the viral DNA. The asymmetry of the complex is a feature not incorporated in previous structural models and potentially provides the first view of an asymmetric reaction intermediate.
+http://www.sciencedirect.com/science/article/pii/S0022283606015695
+00222836

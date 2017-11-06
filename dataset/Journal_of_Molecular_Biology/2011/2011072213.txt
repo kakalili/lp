@@ -1,0 +1,6 @@
+The Molecular Architecture of HIV
+8419784100,7006112877
+human immunodeficiency virus,assembly,maturation,Gag,capsid
+Assembly of human immunodeficiency virus type 1 is driven by oligomerization of the Gag polyprotein at the plasma membrane of an infected cell, leading to membrane envelopment and budding of an immature virus particle. Proteolytic cleavage of Gag at five positions subsequently causes a dramatic rearrangement of the interior virion organization to form an infectious particle. Within the mature virus, the genome is encased within a conical capsid core. Here, we describe the molecular architecture of the virus assembly site, the immature virus, the maturation intermediates and the mature virus core and highlight recent advances in our understanding of these processes from electron microscopy and X-ray crystallography studies.
+http://www.sciencedirect.com/science/article/pii/S0022283611004360
+00222836

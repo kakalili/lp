@@ -1,0 +1,6 @@
+Torque–speed Relationship of the Na+-driven Flagellar Motor of Vibrio alginolyticus
+6603762045,36936568300,16137811500,7004278926
+energy transduction,flagella,rotary motor,molecular machine,Vibrio
+The torque–speed relationship of the Na+-driven flagellar motor of Vibrio alginolyticus was investigated. The rotation rate of the motor was measured by following the position of a bead, attached to a flagellar filament, using optical nanometry. In the presence of 50mM NaCl, the generated torque was relatively constant (∼3800pNnm) at lower speeds (speeds up to ∼300Hz) and then decreased steeply, similar to the H+-driven flagellar motor of Escherichia coli. When the external NaCl concentration was varied, the generated torque of the flagellar motor was changed over a wide range of speeds. This result could be reproduced using a simple kinetic model, which takes into consideration the association and dissociation of Na+ onto the motor. These results imply that for a complete understanding of the mechanism of flagellar rotation it is essential to consider both the electrochemical gradient and the absolute concentration of the coupling ion.
+http://www.sciencedirect.com/science/article/pii/S0022283603001761
+00222836

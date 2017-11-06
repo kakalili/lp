@@ -1,0 +1,6 @@
+Single-Molecule Studies of Transcription: From One RNA Polymerase at a Time to the Gene Expression Profile of a Cell
+55619314044,11140975000
+single molecule,transcription,RNA polymerase
+Single-molecule techniques have emerged as powerful tools for deciphering mechanistic details of transcription and have yielded discoveries that would otherwise have been impossible to make through the use of more traditional biochemical and/or biophysical techniques. Here, we provide a brief overview of single-molecule techniques most commonly used for studying RNA polymerase and transcription. We then present specific examples of single-molecule studies that have contributed to our understanding of key mechanistic details for each different stage of the transcription cycle. Finally, we discuss emerging single-molecule approaches and future directions, including efforts to study transcription at the single-molecule level in living cells.
+http://www.sciencedirect.com/science/article/pii/S0022283611000532
+00222836

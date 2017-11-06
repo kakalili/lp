@@ -1,0 +1,6 @@
+Crystal Structure of a Non-canonical Low-affinity Peptide Complexed with MHC Class I: A New Approach For Vaccine Design
+7006680221,7404272566,6603220592,7005251090,7005291883,35415571300,7401743864
+tumor peptide,non-canonical anchor motif peptides,MUC1,tumor immunotherapy,H-2Kb
+Peptides bind with high affinity to MHC class I molecules by anchoring certain side-chains (anchors) into specificity pockets in the MHC peptide-binding groove. Peptides that do not contain these canonical anchor residues normally have low affinity, resulting in impaired pMHC stability and loss of immunogenicity. Here, we report the crystal structure at 1.6Å resolution of an immunogenic, low-affinity peptide from the tumor-associated antigen MUC1, bound to H-2Kb. Stable binding is still achieved despite small, non-canonical residues in the C and F anchor pockets. This MUC1/Kb structure reveals how low-affinity peptides can be utilized in the design of novel peptide-based tumor vaccines. The molecular interactions elucidated in this non-canonical low-affinity peptide MHC complex should help uncover additional immunogenic peptides from primary protein sequences and aid in the design of alternative approaches for T-cell vaccines.
+http://www.sciencedirect.com/science/article/pii/S0022283602001961
+00222836

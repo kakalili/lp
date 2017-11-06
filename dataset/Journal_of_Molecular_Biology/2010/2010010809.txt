@@ -1,0 +1,6 @@
+Sequence-Dependent DNA Flexibility Mediates DNase I Cleavage
+14041764200,35319689600,36523103100,7201381315
+DNA–protein nonspecific interaction,DNase I cleavage specificity,DNA flexibility,BI↔BII equilibrium,31P chemical shifts
+Understanding the preference of nonspecific proteins for certain DNA structural features requires an accurate description of the properties of free DNA, especially regarding their possible predisposition to adopt a conformation that favors the formation of a complex. Exploiting previous exhaustive NMR studies performed on free DNA oligomers, we investigated the molecular basis of DNase I sensitivity under conditions where DNase I binding limits the probability of cleavage. We showed that cleavage intensity was correlated with adjacent 3′ phosphate linkage flexibility, monitored by 31P chemical shifts. Examining NMR-refined DNA structures highlighted that sequence-dependent flexible phosphates were associated with large minor groove variations that may promote the affinity of DNase I, according to relevant DNA–protein complexes. In sum, this work demonstrates that specificity in DNA–DNase I interaction is mediated by DNA flexibility, which influences the induced-fit transitions required to form productive complexes.
+http://www.sciencedirect.com/science/article/pii/S0022283609012637
+00222836

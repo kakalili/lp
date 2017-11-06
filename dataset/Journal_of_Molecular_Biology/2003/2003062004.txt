@@ -1,0 +1,6 @@
+Crystal Structure of the Type II Isopentenyl Diphosphate:Dimethylallyl Diphosphate Isomerase from Bacillus subtilis
+7004520201,7402184874,34769777500,7006598190,34975087600,7102875119,7003366290
+terpene biosynthesis,isomerase,flavoprotein,TIM barrel,drug development
+Two types of isopentenyl diphosphate:dimethylallyl diphosphate isomerases (IDI) have been characterized at present. The long known IDI-1 is only dependent on divalent metals for activity, whereas IDI-2 requires a metal, FMN and NADPH. Here, we report the first structure of an IDI-2 from Bacillus subtilis at 1.9Å resolution in the ligand-free form and of the FMN-bound form at 2.8Å resolution. The enzyme is an octamer that forms a D4 symmetrical open, cage-like structure. The monomers of 45 kDa display a classical TIM barrel fold. FMN is bound only with very moderate affinity and is therefore completely lost during purification. However, the enzyme can be reconstituted in the crystals by soaking with FMN. Three glycine-rich sequence stretches that are characteristic for IDI-2 participate in FMN binding within the interior of the cage. Regions harboring strictly conserved residues that are implicated in substrate binding or catalysis remain largely disordered even in the presence of FMN.
+http://www.sciencedirect.com/science/article/pii/S0022283603005278
+00222836

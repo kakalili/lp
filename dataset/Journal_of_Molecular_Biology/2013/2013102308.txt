@@ -1,0 +1,6 @@
+Crystal Structure of a Bioactive Pactamycin Analog Bound to the 30S Ribosomal Subunit
+36740501700,55127281100,10141784000,37064033800,55751744635,37002665700,7102329100,15733878000
+translation,antibiotic,E-site,mRNA
+Biosynthetically and chemically derived analogs of the antibiotic pactamycin and de-6-methylsalicylyl (MSA)-pactamycin have attracted recent interest as potential antiprotozoal and antitumor drugs. Here, we report a 3.1-Å crystal structure of de-6-MSA-pactamycin bound to its target site on the Thermus thermophilus 30S ribosomal subunit. Although de-6-MSA-pactamycin lacks the MSA moiety, it shares the same binding site as pactamycin and induces a displacement of nucleic acid template bound at the E-site of the 30S. The structure highlights unique interactions between this pactamycin analog and the ribosome, which paves the way for therapeutic development of related compounds.
+http://www.sciencedirect.com/science/article/pii/S0022283613003033
+00222836

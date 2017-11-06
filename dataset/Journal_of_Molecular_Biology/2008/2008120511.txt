@@ -1,0 +1,6 @@
+Structural Basis for the Substrate Specificity of Bone Morphogenetic Protein 1/Tolloid-like Metalloproteases
+6603270658,6603155034,17636981300,8657001200,8047618900,7801660860,6602334968,25223659600,6602536928
+astacin,vicinal disulfide,fibrosis
+Procollagen C-peptidase, also known as bone morphogenetic protein 1 (BMP-1), is a multidomain, zinc endopeptidase of the astacin M12A family. BMP-1 is the prototype of a small group of proteases that have key roles in extracellular matrix formation and morphogenesis. BMP-1, its splice form mTLD, and the related proteases TLL-1 and TLL-2 are considered as promising drug targets for the treatment of excessive fibrosis and muscle wasting. We report here the crystal structures of the protease domains of human BMP-1 and the closely related Tolloid-like protease 1 (TLL-1). The crystal structures reveal an unexpected conformation of a cysteine-rich loop within the active site, and suggest that a flap movement is required in order to allow substrate binding. On the basis of these substantial differences between the BMP-1 and astacin active sites, a structural basis for their differing substrate specificities is proposed.
+http://www.sciencedirect.com/science/article/pii/S0022283608011595
+00222836

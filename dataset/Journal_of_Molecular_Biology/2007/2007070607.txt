@@ -1,0 +1,6 @@
+An EM View of the FokI Synaptic Complex by Single Particle Analysis
+9742485100,6603862156,56247514700
+bipartite restriction endonuclease,DNA recognition and cleavage,synaptic complex,single particle analysis,electron microscopy
+FokI is a type IIS restriction endonuclease that recognizes the 5′-GGATG-3′ sequence and cleaves non-specifically at 9 and 13 base-pairs away on the top and bottom strands, respectively, to produce a 5′ overhang. FokI is a bipartite endonuclease with separate recognition and cleavage domains. Because of its bipartite nature, FokI has received considerable interest in generating chimeric nucleases for use in biotechnology, and recently as possible therapeutic agents in gene therapy by initiating homologous gene recombination and repair. Here we show, using single-particle electron microscopic studies, that the FokI active complex prefers a single conformation in which the subunits are arranged in a doughnut shape complex with protein–protein and possibly protein–DNA interactions stabilizing the cleavage complex. Our electron microscopy (EM) model provides new insights into the activation mechanism of FokI and how non-specific cleavage is avoided.
+http://www.sciencedirect.com/science/article/pii/S002228360700575X
+00222836

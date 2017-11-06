@@ -1,0 +1,6 @@
+Elucidation of Human Choline Kinase Crystal Structures in Complex with the Products ADP or Phosphocholine
+21234030000,6507835735,36164782200,7005482404,7003519452
+choline kinase,phosphoryl transfer,crystal structure
+Choline kinase, responsible for the phosphorylation of choline to phosphocholine as the first step of the CDP-choline pathway for the biosynthesis of phosphatidylcholine, has been recognized as a new target for anticancer therapy. Crystal structures of human choline kinase in its apo, ADP and phosphocholine-bound complexes, respectively, reveal the molecular details of the substrate binding sites. ATP binds in a cavity where residues from both the N and C-terminal lobes contribute to form a cleft, while the choline-binding site constitutes a deep hydrophobic groove in the C-terminal domain with a rim composed of negatively charged residues. Upon binding of choline, the enzyme undergoes conformational changes independently affecting the N-terminal domain and the ATP-binding loop. From this structural analysis and comparison with other kinases, and from mutagenesis data on the homologous Caenorhabditis elegans choline kinase, a model of the ternary ADP·phosphocholine complex was built that reveals the molecular basis for the phosphoryl transfer activity of this enzyme.
+http://www.sciencedirect.com/science/article/pii/S0022283606011429
+00222836

@@ -1,0 +1,6 @@
+Correlation between the OmpG Secondary Structure and Its pH-Dependent Alterations Monitored by FTIR
+36144166000,7004541359,7006010107,7006210611,7006012022
+FTIR,1H/2H exchange,secondary structure,OmpG,thermal stability
+The channel activity of the outer-membrane protein G (OmpG) from Escherichia coli is pH-dependent. To investigate the role of the histidine pair His231/His261 in triggering channel opening and closing, we mutated both histidines to alanines and cysteines. Fourier transform infrared spectra revealed that the OmpG mutants stay—independent of pH—in an open conformation. Temperature ramp experiments indicate that the mutants are as stable as the open state of wild-type OmpG. The X-ray structure of the alanine-substituted OmpG mutant obtained at pH 6.5 confirms the constitutively open conformation. Compared to previous structures of the wild-type protein in the open and closed conformation, the mutant structure shows a difference in the extracellular loop L6 connecting β-strands S12 and S13. A deletion of amino acids 220–228, which are thought to block the channel at low pH in wild-type OmpG, indicates conformational changes, which might be triggered by His231/His261.
+http://www.sciencedirect.com/science/article/pii/S0022283610006315
+00222836

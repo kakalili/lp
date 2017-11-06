@@ -1,0 +1,6 @@
+A Large Domain Swap in the VirB11 ATPase of Brucella suis Leaves the Hexameric Assembly Intact
+36794924600,7006769658,7102110948,7004804200
+type IV secretion systems,structure,VirB11,Brucella suis
+VirB11 ATPases are hexameric assemblies that power type IV secretion systems in bacteria. The hexamer of Brucella suis VirB11 (BsB11), like that of the Helicobacter pylori VirB11 (Hp0525), consists of a double ring structure formed by the N-terminal and C-terminal domains of each monomer. However, the monomer differs dramatically from that of Hp0525 by a large domain swap that leaves the hexameric assembly intact but profoundly alters the nucleotide-binding site and the interface between subunits.
+http://www.sciencedirect.com/science/article/pii/S0022283606005547
+00222836

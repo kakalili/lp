@@ -1,0 +1,6 @@
+Sequence Context at Human Single Nucleotide Polymorphisms: Overrepresentation of CpG Dinucleotide at Polymorphic Sites and Suppression of Variation in CpG Islands
+6507138599,7403647918
+CpG islands,single nucleotide polymorphisms,methylation,genomics,bioinformatics
+Human polymorphisms originate as mutations, and the influence of context on mutagenesis should be reflected in the distribution of sequences surrounding single nucleotide polymorphisms (SNPs). We have performed a computational survey of nearly two million human SNPs to determine if sequence-dependent hotspots for polymorphism exist in the human genome. Here we show that sequences containing CpG dinucleotides, which occur at low frequencies in the human genome, are 6.7-fold more abundant at polymorphic sites than expected. In contrast, polymorphisms in CpG sequences located within CpG islands, important regulatory regions that modulate gene expression, are 6.8-fold less prevalent than expected. The distribution of polymorphic alleles at CpGs in CpG islands is also significantly different from that in non-island regions. These data strongly support a role for 5-methylcytosine deamination in the generation of human variation, and suggest that variation at CpGs in islands is suppressed.
+http://www.sciencedirect.com/science/article/pii/S0022283603001207
+00222836

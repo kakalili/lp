@@ -1,0 +1,6 @@
+Ribosome Mechanics Informs about Mechanism
+35785314000,56494324800,35563126400
+ribosome mechanism,dynamics simulations,RNA mechanics,mRNA
+The essential aspects of the ribosome's mechanism can be extracted from coarse-grained simulations, including the ratchet motion, the movement together of critical bases at the decoding center, and movements of the peptide tunnel lining that assist in the expulsion of the synthesized peptide. Because of its large size, coarse graining helps to simplify and to aid in the understanding of its mechanism. Results presented here utilize coarse-grained elastic network modeling to extract the dynamics, and both RNAs and proteins are coarse grained. We review our previous results, showing the well-known ratchet motions and the motions in the peptide tunnel and in the mRNA tunnel. The motions of the lining of the peptide tunnel appear to assist in the expulsion of the growing peptide chain, and clamps at the ends of the mRNA tunnel with three proteins ensure that the mRNA is held tightly during decoding and essential for the helicase activity at the entrance. The entry clamp may also assist in base recognition to ensure proper selection of the incoming tRNA. The overall precision of the ribosome machine-like motions is remarkable.
+http://www.sciencedirect.com/science/article/pii/S0022283615006920
+00222836

@@ -1,0 +1,6 @@
+UBA domains mediate protein-protein interactions between two DNA damage-inducible proteins11Edited by M. Yaniv
+6602515967,35241862600,7403308554,7403102273,7006600235,7005104673,7402366580
+UBA domain,Rad23,interaction domain,ubiquitin,DNA damage
+The Saccharomyces cerevisiae genes RAD23 and DDI1 were identified in a screen for multicopy suppressors of the temperature-sensitivity of a mutant allele of S. cerevisiae PDS1. Pds1 is a regulator of anaphase that needs to accumulate and then be degraded by the ubiquitin-proteasome pathway at the metaphase-anaphase transition for cells to progress normally through mitosis. Both the Rad23 and Ddi1 pds1 suppression phenotypes depend on a shared motif known as a UBA domain found in a variety of proteins associated with ubiquitin metabolism. UBA domains were found to be essential for homodimerization of Rad23 and heterodimerization between Rad23 and Ddi1, but not for homodimerization of Ddi1. This observation, coupled with the findings that Rad23 and Ddi1 UBA domains bind ubiquitin and that dimerization of Rad23 blocks ubiquitin binding, suggests a possible mechanism for regulating Rad23 and Ddi1 function.
+http://www.sciencedirect.com/science/article/pii/S0022283601951058
+00222836

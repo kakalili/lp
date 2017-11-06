@@ -1,0 +1,6 @@
+Prion and Non-prion Amyloids of the HET-s Prion forming Domain
+6602786140,6603598833,14028014000,9237980100,6507610253,6603564364,23060501200,7102997277,7101692985,7004535582
+prion,amyloid,Podospora anserina,fungi,thioflavine T
+HET-s is a prion protein of the fungus Podospora anserina. A plausible structural model for the infectious amyloid fold of the HET-s prion-forming domain, HET-s(218-289), makes it an attractive system to study structure–function relationships in amyloid assembly and prion propagation. Here, we report on the diversity of HET-s(218-289) amyloids formed in vitro. We distinguish two types formed at pH 7 from fibrils formed at pH 2, on morphological grounds. Unlike pH 7 fibrils, the pH 2 fibrils show very little if any prion infectivity. They also differ in ThT-binding, resistance to denaturants, assembly kinetics, secondary structure, and intrinsic fluorescence. Both contain 5 nm fibrils, either bundled or disordered (pH 7) or as tightly twisted protofibrils (pH 2). We show that electrostatic interactions are critical for the formation and stability of the infectious prion fold given in the current model. The altered properties of the amyloid assembled at pH 2 may arise from a perturbation in the subunit fold or fibrillar stacking.
+http://www.sciencedirect.com/science/article/pii/S0022283607006195
+00222836

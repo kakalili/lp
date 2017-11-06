@@ -1,0 +1,6 @@
+Functional Role of the Sarcin–Ricin Loop of the 23S rRNA in the Elongation Cycle of Protein Synthesis
+34875720600,8973055900,6701844383,7202289995
+ribosome,tRNA selection,peptide bond,translocation,GTP hydrolysis
+The sarcin–ricin loop (SRL) is one of the longest conserved sequences in the 23S ribosomal RNA. The SRL has been accepted as crucial for the activity of the ribosome because it is targeted by cytotoxins such as α-sarcin and ricin that completely abolish translation. Nevertheless, the precise functional role of the SRL in translation is not known. Recent biochemical and structural studies indicate that the SRL is critical for triggering GTP hydrolysis on elongation factor Tu (EF-Tu) and elongation factor G (EF-G). To determine the functional role of the SRL in the elongation stage of protein synthesis, we analyzed mutations in the SRL that are known to abolish protein synthesis and are lethal to cells. Here, we show that the SRL is not critical for GTP hydrolysis on EF-Tu and EF-G. The SRL also is not essential for peptide bond formation. Our results, instead, suggest that the SRL is crucial for anchoring EF-G on the ribosome during mRNA–tRNA translocation.
+http://www.sciencedirect.com/science/article/pii/S0022283612002719
+00222836

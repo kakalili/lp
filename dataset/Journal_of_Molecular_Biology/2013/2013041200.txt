@@ -1,0 +1,6 @@
+Domain Swapping in the Cytoplasmic Domain of the Escherichia coli Rhomboid Protease
+35100498000,7801392189,36463390200,7005538039
+GlpG,intramembrane protease,intramembrane peptidase,x-ray crystallography,enzyme kinetics
+Rhomboids are membrane-embedded serine proteases that cleave membrane protein substrates. Escherichia coli rhomboid GlpG (ecGlpG) consists of an N-terminal cytoplasmic domain and a membrane domain containing the active site. We determined the crystal structure of the soluble cytoplasmic domain of ecGlpG at 1.35Å resolution and examined whether this domain affected the catalytic activity of the enzyme. The structure revealed that the ecGlpG cytoplasmic domain exists as a dimer with extensive domain swapping between the two monomers. Domain-swapped dimers can be isolated from the full-length protein, suggesting that this is a physiologically relevant structure. An extensive steady-state kinetic analysis of the full-length ecGlpG and its membrane domain using soluble and transmembrane model protein substrates resulted in an unexpected conclusion: removal of the cytoplasmic domain does not alter the catalytic parameters for detergent-solubilized rhomboid for both substrates.
+http://www.sciencedirect.com/science/article/pii/S0022283613000351
+00222836

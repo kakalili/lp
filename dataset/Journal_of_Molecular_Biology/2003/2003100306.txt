@@ -1,0 +1,6 @@
+The stn-1 Syntrophin Gene of C.elegans is Functionally Related to Dystrophin and Dystrobrevin
+6506139738,6602670921,6602982153,7404091903,6506622247,6602533972,6701549670,6603712152
+syntrophin,dystrophin,dystrobrevin,Duchenne Muscular Dystrophy,nematode
+Syntrophins are a family of PDZ domain-containing adaptor proteins required for receptor localization. Syntrophins are also associated with the dystrophin complex in muscles. We report here the molecular and functional characterization of the Caenorhabditis elegans gene stn-1 (F30A10.8), which encodes a syntrophin with homology to vertebrate alpha and beta-syntrophins. stn-1 is expressed in neurons and in muscles of C.elegans. stn-1 mutants resemble dystrophin (dys-1) and dystrobrevin (dyb-1) mutants: they are hyperactive, bend their heads when they move forward, tend to hypercontract, and are hypersensitive to the acetylcholinesterase inhibitor aldicarb. These phenotypes are suppressed when stn-1 is expressed under the control of a muscular promoter, indicating that they are caused by the absence of stn-1 in muscles. These results suggest that the role of syntrophin is linked to dystrophin function in C.elegans.
+http://www.sciencedirect.com/science/article/pii/S0022283603010386
+00222836

@@ -1,0 +1,6 @@
+Unmasking Ligand Binding Motifs: Identification of a Chemokine Receptor Motif by NMR Studies of Antagonist Peptides
+7003616159,6701664523,7006948568,55953011200
+HIV-1,CXCR4,drug development,peptide,NMR
+Determining the critical structural features a ligand must possess in order to bind to its receptor is of key importance to the understanding of vital biological processes and to the rational design of small molecule therapeutics to modulate receptor function. We have developed a general strategy for determining such ligand binding motifs using low temperature NMR structures of peptides with the desired receptor binding properties. This approach has been successfully applied to determine a binding motif for the chemokine receptor CXCR4. The motif identified provides a detailed guide for the design of small molecule antagonists against CXCR4, which are much sought after to aid in the treatment of a number of conditions including human immunodeficiency virus type 1 infection and a variety of cancers.
+http://www.sciencedirect.com/science/article/pii/S0022283603000949
+00222836

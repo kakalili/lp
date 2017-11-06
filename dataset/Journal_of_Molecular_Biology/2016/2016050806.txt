@@ -1,0 +1,6 @@
+Origin and Functional Evolution of the Cdc48/p97/VCP AAA+ Protein Unfolding and Remodeling Machine
+16678259700,56797532800
+AAA+ machine,protein remodeling,human disease
+The AAA+ Cdc48 ATPase (alias p97 or VCP) is a key player in multiple ubiquitin-dependent cell signaling, degradation, and quality control pathways. Central to these broad biological functions is the ability of Cdc48 to interact with a large number of adaptor proteins and to remodel macromolecular proteins and their complexes. Different models have been proposed to explain how Cdc48 might couple ATP hydrolysis to forcible unfolding, dissociation, or remodeling of cellular clients. In this review, we provide an overview of possible mechanisms for substrate unfolding/remodeling by this conserved and essential AAA+ protein machine and their adaption and possible biological function throughout evolution.
+http://www.sciencedirect.com/science/article/pii/S0022283615006774
+00222836

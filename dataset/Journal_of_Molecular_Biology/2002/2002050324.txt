@@ -1,0 +1,6 @@
+Intradomain Disulfide Bonds Impede Formation of the Alternatively Folded State of Antibody Chains
+7005734918,36861068400,7006354808
+antibody fragment,protein folding,molten globule,disulfide bonds,aggregation
+Antibodies undergo significant conformational changes upon acidification, leading to the formation of an alternatively folded state. Here, we analyzed the conformation of MAK 33 Fab and its light chain at acidic pH, both in the reduced and oxidized form. At acidic pH, the proteins exhibited a highly structured, but non-native conformation, corresponding to the alternatively folded state, previously described for the intact antibody. However, the requirements to form this alternative structure were different for the oxidized and reduced protein. Whereas in the oxidized form of the immunoglobulin light chain the alternatively folded state could only be detected at pH&lt;1.4, the reduced light chain already adopted this structure at pH 2. Thermal denaturation measurements revealed that, surprisingly, the alternatively folded state of the reduced light chain was more stable than that of the oxidized protein at pH 1.4. This indicates that the intradomain disulfide bonds, which stabilize the native state of antibody domains, impede the formation of the alternatively folded state.
+http://www.sciencedirect.com/science/article/pii/S0022283602001717
+00222836

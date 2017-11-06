@@ -1,0 +1,6 @@
+Mechanisms of MAVS Regulation at the Mitochondrial Membrane
+8505993800,7005683822
+innate immunity,MAVS,RIG-I,MDA5
+Mitochondria have emerged as critical platforms for antiviral innate immune signaling. This is due in large part to the mitochondrial localization of the innate immune signaling adaptor MAVS (mitochondrial antiviral signaling protein), which coordinates signals received from two independent cytosolic pathogen recognition receptors (PRRs) to induce antiviral genes. The existence of a shared adaptor for two central PRRs presents an ideal target by which the host cell can prevent cellular damage induced by uncontrolled inflammation through alteration of MAVS expression and/or signaling. In this review, we focus on the MAVS regulome and review the cellular factors that regulate MAVS by (1) protein–protein interactions, (2) alterations in mitochondrial dynamics, and/or (3) post-translational modifications.
+http://www.sciencedirect.com/science/article/pii/S0022283613006335
+00222836

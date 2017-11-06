@@ -1,0 +1,6 @@
+Crystal Structure of HypA, a Nickel-Binding Metallochaperone for [NiFe] Hydrogenase Maturation
+55490565600,55204285100,8899098300,7005956614,7203015056,7201964345
+hydrogenase maturation,HypA,metallochaperone,Ni-binding protein,X-ray structure
+HypA is one of the auxiliary proteins involved in the maturation of [NiFe] hydrogenases. By an unknown mechanism, HypA functions as a metallochaperone in the insertion of the Ni atom into hydrogenases. We have determined the crystal structures of HypA from Thermococcus kodakaraensis KOD1 in both monomeric and dimeric states. The structure of the HypA monomer consists of Ni- and Zn-binding domains. The relative arrangement of the two metal-binding domains has been shown to be associated with local conformations of the conserved Ni-binding motif, suggesting a communication between the Ni- and Zn-binding sites. The HypA dimer has been shown to be stabilized by unexpected domain swapping through archaea-specific linker helices. In addition, the hexameric structure of HypA is formed in the crystal packing. Several hydrogen bonds and hydrophobic interactions stabilize the hexamer interface. These findings suggest the functional diversity of HypA proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283609011577
+00222836

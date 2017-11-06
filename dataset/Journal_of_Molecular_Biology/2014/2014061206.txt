@@ -1,0 +1,6 @@
+Alanine Scanning Mutagenesis Identifies an Asparagine–Arginine–Lysine Triad Essential to Assembly of the Shell of the Pdu Microcompartment
+57190833867,25931373600,56128330100,46961229800,7007088574,7005184258,7003438995
+microcompartment,carboxysome,B12,1,2-propanediol,Salmonella
+Bacterial microcompartments (MCPs) are the simplest organelles known. They function to enhance metabolic pathways by confining several related enzymes inside an all-protein envelope called the shell. In this study, we investigated the factors that govern MCP assembly by performing scanning mutagenesis on the surface residues of PduA, a major shell protein of the MCP used for 1,2-propanediol degradation. Biochemical, genetic, and structural analysis of 20 mutants allowed us to determine that PduA K26, N29, and R79 are crucial residues that stabilize the shell of the 1,2-propanediol MCP. In addition, we identify two PduA mutants (K37A and K55A) that impair MCP function most likely by altering the permeability of its protein shell. These are the first studies to examine the phenotypic effects of shell protein structural mutations in an MCP system. The findings reported here may be applicable to engineering protein containers with improved stability for biotechnology applications.
+http://www.sciencedirect.com/science/article/pii/S002228361400196X
+00222836

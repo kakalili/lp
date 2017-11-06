@@ -1,0 +1,6 @@
+Consensus Protein Design without Phylogenetic Bias
+9037908300,7201379306,6604063431,7202489032,7007131465
+protein stabilization,multiple sequence alignments,consensus mutation,binary patterning,chorismate mutase
+Consensus design is an appealing strategy for the stabilization of proteins. It exploits amino acid conservation in sets of homologous proteins to identify likely beneficial mutations. Nevertheless, its success depends on the phylogenetic diversity of the sequence set available. Here, we show that randomization of a single protein represents a reliable alternative source of sequence diversity that is essentially free of phylogenetic bias. A small number of functional protein sequences selected from binary-patterned libraries suffice as input for the consensus design of active enzymes that are easier to produce and substantially more stable than individual members of the starting data set. Although catalytic activity correlates less consistently with sequence conservation in these extensively randomized proteins, less extreme mutagenesis strategies might be adopted in practice to augment stability while maintaining function.
+http://www.sciencedirect.com/science/article/pii/S0022283610004274
+00222836

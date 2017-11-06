@@ -1,0 +1,6 @@
+Structural Basis for GroEL-assisted Protein Folding from the Crystal Structure of (GroEL-KMgATP)14 at 2.0Å Resolution
+7701337432,7005280628
+chaperonin GroEL,protein folding and unfolding,ATP-dependent domain and helix rotations,hydrophobic surfaces,binding cooperativity
+Nucleotide regulates the affinity of the bacterial chaperonin GroEL for protein substrates. GroEL binds protein substrates with high affinity in the absence of ATP and with low affinity in its presence. We report the crystal structure of (GroEL-KMgATP)14 refined to 2.0Å resolution in which the ATP triphosphate moiety is directly coordinated by both K+ and Mg2+. Upon the binding of KMgATP, we observe previously unnoticed domain rotations and a 102° rotation of the apical domain surface helix I. Two major consequences are a large lateral displacement of, and a dramatic reduction of hydrophobicity in, the apical domain surface. These results provide a basis for the nucleotide-dependent regulation of protein substrate binding and suggest a mechanism for GroEL-assisted protein folding by forced unfolding.
+http://www.sciencedirect.com/science/article/pii/S0022283603001840
+00222836

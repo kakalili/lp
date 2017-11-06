@@ -1,0 +1,6 @@
+Structural and Functional Characterization of an Agonistic Anti-Human EphA2 Monoclonal Antibody
+55978449300,7004468525,8414608300,8611127900,6603391486
+cancer,epitope,structure,mimicry,mutagenesis
+We report here the three-dimensional structure of human ephrin type A receptor 2 (EphA2) bound to the Fab (fragment antigen binding) of an agonistic human antibody (1C1; IgG1/κ). The structure of the corresponding complex was solved at a resolution of 2.5 Å using molecular replacement and constitutes the first reported structure of a human ephrin receptor bound to an antibody. We have also defined the corresponding functional epitope using a mutagenesis-based approach. This study revealed discrete structural features that determine the fine specificity of 1C1 to EphA2. Our data also provided a molecular basis for 1C1 mechanism of action. More precisely, we propose that its agonistic, internalizing properties are the result of ligand mimicry by the third heavy-chain complementarity-determining region of 1C1. Because EphA2 is an important contributor to cancer formation and progression, these findings may have implications for designing the next generation of anti-tumor therapies.
+http://www.sciencedirect.com/science/article/pii/S0022283611009004
+00222836

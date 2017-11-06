@@ -1,0 +1,6 @@
+Structural Basis for the Bifunctionality of the U5 snRNP 52K Protein (CD2BP2)
+18038242500,7409462890,7102553362,7004237468
+U5 snRNP,pre-mRNA splicing,crystal structure,bifunctionality,CD2-receptor binding protein
+The bifunctional protein U5-52K is associated with the spliceosomal 20 S U5 snRNP, and it also plays a role in immune response as CD2 receptor binding protein 2 (CD2BP2). U5-52K binds to the CD2 receptor via its GYF-domain specifically recognizing a proline-rich motif on the cytoplasmic surface of the receptor. The GYF-domain is also mediating the interaction of the proteins U5-52K and U5-15K within the spliceosomal U5 snRNP. Here we report the crystal structure of the complex of GYF-domain and U5-15K protein revealing the structural basis for the bifunctionality of the U5-52K protein. The complex structure unveils novel interaction sites on both proteins, as neither the polyproline-binding site of the GYF-domain nor the common ligand-binding cleft of thioredoxin-like proteins, to which U5-15K belongs, are involved in the interaction of U5-15K and U5-52K.
+http://www.sciencedirect.com/science/article/pii/S0022283607004524
+00222836

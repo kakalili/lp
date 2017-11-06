@@ -1,0 +1,6 @@
+A Novel Heme and Peroxide-dependent Tryptophan–tyrosine Cross-link in a Mutant of Cytochrome c Peroxidase
+6603835092,6601960833,55230245000,6506764934,7101716233,35515474100
+cytochrome c peroxidase,X-ray crystal structure,Fe-containing heme,Zn-containing protoporphyrin IX,oxygen radical
+The crystal structure of a cytochrome c peroxidase mutant where the distal catalytic His52 is converted to Tyr reveals that the tyrosine side-chain forms a covalent bond with the indole ring nitrogen atom of Trp51. We hypothesize that this novel bond results from peroxide activation by the heme iron followed by oxidation of Trp51 and Tyr52. This hypothesis has been tested by incorporation of a redox-inactive Zn-protoporphyrin into the protein, and the resulting crystal structure shows the absence of a Trp51–Tyr52 cross-link. Instead, the Tyr52 side-chain orients away from the heme active-site pocket, which requires a substantial rearrangement of residues 72–80 and 134–144. Additional experiments where heme-containing crystals of the mutant were treated with peroxide support our hypothesis that this novel Trp–Tyr cross-link is a peroxide-dependent process mediated by the heme iron.
+http://www.sciencedirect.com/science/article/pii/S0022283603001797
+00222836

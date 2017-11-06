@@ -1,0 +1,6 @@
+Human Spire Interacts with the Barbed End of the Actin Filament
+55471135700,7006980393,15056024800,8360292500,16642555700,7405514879,24348048800,35579616900
+electron microscope,gold nanoparticle,actin nucleator,B-end capping protein,formin
+Spire is an actin nucleator that initiates actin polymerization at a specific place in the cell. Similar to the Arp2/3 complex, spire was initially considered to bind to the pointed end of the actin filament when it generates a new actin filament. Subsequently, spire was reported to be associated with the barbed end (B-end); thus, there is still no consensus regarding the end with which spire interacts. Here, we report direct evidence that spire binds to the B-end of the actin filament, under conditions where spire accelerates actin polymerization. Using electron microscopy, we visualized the location of spire bound to the filament by gold nanoparticle labeling of the histidine-tagged spire, and the polarity of the actin filament was determined by image analysis. In addition, our results suggest that multiple spires, linked through one gold nanoparticle, enhance the acceleration of actin polymerization. The B-end binding of spire provides the basis for understanding its functional mechanism in the cell.
+http://www.sciencedirect.com/science/article/pii/S0022283611001124
+00222836

@@ -1,0 +1,6 @@
+A Periodic Table of Coiled-Coil Protein Structures
+8292406500,7004687700
+α-helix,coiled coil,knob-into-hole interaction,protein structure classification,periodic table
+Coiled coils are protein structure domains with two or more α-helices packed together via interlacing of side chains known as knob-into-hole packing. We analysed and classified a large set of coiled-coil structures using a combination of automated and manual methods. This led to a systematic classification that we termed a “periodic table of coiled coils,” which we have made available at http://coiledcoils.chm.bris.ac.uk/ccplus/search/periodic_table. In this table, coiled-coil assemblies are arranged in columns with increasing numbers of α-helices and in rows of increased complexity. The table provides a framework for understanding possibilities in and limits on coiled-coil structures and a basis for future prediction, engineering and design studies.
+http://www.sciencedirect.com/science/article/pii/S0022283608014654
+00222836

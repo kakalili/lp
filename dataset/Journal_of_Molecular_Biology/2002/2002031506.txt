@@ -1,0 +1,6 @@
+The intracellular antibody capture technology (IACT): towards a consensus sequence for intracellular antibodies11Edited by J. Karn
+7004492062,6602349597,7004408571,8239484200,35462640900,15829214500
+intrabodies,single-chain Fv,functional genomics,TAU,Alzheimer’s disease
+We describe the application of an intracellular antibody capture technology (IACT) as a generic in vivoselection procedure for isolating intracellular antibodies or ICAbs. IACT was applied to the de novoselection of functional ICAbs against the microtubule-associated protein TAU, found in neurofibrillary lesions of Alzheimer’s disease brains. A panel of 17 different ICAbs was created which bind TAU inside cells and the epitopes recognized by the selected ICAbs have been determined by an in vivoepitope mapping procedure. Finally, sequence analysis showed that the IACT-derived ICAbs are characterized by a common signature of conserved amino acid residues, suggesting that the IACT naturally selects a sort of “captured consensus sequence” for intracellular antibodies. The development of IACT, together with the possibility of scaling up in a high throughput and automated format, makes IACT a new enabling tool for target validation in functional genomics and global proteomics.
+http://www.sciencedirect.com/science/article/pii/S0022283602953921
+00222836

@@ -1,0 +1,6 @@
+Conformational Properties of Aggregated Polypeptides Determine ClpB-dependence in the Disaggregation Process
+12783112500,6602457772,7004131421
+chaperone-dependent protein disaggregation,ClpB,Hsp70,protein aggregation,luciferase
+Severe thermal stress induces massive intracellular protein aggregation. The concerted action of Hsp70 (DnaK, DnaJ, GrpE) and Hsp100 (ClpB) chaperones results in solubilization of aggregates followed by reactivation of proteins. It was shown that the Hsp70 chaperone system works at the initial step of the disaggregation reaction and is able to disentangle polypeptides from aggregates. Studies of the protein disaggregation reaction performed in vitro showed that ClpB may be dispensable in disaggregation of certain proteins and/or aggregates of certain size. Here we focus our attention on those properties of firefly luciferase aggregates, which determine whether ClpB chaperone is required in the disaggregation process. We report that the size of the aggregates is not a major determinant. Instead, we postulate that certain conformational properties (in particular, beta-structures) of subunits forming these aggregates are the most important factor determining the necessity of the ClpB chaperone in the disaggregation process.
+http://www.sciencedirect.com/science/article/pii/S0022283607007103
+00222836

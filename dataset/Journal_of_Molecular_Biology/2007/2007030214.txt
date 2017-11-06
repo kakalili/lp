@@ -1,0 +1,6 @@
+Gene Duplication of the Eight-stranded β-Barrel OmpX Produces a Functional Pore: A Scenario for the Evolution of Transmembrane β-Barrels
+57190851815,15835541300,6602182653,7006037307,12807115000
+gene duplication,outer membrane protein,β-barrel,porin evolution,single-channel conductance
+The repeating unit of outer membrane β-barrels from Gram-negative bacteria is the β-hairpin, and representatives of this protein family always have an even strand number between eight and 22. Two dominant structural forms have eight and 16 strands, respectively, suggesting gene duplication as a possible mechanism for their evolution. We duplicated the sequence of OmpX, an eight-stranded β-barrel protein of known structure, and obtained a β-barrel, designated Omp2X, which can fold in vitro and in vivo. Using single-channel conductance measurements and PEG exclusion assays, we found that Omp2X has a pore size similar to that of OmpC, a natural 16-stranded barrel. Fusions of the homologous proteins OmpX, OmpA and OmpW were able to fold in vitro in all combinations tested, revealing that the general propensity to form a β-barrel is sufficient to evolve larger barrels by simple genetic events.
+http://www.sciencedirect.com/science/article/pii/S0022283606017050
+00222836

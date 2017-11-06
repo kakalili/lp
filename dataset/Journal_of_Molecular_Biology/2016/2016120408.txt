@@ -1,0 +1,6 @@
+A Structural Investigation into Oct4 Regulation by Orphan Nuclear Receptors, Germ Cell Nuclear Factor (GCNF), and Liver Receptor Homolog-1 (LRH-1)
+57063511800,51061483400,56070033600,6507471949
+nuclear receptors,X-ray crystallography,germ cell nuclear factor,liver receptor homolog-1,Oct4 regulation
+Oct4 is a transcription factor required for maintaining pluripotency and self-renewal in stem cells. Prior to differentiation, Oct4 must be silenced to allow for the development of the three germ layers in the developing embryo. This fine-tuning is controlled by the nuclear receptors (NRs), liver receptor homolog-1 (LRH-1) and germ cell nuclear factor (GCNF). Liver receptor homolog-1 is responsible for driving the expression of Oct4 where GCNF represses its expression upon differentiation. Both receptors bind to a DR0 motif located within the Oct4 promoter. Here, we present the first structure of mouse GCNF DNA-binding domain in complex with the Oct4 DR0. The overall structure revealed two molecules bound in a head-to-tail fashion on opposite sides of the DNA. Additionally, we solved the structure of the human LRH-1 DNA-binding domain bound to the same element. We explore the structural elements that govern Oct4 recognition by these two NRs.
+http://www.sciencedirect.com/science/article/pii/S002228361630451X
+00222836

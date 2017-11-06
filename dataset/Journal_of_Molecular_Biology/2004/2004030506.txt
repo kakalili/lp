@@ -1,0 +1,6 @@
+NMR Structure of the Integral Membrane Protein OmpX
+55733319600,10244096000,7005702785,7004640909,36047173900
+TROSY,protein structure,OmpX,membrane proteins,micelles
+The structure of the integral membrane protein OmpX from Escherichia coli reconstituted in 60 kDa DHPC micelles (OmpX/DHPC) was calculated from 526 NOE upper limit distance constraints. The structure determination was based on complete sequence-specific assignments for the amide protons and the Val, Leu, and Ile(δ1) methyl groups in OmpX, which were selectively protonated on a perdeuterated background. The solution structure of OmpX in the DHPC micelles consists of a well-defined, eight-stranded antiparallel β-barrel, with successive pairs of β-strands connected by mobile loops. Several long-range NOEs observed outside of the transmembrane barrel characterize an extension of a four-stranded β-sheet beyond the height of the barrel. This protruding β-sheet is believed to be involved in intermolecular interactions responsible for the biological functions of OmpX. The present approach for de novo structure determination should be quite widely applicable to membrane proteins reconstituted in mixed micelles with overall molecular masses up to about 100 kDa, and may also provide a platform for additional functional studies.
+http://www.sciencedirect.com/science/article/pii/S0022283603011392
+00222836

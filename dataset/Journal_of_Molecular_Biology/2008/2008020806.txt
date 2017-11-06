@@ -1,0 +1,6 @@
+Folding and Assembly of Proteorhodopsin
+18437275200,23036691600,7003927934,26643063500,24173563400,6603893596
+membrane protein folding,oligomeric state,hexamer,high-resolution atomic force microscopy,single-molecule force spectroscopy
+Proteorhodopsins (PRs), the recently discovered light-driven proton pumps, play a major role in supplying energy for microbial organisms of oceans. In contrast to PR, rhodopsins found in Archaea and Eukarya are structurally well characterized. Using single-molecule microscopy and spectroscopy, we observed the oligomeric assembly of native PR molecules and detected their folding in the membrane. PR showed unfolding patterns identical with those of bacteriorhodopsin and halorhodopsin, indicating that PR folds similarly to archaeal rhodopsins. Surprisingly, PR predominantly assembles into hexameric oligomers, with a smaller fraction assembling into pentamers. Within these oligomers, PR arranged into radial assemblies. We suggest that this structural assembly of PR may have functional implications.
+http://www.sciencedirect.com/science/article/pii/S002228360701501X
+00222836

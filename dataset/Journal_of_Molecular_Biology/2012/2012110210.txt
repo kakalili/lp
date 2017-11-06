@@ -1,0 +1,6 @@
+Are ParM Filaments Polar or Bipolar?
+7102056911,35501588100,7005654856
+helical polymers,image analysis,electron cryo-microscopy
+A recent perspective [Erickson, H. (2012). Bacterial actin homolog ParM: arguments for an apolar, antiparallel double helix. J. Mol. Biol., 422, 461–463] by Harold Erickson has suggested that published reconstructions of bacterial ParM filaments from three different laboratories may have artifactually imposed polarity upon a filament that is really bipolar, with the two strands running in opposite directions. We show that Erickson's model of a bipolar filament can be easily distinguished from a polar filament by helical diffraction, since the asymmetric unit in a bipolar filament would be twice the size as that in a polar filament. Existing data from both electron cryo-microscopy and X-ray diffraction exclude a bipolar model. We adopt the suggestion put forward by Erickson to process filaments, assuming that they are bipolar, and show that the resulting filaments are polar.
+http://www.sciencedirect.com/science/article/pii/S0022283612006687
+00222836

@@ -1,0 +1,6 @@
+Toll-Like Receptors in Antiviral Innate Immunity
+55428819500,55733139900
+virus,interferon,cytokine,interferon regulatory factor,nuclear factor-kappa B
+Toll-like receptors (TLRs) are fundamental sensor molecules of the host innate immune system, which detect conserved molecular signatures of a wide range of microbial pathogens and initiate innate immune responses via distinct signaling pathways. Various TLRs are implicated in the early interplay of host cells with invading viruses, which regulates viral replication and/or host responses, ultimately impacting on viral pathogenesis. To survive the host innate defense mechanisms, many viruses have developed strategies to evade or counteract signaling through the TLR pathways, creating an advantageous environment for their propagation. Here we review the current knowledge of the roles TLRs play in antiviral innate immune responses, discuss examples of TLR-mediated viral recognition, and describe strategies used by viruses to antagonize the host antiviral innate immune responses.
+http://www.sciencedirect.com/science/article/pii/S0022283613007353
+00222836

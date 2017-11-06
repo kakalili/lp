@@ -1,0 +1,6 @@
+Solution structure of a DNA three-way junction containing two unpaired thymidine bases. identification of sequence features that decide conformer selection11Edited by I. Timoco
+6506520381,6602585557,6603371012,7007102938,7003528970
+DNA three-way junction,nucleic acid structure,HMG-box proteins,Holliday junction,Hammerhead ribozyme
+The solution structure of a DNA three-way junction (3H) containing two unpaired thymidine bases at the branch site (3HT2), was determined by NMR. Arms A and B of the 3HT2 form a quasi-continuous stacked helix, which is underwound at the junction and has an increased helical rise. The unstacked arm C forms an acute angle of approximately 55° with the unique arm A. The stacking of the unpaired thymidine bases on arm C resembles the folding of hairpin loops. From this data, combined with the reported stacking behavior of 23 other 3HS2 s, two rules are derived that together correctly reproduce their stacking preference. These rules predict, from the sequence of any 3HS2, its stacking preference. The structure also suggests a plausible mechanism for structure-specific recognition of branched nucleic acids by proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283600942244
+00222836

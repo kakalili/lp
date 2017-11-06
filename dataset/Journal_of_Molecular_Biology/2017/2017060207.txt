@@ -1,0 +1,6 @@
+BLaTM 2.0, a Genetic Tool Revealing Preferred Antiparallel Interaction of Transmembrane Helix 4 of the Dual-Topology Protein EmrE
+35788917700,57194025972,57193555456,7004370768
+transmembrane domain,BLaTM,antiparallel interaction, EmrE, multidrug resistance protein
+Parallel and antiparallel transmembrane helix–helix interactions support the folding and non-covalent assembly of many integral membrane proteins. While several genetic tools are currently in use to study parallel transmembrane helix–helix interactions, antiparallel associations have been difficult to determine. Here, we present a novel genetic approach, termed BLaTM 2.0, which can be used in combination with the recently presented BLaTM 1.2 to compare the efficiency of antiparallel and parallel transmembrane domain (TMD) interactions in a natural membrane. In a practical application of the BLaTM system, we find that the antiparallel interaction of TMD4, the known dimerization domain of the dual-topology small multidrug transporter EmrE, is sequence-specific and much stronger than the parallel one. This suggests that TMD4 has evolved to favor the formation of dual-topology EmrE dimers over single-topology dimers.
+http://www.sciencedirect.com/science/article/pii/S0022283617301663
+00222836

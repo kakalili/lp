@@ -1,0 +1,6 @@
+Structure of the Food-Poisoning Clostridium perfringens Enterotoxin Reveals Similarity to the Aerolysin-Like Pore-Forming Toxins
+36192737000,7102949196,8441147900,6507968557,7402463297,7201847823,7006622421,7101736481
+antibiotic-associated diarrhea,trimer,claudin,intestine,tight junction
+Clostridium perfringens enterotoxin (CPE) is a major cause of food poisoning and antibiotic-associated diarrhea. Upon its release from C. perfringens spores, CPE binds to its receptor, claudin, at the tight junctions between the epithelial cells of the gut wall and subsequently forms pores in the cell membranes. A number of different complexes between CPE and claudin have been observed, and the process of pore formation has not been fully elucidated. We have determined the three-dimensional structure of the soluble form of CPE in two crystal forms by X-ray crystallography, to a resolution of 2.7 and 4.0 Å, respectively, and found that the N-terminal domain shows structural homology with the aerolysin-like β-pore-forming family of proteins. We show that CPE forms a trimer in both crystal forms and that this trimer is likely to be biologically relevant but is not the active pore form. We use these data to discuss models of pore formation.
+http://www.sciencedirect.com/science/article/pii/S0022283611008448
+00222836

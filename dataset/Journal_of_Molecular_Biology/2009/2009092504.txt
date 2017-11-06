@@ -1,0 +1,6 @@
+Crystal Structure of Human Collagen XVIII Trimerization Domain: A Novel Collagen Trimerization Fold
+6602954212,7407396809,35465028400,8974100200,7004138418,7401435772,7006254059
+collagens XVIII and XV,crystal structure,trimerization domain,non-collagenous domain,endostatin
+Collagens contain a unique triple-helical structure with a repeating sequence -G-X-Y-, where proline and hydroxyproline are major constituents in X and Y positions, respectively. Folding of the collagen triple helix requires trimerization domains. Once trimerized, collagen chains are correctly aligned and the folding of the triple helix proceeds in a zipper-like fashion. Here we report the isolation, characterization, and crystal structure of the trimerization domain of human type XVIII collagen, a member of the multiplexin family. This domain differs from all other known trimerization domains in other collagens and exhibits a high trimerization potential at picomolar concentrations. Strong chain association and high specificity of binding are needed for multiplexins, which are present at very low levels.
+http://www.sciencedirect.com/science/article/pii/S0022283609009103
+00222836

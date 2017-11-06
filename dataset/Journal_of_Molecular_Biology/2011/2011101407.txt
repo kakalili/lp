@@ -1,0 +1,6 @@
+Water Molecules in the Nucleotide Binding Cleft of Actin: Effects on Subunit Conformation and Implications for ATP Hydrolysis
+24725419500,7005823898
+molecular dynamics,F-actin,cytoskeleton,filament,actin polymerization
+In the monomeric actin crystal structure, the positions of a highly organized network of waters are clearly visible within the active site. However, the recently proposed models of filamentous actin (F-actin) did not extend to including these waters. Since the water network is important for ATP hydrolysis, information about water position is critical to understanding the increased rate of catalysis upon filament formation. Here, we show that waters in the active site are essential for intersubdomain rotational flexibility and that they organize the active-site structure. Including the crystal structure waters during simulation setup allows us to observe distinct changes in the active-site structure upon the flattening of the actin subunit, as proposed in the Oda model for F-actin. We identify changes in both protein position and water position relative to the phosphate tail that suggest a mechanism for accelerating the rate of nucleotide hydrolysis in F-actin by stabilizing charge on the β-phosphate and by facilitating deprotonation of catalytic water.
+http://www.sciencedirect.com/science/article/pii/S0022283611008461
+00222836

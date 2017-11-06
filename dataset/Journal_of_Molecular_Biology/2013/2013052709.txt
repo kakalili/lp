@@ -1,0 +1,6 @@
+The Molecular Architecture of the Bacteriophage T4 Neck
+13605356600,55644003934,6603779197,6603956238,26029727800,7003326336,7402899348,35493082200
+bacteriophage T4,fibritin,gpwac,T4 collar and whiskers,tail terminator protein, gp15
+A hexamer of the bacteriophage T4 tail terminator protein, gp15, attaches to the top of the phage tail stabilizing the contractile sheath and forming the interface for binding of the independently assembled head. Here we report the crystal structure of the gp15 hexamer, describe its interactions in T4 virions that have either an extended tail or a contracted tail, and discuss its structural relationship to other phage proteins. The neck of T4 virions is decorated by the “collar” and “whiskers”, made of fibritin molecules. Fibritin acts as a chaperone helping to attach the long tail fibers to the virus during the assembly process. The collar and whiskers are environment-sensing devices, regulating the retraction of the long tail fibers under unfavorable conditions, thus preventing infection. Cryo-electron microscopy analysis suggests that twelve fibritin molecules attach to the phage neck with six molecules forming the collar and six molecules forming the whiskers.
+http://www.sciencedirect.com/science/article/pii/S0022283613000983
+00222836

@@ -1,0 +1,6 @@
+Signal Transduction at the Single-Cell Level: Approaches to Study the Dynamic Nature of Signaling Networks
+57191110216,56447503000,9275726200
+single cell,fluorescent biosensors,mathematical modeling,microfluidics
+Signal transduction, or how cells interpret and react to external events, is a fundamental aspect of cellular function. Traditional study of signal transduction pathways involves mapping cellular signaling pathways at the population level. However, population-averaged readouts do not adequately illuminate the complex dynamics and heterogeneous responses found at the single-cell level. Recent technological advances that observe cellular response, computationally model signaling pathways, and experimentally manipulate cells now enable studying signal transduction at the single-cell level. These studies will enable deeper insights into the dynamic nature of signaling networks.
+http://www.sciencedirect.com/science/article/pii/S0022283616302546
+00222836

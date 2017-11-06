@@ -1,0 +1,6 @@
+Structure of Isoprene Synthase Illuminates the Chemical Mechanism of Teragram Atmospheric Carbon Emission
+36654315000,6602867509,7006121392,7004992085
+protein crystallography,terpenoid biosynthesis,hemiterpene synthase,enzyme mechanism
+The X-ray crystal structure of recombinant PcISPS (isoprene synthase from gray poplar hybrid Populus×canescens) has been determined at 2.7 Å resolution, and the structure of its complex with three Mg2+ and the unreactive substrate analogue dimethylallyl-S-thiolodiphosphate has been determined at 2.8 Å resolution. Analysis of these structures suggests that the generation of isoprene from substrate dimethylallyl diphosphate occurs via a syn-periplanar elimination mechanism in which the diphosphate-leaving group serves as a general base. This chemical mechanism is responsible for the annual atmospheric emission of 100 Tg of isoprene by terrestrial plant life. Importantly, the PcISPS structure promises to guide future protein engineering studies, potentially leading to hydrocarbon fuels and products that do not rely on traditional petrochemical sources.
+http://www.sciencedirect.com/science/article/pii/S0022283610007515
+00222836

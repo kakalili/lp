@@ -1,0 +1,6 @@
+A Relationship between mRNA Expression Levels and Protein Solubility in E. coli
+15840553700,16301973000,56488474100,7007094071
+protein aggregation,protein solubility,protein concentration,mRNA expression levels,recombinant proteins
+Each step in the process of gene expression, from the transcription of DNA into mRNA to the folding and posttranslational modification of proteins, is regulated by complex cellular mechanisms. At the same time, stringent conditions on the physicochemical properties of proteins, and hence on the nature of their amino acids, are imposed by the need to avoid aggregation at the concentrations required for optimal cellular function. A relationship is therefore expected to exist between mRNA expression levels and protein solubility in the cell. By investigating such a relationship, we formulate a method that enables the prediction of the maximal levels of mRNA expression in Escherichia coli with an accuracy of 83% and of the solubility of recombinant human proteins expressed in E. coli with an accuracy of 86%.
+http://www.sciencedirect.com/science/article/pii/S0022283609002666
+00222836

@@ -1,0 +1,6 @@
+A Novel Mechanism of Sugar Selection Utilized by a Human X-Family DNA Polymerase
+35546110400,7003303697,14031422000,23996005000,24468636800,14035635700,7102860169
+DNA polymerase λ,sugar selection,pre-steady-state kinetics,nucleotide analogs,steric gate
+During DNA synthesis, most DNA polymerases and reverse transcriptases select against ribonucleotides via a steric clash between the ribose 2′-hydroxyl group and the bulky side chain of an active-site residue. In this study, we demonstrated that human DNA polymerase λ used a novel sugar selection mechanism to discriminate against ribonucleotides, whereby the ribose 2′-hydroxyl group was excluded mostly by a backbone segment and slightly by the side chain of Y505. Such steric clash was further demonstrated to be dependent on the size and orientation of the substituent covalently attached at the ribonucleotide C2′-position.
+http://www.sciencedirect.com/science/article/pii/S0022283609013539
+00222836

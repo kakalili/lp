@@ -1,0 +1,6 @@
+Structural Similarity between the Prion Domain of HET-s and a Homologue Can Explain Amyloid Cross-Seeding in Spite of Limited Sequence Identity
+23978869100,36464688100,6602786140,9237166300,7004535582,7102343712,7201655952
+prion,amyloid,fibrils,HET-s protein,FgHET-s protein
+We describe a distant homologue of the fungal HET-s prion, which is found in the fungus Fusarium graminearum. The domain FgHET-s(218–289), which corresponds to the prion domain in HET-s from Podospora anserina, forms amyloid fibrils in vitro and is able to efficiently cross-seed HET-s(218–289) prion formation. We structurally characterize FgHET-s(218–289), which displays 38% sequence identity with HET-s(218–289). Solid-state NMR and hydrogen/deuterium exchange detected by NMR show that the fold and a number of structural details are very similar for the prion domains of the two proteins. This structural similarity readily explains why cross-seeding occurs here in spite of the sequence divergence.
+http://www.sciencedirect.com/science/article/pii/S0022283610006960
+00222836

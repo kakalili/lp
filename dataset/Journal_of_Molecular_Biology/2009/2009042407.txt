@@ -1,0 +1,6 @@
+A Molecular Mechanism of Bacterial Flagellar Motor Switching
+7202510411,26421459600,55716760600,7005515220
+bacterial flagellar motor,FliM,FliG,CheY,NMR
+The high-resolution structures of nearly all the proteins that comprise the bacterial flagellar motor switch complex have been solved; yet a clear picture of the switching mechanism has not emerged. Here, we used NMR to characterize the interaction modes and solution properties of a number of these proteins, including several soluble fragments of the flagellar motor proteins FliM and FliG, and the response-regulator CheY. We find that activated CheY, the switch signal, binds to a previously unidentified region of FliM, adjacent to the FliM–FliM interface. We also find that activated CheY and FliG bind with mutual exclusivity to this site on FliM, because their respective binding surfaces partially overlap. These data support a model of CheY-driven motor switching wherein the binding of activated CheY to FliM displaces the carboxy-terminal domain of FliG (FliGC) from FliM, modulating the FliGC–MotA interaction, and causing the motor to switch rotational sense as required for chemotaxis.
+http://www.sciencedirect.com/science/article/pii/S0022283609001478
+00222836

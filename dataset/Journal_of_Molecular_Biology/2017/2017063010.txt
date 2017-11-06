@@ -1,0 +1,6 @@
+Aurora Kinase B Phosphorylates Histone H3.3 at Serine 31 during Mitosis in Mammalian Cells
+57193139858,57193133980,57192828418
+H3.3S31ph,Aurora kinase B,siRNA screen,histone phosphorylation
+Serine 31 of histone H3.3 is phosphorylated during mitosis in mammalian cells and has been shown to influence chromosome segregation. We established a screening system to identify candidate kinase(s) phosphorylating H3.3S31 by using siRNA library targeting 720 human kinases, and we confirmed the results with an independent kinase inhibitor screen. Aurora kinase B was the best candidate hit in both screens. Moreover, the kinase activity of Aurora B on H3.3S31 was biochemically confirmed with nucleosomal substrates in vitro.
+http://www.sciencedirect.com/science/article/pii/S0022283617300578
+00222836

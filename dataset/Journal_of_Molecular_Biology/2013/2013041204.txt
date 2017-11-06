@@ -1,0 +1,6 @@
+Brucella Immunogenic BP26 Forms a Channel-like Structure
+48661266400,55161638600,56329986800,55565452900,7410128319,7202848490,7404786865
+Brucella abortus,multimerization,SIMPL domain,infection,pilus-binding domain
+An outer membrane protein BP26/OMP28 of Brucella, BP26, is identified as a major immunodominant antigen and widely used as a diagnostic marker and for vaccination against Brucellosis. BP26 belongs to the family of proteins that contains a SIMPL (signaling molecule that associates with the mouse pelle-like kinase) domain, whose structure and function have been unknown. Here, we present the crystal structure of BP26 revealing that 16 BP26 molecules form a novel channel-like assembly as also shown by electron microscopy analysis. Eight BP26 molecules forming a ring structure contain a hole at the center of the octamer, and another octamer interacts with each other to form a channel having a large internal cavity. BP26 is found to be structurally similar to a bacteriophage protein involved in infection, implicating that BP26 might function during Brucella infection. In addition, the BP26 structure suggests that the protein functions as a multimeric channel-like form and provides a canonical model for the SIMPL domains.
+http://www.sciencedirect.com/science/article/pii/S0022283613000314
+00222836

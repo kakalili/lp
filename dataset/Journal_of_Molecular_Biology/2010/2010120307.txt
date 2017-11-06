@@ -1,0 +1,6 @@
+Rapid Odorant Release in Mammalian Odour Binding Proteins Facilitates Their Temporal Coupling to Odorant Signals
+8269037200,55411816200,13307910500,57053593000
+olfaction,odorant-binding proteins,kinetics,mass spectrometry
+We have measured the effect of rat odorant-binding protein 1 on the rates of ligand uptake and liquid-to-air transfer rates with a set of defined odorous compounds. Comparison of observed rate constants (kobs) with data simulated over a wide range of different kinetic and thermodynamic regimes shows that the data do not agree with the previously held view of a slow off-rate regime (koff &lt;0.0004 s−1). We propose that a rapid koff would be a necessary requirement for such a system, since slow odorant-release rates would result in significant decorrelation between the olfactory world and odour perception.
+http://www.sciencedirect.com/science/article/pii/S0022283610009952
+00222836

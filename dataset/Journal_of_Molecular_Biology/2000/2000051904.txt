@@ -1,0 +1,6 @@
+A breakdown of symmetry in the folding transition state of protein L11Edited by C. R. Matthews
+7409762916,36861174400,55463548900
+protein folding,folding kinetics,transition state,β-hairpin formation,protein L
+The 62 residue IgG binding domain of protein L consists of a central α-helix packed on a four-stranded β-sheet formed by N and C-terminal β-hairpins. The overall topology of the protein is quite symmetric: the β-hairpins have similar lengths and make very similar interactions with the central helix. Characterization of the effects of 70 point mutations distributed throughout the protein on the kinetics of folding and unfolding reveals that this symmetry is completely broken during folding; the first β-hairpin is largely structured while the second β-hairpin and helix are largely disrupted in the folding transition state ensemble. The results are not consistent with a “hydrophobic core first” picture of protein folding; the first β-hairpin appears to be at least as ordered at the rate limiting step in folding as the hydrophobic core.
+http://www.sciencedirect.com/science/article/pii/S002228360093701X
+00222836

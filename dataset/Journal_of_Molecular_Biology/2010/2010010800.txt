@@ -1,0 +1,6 @@
+Engineered Cystine Knot Miniproteins as Potent Inhibitors of Human Mast Cell Tryptase β
+7004249603,23396269000,6602563628,6506407512,55954425700,6701724148
+human mast cell tryptase,protein inhibitor,knottins,cystine knot miniproteins,macrocyclic peptides
+Here we report the design, chemical and recombinant synthesis, and functional properties of a series of novel inhibitors of human mast cell tryptase β, a protease of considerable interest as a therapeutic target for the treatment of allergic asthma and inflammatory disorders. These inhibitors are derived from a linear variant of the cyclic cystine knot miniprotein MCoTI-II, originally isolated from the seeds of Momordica cochinchinensis. A synthetic cyclic miniprotein that bears additional positive charge in the loop connecting the N- and C-termini inhibits all monomers of the tryptase β tetramer with an overall equilibrium dissociation constant Ki of 1 nM and thus is one of the most potent proteinaceous inhibitors of tryptase β described to date. These cystine knot miniproteins may therefore become valuable scaffolds for the design of a new generation of tryptase inhibitors.
+http://www.sciencedirect.com/science/article/pii/S0022283609012686
+00222836

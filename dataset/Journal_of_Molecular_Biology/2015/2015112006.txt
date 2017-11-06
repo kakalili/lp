@@ -1,0 +1,6 @@
+Bacterial danger sensing
+50161756300,56463503800,6603257927
+interbacterial,subinhibitory antibiotics,Gac/Rsm,competence,type VI secretion
+Here we propose that bacteria detect and respond to threats posed by other bacteria via an innate immune-like process that we term danger sensing. We find support for this contention by reexamining existing literature from the perspective that intermicrobial antagonism, not opportunistic pathogenesis, is the major evolutionary force shaping the defensive behaviors of most bacteria. We conclude that many bacteria possess danger sensing pathways composed of a danger signal receptor and corresponding signal transduction mechanism that regulate pathways important for survival in the presence of the perceived competitor.
+http://www.sciencedirect.com/science/article/pii/S0022283615005410
+00222836

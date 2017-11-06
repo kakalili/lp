@@ -1,0 +1,6 @@
+Proline Isomerization Preorganizes the Itk SH2 Domain for Binding to the Itk SH3 Domain
+23767388300,7201938137,26638047800,7102852398,7003419204
+Itk,SH3,SH2,oligomerization,tyrosine kinase
+We report here the NMR-derived structure of the binary complex formed by the interleukin-2 tyrosine kinase (Itk) Src homology 3 (SH3) and Src homology 2 (SH2) domains. The interaction is independent of both a phosphotyrosine motif and a proline-rich sequence, the classical targets of the SH2 and SH3 domains, respectively. The Itk SH3/SH2 structure reveals the molecular details of this nonclassical interaction and provides a clear picture for how the previously described prolyl cis/trans isomerization present in the Itk SH2 domain mediates SH3 binding. The higher-affinity cis SH2 conformer is preorganized to form a hydrophobic interface with the SH3 domain. The structure also provides insight into how autophosphorylation in the Itk SH3 domain might increase the affinity of the intermolecular SH3/SH2 interaction. Finally, we can compare this Itk complex with other examples of SH3 and SH2 domains engaging their ligands in a nonclassical manner. These small binding domains exhibit a surprising level of diversity in their binding repertoires.
+http://www.sciencedirect.com/science/article/pii/S0022283609001569
+00222836

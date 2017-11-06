@@ -1,0 +1,6 @@
+Structural isomers of bis-PNA bound to a target in duplex DNA11Edited by I. Tinoco
+7202191654,6602485184,7202845127,7402903296
+PNA,triplex invasion,structural isomers,DNA recognition
+Upon binding of a decamer bis-PNA (H-Lys-TTCCTCTCTT-(eg1)3-TTCTCTCCTT-LysNH2) to a complementary target in a double-stranded DNA fragment, three distinct complexes were detected by gel mobility shift analysis. Using in situ chemical probing techniques (KMnO4 and DMS) it was found that all three complexes represent bona fide sequence-specific PNA binding to the designated target, but the complexes were structurally different. One complex that preferentially formed at higher PNA concentrations contains two bis-PNA molecules per DNA target, whereas the other two complexes are genuine triplex invasion clamped structures. However, these two latter complexes differ by the path relative to the DNA target of the flexible ethylene-glycol linker connecting the two PNA oligomers that comprise a bis-PNA. We distinguish between one in which the linker wraps around the non-target DNA strand, thus making this strand part of the triplex invasion complex and another complex that encompass the target strand only. The implications of these results are discussed in terms of DNA targeting by synthetic ligands.
+http://www.sciencedirect.com/science/article/pii/S0022283600944875
+00222836

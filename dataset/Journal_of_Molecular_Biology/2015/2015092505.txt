@@ -1,0 +1,6 @@
+Binding of the 5′-Triphosphate End of mRNA to the γ-Subunit of Translation Initiation Factor 2 of the Crenarchaeon Sulfolobus solfataricus
+55557863600,8432179900,56266299000,10039792900,6505793440,35412032800,7005068735,55644359800,7006016723,6701680783
+crystal structure,archaea,a/eIF2γ,mRNA,GTP
+The heterotrimeric archaeal IF2 orthologue of eukaryotic translation initiation factor 2 consists of the α-subunit, β-subunit and γ-subunit. Previous studies showed that the γ-subunit of aIF2, besides its central role in Met-tRNAi binding, has an additional function: it binds to the 5′-triphosphorylated end of mRNA and protects its 5′-part from degradation. Competition studies with nucleotides and mRNA, as well as structural and kinetic analyses of aIF2γ mutants, strongly implicate the canonical GTP/GDP-binding pocket in binding to the 5′-triphosphate end of mRNAs. The biological implication of these findings is being discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283615004222
+00222836

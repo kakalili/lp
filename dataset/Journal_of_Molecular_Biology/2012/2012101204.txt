@@ -1,0 +1,6 @@
+Experimental Definition of a Clustered Regularly Interspaced Short Palindromic Duplicon in Escherichia coli
+36068851700,7801466472,55232456200,13608462300
+defense mechanism,bacteriophage,CRISPR adaptation,DNA template
+We analyzed sequences of newly inserted repeats in an Escherichia coli CRISPR (clustered regularly interspaced short palindromic repeats) array in vivo and showed that a base previously thought to belong to the repeat is actually derived from a protospacer. Based on further experimental results, we propose to use the term “duplicon” for a repeated sequence in a CRISPR array that serves as a template for a new duplicon. Our findings suggest the possibility of redrawing the borders between repeats, spacers, and protospacer adjacent motifs.
+http://www.sciencedirect.com/science/article/pii/S0022283612005463
+00222836

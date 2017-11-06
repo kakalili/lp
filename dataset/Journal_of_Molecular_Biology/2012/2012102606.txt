@@ -1,0 +1,6 @@
+Fiber Diffraction Data Indicate a Hollow Core for the Alzheimer's Aβ 3-Fold Symmetric Fibril
+22951205300,55347054900,14622343900,7006730152,7004545101,7004280267
+amyloid structure,amyloid β peptide,X-ray fiber diffraction,solid-state NMR,Alzheimer's disease
+Amyloid β protein (Aβ), the principal component of the extracellular plaques found in the brains of patients with Alzheimer's disease, forms fibrils well suited to structural study by X-ray fiber diffraction. Fiber diffraction patterns from the 40-residue form Aβ(1–40) confirm a number of features of a 3-fold symmetric Aβ model from solid‐state NMR (ssNMR) but suggest that the fibrils have a hollow core not present in the original ssNMR models. Diffraction patterns calculated from a revised 3-fold hollow model with a more regular β-sheet structure are in much better agreement with the observed diffraction data than patterns calculated from the original ssNMR model. Refinement of a hollow-core model against ssNMR data led to a revised ssNMR model, similar to the fiber diffraction model.
+http://www.sciencedirect.com/science/article/pii/S002228361200647X
+00222836

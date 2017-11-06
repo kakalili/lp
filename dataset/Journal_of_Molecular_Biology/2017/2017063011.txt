@@ -1,0 +1,6 @@
+The Multiple Facets of PRC2 Alterations in Cancers
+56490147900,6602762410
+cancer,chromatin,polycomb,PRC2,EZH2
+Genome sequencing of large cohorts of tumors has revealed that mutations in genes encoding chromatin regulators are frequent in cancer. However, the precise contribution of these mutations to tumor development often remains elusive. Here, we review the current knowledge concerning the alterations of the Polycomb machinery in cancer, with a particular focus on the Polycomb repressive complex 2 (PRC2), a key chromatin modifier involved in the maintenance of transcriptional silencing. A broad variety of alterations can impair PRC2 activity; yet, overall, only one type of alteration is found in a given class of tumor. We discuss the potential impact of the various types of PRC2 alterations on gene expression. We propose that the distinct set of genes regulated by PRC2, depending on tumor etiology, constrain the type of alteration of PRC2 that can fuel tumor development. Beyond this specificity, we propose that PRC2 and, more generally, chromatin regulators act as gatekeepers of transcriptional integrity, a role that often confers a tumor-suppressive function.
+http://www.sciencedirect.com/science/article/pii/S0022283616304272
+00222836

@@ -1,0 +1,6 @@
+The Crystal Structure of Death Receptor 6 (DR6): A Potential Receptor of the Amyloid Precursor Protein (APP)
+37102151900,37101893600,36086064800,8836132500,7003660662
+tumor necrosis factor receptor (TNFR),apoptosis,Alzheimer's disease,crystal structure,ligand–receptor recognition
+Death receptors belong to the tumor necrosis factor receptor (TNFR) super family and are intimately involved in the signal transduction during apoptosis, stress response and cellular survival. Here we present the crystal structure of recombinantly expressed death receptor six (DR6), one family member that was recently shown to bind to the amyloid precursor protein (APP) and hence to be probably involved in the development of Alzheimer's disease. The extracellular cysteine rich region of DR6, the typical ligand binding region of all TNFRs, was refined to 2.2 Å resolution and shows that its four constituting cysteine rich domains (CRDs) are arranged in a rod-like overall structure, which presents DR6-specific surface patches responsible for the exclusive recognition of its ligand(s). Based on the structural data, the general ligand binding modes of TNFRs and molecular modeling experiments we were able to elucidate structural features of the potential DR6-APP signaling complex.
+http://www.sciencedirect.com/science/article/pii/S0022283611003378
+00222836

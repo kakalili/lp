@@ -1,0 +1,6 @@
+Crystal Structure of the Yeast Ribosomal Protein rpS3 in Complex with Its Chaperone Yar1
+55863414200,7007142589,21234197400
+eukaryotic ribosome,ribosome maturation,40S subunit,chaperone complex
+Eukaryotic ribosome assembly involves a plethora of factors, which ensure that a correctly folded ribosome contains all ribosomal protein components. Among these assembly factors, Yar1 has recently emerged as a molecular chaperone for ribosomal protein rpS3 of the small ribosomal subunit (40S) in yeast. In complex with its chaperone, rpS3 is imported into the nucleus and protected from aggregation. How rpS3 and other ribosomal proteins are initially sequestered and subsequently integrated into pre-ribosomal particles is currently poorly understood. Here, we present the crystal structure of yeast rpS3 in complex with its chaperone Yar1 at 2.8Å resolution. The crystal structure rationalizes how Yar1 can protect rpS3 from aggregation while facilitating nuclear import and suggests a mechanism for a stepwise exchange of molecular partners that ribosomal proteins interact with during ribosome assembly.
+http://www.sciencedirect.com/science/article/pii/S0022283613005421
+00222836

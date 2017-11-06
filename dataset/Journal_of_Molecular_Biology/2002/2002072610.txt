@@ -1,0 +1,6 @@
+Functional Studies of the 900 Tetraloop Capping Helix 27 of 16S Ribosomal RNA
+7006572554,8160182900,57190280665,7201579735,7003930769
+16S rRNA helix 27,GNRA tetraloops,instant evolution,ribosomal subunit association,translational fidelity
+The 900 tetraloop (positions 898–901) of Escherichia coli 16S rRNA caps helix 27, which is involved in a conformational switch crucial for the decoding function of the ribosome. This tetraloop forms a GNRA motif involved in intramolecular RNA–RNA interactions with its receptor in helix 24 of 16S rRNA. It is involved also in an intersubunit bridge, via an interaction with helix 67 in domain IV of 23S rRNA. Using a specialized ribosome system and an instant-evolution procedure, the four nucleotides of this loop were randomized and 15 functional mutants were selected in vivo. Positions 899 and 900, responsible for most of the tetraloop/receptor interactions, were found to be the most critical for ribosome activity. Functional studies showed that mutations in the 900 tetraloop impair subunit association and decrease translational fidelity. Computer modeling of the mutations allows correlation of the effect of mutations with perturbations of the tetraloop/receptor interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283602005508
+00222836

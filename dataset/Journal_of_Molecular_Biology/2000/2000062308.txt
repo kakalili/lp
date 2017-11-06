@@ -1,0 +1,6 @@
+Determination of intramolecular distance distribution during protein folding on the millisecond timescale11Edited by A. R. Fersht
+7006500707,7003900323,55729607500
+adenylate kinase,energy transfer,time-resolved,distance distribution,folding
+A method for determination of transient (on the millisecond timescale) intramolecular distance distributions (IDDs) by time-resolved dynamic non-radiative excitation energy transfer measurements was developed. The time-course of the development of the IDD between residues 73 and 203 in the CORE domain of Escherichia coli adenylate kinase throughout refolding from the GuHCl-induced denatured state was determined. The mean of the apparent IDD reduced to a value close to its magnitude in the native protein, within 2 ms (the dead-time of the instrument). At that time the width of that distribution was rather large (16 ± 2 Å). The large width implies that the intramolecular diffusion coefficient of the labeled segment does not exceed 10−7 cm2/second. In a second slower phase of the refolding transition, the width was reduced to its native value (6 ± 4 Å).
+http://www.sciencedirect.com/science/article/pii/S0022283600938142
+00222836

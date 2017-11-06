@@ -1,0 +1,6 @@
+Structure of a thioredoxin-like [2Fe-2S] ferredoxin from Aquifex aeolicus11Edited by I. A. Wilson
+7103069343,6508388866,6603712173,7101989514,55729470100,7402667725
+crystal structure,[2Fe-2S] ferredoxin,thioredoxin,respiratory chain,iron-sulfur clusters
+The 2.3 Å resolution crystal structure of a [2Fe-2S] cluster containing ferredoxin from Aquifex aeolicusreveals a thioredoxin-like fold that is novel among iron-sulfur proteins. The [2Fe-2S] cluster is located near the surface of the protein, at a site corresponding to that of the active-site disulfide bridge in thioredoxin. The four cysteine ligands are located near the ends of two surface loops. Two of these ligands can be substituted by non-native cysteine residues introduced throughout a stretch of the polypeptide chain that forms a protruding loop extending away from the cluster. The presence of homologs of this ferredoxin as components of more complex anaerobic and aerobic electron transfer systems indicates that this is a versatile fold for biological redox processes.
+http://www.sciencedirect.com/science/article/pii/S0022283600938713
+00222836

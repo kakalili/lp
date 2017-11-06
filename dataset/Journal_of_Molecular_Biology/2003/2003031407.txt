@@ -1,0 +1,6 @@
+A Second Symmetry Mismatch at the Portal Vertex of Bacteriophage T7: 8-fold Symmetry in the Procapsid Core
+7801533166,7006610494,55574197699,7201585800,7402605385,7101692985
+viral structural proteins,cryo-electron microscopy,bacteriophage morphogenesis,DNA packaging,image reconstruction
+Like other bacteriophages, T7 has a singular vertex that is the site of a symmetry mismatch involving the portal/connector protein, a 12-fold ring at the vertex site which is also a 5-fold axis for the icosahedral capsid. In the mature virion, a 6-fold-symmetric tail extends outwards from the connector. T7 also has a cylindrical “core” that assembles on the inner surface of the connector during procapsid formation, is retained in the mature virion, and is required for infectivity. We have investigated the core structure by cryo-electron microscopy and image analysis of procapsids and find that it observes 8-fold symmetry. Stoichiometry data indicate that its major constituent is an octamer of gp15.
+http://www.sciencedirect.com/science/article/pii/S0022283603001177
+00222836

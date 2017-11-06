@@ -1,0 +1,6 @@
+Structural Basis of the pH-Dependent Assembly of a Botulinum Neurotoxin Complex
+8901007300,8943837600,26321165900,7201576485,6701883103,35474611200,8885520300
+botulinum neurotoxin,neurotoxin-associated proteins,non-toxic non-hemagglutinin,progenitor toxin complex,X-ray scattering
+Botulinum neurotoxins (BoNTs) are among the most poisonous biological substances known. They assemble with non-toxic non-hemagglutinin (NTNHA) protein to form the minimally functional progenitor toxin complexes (M-PTC), which protects BoNT in the gastrointestinal tract and releases it upon entry into the circulation. Here we provide molecular insight into the assembly between BoNT/A and NTNHA-A using small-angle X-ray scattering. We found that the free form BoNT/A maintains a pH-independent conformation with limited domain flexibility. Intriguingly, the free form NTNHA-A adopts pH-dependent conformational changes due to a torsional motion of its C-terminal domain. Once forming a complex at acidic pH, they each adopt a stable conformation that is similar to that observed in the crystal structure of the M-PTC. Our results suggest that assembly of the M-PTC depends on the environmental pH and that the complex form of BoNT/A is induced by interacting with NTNHA-A at acidic pH.
+http://www.sciencedirect.com/science/article/pii/S0022283614004963
+00222836

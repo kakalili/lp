@@ -1,0 +1,6 @@
+The Crystal Structure of an ADP Complex of Bacillus subtilis Pyridoxal Kinase Provides Evidence for the Parallel Emergence of Enzyme Activity During Evolution
+23971361500,55476993100,7004388687,7402056324
+Bacillus subtilis thiD,pyridoxal kinase,HMPP kinase,ribokinase superfamily,enzyme evolution
+Pyridoxal kinase catalyses the phosphorylation of pyridoxal, pyridoxine and pyridoxamine to their 5′ phosphates and plays an important role in the pyridoxal 5′ phosphate salvage pathway. The crystal structure of a dimeric pyridoxal kinase from Bacillus subtilis has been solved in complex with ADP to 2.8 Å resolution. Analysis of the structure suggests that binding of the nucleotide induces the ordering of two loops, which operate independently to close a flap on the active site. Comparisons with other ribokinase superfamily members reveal that B. subtilis pyridoxal kinase is more closely related in both sequence and structure to the family of HMPP kinases than to other pyridoxal kinases, suggesting that this structure represents the first for a novel family of “HMPP kinase-like” pyridoxal kinases. Moreover this further suggests that this enzyme activity has evolved independently on multiple occasions from within the ribokinase superfamily.
+http://www.sciencedirect.com/science/article/pii/S0022283606010242
+00222836

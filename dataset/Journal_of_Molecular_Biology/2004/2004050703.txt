@@ -1,0 +1,6 @@
+A Mutant KcsA K+ Channel with Altered Conduction Properties and Selectivity Filter Ion Distribution
+7403506618,7004688477
+potassium channel,permeation,selectivity filter,ion occupancy,single channel current
+The selectivity filter of K+ channels is comprised of a linear queue of four equal-spaced ion-binding sites spanning a distance of 12Å. Each site is formed of eight oxygen atoms from the protein. The first three sites, numbered 1–3 from the extracellular side, are made of exclusively main-chain carbonyl oxygen atoms. The fourth site, closest to the intracellular side, is made of four main-chain carbonyl oxygen atoms and four threonine side-chain hydroxyl oxygen atoms. Here we characterize the effects of mutating the threonine to cysteine on the distribution of ions in the selectivity filter and on the conduction of ions through the filter. The mutation influences the occupancy of K+ at sites 2 and 4 and it reduces the maximum rate of conduction in the limit of high K+ concentration. The mutation does not affect the conduction of Rb+. These results can be understood in the context of a conduction mechanism in which a pair of K ions switch between energetically balanced 1,3 and 2,4 configurations.
+http://www.sciencedirect.com/science/article/pii/S0022283604003109
+00222836

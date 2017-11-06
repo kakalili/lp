@@ -1,0 +1,6 @@
+Intertwined Structured and Unstructured Regions of exRAGE Identified by Monitoring Hydrogen–Deuterium Exchange
+6504167096,36468130100,6603847057
+receptor for advanced glycation end products,protein structure,hydrogen–deuterium exchange,mass spectrometry
+Receptor for advanced glycation end products (RAGE) is a multiligand receptor that is engaged in many pathological processes. Potentially beneficial modification of its activity requires sound knowledge of its structural properties. However, up to now, only the structures of its separated domains have been published or deposited in databases. In this work, we used hydrogen–deuterium exchange and mass spectrometry to gain insight into the structural properties of exRAGE (extracellular region of RAGE)—the full extracellular part of the protein. The present work indicates the common and disparate features of full exRAGE as compared to the structural models of its separate domains. The highlight of the present study is the contrasting behavior of the different regions of the protein, with the protected regions neighboring fully exposed parts especially in the N-terminal V domain.
+http://www.sciencedirect.com/science/article/pii/S0022283610008892
+00222836

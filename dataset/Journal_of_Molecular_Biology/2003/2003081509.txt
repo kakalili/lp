@@ -1,0 +1,6 @@
+The Molecular Basis of Vitamin E Retention: Structure of Human α-Tocopherol Transfer Protein
+7201424870,6603456367,56046182900,7102685121,7006884168
+ataxia,AVED,crystal structure,tocopherol,vitamin E
+α-Tocopherol transfer protein (α-TTP) is a liver protein responsible for the selective retention of α-tocopherol from dietary vitamin E, which is a mixture of α, β, γ, and δ-tocopherols and the corresponding tocotrienols. The α-TTP-mediated transfer of α-tocopherol into nascent VLDL is the major determinant of plasma α-tocopherol levels in humans. Mutations in the α-TTP gene have been detected in patients suffering from low plasma α-tocopherol and ataxia with isolated vitamin E deficiency (AVED).The crystal structure of α-TTP reveals two conformations. In its closed tocopherol-charged form, a mobile helical surface segment seals the hydrophobic binding pocket. In the presence of detergents, an open conformation is observed, which probably represents the membrane-bound form. The selectivity of α-TTP for RRR-α-tocopherol is explained from the van der Waals contacts occurring in the lipid-binding pocket. Mapping the known mutations leading to AVED onto the crystal structure shows that no mutations occur directly in the binding pocket.
+http://www.sciencedirect.com/science/article/pii/S0022283603007241
+00222836

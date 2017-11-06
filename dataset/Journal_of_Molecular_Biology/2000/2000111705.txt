@@ -1,0 +1,6 @@
+Potentiating AZT activation: structures of wild-type and mutant human thymidylate kinase suggest reasons for the mutants’ improved kinetics with the HIV prodrug metabolite AZTMP11Edited by J. Karn
+6602271613,7003519452,6602649745,6507372675,6602142990,7003426456,7102958399,7005482404,7006466102
+AZT,TMPK,HIV prodrugs,phosphorylation,enzyme structure
+The 60-fold reduced phosphorylation rate of azidothymidine (AZT) monophosphate (AZTMP), the partially activated AZT metabolite, by human thymidylate kinase (TMPK) severely limits the efficacy of this anti-HIV prodrug. Crystal structures of different TMPK nucleotide complexes indicate that steric hindrance by the azido group of AZTMP prevents formation of the catalytically active closed conformation of the P-loop of TMPK. The F105Y mutant and a chimeric mutant that contains sequences of the human and Escherichia coli enzyme phosphorylate AZTMP 20-fold faster than the wild-type enzyme. The structural basis of the increased activity is assigned to stabilization of the closed P-loop conformation.
+http://www.sciencedirect.com/science/article/pii/S0022283600941755
+00222836

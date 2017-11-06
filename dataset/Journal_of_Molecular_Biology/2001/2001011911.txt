@@ -1,0 +1,6 @@
+Specific interaction between anticodon nuclease and the tRNALys wobble base11Edited by D. Draper
+55733612100,57193555360,6602832634,7102963248
+modified nucleosides,lysyl-tRNA synthetase,RNA-protein interaction,RNA processing,trimethylamine N-oxide (TMAO)
+The bacterial tRNALys-specific PrrC-anticodon nuclease cleaves its natural substrate 5′ to the wobble base, yielding 2′,3′-cyclic phosphate termini. Previous work has implicated the anticodon of tRNALys as a specificity element and a cluster of amino acid residues at the carboxy-proximal half of PrrC in its recognition. We further examined these assumptions by assaying unmodified and hypomodified derivatives of tRNALys as substrates of wild-type and mutant alleles of PrrC. The data show, first, that the anticodon sequence and wobble base modifications of tRNALys play major roles in the interaction with anticodon nuclease. Secondly, a specific contact between the substrate recognition site of PrrC and the tRNALys wobble base is revealed by PrrC missense mutations that suppress the inhibitory effects of wobble base modification mutations. Thirdly, the data distinguish between the anticodon recognition mechanisms of PrrC and lysyl-tRNA synthetase.
+http://www.sciencedirect.com/science/article/pii/S0022283600942827
+00222836

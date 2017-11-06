@@ -1,0 +1,6 @@
+The structure of porcine parvovirus: comparison with related viruses11Edited by D. Rees
+36124021600,55486990600,55428034000,7103173466,6602902322,7003384576,35493082200
+porcine parvovirus,X-ray crystallography,structure,host range,tissue tropism
+The structure of baculovirus-expressed porcine parvovirus (PPV) capsids was solved using X-ray crystallography and was found to be similar to the related canine parvovirus (CPV) and minute virus of mice (MVM). The PPV capsid protein has 57 % and 49 % amino acid sequence identity with CPV and MVM, respectively, but the degree of conservation of surface-exposed residues is lower than average. Consequently, most of the structural differences are on the surface and are the probable cause of the known variability in antigenicity and host range.The NADL-2 and Kresse strains of PPV have distinct tissue tropisms and pathogenicity, which are mediated by one or more of the amino acid residues 381, 386, and 436. These residues are on or near the surface of the virus capsid, where they are likely to be associated with virus-cell interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283601953197
+00222836

@@ -1,0 +1,6 @@
+The Structural Basis of Receptor-binding by Escherichia coli Associated with Diarrhea and Septicemia
+6602810458,7003444849,7101628909,6602482147,36757265400,57189018219
+X-ray crystallography,protein function,protein evolution
+GafD in Escherichia coli G (F17) fimbriae is associated with diarrheal disease, and the structure of the ligand-binding domain, GafD1-178, has been determined at 1.7Å resolution in the presence of the receptor sugar N-acetyl-d-glucosamine. The overall fold is a β-barrel jelly-roll fold. The ligand-binding site was identified and localized to the side of the molecule. Receptor binding is mediated by side-chain as well main-chain interactions. Ala43-Asn44, Ser116-Thr117 form the sugar acetamide specificity pocket, while Asp88 confers tight binding and Trp109 appears to position the ligand. There is a disulfide bond that rigidifies the acetamide specificity pocket. The three fimbrial lectins, GafD, FimH and PapG share similar β-barrel folds but display different ligand-binding regions and disulfide-bond patterns. We suggest an evolutionary path for the evolution of the very diverse fimbrial lectins from a common ancestral fold.
+http://www.sciencedirect.com/science/article/pii/S0022283603008416
+00222836

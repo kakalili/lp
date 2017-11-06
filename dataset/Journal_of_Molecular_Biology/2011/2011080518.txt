@@ -1,0 +1,6 @@
+Amyloid Fibrillation Kinetics: Insight from Atomistic Nucleation Theory
+35182583100,7003293107
+homogeneous nucleation,nucleus size,nucleation rate,amyloid fibrils,protein aggregation
+We consider the nucleation of nanosized amyloid fibrils composed of successively layered β-sheets at the molecular level when this process takes place by direct polymerization of protein segments (β-strands) into β-sheets. Application of the atomistic nucleation theory (ANT) to amyloid nucleation of β2-microglobulin and amyloid β40 allows us to predict the fibril nucleus size and the fibril nucleation rate as functions of the supersaturation of the protein solution. The ANT predictions are compared to recent time-resolved optical experiments where they measure the effect of the protein concentration and mutations on the initial lag time before amyloid fibrils form in the protein solution. The presented analysis reveals the general principles underlying the nucleation kinetics of nanosized amyloid fibrils and indicates that it can be treated in the framework of existing general theories of the nucleation of new phases.
+http://www.sciencedirect.com/science/article/pii/S002228361100595X
+00222836

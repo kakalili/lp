@@ -1,0 +1,6 @@
+Fluidizing the Membrane by a Local Anesthetic: Phenylethanol Affects Membrane Protein Oligomerization
+8606916000,37031731300,37032224300,7402111726
+anesthetic,glycophorin A,helix–helix interaction,membrane,TOXCAT
+The exact mechanism of action of anesthetics is still an open question. While some observations suggest specific anesthetic–protein interactions, nonspecific perturbation of the lipid bilayer has also been suggested. Perturbations of bilayer properties could subsequently affect the structure and function of membrane proteins. Addition of the local anesthetic phenylethanol (PEtOH) to model membranes and intact Escherichia coli cells not only affected membrane fluidity but also severely altered the defined helix–helix interaction within the membrane. This experimental observation suggests that certain anesthetics modulate membrane physical properties and thereby indirectly affect transmembrane (TM) helix–helix interactions, which are not only involved in membrane protein folding and assembly but also important for TM signaling.
+http://www.sciencedirect.com/science/article/pii/S0022283610011344
+00222836

@@ -1,0 +1,6 @@
+Predicting U-turns in Ribosomal RNA with Comparative Sequence Analysis
+7006693029,35402463500,7003976771,7004015105
+ribosomal RNA,comparative sequence analysis,U-turns,tertiary interactions
+The U-turn is a well-known RNA motif characterized by a sharp reversal of the RNA backbone following a single-stranded uridine base. In experimentally determined U-turn motifs, the nucleotides 3′ to the turn are frequently involved in tertiary interactions, rendering this motif particularly attractive in RNA modeling and functional studies. The U-turn signature is composed of an UNR sequence pattern flanked by a Y:Y, Y:A (Y=pyrimidine) or G:A base juxtaposition. We have identified 33 potential UNR-type U-turns and 25 related GNRA-type U-turns in a large set of aligned 16S and 23S rRNA sequences. U-turn candidates occur in hairpin loops (34 times) as well as in internal and multi-stem loops (24 times). These are classified into ten families based on loop type, sequence pattern (UNR or GNRA) and the nature of the closing base juxtaposition. In 13 cases, the bases on the 3′ side of the turn, or on the immediate 5′ side, are involved in tertiary covariations, making these sites strong candidates for tertiary interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283600939007
+00222836

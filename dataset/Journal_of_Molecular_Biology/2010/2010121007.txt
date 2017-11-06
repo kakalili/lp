@@ -1,0 +1,6 @@
+Evidence for Amino Acid Roles in the Chemistry of ATP Hydrolysis in Escherichia coli Rho
+7203016435,6603693986
+ATPase mechanism,hexameric helicase,transcription termination factor,arginine finger,γ sensor
+Many proteins that hydrolyze ATP or GTP have comparable amino acid residues for which specific roles have been proposed in a mechanism for the chemistry of hydrolysis. These roles include polarization by a glutamate residue of a water molecule for the attack on the γ-phosphoryl group of the nucleotide, stabilization of the transition state by an arginine finger, discrimination between bound nucleoside triphosphate and diphosphate by a γ sensor residue, and coordination by an aspartate of the Mg2+ that accompanies the substrate nucleotide. We mutated four candidate residues for these roles in the Escherichia coli transcription termination factor Rho, E211, R366, R212, and D265, and characterized the resulting proteins for oligomerization state, ligand binding, RNA-dependent ATP hydrolysis, and, in rapid mix/chemical quench experiments, achievement of the chemistry step of hydrolysis. All four mutant proteins behaved as expected for Rhos lacking the proposed mechanistic roles. The results provide firm biochemical evidence in support of the proposed model for hydrolysis chemistry.
+http://www.sciencedirect.com/science/article/pii/S0022283610010387
+00222836

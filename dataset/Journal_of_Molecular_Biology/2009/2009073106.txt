@@ -1,0 +1,6 @@
+Subunit a of the F1F0 ATP Synthase Requires YidC and SecYEG for Membrane Insertion
+9040022000,15769536000,16042159000,26647106400,6603620644,7103120387
+membrane insertion,F1F0 ATP synthase subunit a,YidC,SecYEG,proton motive force
+The insertion of inner membrane proteins in Escherichia coli occurs almost exclusively via the SecYEG pathway, while some membrane proteins require the membrane protein insertase YidC. In vitro analysis demonstrates that subunit a of the F1F0 ATP synthase (F0a) is strictly dependent on Ffh, SecYEG and YidC for its membrane insertion but independent of the proton motive force. The insertion of the first transmembrane segment of F0a also depends on Ffh and SecYEG but not on YidC, whereas the insertion is strongly dependent on the proton motive force, unlike the full-length F0a protein. These data demonstrate an extensive role of YidC in the assembly of the F0 sector of the F1F0 ATP synthase.
+http://www.sciencedirect.com/science/article/pii/S0022283609006561
+00222836

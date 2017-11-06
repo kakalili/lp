@@ -1,0 +1,6 @@
+Structural Characterisation of Bisintercalation in Higher-order DNA at a Junction-like Quadruplex
+7006120926,7102616936,7202731062,7101710689,7401909858,7003937596,7102923387,7004520393
+bisintercalation,bisDACA,DNA junction,DNA/cobalt
+We report the single-crystal X-ray structure for the complex of the bisacridine bis-(9-aminooctyl(2-(dimethylaminoethyl)acridine-4-carboxamide)) with the oligonucleotide d(CGTACG)2 to a resolution of 2.4Å. Solution studies with closed circular DNA show this compound to be a bisintercalating threading agent, but so far we have no crystallographic or NMR structural data conforming to the model of contiguous intercalation within the same duplex. Here, with the hexameric duplex d(CGTACG), the DNA is observed to undergo a terminal cytosine base exchange to yield an unusual guanine quadruplex intercalation site through which the bisacridine threads its octamethylene linker to fuse two DNA duplexes. The 4-carboxamide side-chains form anchoring hydrogen-bonding interactions with guanine O6 atoms on each side of the quadruplex. This higher-order DNA structure provides insight into an unexpected property of bisintercalating threading agents, and suggests the idea of targeting such compounds specifically at four-way DNA junctions.
+http://www.sciencedirect.com/science/article/pii/S0022283602009233
+00222836

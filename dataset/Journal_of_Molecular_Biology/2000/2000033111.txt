@@ -1,0 +1,6 @@
+NMR structure of activated CheY11Edited by P. E. Wright
+56812466300,37056904100,7401862955,55254718100,7102394912,7006506326,7103123247,7006602658
+response-regulator,signal transduction,beryllofluoride,two-component,NMR spectroscopy
+The CheY protein is the response regulator in bacterial chemotaxis. Phosphorylation of a conserved aspartyl residue induces structural changes that convert the protein from an inactive to an active state. The short half-life of the aspartyl-phosphate has precluded detailed structural analysis of the active protein. Persistent activation of Escherichia coli CheY was achieved by complexation with beryllofluoride (BeF3−) and the structure determined by NMR spectroscopy to a backbone r.m.s.d. of 0.58(±0.08) Å. Formation of a hydrogen bond between the Thr87 OH group and an active site acceptor, presumably Asp57·BeF3−, stabilizes a coupled rearrangement of highly conserved residues, Thr87 and Tyr106, along with displacement of β4 and H4, to yield the active state. The coupled rearrangement may be a more general mechanism for activation of receiver domains.
+http://www.sciencedirect.com/science/article/pii/S0022283600935952
+00222836

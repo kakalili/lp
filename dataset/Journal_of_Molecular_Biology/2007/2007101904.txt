@@ -1,0 +1,6 @@
+Active Suppressor tRNAs with a Double Helix between the D- and T-loops
+6507990908,21834160800,6506798543,7202016864
+L-shape,molecular modelling,selection in vivo,T-loop,tRNA
+One of the most conserved elements of the tRNA structure is the reverse-Hoogsteen base-pair T54–A58 in the T-loop, which plays a major role in the maintenance of the standard L-shape conformation. Here, we present the results of in vivo selection of 51 active suppressor tRNA clones, none of which contains base-pair T54–A58. In 49 clones, we found two regions in the D and T-loops that are complementary to each other. This finding suggests the existence of an inter-loop double helix consisting of three base-pairs, which could have the same role as base-pair T54–A58 in the fixation of the juxtaposition of the two helical domains within the L-shape. From this point of view, the appearance of the inter-loop double helix represents a compensatory effect for the absence of base-pair T54–A58. The results shed new light on the role of different elements of the tRNA structure in the formation of the standard L-shape conformation and on the possibility of synonymous replacements of one arrangement by another in functional RNA molecules.
+http://www.sciencedirect.com/science/article/pii/S0022283607010236
+00222836

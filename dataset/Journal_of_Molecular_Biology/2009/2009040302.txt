@@ -1,0 +1,6 @@
+Oligomeric Structure and Functional Characterization of the Urea Transporter from Actinobacillus pleuropneumoniae
+14010258500,13805578400,6507377130,20734956400,35265407200,7005465519
+urea transporter,oligomeric state,ApUT,channel,2D crystallization
+Urea transporters (UTs) facilitate urea permeation across cell membranes in prokaryotes and eukaryotes. Bacteria use urea as a means to survive in acidic environments and/or as a nitrogen source. The UT from Actinobacillus pleuropneumoniae, ApUT, the pathogen that causes porcine pleurisy and pneumonia, was expressed in Escherichia coli and purified. Analysis of the recombinant protein using cross-linking and blue-native gel electrophoresis established that ApUT is a dimer in detergent solution. Purified protein was reconstituted into proteoliposomes and urea efflux was measured by stopped-flow fluorometry to determine the urea transport kinetics of ApUT. The measured urea flux was saturable, could be inhibited by phloretin, and was not affected by pH. Two-dimensional crystals of the biologically active ApUT show that it is also dimeric in a lipid membrane and provide the first structural information on a member of the UT family.
+http://www.sciencedirect.com/science/article/pii/S0022283609001399
+00222836

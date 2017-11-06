@@ -1,0 +1,6 @@
+SuSPect: Enhanced Prediction of Single Amino Acid Variant (SAV) Phenotype Using Network Features
+55584291400,26032073400,35974547000,7101911184
+protein–protein interaction,nsSNP,missense mutation,SuSPect,SAV
+Whole-genome and exome sequencing studies reveal many genetic variants between individuals, some of which are linked to disease. Many of these variants lead to single amino acid variants (SAVs), and accurate prediction of their phenotypic impact is important. Incorporating sequence conservation and network-level features, we have developed a method, SuSPect (Disease-Susceptibility-based SAV Phenotype Prediction), for predicting how likely SAVs are to be associated with disease. SuSPect performs significantly better than other available batch methods on the VariBench benchmarking dataset, with a balanced accuracy of 82%. SuSPect is available at www.sbg.bio.ic.ac.uk/suspect. The Web site has been implemented in Perl and SQLite and is compatible with modern browsers. An SQLite database of possible missense variants in the human proteome is available to download at www.sbg.bio.ic.ac.uk/suspect/download.html.
+http://www.sciencedirect.com/science/article/pii/S0022283614002253
+00222836

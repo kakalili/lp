@@ -1,0 +1,6 @@
+Structural Basis for Profilin-Mediated Actin Nucleotide Exchange
+15052480500,7003288176
+protein–protein interaction,ATP,calcium,conformational change,domain motion
+Actin is a ubiquitous eukaryotic protein that is responsible for cellular scaffolding, motility, and division. The ability of actin to form a helical filament is the driving force behind these cellular activities. Formation of a filament depends on the successful exchange of actin's ADP for ATP. Mammalian profilin is a small actin binding protein that catalyzes the exchange of nucleotide and facilitates the addition of an actin monomer to a growing filament. Here, crystal structures of profilin–actin have been determined to show an actively exchanging ATP. Structural analysis shows how the binding of profilin to the barbed end of actin causes a rotation of the small domain relative to the large domain. This conformational change is propagated to the ATP site and causes a shift in nucleotide loops, which in turn causes a repositioning of Ca2+ to its canonical position as the cleft closes around ATP. Reversal of the solvent exposure of Trp356 is also involved in cleft closure. In addition, secondary calcium binding sites were identified.
+http://www.sciencedirect.com/science/article/pii/S0022283612001532
+00222836

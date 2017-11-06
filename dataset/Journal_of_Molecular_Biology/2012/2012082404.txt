@@ -1,0 +1,6 @@
+Structural Properties of EGCG-Induced, Nontoxic Alzheimer's Disease Aβ Oligomers
+24464351500,23034118000,36501358400,6507717815,7004017730,7801468972,7003857404
+Alzheimer's disease,β-amyloid peptide,magic angle spinning (MAS) solid-state NMR spectroscopy,drug development,neurotoxicity
+The green tea compound epigallocatechin-3-gallate (EGCG) inhibits Alzheimer's disease β-amyloid peptide (Aβ) neurotoxicity. Solution-state NMR allows probing initial EGCG–Aβ interactions. We show that EGCG-induced Aβ oligomers adopt a well-defined structure and are amenable for magic angle spinning solid-state NMR investigations. We find that EGCG interferes with the aromatic hydrophobic core of Aβ. The C-terminal part of the Aβ peptide (residues 22–39) adopts a β-sheet conformation, whereas the N-terminus (residues 1–20) is unstructured. The characteristic salt bridge involving residues D23 and K28 is present in the structure of these oligomeric Aβ aggregates as well. The structural analysis of small-molecule-induced amyloid aggregates will open new perspectives for Alzheimer's disease drug development.
+http://www.sciencedirect.com/science/article/pii/S0022283612000678
+00222836

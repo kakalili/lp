@@ -1,0 +1,6 @@
+Analysis of gain-of-function mutants of an ATP-dependent regulator of Tn7 transposition11Edited by J. Karn
+6603311249,7101768460
+transposon,ATP hydrolysis,control of transposase,transposase activation
+The bacterial transposon Tn7 is distinguished by its unusal discrimination among targets, being particularly attracted to certain target DNA and actively avoiding other DNA. Tn7 transposition is mediated by the interaction of two alternative transposon-encoded target selection proteins, TnsD and TnsE, with a common core transposition machinery composed of the transposase (TnsAB) and an ATP-dependent DNA-binding protein TnsC. No transposition is observed with wild-type TnsABC. Here, we analyze the properties of two gain-of-function TnsC mutants that allow transposition in the absence of TnsD or TnsE. We find that these TnsC mutants have altered interactions with ATP and DNA that can account for their gain-of-function phenotype. We also show that TnsC is an ATPase and that it directly interacts with the TnsAB transposase. This work provides strong support to the view that TnsC and its ATP state are central to the control of Tn7 transposition.
+http://www.sciencedirect.com/science/article/pii/S0022283600943171
+00222836

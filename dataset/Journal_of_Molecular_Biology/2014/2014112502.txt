@@ -1,0 +1,6 @@
+The Yin and Yang of Bacterial Resilience in the Human Gut Microbiota
+56019058400,35732293700,6601953294
+bacterial resilience,antibiotic resistance,probiotics,human gut microbiota,genetic engineering
+The human gut is home to trillions of microbes that form a symbiotic relationship with the human host. During health, the intestinal microbiota provides many benefits to the host and is generally resistant to colonization by new species; however, disruption of this complex community can lead to pathogen invasion, inflammation, and disease. Restoration and maintenance of a healthy gut microbiota composition requires effective therapies to reduce and prevent colonization of harmful bacteria (pathogens) while simultaneously promoting growth of beneficial bacteria (probiotics). Here we review the mechanisms by which the host modulates the gut community composition during health and disease, and we discuss prospects for antibiotic and probiotic therapy for restoration of a healthy intestinal community following disruption.
+http://www.sciencedirect.com/science/article/pii/S0022283614002794
+00222836

@@ -1,0 +1,6 @@
+Microsecond Hydrophobic Collapse in the Folding of Escherichia coli Dihydrofolate Reductase, an α/β-Type Protein
+7402957659,6603437827,16047747900,56235307600,7005099612,6602661721
+protein folding,folding intermediate,small-angle X-ray scattering,hydrophobic collapse,native structure
+Using small-angle X-ray scattering combined with a continuous-flow mixing device, we monitored the microsecond compaction dynamics in the folding of Escherichia coli dihydrofolate reductase, an α/β-type protein. A significant collapse of the radius of gyration from 30 Å to 23.2 Å occurs within 300 μs after the initiation of refolding by a urea dilution jump. The subsequent folding after the major chain collapse occurs on a considerably longer time-scale. The protein folding trajectories constructed by comparing the development of the compactness and the secondary structure suggest that the specific hydrophobic collapse model rather than the framework model better explains the experimental observations. The folding trajectory of this α/β-type protein is located between those of α-helical and β-sheet proteins, suggesting that native structure determines the folding landscape.
+http://www.sciencedirect.com/science/article/pii/S0022283607001635
+00222836

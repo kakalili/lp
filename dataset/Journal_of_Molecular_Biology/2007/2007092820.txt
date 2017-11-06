@@ -1,0 +1,6 @@
+Interaction of the Family-B DNA Polymerase from the Archaeon Pyrococcus furiosus with Deaminated Bases
+20733998800,36872103000,55757783394,7103176729
+DNA polymerase,uracil,hypoxanthine,archaea,DNA-repair
+The interaction of archaeal family B DNA polymerases with deaminated bases has been examined. As determined previously by our group, the polymerase binds tightly to uracil (the deamination product of cytosine), in single-stranded DNA, and stalls replication on encountering this base. DNA polymerisation was also inhibited by the presence of hypoxanthine, the deamination product of adenine. Quantitative binding assays showed that the polymerase bound DNA containing uracil 1.5–4.5-fold more strongly than hypoxanthine and site-directed mutagenesis suggested that the same pocket was used for interaction with both deaminated bases. In contrast the polymerase was insensitive to xanthine, the deamination product of guanine. Traces of uracil and hypoxanthine in DNA can lead to inhibition of the PCR by archaeal DNA polymerases, an important consideration for biotechnology applications. Dual recognition of uracil and hypoxanthine may be facilitated by binding the bases with the glycosidic bond in the anti and syn conformation, respectively.
+http://www.sciencedirect.com/science/article/pii/S0022283607009424
+00222836

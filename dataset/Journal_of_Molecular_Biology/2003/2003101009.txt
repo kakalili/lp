@@ -1,0 +1,6 @@
+Correlating Protein–DNA and Protein–Protein Interaction Networks
+6604071145,56632645100,55251970500
+protein–DNA binding,protein–protein interaction,regulatory network
+Here, we search protein–DNA binding data for prevalent pairs and higher-order tuples of co-occurring transcription factors (TF) in Saccharomyces cerevisiae. While the identification of such modules is dependent on uncertainties of genome-wide data sets, we find several biologically meaningful examples, which allow putative annotation of yet unclassified genes. For the frequently occurring transcriptional module Mcm1-Fkh2-Ndd1, we identified several new target genes involved in cell-cycle control and filament formation. Using large-scale protein interaction data, we demonstrate a significant correlation between co-occurrence of TF binding sites and the vicinity in the protein interaction network. In particular we find that directly interacting transcription factors and those which are members of a protein complex are more likely to occur together as putative DNA-binding modules.
+http://www.sciencedirect.com/science/article/pii/S0022283603010180
+00222836

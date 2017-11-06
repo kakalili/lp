@@ -1,0 +1,6 @@
+Transcription-Coupled DNA Double-Strand Break Repair: Active Genes Need Special Care
+24764996100,55484123700,6507579263
+DNA double-strand break repair,transcription,chromatin
+For decades, it has been speculated that specific loci on eukaryotic chromosomes are inherently susceptible to breakage. The advent of high-throughput genomic technologies has now paved the way to their identification. A wealth of data suggests that transcriptionally active loci are particularly fragile and that a specific DNA damage response is activated and dedicated to their repair. Here, we review current understanding of the crosstalk between transcription and double-strand break repair, from the reasons underlying the intrinsic fragility of genes to the mechanisms that restore the integrity of damaged transcription units.
+http://www.sciencedirect.com/science/article/pii/S0022283617301407
+00222836

@@ -1,0 +1,6 @@
+Kinetics of Intramolecular Contact Formation in a Denatured Protein
+7005268077,55892622800,7006876590,35233140900,7006553970
+triplet state quenching,unfolded state,collapse,cold shock protein
+Quenching of the triplet state of tryptophan by cysteine has provided a new tool for measuring the rate of forming a specific intramolecular contact in disordered polypeptides. Here, we use this technique to investigate contact formation in the denatured state of CspTm, a small cold-shock protein from Thermotoga maritima, engineered to contain a single tryptophan residue (W29) and a single cysteine residue at the C terminus (C67). At all concentrations of denaturant, the decay rate of the W29 triplet of the unfolded protein is more than tenfold faster than the rate observed for the native protein (∼104s−1). Experiments on the unfolded protein without the added C-terminal cysteine residue show that this faster rate results entirely from contact quenching by C67. The quenching rate in the unfolded state by C67 increases at concentrations of denaturant that favor folding, indicating a compaction of the unfolded protein as observed previously in single-molecule Förster resonance energy transfer (FRET) experiments.
+http://www.sciencedirect.com/science/article/pii/S002228360300891X
+00222836

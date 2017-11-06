@@ -1,0 +1,6 @@
+The N-terminal Domain of p53 is Natively Unfolded
+14526770500,7202050757,6508220936,56375360700,7202209456,7005734918
+p53,IUP,Mdm2,CD spectroscopy,NMR spectroscopy
+p53 is one of the key molecules regulating cell proliferation, apoptosis and tumor suppression by integrating a wide variety of signals. The structural basis for this function is still poorly understood. p53 appears to exercise its function as a modular protein in which different functions are associated with distinct domains. Presumably, p53 contains both folded and partially structured parts. Here, we have investigated the structure of the isolated N-terminal part of p53 (amino acid residues 1–93) using biophysical techniques. We demonstrate that this domain is devoid of tertiary structure and largely missing secondary structure elements. It exhibits a large hydrodynamic radius, typical for unfolded proteins. These findings suggest strongly that the entire N-terminal part of p53 is natively unfolded under physiological conditions. Furthermore, the binding affinity to its functional antagonist Mdm2 was investigated. A comparison of the binding of human Mdm2 to the N-terminal part of p53 and full-length p53 suggests that unfolded and folded parts of p53 function synergistically.
+http://www.sciencedirect.com/science/article/pii/S0022283603010246
+00222836

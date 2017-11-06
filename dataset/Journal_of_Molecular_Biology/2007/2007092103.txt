@@ -1,0 +1,6 @@
+Folding Time Predictions from All-atom Replica Exchange Simulations
+36543302300,35602445700,35233066800,35399029700
+folding kinetics,diffusive model,replica exchange simulation,hairpin
+We present an approach to predicting the folding time distribution from all-atom replica exchange simulations. This is accomplished by approximating the multidimensional folding process as stochastic reaction-coordinate dynamics for which effective drift velocities and diffusion coefficients are determined from the short-time replica exchange simulations. Our approach is applied to the folding of the second β-hairpin of the B domain of protein G. The folding time prediction agrees quite well with experimental measurements. Therefore, we have in hand a fast numerical tool for calculating the folding kinetic properties from all-atom “first-principles” models.
+http://www.sciencedirect.com/science/article/pii/S0022283607009242
+00222836

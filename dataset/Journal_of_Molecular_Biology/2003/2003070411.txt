@@ -1,0 +1,6 @@
+General Method for Sequence-independent Site-directed Chimeragenesis
+7202173602,7202489032
+DNA shuffling,non-homologous recombination,directed evolution,SCHEMA
+We have developed a simple and general method that allows for the facile recombination of distantly related (or unrelated) proteins at multiple discrete sites. To evaluate the sequence-independent site-directed chimeragenesis (SISDC) method, we have recombined β-lactamases TEM-1 and PSE-4 at seven sites, examined the quality of the chimeric genes created, and screened the library of 28 (256) chimeras for functional enzymes. Probe hybridization and sequencing analyses revealed that SISDC generated a random library with little sequence bias and in which all targeted fragments were recombined in the desired order. Sequencing the genes from clones having functional lactamases identified 14 unique chimeras. These chimeras are characterized by a lower level of disruption, as calculated by the SCHEMA algorithm, than the library as a whole. These results illustrate the use of SISDC in creating designed chimeric protein libraries and further illustrate the ability of SCHEMA to identify chimeras whose folded structures are likely not to be disrupted by recombination.
+http://www.sciencedirect.com/science/article/pii/S0022283603005904
+00222836

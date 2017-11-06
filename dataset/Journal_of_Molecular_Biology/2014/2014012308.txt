@@ -1,0 +1,6 @@
+An Iron–Sulfur Cluster in the Polymerase Domain of Yeast DNA Polymerase ε
+56212960600,9742485100,6507314976,7004235422,57126573500,7102772462,7202838645,56247514700
+DNA replication,DNA polymerase,DNA repair,Fe-S cluster,oxidative stress
+DNA polymerase ε (Polε) is a multi-subunit polymerase that contributes to genomic stability via its roles in leading strand replication and the repair of damaged DNA. Polε from Saccharomyces cerevisiae is composed of four subunits—Pol2, Dpb2, Dpb3, and Dpb4. Here, we report the presence of a [Fe-S] cluster directly within the active polymerase domain of Pol2 (residues 1–1187). We show that binding of the [Fe-S] cluster is mediated by cysteines in an insertion (Pol2ins) that is conserved in Pol2 orthologs but is absent in the polymerase domains of Polα, Polδ, and Polζ. We also show that the [Fe-S] cluster is required for Pol2 polymerase activity but not for its exonuclease activity. Collectively, our work suggests that Polε is perhaps more sensitive than other DNA polymerases to changes in oxidative stress in eukaryotic cells.
+http://www.sciencedirect.com/science/article/pii/S0022283613006591
+00222836

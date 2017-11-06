@@ -1,0 +1,6 @@
+Truncated Cockayne Syndrome B Protein Represses Elongation by RNA Polymerase I
+7402203677,35508538300,6603339963
+Cockayne syndrome,CSB,RNA polymerase I,transcription initiation,elongation
+Mutations in the Cockayne syndrome B (CSB) gene result in the human form of Cockayne syndrome. CSB protein has been shown to be a component of RNA polymerase I (Pol I) transcription. In this study, we have analyzed at which step of the transcription cycle CSB influences in vitro transcription by RNA Pol I. We demonstrate that CSB stimulates elongation of RNA Pol I in an ATP-independent manner. Moreover, CSB can be cross-linked to the rDNA promoter and gene-internal sequences. Partial deletion mutants of CSB strongly repress Pol I in vitro transcription, indicating an inhibitory function of truncated CSB. In addition, evidence that mutant CSB inhibits the elongation step of Pol I transcription is presented. Lack of CSB expression does not impair Pol I transcription, showing that CSB is not essential for ribosomal transcription. Our results implicate that repressed Pol I transcription could be one factor contributing to the Cockayne syndrome phenotype.
+http://www.sciencedirect.com/science/article/pii/S0022283608008607
+00222836

@@ -1,0 +1,6 @@
+KATapulting toward Pluripotency and Cancer
+9276231100,35413866700,7402433153
+acetylation,histone,embryonic stem cells,reprogramming,plasticity
+Development is generally regarded as a unidirectional process that results in the acquisition of specialized cell fates. During this process, cellular identity is precisely defined by signaling cues that tailor the chromatin landscape for cell-specific gene expression programs. Once established, these pathways and cell states are typically resistant to disruption. However, loss of cell identity occurs during tumor initiation and upon injury response. Moreover, terminally differentiated cells can be experimentally provoked to become pluripotent. Chromatin reorganization is key to the establishment of new gene expression signatures and thus new cell identity. Here, we explore an emerging concept that lysine acetyltransferase (KAT) enzymes drive cellular plasticity in the context of somatic cell reprogramming and tumorigenesis.
+http://www.sciencedirect.com/science/article/pii/S0022283616304156
+00222836

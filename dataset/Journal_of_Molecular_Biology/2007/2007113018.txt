@@ -1,0 +1,6 @@
+Molecular Basis of the Tfs1/Ira2 Interaction: A Combined Protein Engineering and Molecular Modelling Study
+24740810200,6603263308,7003855344,26666824900,22949868000,7102510282,7003598944,7004364533
+protein engineering,3D structure modelling,PEBP/RKIP homologs,GTPase activating protein,Saccharomyces cerevisiae
+Tfs1p and Ylr179cp are yeast proteins belonging to the PEBP family. Tfs1p, but not Ylr179cp, has been shown to interact with and inhibit Ira2p, a GTPase-activating protein of Ras. Tfs1p has been shown to be a specific inhibitor of the CPY protease and the 3D structure of the complex has been resolved. To shed light on the molecular determinants of Tfs1p involved in the Tfs1/Ira2 interaction, the 3D structure of Ylr179cp has been modelled and compared to that of Tfs1p. Tfs1p point mutants and Tfs1 hybrid proteins combining regions of Tfs1p and Ylr179cp were also designed and their function was tested. Results, interpreted from a structural point of view, show that the accessibility of the surface pocket of Tfs1p, its N-terminal region and the specific electrostatic properties of a large surface region containing these two elements, play a crucial role in this interaction.
+http://www.sciencedirect.com/science/article/pii/S0022283607012466
+00222836

@@ -1,0 +1,6 @@
+Inherent Protein Structural Flexibility at the RNA-binding Interface of L30e
+7202788610,7201752888,7404079282,7102760401,7403199865
+protein structural flexibility,ribosomal protein L30,autoregulation,MBP–L30 fusion protein,induced fit
+The Saccharomyces cerevisiae ribosomal protein L30 autoregulates its own expression by binding to a purine-rich internal loop in its pre-mRNA and mRNA. NMR studies of L30 and its RNA complex showed that both the internal loop of the RNA as well as a region of the protein become substantially more ordered upon binding. A crystal structure of a maltose binding protein (MBP)–L30 fusion protein with two copies in the asymmetric unit has been determined. The flexible RNA-binding region in the L30 copies has two distinct conformations, one resembles the RNA bound form solved by NMR and the other is unique. Structure prediction algorithms also had difficulty accurately predicting this region, which is consistent with conformational flexibility seen in the NMR and X-ray crystallography studies. Inherent conformational flexibility may be a hallmark of regions involved in intermolecular interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283602014766
+00222836

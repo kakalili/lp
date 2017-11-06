@@ -1,0 +1,6 @@
+Cancer-Associated Mutations in BRC Domains of BRCA2 Affect Homologous Recombination Induced by Rad51
+40262595900,6506327748,6701742755
+BRCA2,BRC domains,homologous recombination,mutations,Rad51
+The tumor suppressor BRCA2 protein plays a major role in the regulation of Rad51-catalyzed homologous recombination. BRCA2 interacts with monomeric Rad51 primarily via conserved BRC domains and coordinates the formation of Rad51 filaments at double-stranded DNA (dsDNA) breaks. A number of cancer-associated mutations in BRC4 and BRC2 domains have been reported. To elucidate their effects on homologous recombination, we studied Rad51 filament formation on single-stranded DNA and dsDNA substrates and Rad51-catalyzed strand exchange, in the presence of wild-type and mutated peptides of either BRC4 or BRC2. While the wild-type BRC2 and BRC4 peptides inhibited filament formation and, thus, strand exchange, the mutated forms decreased significantly these inhibitory effects. These results are consistent with a three-dimensional model for the interface between individual BRC repeats and Rad51. We suggest that mutations at sites crucial for the association between Rad51 and BRC domains impair the ability of BRCA2 to recruit Rad51 to dsDNA breaks, hampering recombinational repair.
+http://www.sciencedirect.com/science/article/pii/S0022283609011188
+00222836

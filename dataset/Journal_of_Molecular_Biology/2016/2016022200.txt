@@ -1,0 +1,6 @@
+UbSRD: The Ubiquitin Structural Relational Database
+55471535700,55880573500,55041367800,8590515100,6701347944
+ubiquitin,SUMO,Rosetta,structural database,protein–protein interaction
+The structurally defined ubiquitin-like homology fold (UBL) can engage in several unique protein–protein interactions and many of these complexes have been characterized with high-resolution techniques. Using Rosetta's structural classification tools, we have created the Ubiquitin Structural Relational Database (UbSRD), an SQL database of features for all 509 UBL-containing structures in the PDB, allowing users to browse these structures by protein–protein interaction and providing a platform for quantitative analysis of structural features. We used UbSRD to define the recognition features of ubiquitin (UBQ) and SUMO observed in the PDB and the orientation of the UBQ tail while interacting with certain types of proteins. While some of the interaction surfaces on UBQ and SUMO overlap, each molecule has distinct features that aid in molecular discrimination. Additionally, we find that the UBQ tail is malleable and can adopt a variety of conformations upon binding. UbSRD is accessible as an online resource at rosettadesign.med.unc.edu/ubsrd.
+http://www.sciencedirect.com/science/article/pii/S0022283615005227
+00222836

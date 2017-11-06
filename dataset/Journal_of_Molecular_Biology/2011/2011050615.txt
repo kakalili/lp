@@ -1,0 +1,6 @@
+Chlorite Dismutases, DyPs, and EfeB: 3 Microbial Heme Enzyme Families Comprise the CDE Structural Superfamily
+35310174300,37017562500,24175210500,35557202000,7402280678
+heme,protein,bacteria,peroxidase,oxygen
+Heme proteins are extremely diverse, widespread, and versatile biocatalysts, sensors, and molecular transporters. The chlorite dismutase family of hemoproteins received its name due to the ability of the first-isolated members to detoxify anthropogenic ClO2−, a function believed to have evolved only in the last few decades. Family members have since been found in 15 bacterial and archaeal genera, suggesting ancient roots. A structure- and sequence-based examination of the family is presented, in which key sequence and structural motifs are identified, and possible functions for family proteins are proposed. Newly identified structural homologies moreover demonstrate clear connections to two other large, ancient, and functionally mysterious protein families. We propose calling them collectively the CDE superfamily of heme proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283611002178
+00222836

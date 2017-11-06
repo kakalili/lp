@@ -1,0 +1,6 @@
+Functional cooperation between topoisomerase I and single strand DNA-binding protein11Edited by J. Karn
+6602519634,6602550610,6602668086,7004408271
+Gyrase,topoisomerase 1,single strand binding protein,functional cooperation
+Protein-protein interactions play important role in cell biochemistry by favorably or adversely influencing major molecular events. In most documented cases, the interaction is direct between the partner molecules. Influence of activity in the absence of direct physical interaction between DNA transaction proteins is another important means of modulation. We show here that single strand binding protein stimulates DNA topoisomerase I activity without direct protein-protein interactions. The stimulation is specific to topoisomerase I, as DNA gyrase activity is unaffected by SSB. We propose that such cases of functional collaboration between DNA transaction proteins play important roles in vivo.
+http://www.sciencedirect.com/science/article/pii/S0022283600943845
+00222836

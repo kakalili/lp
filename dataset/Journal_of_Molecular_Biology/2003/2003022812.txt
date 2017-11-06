@@ -1,0 +1,6 @@
+An Orientation-dependent Hydrogen Bonding Potential Improves Prediction of Specificity and Structure for Proteins and Protein–Protein Complexes
+6701529948,7202104824,55463548900
+hydrogen bond,electrostatics,protein docking,protein design,free energy function
+Hydrogen bonding is a key contributor to the specificity of intramolecular and intermolecular interactions in biological systems. Here, we develop an orientation-dependent hydrogen bonding potential based on the geometric characteristics of hydrogen bonds in high-resolution protein crystal structures, and evaluate it using four tests related to the prediction and design of protein structures and protein–protein complexes. The new potential is superior to the widely used Coulomb model of hydrogen bonding in prediction of the sequences of proteins and protein–protein interfaces from their structures, and improves discrimination of correctly docked protein–protein complexes from large sets of alternative structures.
+http://www.sciencedirect.com/science/article/pii/S0022283603000214
+00222836

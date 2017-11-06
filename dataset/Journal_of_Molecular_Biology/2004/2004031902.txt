@@ -1,0 +1,6 @@
+Bending Stiffness of a Crystalline Actin Bundle
+7402724017,55637861300,7102823670,35513981300
+actin bundle,bending stiffness,single pole magnetic trap,tapering rod
+The acrosomal process of the sperm of the horseshoe crab (Limulus polyphemus) is a unique crystalline actin bundle, consisting of multiple actin filaments cross-linked by the actin-bundling protein, scruin. For successful fertilization, the acrosomal bundle must penetrate through a 30 μm thick jelly coat surrounding the egg and thus it must be sufficiently stiff. Here, we present two measurements of the bending stiffness of a single crystalline bundle of actin. Results from these measurements indicate that the actin:scruin composite bundle has an average elastic modulus of 2 GPa, which is similar to that of a single actin filament, and a bending stiffness that is more than two orders of magnitude larger than that of a bundle of uncross-linked actin filaments due to stiffening by the scruin matrix.
+http://www.sciencedirect.com/science/article/pii/S0022283604000890
+00222836

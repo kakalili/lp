@@ -1,0 +1,6 @@
+The crystal structures of psoralen cross-linked DNAs: drug-dependent formation of Holliday junctions11Edited by I. Tinoco
+6507895493,6506508939,7006310960,7102850269,26121270900
+DNA-binding drug,DNA structure,Holliday junction,psoralen,recombination
+The single-crystal structures are presented for two DNA sequences with the thymine bases covalently cross-linked across the complementary strands by 4′-hydroxymethyl-4,5′,8-trimethylpsoralen (HMT). The HMT-adduct of d(CCGCTAGCGG) forms a psoralen-induced Holliday junction, showing for the first time the effect of this important class of chemotheraputics on the structure of the recombination intermediate. In contrast, HMT-d(CCGGTACCGG) forms a sequence-dependent junction. In both structures, the DNA duplex is highly distorted at the thymine base linked to the six-member pyrone ring of the drug. The psoralen cross-link defines the intramolecular interactions of the drug-induced junction, while the sequence-dependent structure is nearly identical to the native Holliday junction of d(CCGGTACCGG) alone. The two structures contrast the effects of drug- and sequence-dependent interactions on the structure of a Holliday junction, suggesting a role for psoralen in the mechanism to initiate repair of psoralen-lesions in mammalian DNA.
+http://www.sciencedirect.com/science/article/pii/S002228360194567X
+00222836

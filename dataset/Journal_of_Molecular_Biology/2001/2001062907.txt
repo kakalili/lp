@@ -1,0 +1,6 @@
+The time scale of the catalytic loop motion in triosephosphate isomerase11Edited by P. E. Wright
+6507786303,7103290898
+triosephosphate isomerase,protein dynamics,flexible loop,enzymatic catalysis,solid state NMR
+Loop 6 in the active site of Triosephosphate Isomerase (Saccharomyces cerevisiae) moves in order to reposition key residues for catalysis. The timescale of the opening and closing of this loop has been measured, at temperatures from −15 to +45°C, using broadline solid state deuterium NMR of a single deuterated tryptophan located in the loop’s N terminal hinge. The rate of the loop opening and closing was best detected using samples containing subsaturating amounts of a substrate analogue dl-glycerol 3-phosphate so that the populations of the open and closed forms were roughly equal, and using temperatures optimal for enzymatic function (30–45°C). The T2 values were much shorter than for unligated samples, consistent with full opening and closing of the loop at a rate of order 104 s−1, and in good agreement with the rates estimated based on solution state 19F NMR. The loop motion appears to be partially rate limiting for chemistry in both directions.
+http://www.sciencedirect.com/science/article/pii/S0022283601946728
+00222836

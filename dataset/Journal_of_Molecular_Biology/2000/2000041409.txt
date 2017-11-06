@@ -1,0 +1,6 @@
+A thermodynamic coupling mechanism can explain the GroEL-mediated acceleration of the folding of barstar11Edited by C. R. Matthews
+6603224784,35563592100
+GroEL,barstar,acceleration,refolding kinetics,thermodynamic coupling
+Despite extensive structural and kinetic studies, the mechanism by which the Escherichia coli chaperonin GroEL assists protein folding has remained somewhat elusive. It appears that GroEL might play an active role in facilitating folding, in addition to its role in restricting protein aggregation by secluding folding intermediates. We have investigated the kinetic mechanism of GroEL-mediated refolding of the small protein barstar. GroEL accelerates the observed fast (millisecond) refolding rate, but it does not affect the slow refolding kinetics. A thermodynamic coupling mechanism, in which the concentration of exchange-competent states is increased by the law of mass action, can explain the enhancement of the fast refolding rates. It is not necessary to invoke a catalytic role for GroEL, whereby either the intrinsic refolding rate of a productive folding transition or the unfolding rate of a kinetically trapped off-pathway intermediate is increased by the chaperonin.
+http://www.sciencedirect.com/science/article/pii/S0022283600936489
+00222836

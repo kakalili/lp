@@ -1,0 +1,6 @@
+Regulation of E2s: A Role for Additional Ubiquitin Binding Sites?
+26026057200,57001816600,7201846634
+E2,ubiquitin conjugating,processivity,protein–protein interactions,regulation
+Attachment of ubiquitin to proteins relies on a sophisticated enzyme cascade that is tightly regulated. The machinery of ubiquitylation responds to a range of signals, which remarkably includes ubiquitin itself. Thus, ubiquitin is not only the central player in the ubiquitylation cascade but also a key regulator. The ubiquitin E3 ligases provide specificity to the cascade and often bind the substrate, while the ubiquitin-conjugating enzymes (E2s) have a pivotal role in determining chain linkage and length. Interaction of ubiquitin with the E2 is important for activity, but the weak nature of these contacts has made them hard to identify and study. By reviewing available crystal structures, we identify putative ubiquitin binding sites on E2s, which may enhance E2 processivity and the assembly of chains of a defined linkage. The implications of these new sites are discussed in the context of known E2–ubiquitin interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283617303078
+00222836

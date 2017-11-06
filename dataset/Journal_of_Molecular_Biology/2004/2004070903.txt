@@ -1,0 +1,6 @@
+Purification and Characterisation of a Soluble N-terminal Fragment of the Breast Cancer Susceptibility Protein BRCA1
+6603626793,15729587000,7201485523
+breast cancer,BRCA1,DNA binding,four-way junction
+The BRCA1 gene encodes a large multidomain protein of 1863 residues, mutations in which lead to breast cancer. Studies to elucidate the mechanisms by which BRCA1 prevents tumour formation have been restricted by the size of the protein. Unable to purify large amounts of the full-length protein, we have identified a fragment of BRCA1, amino acid residues 230–534, that when cloned into the expression vector pET 22b and expressed in Escherichia coli is found predominantly in the soluble portion of the cell lysate. The resulting protein was purified to homogeneity and studies reveal that BRCA1 230–534 binds specifically to four-way junction DNA when compared to duplex and single-stranded DNA.
+http://www.sciencedirect.com/science/article/pii/S0022283604005455
+00222836

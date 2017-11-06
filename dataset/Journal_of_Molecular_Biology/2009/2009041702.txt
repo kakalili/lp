@@ -1,0 +1,6 @@
+Carbohydrate and Domain Architecture of an Immature Antibody Glycoform Exhibiting Enhanced Effector Functions
+6603829222,24340921000,14830014400,7003994015,7801309321,7202064593,56377639700,55448333000
+antibody,glycosylation,oligomannose,antibody engineering,kifunensine
+Antibodies contain a conserved glycosylation site that has emerged as a target for the modulation of antibody effector functions. The crystal structure of a biosynthetic intermediate of human IgG1, bearing immature oligomannose-type glycans and reported to display increased antibody-dependent cellular cytotoxicity, demonstrates that glycan engineering can bias the Fc to an open conformation primed for receptor binding.
+http://www.sciencedirect.com/science/article/pii/S0022283609002022
+00222836

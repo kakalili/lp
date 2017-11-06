@@ -1,0 +1,6 @@
+Molecular Basis of a Million-Fold Affinity Maturation Process in a Protein–Protein Interaction
+12795226100,35174925100,8643064700,55467215700,36819968500,8882014200,7102672712,7103289472,7003496100
+protein–protein interactions,protein engineering,yeast display,X-ray crystallography,computational biology
+Protein engineering is becoming increasingly important for pharmaceutical applications where controlling the specificity and affinity of engineered proteins is required to create targeted protein therapeutics. Affinity increases of several thousand-fold are now routine for a variety of protein engineering approaches, and the structural and energetic bases of affinity maturation have been investigated in a number of such cases. Previously, a 3-million-fold affinity maturation process was achieved in a protein–protein interaction composed of a variant T-cell receptor fragment and a bacterial superantigen. Here, we present the molecular basis of this affinity increase. Using X-ray crystallography, shotgun reversion/replacement scanning mutagenesis, and computational analysis, we describe, in molecular detail, a process by which extrainterfacial regions of a protein complex can be rationally manipulated to significantly improve protein engineering outcomes.
+http://www.sciencedirect.com/science/article/pii/S0022283611006450
+00222836

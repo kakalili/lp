@@ -1,0 +1,6 @@
+Essential Role of Proline Isomerization in Stefin B Tetramer Formation
+12773501500,6506215180,7006124077,56894633200,8921601000,6603012219,6701315496,7004600415,7003562086,56264166100
+stefin,cystatin,crystal structure,amyloid,domain-swapping
+Here we present the tetrameric structure of stefin B, which is the result of a process by which two domain-swapped dimers of stefin B are transformed into tetramers. The transformation involves a previously unidentified process of extensive intermolecular contacts, termed hand shaking, which occurs concurrently with trans to cis isomerization of proline 74. This proline residue is widely conserved throughout the cystatin superfamily, a member of which, human cystatin C, is the key protein in cerebral amyloid angiopathy. These results are consistent with the hypothesis that isomerization of proline residues can play a decisive role in amyloidogenesis.
+http://www.sciencedirect.com/science/article/pii/S0022283606017013
+00222836

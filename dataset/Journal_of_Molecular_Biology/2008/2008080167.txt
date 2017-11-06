@@ -1,0 +1,6 @@
+A New Protein Architecture for Processing Alkylation Damaged DNA: The Crystal Structure of DNA Glycosylase AlkD
+26031643900,16245483700,24399547900,6507895493
+DNA repair,3-methyladenine,alkylpurine,DNA glycosylase,HEAT repeat
+DNA glycosylases safeguard the genome by locating and excising chemically modified bases from DNA. AlkD is a recently discovered bacterial DNA glycosylase that removes positively charged methylpurines from DNA, and was predicted to adopt a protein fold distinct from from those of other DNA repair proteins. The crystal structure of Bacillus cereus AlkD presented here shows that the protein is composed exclusively of helical HEAT-like repeats, which form a solenoid perfectly shaped to accommodate a DNA duplex on the concave surface. Structural analysis of the variant HEAT repeats in AlkD provides a rationale for how this protein scaffolding motif has been modified to bind DNA. We report 7mG excision and DNA binding activities of AlkD mutants, along with a comparison of alkylpurine DNA glycosylase structures. Together, these data provide important insight into the requirements for alkylation repair within DNA and suggest that AlkD utilizes a novel strategy to manipulate DNA in its search for alkylpurine bases.
+http://www.sciencedirect.com/science/article/pii/S0022283608006712
+00222836

@@ -1,0 +1,6 @@
+The Three-Dimensional Structure of [NiFeSe] Hydrogenase from Desulfovibrio vulgaris Hildenborough: A Hydrogenase without a Bridging Ligand in the Active Site in Its Oxidised, “as-Isolated” State
+35085375600,7102493616,55665876400,7004407556,6603792037
+hydrogenase,O2 tolerance,biohydrogen production,structure
+Hydrogen is a good energy vector, and its production from renewable sources is a requirement for its widespread use. [NiFeSe] hydrogenases (Hases) are attractive candidates for the biological production of hydrogen because they are capable of high production rates even in the presence of moderate amounts of O2, lessening the requirements for anaerobic conditions. The three-dimensional structure of the [NiFeSe] Hase from Desulfovibrio vulgaris Hildenborough has been determined in its oxidised “as-isolated” form at 2.04-Å resolution. Remarkably, this is the first structure of an oxidised Hase of the [NiFe] family that does not contain an oxide bridging ligand at the active site. Instead, an extra sulfur atom is observed binding Ni and Se, leading to a SeCys conformation that shields the NiFe site from contact with oxygen. This structure provides several insights that may explain the fast activation and O2 tolerance of these enzymes.
+http://www.sciencedirect.com/science/article/pii/S0022283609015186
+00222836

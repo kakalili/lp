@@ -1,0 +1,6 @@
+Structure of the AML1-ETO NHR3–PKA(RIIα) Complex and Its Contribution to AML1-ETO Activity
+6506551014,15925777000,36447888700,7409638193,10439443800,26638031700,7406348002,6603566834,7005785637,7003961943
+AML1-ETO,leukemia,AKAP,PKA(RIIα),NHR3
+AML1-ETO is the chimeric protein product of t(8;21) in acute myeloid leukemia. The ETO portion of the fusion protein includes the nervy homology region (NHR) 3 domain, which shares homology with A-kinase anchoring proteins and interacts with the regulatory subunit of type II cAMP-dependent protein kinase A (PKA(RIIα)). We determined the solution structure of a complex between the AML1-ETO NHR3 domain and PKA(RIIα). Based on this structure, a key residue in AML1-ETO for PKA(RIIα) association was mutated. This mutation did not disrupt AML1-ETO's ability to enhance the clonogenic capacity of primary mouse bone marrow cells or its ability to repress proliferation or granulocyte differentiation. Introduction of the mutation into AML1-ETO had minimal impact on in vivo leukemogenesis. Therefore, the NHR3–PKA(RIIα) protein interaction does not appear to significantly contribute to AML1-ETO's ability to induce leukemia.
+http://www.sciencedirect.com/science/article/pii/S0022283610008557
+00222836

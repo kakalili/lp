@@ -1,0 +1,6 @@
+Protein Stability in Nanocages: A Novel Approach for Influencing Protein Stability by Molecular Confinement
+36483918800,6701459378,8249598000,7101941822,7005733416
+viscosity,confinement,nanocages,chaperones,fluorescence
+Confinement of a protein in a small inert space and microviscosity are known to increase its thermodynamic stability in a way similar to the mechanisms that stabilize protein fold in the cell. Here, to examine the influence of confinement on protein stability we choose four test cases of single domain proteins characterized by a wide range of melting temperatures, from ≈73 °C of titin I27 to ≈36 °C of yeast frataxin. All proteins are stabilized when confined in the gel, the most dramatic stabilization being that of yeast frataxin, whose melting temperature increased by almost 5 °C in the gel. In addition to being simple to use, this approach allows us to change the viscosity of the solvent without changing its composition or altering the structure of the proteins. The dimensions of the pores of the gels fall in the nanometer range, hence they are similar to those of the chaperone cavity. This method could therefore be used as a novel and powerful approach for protein folding studies.
+http://www.sciencedirect.com/science/article/pii/S002228360301475X
+00222836

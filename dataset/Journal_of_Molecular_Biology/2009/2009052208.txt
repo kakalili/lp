@@ -1,0 +1,6 @@
+Structural Snapshots for the Conformation-dependent Catalysis by Human Medium-chain Acyl-coenzyme A Synthetase ACSM2A
+26649509700,10242045600,7004734200,7006473645,7102549319
+fatty acid,coenzyme A,adenylation,thioesterification,synthetase
+Acyl-CoA synthetases belong to the superfamily of adenylate-forming enzymes, and catalyze the two-step activation of fatty acids or carboxylate-containing xenobiotics. The carboxylate substrate first reacts with ATP to form an acyl-adenylate intermediate, which then reacts with CoA to produce an acyl-CoA ester. Here, we report the first crystal structure of a medium-chain acyl-CoA synthetase ACSM2A, in a series of substrate/product/cofactor complexes central to the catalytic mechanism. We observed a substantial rearrangement between the N- and C-terminal domains, driven purely by the identity of the bound ligand in the active site. Our structures allowed us to identify the presence or absence of the ATP pyrophosphates as the conformational switch, and elucidated new mechanistic details, including the role of invariant Lys557 and a divalent magnesium ion in coordinating the ATP pyrophosphates, as well as the involvement of a Gly-rich P-loop and the conserved Arg472-Glu365 salt bridge in the domain rearrangement.
+http://www.sciencedirect.com/science/article/pii/S0022283609003891
+00222836

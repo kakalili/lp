@@ -1,0 +1,6 @@
+A cruciform structural transition provides a molecular switch for chromosome structure and dynamics11Edited by I. Tinoco
+7003805723,7101896272,55400096500,7003374275,7101839191,7005653761
+cruciform conformation,Holliday junctions,DNA supercoiling,site-specific recombination,atomic force microscopy
+The interaction between specific sites along a DNA molecule is often crucial for the regulation of genetic processes. However, mechanisms regulating the interaction of specific sites are unknown. We have used atomic force microscopy to demonstrate that the structural transition between cruciform conformations can act as a molecular switch to facilitate or prevent communication between distant regions in DNA. Cruciform structures exist in vivo and they are critically involved in the initiation of replication and the regulation of gene expression in different organisms. Therefore, structural transitions of the cruciform may play a key role in these processes.
+http://www.sciencedirect.com/science/article/pii/S0022283600935423
+00222836

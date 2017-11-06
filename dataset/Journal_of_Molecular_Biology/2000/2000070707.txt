@@ -1,0 +1,6 @@
+A TOPRIM domain in the crystal structure of the catalytic core of Escherichia coli primase confirms a structural link to DNA topoisomerases11Edited by P. E. Wright
+6701855212,7004001959,7402328524,7006724588
+DNA replication,RNA-polymerase,primase,TOPRIM,topoisomerase
+Primases synthesize short RNA strands on single-stranded DNA templates, thereby generating the hybrid duplexes required for the initiation of synthesis by DNA polymerases. We present the crystal structure of the catalytic unit of a primase enzyme, that of a ∼320 residue fragment of Escherichia coli primase, determined at 2.9 Å resolution. Central to the catalytic unit is a TOPRIM domain that is strikingly similar in its structure to that of corresponding domains in DNA topoisomerases, but is unrelated to the catalytic centers of other DNA or RNA polymerases. The catalytic domain of primase is crescent-shaped, and the concave face of the crescent is predicted to accommodate about 10 base-pairs of RNA-DNA duplex in a loose interaction, thereby limiting processivity.
+http://www.sciencedirect.com/science/article/pii/S0022283600938440
+00222836

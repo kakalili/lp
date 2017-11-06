@@ -1,0 +1,6 @@
+X-ray Crystal Structure of a TRPM Assembly Domain Reveals an Antiparallel Four-stranded Coiled-coil
+7402561679,7003380876
+TRP channel,X-ray crystallography,coiled-coil,assembly domain
+Transient receptor potential (TRP) channels comprise a large family of tetrameric cation-selective ion channels that respond to diverse forms of sensory input. Earlier studies showed that members of the TRPM subclass possess a self-assembling tetrameric C-terminal cytoplasmic coiled-coil domain that underlies channel assembly and trafficking. Here, we present the high-resolution crystal structure of the coiled-coil domain of the channel enzyme TRPM7. The crystal structure, together with biochemical experiments, reveals an unexpected four-stranded antiparallel coiled-coil architecture that bears unique features relative to other antiparallel coiled-coils. Structural analysis indicates that a limited set of interactions encode assembly specificity determinants and uncovers a previously unnoticed segregation of TRPM assembly domains into two families that correspond with the phylogenetic divisions seen for the complete subunits. Together, the data provide a framework for understanding the mechanism of TRPM channel assembly and highlight the diversity of forms found in the coiled-coil fold.
+http://www.sciencedirect.com/science/article/pii/S002228360801067X
+00222836

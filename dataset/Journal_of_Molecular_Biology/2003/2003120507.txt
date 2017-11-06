@@ -1,0 +1,6 @@
+Inter-helical Hydrogen Bond Formation During Membrane Protein Integration into the ER Membrane
+7003337771,7102118731
+membrane protein,protein structure,hydrogen bond,transmembrane helix,helical hairpin
+Recent work has shown that efficient di- or trimerization of hydrophobic transmembrane helices in detergent micelles or lipid bilayers can be driven by inter-helix hydrogen bonding involving polar residues such as Asn or Asp. Using in vitro translation in the presence of rough microsomes of a model integral membrane protein, we now show that the formation of so-called helical hairpins, two tightly spaced transmembrane helices connected by a short loop, can likewise be promoted by the introduction of Asn-Asn or Asp-Asp pairs in a long transmembrane hydrophobic segment. These observations suggest that inter-helix hydrogen bonds can form within the context of the Sec61 translocon in the endoplasmic reticulum, implying that hydrophobic segments in a nascent polypeptide chain in transit through the Sec61 channel have immediate access to a non-aqueous subcompartment within the translocon.
+http://www.sciencedirect.com/science/article/pii/S0022283603012737
+00222836

@@ -1,0 +1,6 @@
+The Structure of the Receptor-binding Domain of the Bacteriophage T4 Short Tail Fibre Reveals a Knitted Trimeric Metal-binding Fold
+8121388100,56346449900,7103008259,7004564177,7102280609,55476786900,7003305911
+gene product 12,short fibre,receptor-binding,intertwined strands,domain swapping
+Adsorption of T4 bacteriophage to the Escherichia coli host cell is mediated by six long and six short tail fibres. After at least three long tail fibres have bound, short tail fibres extend and bind irreversibly to the core region of the host cell lipo-polysaccharide (LPS), serving as inextensible stays during penetration of the cell envelope by the tail tube. The short tail fibres consist of a parallel, in-register, trimer of gene product 12 (gp12).X-ray crystallography at 1.5Å resolution of a protease-stable fragment of gp12 generated in the presence of zinc chloride reveals the structure of the C-terminal receptor-binding domain. It has a novel “knitted” fold, consisting of three extensively intertwined monomers. It reveals a metal-binding site, containing a zinc ion coordinated by six histidine residues in an octahedral conformation. We also suggest an LPS-binding region.
+http://www.sciencedirect.com/science/article/pii/S0022283603007551
+00222836

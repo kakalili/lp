@@ -1,0 +1,6 @@
+Three-dimensional Solution Structure of an Archaeal FKBP with a Dual Function of Peptidyl Prolyl cis–trans Isomerase and Chaperone-like Activities
+7402805756,55608051300,6602532603,55118447600,7101775769,7005981063,7401602432,7403055189,7006624010
+FKBP,peptidyl-prolyl cis–trans isomerase,chaperone,archaea,NMR structure determination
+Here we report the solution structure of an archaeal FK506-binding protein (FKBP) from a thermophilic archaeum, Methanococcus thermolithotrophicus (MtFKBP17), which has peptidyl prolyl cis–trans isomerase (PPIase) and chaperone-like activities, to reveal the structural basis for the dual function. In addition to a typical PPIase domain, a newly identified domain is formed in the flap loop by a 48-residue insert that is required for the chaperone-like activity. The new domain, called IF domain (the Insert in the Flap), is a novel-folding motif and exposes a hydrophobic surface, which we consider to play an important role in the chaperone-like activity.
+http://www.sciencedirect.com/science/article/pii/S0022283603003796
+00222836

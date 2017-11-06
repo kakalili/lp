@@ -1,0 +1,6 @@
+Self-assembly of the amphipathic helix (VHLPPP)8. A mechanism for zein protein body formation11Edited by W. Baumeister
+7102617437,6602498950,7003410246,6701725199,7202130826,7102263929,35589193700,7005537205
+self-assembly,γ-zein,polyproline II,micelles,surfactants
+γ-Zein, a maize storage protein with an N-terminal proline-rich repetitive domain (γ-ZNPRD), is located at the periphery of protein bodies. This domain appears to be indispensable for the aggregation of the protein on the surface of the organelle. The peptide (VHLPPP)8, spanning the γ-ZNPRD, adopts a polyproline II (PPII) conformation that gives an amphipathic helix different from the α-helix. We used atomic force microscopy to study the surface organisation of the octamer, and transmission electron microscopy to visualise aggregates of the peptide in aqueous solution. We consider two self-assembly patterns that take account of the observed features. The micellar one fits best with the experimental results presented. Moreover, we found that this peptide has properties associated with surfactants, and form micelles in solution. This spontaneous amphipathic arrangement of the γ-ZNPRD suggests a mechanism of γ-zein deposition inside maize protein bodies.
+http://www.sciencedirect.com/science/article/pii/S002228360194999X
+00222836

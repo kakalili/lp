@@ -1,0 +1,6 @@
+Hsp70 and Hsp90 of E. coli Directly Interact for Collaboration in Protein Remodeling
+9843297400,7103063484,37009874400,7101941674,7006070258
+Hsp40,CbpA,DnaJ,molecular chaperone,protein remodeling
+Hsp90 is a highly conserved molecular chaperone that remodels hundreds of client proteins, many involved in the progression of cancer and other diseases. It functions with the Hsp70 chaperone and numerous cochaperones. The bacterial Hsp90 functions with an Hsp70 chaperone, DnaK, but is independent of Hsp90 cochaperones. We explored the collaboration between Escherichia coli Hsp90 and DnaK and found that the two chaperones form a complex that is stabilized by client protein binding. A J-domain protein, CbpA, facilitates assembly of the Hsp90Ec–DnaK–client complex. We identified E. coli Hsp90 mutants defective in DnaK interaction in vivo and show that the purified mutant proteins are defective in physical and functional interaction with DnaK. Understanding how Hsp90 and Hsp70 collaborate in protein remodeling will provide the groundwork for the development of new therapeutic strategies targeting multiple chaperones and cochaperones.
+http://www.sciencedirect.com/science/article/pii/S0022283615005823
+00222836

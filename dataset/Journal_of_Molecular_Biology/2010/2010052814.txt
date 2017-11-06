@@ -1,0 +1,6 @@
+The Ribosomal Stalk Plays a Key Role in IF2-Mediated Association of the Ribosomal Subunits
+35080434800,15081528300,7202885581
+ribosome,translation initiation,L12,IF2,subunit association
+Ribosomal “stalk” protein L12 is known to activate translational GTPases EF-G and EF-Tu, but not much is known about its role in relation to other two translational G factors, IF2 and RF3. Here, we have clarified the role of L12 in IF2-mediated initiation of bacterial protein synthesis. With fast kinetics measurements, we have compared L12-depleted 50S subunits with the native ones in subunit association, GTP hydrolysis, Pi (inorganic phosphate) release and IF2 release assays. L12 depletion from 50S subunit slows the subunit association step significantly (∼40 fold) only when IF2·GTP is present on the 30S preinitiation complex. This demonstrates that rapid subunit association depends on a specific interaction between the L12 stalk on the 50S subunit and IF2·GTP on the 30S subunit. L12 depletion, however, did not affect the individual rates of the subsequent steps including GTP hydrolysis on IF2 and Pi release. Thus, L12 is not a GTPase activating protein (GAP) for IF2 unlike as suggested for EF-G and EF-Tu.
+http://www.sciencedirect.com/science/article/pii/S0022283610003608
+00222836

@@ -1,0 +1,6 @@
+O-GlcNAcylation in Cancer Biology: Linking Metabolism and Signaling
+55178217100,56022230100,6602737603
+glycosylation,signaling,cancer,O-GlcNAcylation,OGT
+The hexosamine biosynthetic pathway (HBP) is highly dependent on multiple metabolic nutrients including glucose, glutamine, and acetyl-CoA. Increased flux through HBP leads to elevated post-translational addition of β-D-N-acetylglucosamine sugars to nuclear and cytoplasmic proteins. Increased total O-GlcNAcylation is emerging as a general characteristic of cancer cells, and recent studies suggest that O-GlcNAcylation is a central communicator of nutritional status to control key signaling and metabolic pathways that regulate multiple cancer cell phenotypes. This review summarizes our current understanding of changes of O-GlcNAc cycling enzymes in cancer, the role of O-GlcNAcylation in tumorigenesis, and the current challenges in targeting this pathway therapeutically.
+http://www.sciencedirect.com/science/article/pii/S0022283616302078
+00222836

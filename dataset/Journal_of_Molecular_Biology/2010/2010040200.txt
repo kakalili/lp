@@ -1,0 +1,6 @@
+Trials, Travails and Triumphs: An Account of RNA Catalysis in RNase P
+7004945283,7202616166,7005753443
+RNase P,tRNA processing,RNA catalysis,history
+Last December marked the 20th anniversary of the Nobel Prize in Chemistry to Sidney Altman and Thomas Cech for their discovery of RNA catalysts in bacterial ribonuclease P (an enzyme catalyzing 5′ maturation of tRNAs) and a self-splicing rRNA of Tetrahymena, respectively. Coinciding with the publication of a treatise on RNase P,1 this review provides a historical narrative, a brief report on our current knowledge, and a discussion of some research prospects on RNase P.“…the great thing about science is that you can actually solve a problem. You can take something which is confused, a mess, and not only find a solution, but prove it's the right one.”2-Sydney Brenner“In research the front line is almost always in a fog.”3-Francis Crick
+http://www.sciencedirect.com/science/article/pii/S0022283610000847
+00222836

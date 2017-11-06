@@ -1,0 +1,6 @@
+Genome-wide Nuclear Morphology Screen Identifies Novel Genes Involved in Nuclear Architecture and Gene-silencing in Saccharomyces cerevisiae
+7202391190,56279248800,7006873172
+nuclear architecture,gene-silencing,nuclear envelope,nucleolus,yeast
+Organisation of the cell nucleus is crucial for the regulation of gene expression but little is known about how nuclei are structured. To address this issue, we designed a genomic screen to identify factors involved in nuclear architecture in Saccharomyces cerevisiae. This screen is based on microscopic monitoring of nuclear pore complexes and nucleolar proteins fused with the green fluorescent protein in a collection of approximately 400 individual deletion mutants. Among the 12 genes identified by this screen, most affect both the nuclear envelope and the nucleolar morphology. Corresponding gene products are localised preferentially to the nucleus or close to the nuclear periphery. Interestingly, these nuclear morphology alterations were associated with chromatin-silencing defects. These genes provide a molecular context to explore the functional link between nuclear architecture and gene silencing.
+http://www.sciencedirect.com/science/article/pii/S0022283602006526
+00222836

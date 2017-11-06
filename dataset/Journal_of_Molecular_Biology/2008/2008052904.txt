@@ -1,0 +1,6 @@
+Polar, Peritrichous, and Lateral Flagella Belong to Three Distinguishable Flagellar Families
+24166407700,8707078800,35376117800
+flagella,polymorphism,Calladine's model,handedness,pitch-diameter
+The bacterial flagellum transforms its shape into several distinguishable helical shapes (polymorphs) under various environmental conditions. Polymorphs of each type of flagellum stay on a circle in the pitch-diameter (P versus πD) plot, indicating that they all belong to one family. Previously, we showed that the flagellar family of a marine bacterium Idiomarina loihiensis (Family II) differed from the conventional flagellar family of Salmonella typhimurium (Family I). The pitch and diameter of Family II flagella are half those of Family I flagella. We have suggested that Family I encompasses peritrichous flagella, while Family II forms a polar flagellum. In this study, we have surveyed the polymorphs of flagella from 18 other species and categorized their family types. Previous observations were confirmed; Family I form peritrichous flagella and Family II form polar flagella. Furthermore, we found that lateral flagella had helical parameters much smaller than those of the other two Families and thus belong to a new family (Family III).
+http://www.sciencedirect.com/science/article/pii/S0022283608004312
+00222836

@@ -1,0 +1,6 @@
+The Enigmatic Cytoplasmic Regions of KCNH Channels
+6507324905,7402368492
+KCNH,PAS,potassium channels,ether-à-go-go,CNBh domains
+KCNH channels are expressed across a vast phylogenetic and evolutionary spectrum. In humans, they function in a wide range of tissues and serve as biomarkers and targets for diseases such as cancer and cardiac arrhythmias. These channels share a general architecture with other voltage-gated ion channels but are distinguished by the presence of an N-terminal PAS (Per-Arnt-Sim) domain and a C-terminal domain with homology to cyclic nucleotide binding domains (referred to as the CNBh domain). Cytosolic regions outside these domains show little conservation between KCNH families but are strongly conserved across species within a family, likely reflecting variability that confers specificity to individual channel types. PAS and CNBh domains participate in channel gating, but at least twice in evolutionary history, the PAS domain has been lost and it is omitted by alternate transcription to create a distinct channel subunit in one family. In this focused review, we present current knowledge of the structure and function of these cytosolic regions, discuss their evolution as modular domains and provide our perspective on the important questions moving forward.
+http://www.sciencedirect.com/science/article/pii/S0022283614004276
+00222836

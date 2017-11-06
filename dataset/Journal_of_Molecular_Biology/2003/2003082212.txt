@@ -1,0 +1,6 @@
+Catalysing New Reactions during Evolution: Economy of Residues and Mechanism
+9735211000,6604020394,7402781853
+active site,catalytic mechanism,enzyme evolution,enzyme reaction
+The diversity of function in some enzyme superfamilies shows that during evolution, enzymes have evolved to catalyse different reactions on the same structure scaffold. In this analysis, we examine in detail how enzymes can modify their chemistry, through a comparison of the catalytic residues and mechanisms in 27 pairs of homologous enzymes of totally different functions. We find that evolution is very economical. Enzymes retain structurally conserved residues to aid catalysis, including residues that bind catalytic metal ions and modulate cofactor chemistry. We examine the conservation of residue type and residue function in these structurally conserved residue pairs. Additionally, enzymes often retain common mechanistic steps catalyzed by structurally conserved residues. We have examined these steps in the context of their overall reactions.
+http://www.sciencedirect.com/science/article/pii/S0022283603007344
+00222836

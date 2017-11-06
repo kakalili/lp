@@ -1,0 +1,6 @@
+The solution structure of bacteriophage λ protein W, a small morphogenetic protein possessing a novel fold11Edited by P. E. Wright
+7005540123,7102354255,7003616159,7006642154,7402444100,7402001557
+bacteriophage λ,head morphogenesis,protein W,NMR structure,connector
+Protein W (gpW) from bacteriophage λ is required for the stabilization of DNA within the phage head and for attachment of tails onto the head during morphogenesis. Although comprised of only 68 residues, it likely interacts with at least two other proteins in the mature phage and with DNA. Thus, gpW is an intriguing subject for detailed structural studies. We have determined its solution structure using NMR spectroscopy and have found it to possesses a novel fold consisting of two α-helices and a single two-stranded β-sheet arranged around a well-packed hydrophobic core. The 14 C-terminal residues of gpW, which are essential for function, are unstructured in solution.
+http://www.sciencedirect.com/science/article/pii/S0022283601945826
+00222836

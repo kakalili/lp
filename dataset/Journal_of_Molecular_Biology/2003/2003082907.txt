@@ -1,0 +1,6 @@
+The Structure of the N-terminal Domain of Riboflavin Synthase in Complex with Riboflavin at 2.6Å Resolution
+6602254097,7003265977,7102875119,7006309752
+riboflavin synthase,protein structure,N-terminal domain,ligand binding,riboflavin
+Riboflavin synthase of Escherichia coli is a homotrimer with a molecular mass of 70 kDa. The enzyme catalyzes the dismutation of 6,7-dimethyl-8-(1′-d-ribityl)-lumazine, affording riboflavin and 5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione. The N-terminal segment (residues 1–87) and the C-terminal segment (residues 98–187) form beta-barrels with similar fold and a high degree of sequence similarity. A recombinant peptide comprising amino acid residues 1–97 forms a dimer, which binds riboflavin with high affinity. Here, we report the structure of this construct in complex with riboflavin at 2.6Å resolution. It is demonstrated that the complex can serve as a model for ligand-binding in the native enzyme. The structure and riboflavin-binding mode is in excellent agreement with structural information obtained from the native enzyme from Escherichia coli and riboflavin synthase from Schizosaccharomyces pombe. The implications for the binding specificity and the regiospecificity of the catalyzed reaction are discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283603008441
+00222836

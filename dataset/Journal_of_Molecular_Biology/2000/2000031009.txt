@@ -1,0 +1,6 @@
+Identifying the protein folding nucleus using molecular dynamics11Edited by A. R. Fersht
+7004230696,35396328400,35375959000,35600851100
+protein folding,kinetics,molecular dynamics,nucleus,transition state
+Molecular dynamics simulations of folding in an off-lattice protein model reveal a nucleation scenario, in which a few well-defined contacts are formed with high probability in the transition state ensemble of conformations. Their appearance determines folding cooperativity and drives the model protein into its folded conformation. Amino acid residues participating in those contacts may serve as “accelerator pedals” used by molecular evolution to control protein folding rate.
+http://www.sciencedirect.com/science/article/pii/S0022283699935349
+00222836

@@ -1,0 +1,6 @@
+In a Head-on Collision, Two RNA Polymerases Approaching One Another on the Same DNA May Pass by One Another
+36941312900,7007164999
+Transcription,replication forks,template strand,RNA polymerase
+Using a template that contains promoters for T3 and T7 RNA polymerases (RNAPs) in opposing orientations, and His-tagged derivatives of these RNAPs that allow immobilization on solid matrices, we have determined that a T7 elongation complex (EC) may be advanced past a halted T3 EC, and that after the collision the halted T3 EC may resume transcription. Since RNAPs moving in opposite directions use two different strands of the DNA as their templates, it seems likely that they manage to pass by one other by temporarily releasing their nontemplate strand while maintaining association with their template strand.
+http://www.sciencedirect.com/science/article/pii/S002228360900792X
+00222836

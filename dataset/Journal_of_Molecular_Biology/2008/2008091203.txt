@@ -1,0 +1,6 @@
+30 nm Chromatin Fibre Decompaction Requires both H4-K16 Acetylation and Linker Histone Eviction
+56207458700,7006908324,55272845400,12776105200,7102092322,35461686200,7202594532
+chromatin,30 nm fibre,histone acetylation,MOF,linker histone
+The mechanism by which chromatin is decondensed to permit access to DNA is largely unknown. Here, using a model nucleosome array reconstituted from recombinant histone octamers, we have defined the relative contribution of the individual histone octamer N-terminal tails as well as the effect of a targeted histone tail acetylation on the compaction state of the 30 nm chromatin fiber. This study goes beyond previous studies as it is based on a nucleosome array that is very long (61 nucleosomes) and contains a stoichiometric concentration of bound linker histone, which is essential for the formation of the 30 nm chromatin fiber. We find that compaction is regulated in two steps: Introduction of H4 acetylated to 30% on K16 inhibits compaction to a greater degree than deletion of the H4 N-terminal tail. Further decompaction is achieved by removal of the linker histone.
+http://www.sciencedirect.com/science/article/pii/S0022283608005081
+00222836

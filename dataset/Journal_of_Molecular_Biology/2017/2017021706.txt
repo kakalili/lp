@@ -1,0 +1,6 @@
+The Interconnections between Autophagy and Integrin-Mediated Cell Adhesion
+54997975100,7003502371
+autophagy,anoikis,integrins,focal adhesion,metastasis
+Autophagy is a cellular degradation process integral for promoting cellular adaptation during metabolic stress while also functioning as a cellular homeostatic mechanism. Mounting evidence also demonstrates that autophagy is induced upon loss of integrin-mediated cell attachments to the surrounding extracellular matrix (ECM). Analogous to its established cytoprotective role during nutrient starvation, autophagy protects cells from detachment-induced cell death, termed anoikis. Here, we review the significance of autophagy as an anoikis resistance pathway, focusing on the intracellular signals associated with integrins that modulate the autophagy response and dictate the balance between cell death and survival following loss of cell–matrix contact. In addition, we highlight recent studies demonstrating that autophagy functions in the upstream regulation of integrin-mediated cell adhesion via the control of focal adhesion remodeling, and discuss how these emerging interconnections between integrin-mediated adhesion pathways and autophagy influence cancer progression and metastasis.
+http://www.sciencedirect.com/science/article/pii/S0022283616305228
+00222836

@@ -1,0 +1,6 @@
+E46K Parkinson’s-Linked Mutation Enhances C-Terminal-to-N-Terminal Contacts in α-Synuclein
+12773372400,26435405100,24475509200,8254468700,36974210100,6701639894,7006311896
+synuclein,Parkinson's,amyloid,protein aggregation,E46K
+Parkinson's disease (PD) is associated with the deposition of fibrillar aggregates of the protein α-synuclein (αS) in neurons. Intramolecular contacts between the acidic C-terminal tail of αS and its N-terminal region have been proposed to regulate αS aggregation, and two originally described PD mutations, A30P and A53T, reportedly reduce such contacts. We find that the most recently discovered PD-linked αS mutation E46K, which also accelerates the aggregation of the protein, does not interfere with C-terminal-to-N-terminal contacts and instead enhances such contacts. Furthermore, we do not observe a substantial reduction in such contacts in the two previously characterized mutants. Our results suggest that C-terminal-to-N-terminal contacts in αS are not strongly protective against aggregation, and that the dominant mechanism by which PD-linked mutations facilitate αS aggregation may be altering the physicochemical properties of the protein such as net charge (E46K) and secondary structure propensity (A30P and A53T).
+http://www.sciencedirect.com/science/article/pii/S002228360900391X
+00222836

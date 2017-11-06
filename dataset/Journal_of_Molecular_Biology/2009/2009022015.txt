@@ -1,0 +1,6 @@
+Atypical Binding of the Swa2p UBA Domain to Ubiquitin
+6504212860,7103021262,7003918413,7006863426
+Swa2p,UBA domain,ubiquitin,NMR,SPR
+Swa2p is an auxilin-like yeast protein that is involved in vesicular transport and required for uncoating of clathrin-coated vesicles. Swa2p contains a ubiquitin-associated (UBA) domain, which is present in a variety of proteins involved in ubiquitin (Ub)-mediated processes. We have determined a structural model of the Swa2p UBA domain in complex with Ub using NMR spectroscopy and molecular docking. Ub recognition occurs predominantly through an atypical interaction in which UBA helix α1 and the N-terminal part of helix α2 bind to Ub. Mutation of Ala148, a key residue in helix α1, to polar residues greatly reduced the affinity of the UBA domain for Ub and revealed a second low-affinity Ub-binding site located on the surface formed by helices α1 and α3. Surface plasmon resonance showed that the Swa2p UBA domain binds K48- and K63-linked di-Ub in a non-linkage-specific manner. These results reveal convergent evolution of a Ub-binding site on helix α1 of UBA domains involved in membrane protein trafficking.
+http://www.sciencedirect.com/science/article/pii/S0022283608012631
+00222836

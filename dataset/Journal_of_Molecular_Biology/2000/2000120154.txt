@@ -1,0 +1,6 @@
+Structural homology between DNA binding sites of DNA polymerase β and DNA topoisomerase II11Edited by A. Fersht
+7004573196,7005342819,7103373495,7203015285
+DNA polymerase β,DNA topoisomerase II,unsaturated long-chain fatty acids,molecular probe,computer analysis
+Unsaturated long-chain fatty acids selectively bind to the DNA binding sites of DNA polymerase β and DNA topoisomerase II, and inhibit their activities, although the amino acid sequences of these enzymes are markedly different from each other. Computer modeling analysis revealed that the fatty acid interaction interface in both enzymes has a group of four amino acid residues in common, forming a pocket which binds to the fatty acid molecule. The four amino acid residues were Thr596, His735, Leu741 and Lys983 for yeast DNA topoisomerase II, corresponding to Thr79, His51, Leu11 and Lys35 for rat DNA polymerase β. Using three-dimensional structure model analysis, we determined the spatial positioning of specific amino acid residues binding to the fatty acids in DNA topoisomerase II, and subsequently obtained supplementary information to build the structural model.
+http://www.sciencedirect.com/science/article/pii/S0022283600942232
+00222836

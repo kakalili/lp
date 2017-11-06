@@ -1,0 +1,6 @@
+Estimating the number of protein folds and families from complete genome data11Edited by J. Thornton
+7006605277,7007062770,36039332000
+protein structure classification,structural genomics,sampling,logarithmic distribution
+Using the data on proteins encoded in complete genomes, combined with a rigorous theory of the sampling process, we estimate the total number of protein folds and families, as well as the number of folds and families in each genome. The total number of folds in globular, water-soluble proteins is estimated at about 1000, with structural information currently available for about one-third of that number. The sequenced genomes of unicellular organisms encode from approximately 25 %, for the minimal genomes of the Mycoplasmas, to 70–80 % for larger genomes, such as Escherichia coli and yeast, of the total number of folds. The number of protein families with significant sequence conservation was estimated to be between 4000 and 7000, with structures available for about 20 % of these.
+http://www.sciencedirect.com/science/article/pii/S0022283600937860
+00222836

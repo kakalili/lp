@@ -1,0 +1,6 @@
+Modelling the pH-dependent Properties of Kv1 Potassium Channels
+55720785600,7003541231,7005714972,7005615690
+potassium channels,pH dependence,molecular modelling,protein electrostatics,Kv1.4
+It is known that the pH dependence of conductance for the rat potassium channel Kv1.4 is susbstantially reduced upon mutation of either H508 or K532. These residues lie in the extracellular mouth of the channel pore. We have used continuum electrostatics to investigate their interactions with K+ sites in the pore. The predicted scale of interactions between H508/K532 and potassium sites is sufficient to significantly alter potassium occupancy and thus channel function. We interpret the effect of K532 mutation as indicating that the pH-dependent effect requires not only an ionisable group with a suitable pKa value (i.e. histidine), but also that other charged groups set the potential profile at a threshold level. This hypothesis is examined in the context of pH dependence for other members of the Kv1 family, and may represent a general tool with which to study potassium channels.
+http://www.sciencedirect.com/science/article/pii/S0022283607002227
+00222836

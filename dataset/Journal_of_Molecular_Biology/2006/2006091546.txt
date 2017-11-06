@@ -1,0 +1,6 @@
+Quaternary Structure of a Mature Amyloid Fibril from Alzheimer’s Aβ(1-40) Peptide
+17343087600,55725671200,35618919600,7004795132,6603858126,6602493276
+aggregates,neurodegeneration,protein folding,prion
+Amyloid fibrils are fibrous polypeptide aggregates that can be formed in vitro and under pathologic conditions, such as in type II diabetes, Alzheimer's and Creutzfeldt-Jakob diseases. Using a range of biophysical techniques including electron microscopy we have analysed the quaternary structure of a mature amyloid fibril formed from the Aβ(1-40) peptide from Alzheimer's disease. We find that the analysed fibril is discernibly polar and represents a left-handed helix consisting of two or three protofilaments. These are organised in a manner so that the cross-section is, under the present resolution conditions (2.6 nm), S-shaped. In the cross-section, each protofilament can accommodate two β-strands, suggesting that each protofilament contains two cross-β-sheets. These data shed new light on the way in which Aβ(1-40) and the protofilaments formed from this peptide are organised within the mature fibril.
+http://www.sciencedirect.com/science/article/pii/S002228360600862X
+00222836

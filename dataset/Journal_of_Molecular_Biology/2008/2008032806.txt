@@ -1,0 +1,6 @@
+Genomic and Proteomic Analysis of phiEco32, a Novel Escherichia coli Bacteriophage
+6504375614,57192956853,7101731232,6701759489,7102163342,6507549292,37091303500,7101708208,7101988704,7005645719,24498406600,7003958902,8855002900,7003775816,7005509332
+bacteriophage,Podoviridae,E. coli,genome,MudPIT
+A novel bacteriophage infecting Escherichia coli was isolated during a large-scale screen for bacteriophages that may be used for therapy of mastitis in cattle. The 77,554-bp genome of the bacteriophage, named phiEco32, was sequenced and annotated, and its virions were characterized by electron microscopy and proteomics. Two phiEco32-encoded proteins that interact with host RNA polymerase were identified. One of them is an ECF family σ factor that may be responsible for transcription of some viral genes. Another RNA polymerase-binding protein is a novel transcription inhibitor whose mechanism of action remains to be defined.
+http://www.sciencedirect.com/science/article/pii/S0022283608000028
+00222836

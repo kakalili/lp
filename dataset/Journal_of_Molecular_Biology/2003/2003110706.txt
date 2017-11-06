@@ -1,0 +1,6 @@
+Phase Diagram of Nucleosome Core Particles
+6603116480,6602080078,7201540826,7004680583
+nucleosome,phase diagram,ordered phases,supramolecular organization,chromatin
+We present a phase diagram of the nucleosome core particle (NCP) as a function of the monovalent salt concentration and applied osmotic pressure. Above a critical pressure, NCPs stack on top of each other to form columns that further organize into multiple columnar phases. An isotropic (and in some cases a nematic) phase of columns is observed in the moderate pressure range. Under higher pressure conditions, a lamello-columnar phase and an inverse hexagonal phase form under low salt conditions, whereas a 2D hexagonal phase or a 3D orthorhombic phase is found at higher salt concentration. For intermediate salt concentrations, microphase separation occurs. The richness of the phase diagram originates from the heterogeneous distribution of charges at the surface of the NCP, which makes the particles extremely sensitive to small ionic variations of their environment, with consequences on their interactions and supramolecular organization. We discuss how the polymorphism of NCP supramolecular organization may be involved in chromatin changes in the cellular context.
+http://www.sciencedirect.com/science/article/pii/S0022283603011379
+00222836

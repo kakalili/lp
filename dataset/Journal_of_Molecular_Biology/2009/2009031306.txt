@@ -1,0 +1,6 @@
+Recycling of Aborted Ribosomal 50S Subunit-Nascent Chain-tRNA Complexes by the Heat Shock Protein Hsp15
+55790857800,6507324554,23969934400,7007142589,6603197425,7005476072,6507867585,6601991546,7102280609
+Hsp15,ribosome,tRNA,heat shock,cryo-EM
+When heat shock prematurely dissociates a translating bacterial ribosome, its 50S subunit is prevented from reinitiating protein synthesis by tRNA covalently linked to the unfinished protein chain that remains threaded through the exit tunnel. Hsp15, a highly upregulated bacterial heat shock protein, reactivates such dead-end complexes. Here, we show with cryo-electron microscopy reconstructions and functional assays that Hsp15 translocates the tRNA moiety from the A site to the P site of stalled 50S subunits. By stabilizing the tRNA in the P site, Hsp15 indirectly frees up the A site, allowing a release factor to land there and cleave off the tRNA. Such a release factor must be stop codon independent, suggesting a possible role for a poorly characterized class of putative release factors that are upregulated by cellular stress, lack a codon recognition domain and are conserved in eukaryotes.
+http://www.sciencedirect.com/science/article/pii/S0022283608013715
+00222836

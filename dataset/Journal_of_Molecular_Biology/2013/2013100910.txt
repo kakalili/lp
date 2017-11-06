@@ -1,0 +1,6 @@
+Rise of the RNA Machines: Exploring the Structure of Long Non-Coding RNAs
+25621622000,55871121579,7201776832,55626449200
+long non-coding RNA,lncRNA,lincRNA,lncRNA structure,epigenetics
+Novel, profound and unexpected roles of long non-coding RNAs (lncRNAs) are emerging in critical aspects of gene regulation. Thousands of lncRNAs have been recently discovered in a wide range of mammalian systems, related to development, epigenetics, cancer, brain function and hereditary disease. The structural biology of these lncRNAs presents a brave new RNA world, which may contain a diverse zoo of new architectures and mechanisms. While structural studies of lncRNAs are in their infancy, we describe existing structural data for lncRNAs, as well as crystallographic studies of other RNA machines and their implications for lncRNAs. We also discuss the importance of dynamics in RNA machine mechanism. Determining commonalities between lncRNA systems will help elucidate the evolution and mechanistic role of lncRNAs in disease, creating a structural framework necessary to pursue lncRNA-based therapeutics.
+http://www.sciencedirect.com/science/article/pii/S0022283613001320
+00222836

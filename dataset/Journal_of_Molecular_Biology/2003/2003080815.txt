@@ -1,0 +1,6 @@
+Chemical Cross-linking and Mass Spectrometry for Protein Structural Modeling
+7007162487,7005480856,7004091840,7004460161
+cross-linking,mass spectrometry,restraints,protein modeling,integration of techniques
+The growth of gene and protein sequence information is currently so rapid that three-dimensional structural information is lacking for the overwhelming majority of known proteins. In this review, efforts towards rapid and sensitive methods for protein structural characterization are described, complementing existing technologies. Based on chemical cross-linking and offering the analytical speed and sensitivity of mass spectrometry these methodologies are thought to contribute valuable tools towards future high throughput protein structure elucidation.
+http://www.sciencedirect.com/science/article/pii/S0022283603007216
+00222836

@@ -1,0 +1,6 @@
+Inter-Ring Communication Is Dispensable in the Reaction Cycle of Group II Chaperonins
+56191062300,56189843900,55753366500,55897256500,7402614581,7402368294,7103358613,7404558698,7006026723
+chaperone,chaperonin,allostery,folding,circular permutation
+Chaperonins are ubiquitous molecular chaperones with the subunit molecular mass of 60kDa. They exist as double-ring oligomers with central cavities. An ATP-dependent conformational change of the cavity induces the folding of an unfolded protein that is captured in the cavity. In the group I chaperonins, which are present in eubacteria and eukaryotic organelles, inter-ring communication takes important role for the reaction cycle. However, there has been limited study on the inter-ring communication in the group II chaperonins that exist in archaea and the eukaryotic cytosol. In this study, we have constructed the asymmetric ring complex of a group II chaperonin using circular permutated covalent mutants. Although one ring of the asymmetric ring complex lacks ATPase or ATP binding activity, the other wild-type ring undergoes an ATP-dependent conformational change and maintains protein-folding activity. The results clearly demonstrate that inter-ring communication is dispensable in the reaction cycle of group II chaperonins.
+http://www.sciencedirect.com/science/article/pii/S0022283614002526
+00222836

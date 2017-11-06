@@ -1,0 +1,6 @@
+The Tudor Domain of the PHD Finger Protein 1 Is a Dual Reader of Lysine Trimethylation at Lysine 36 of Histone H3 and Lysine 27 of Histone Variant H3t
+56084586000,36872586700,24472257800,48861299900,23110269700,7005736654
+reading domain,histone methylation,histone variant,Polycomb regulation,protein–protein interaction
+PHF1 associates with the Polycomb repressive complex 2 and it was demonstrated to stimulate its H3K27-trimethylation activity. We studied the interaction of the PHF1 Tudor domain with modified histone peptides and found that it recognizes H3K36me3 and H3tK27me3 (on the histone variant H3t) and that it uses the same trimethyllysine binding pocket for the interaction with both peptides. Since both peptide sequences are very different, this result indicates that reading domains can have dual specificities. Sub-nuclear localization studies of full-length PHF1 in human HEK293 cells revealed that it co-localizes with K27me3, but not with K36me3, and that this co-localization depends on the trimethyllysine binding pocket indicating that K27me3 is an in vivo target for the PHF1 Tudor domain. Our data suggest that PHF1 binds to H3tK27me3 in human chromatin, and H3t has a more general role in Polycomb regulation.
+http://www.sciencedirect.com/science/article/pii/S0022283613005123
+00222836

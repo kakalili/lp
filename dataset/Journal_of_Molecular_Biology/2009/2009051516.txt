@@ -1,0 +1,6 @@
+Structural and Dynamic Implications of an Effector-induced Backbone Amide cis–trans Isomerization in Cytochrome P450cam
+8222005900,7005415219,6603488166,36856180300,7005475011
+electron transfer,NMR,molecular dynamics
+Experimental evidence has been provided for a functionally relevant cis–trans isomerization of the Ile88–Pro89 peptide bond in cytochrome P450cam (CYP101). The isomerization is proposed to be a key element of the structural reorganization leading to the catalytically competent form of CYP101 upon binding of the effector protein putidaredoxin (Pdx). A detailed comparison of the results of molecular dynamics simulations on the cis and trans conformations of substrate- and carbonmonoxy-bound ferrous CYP101 with sequence-specific Pdx-induced structural perturbations identified by nuclear magnetic resonance is presented, providing insight into the structural and dynamic consequences of the isomerization. The mechanical coupling between the Pdx binding site on the proximal face of CYP101 and the site of isomerization is described.
+http://www.sciencedirect.com/science/article/pii/S0022283609003295
+00222836

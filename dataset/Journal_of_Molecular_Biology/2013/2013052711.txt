@@ -1,0 +1,6 @@
+Ultrasensitivity of an Adaptive Bacterial Motor
+55618120900,7201856564
+cooperativity,allostery,molecular motor,switch,chemotaxis
+The flagellar motor of Escherichia coli adapts to changes in the steady-state level of the chemotaxis response regulator, CheY-P, by adjusting the number of FliM molecules to which CheY-P binds. Previous measurements of motor ultrasensitivity have been made on cells containing different amounts of CheY-P and, thus, different amounts of FliM in flagellar motors. Here, we designed an experiment to measure the sensitivity of motors containing fixed amounts of FliM, finding Hill coefficients about twice as large as those observed before. This ultrasensitivity provides further insights into the motor switching mechanism and plays important roles in chemotaxis signal amplification and coordination of multiple motors. The Hill coefficients observed here appear to be the highest known for allosteric protein complexes, either biological or synthetic. Extreme motor ultrasensitivity broadens our understanding of mechanisms of allostery and serves as an inspiration for future design of synthetic protein switches.
+http://www.sciencedirect.com/science/article/pii/S0022283613001022
+00222836

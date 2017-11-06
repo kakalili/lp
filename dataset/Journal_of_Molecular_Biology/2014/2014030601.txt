@@ -1,0 +1,6 @@
+Chaperone–Protein Interactions That Mediate Assembly of the Bacteriophage Lambda Tail to the Correct Length
+36050448300,7005953845,7102548710
+regulation of macromolecular assembly,protein assembly chaperones,translational recoding,translational frameshift regulation,bacteriophage tail assembly
+Bacteriophage λ makes two proteins with overlapping amino acid sequences that are essential for tail assembly. These two proteins, gpG and gpGT, are related by a programmed translational frameshift that is conserved among diverse phages and functions in λ to ensure that gpG and the frameshift product gpGT are made in a molar ratio of approximately 30:1. Although both proteins are required and must be present in the correct ratio for assembly of functional tails, neither is present in mature tails. During λ tail assembly, major tail protein gpV polymerizes to form a long tube whose length is controlled by the tape measure protein gpH. We show that the “G” domains of gpG and gpGT bind to all or parts of tail length tape measure protein gpH and that the “T” domain of gpGT binds to major tail shaft subunit gpV, and present a model for how gpG and gpGT chaperone gpH and direct the polymerization of gpV to form a tail of the correct length.
+http://www.sciencedirect.com/science/article/pii/S0022283613004786
+00222836

@@ -1,0 +1,6 @@
+Near-Atomic Resolution Structure Determination of a Cypovirus Capsid and Polymerase Complex Using Cryo-EM at 200kV
+57192666216,57192674763,57192663641,56107769200,57192664219,57192662407,56491413600,7409757634,24480864900
+cryo-EM,accelerating voltage,phase residual distribution,reovirus,RNA polymerase
+Single-particle cryo-electron microscopy (cryo-EM) allows the high-resolution structural determination of biological assemblies in a near-native environment. However, all high-resolution (better than 3.5Å) cryo-EM structures reported to date were obtained by using 300kV transmission electron microscopes (TEMs). We report here the structures of a cypovirus capsid of 750-Å diameter at 3.3-Å resolution and of RNA-dependent RNA polymerase (RdRp) complexes within the capsid at 3.9-Å resolution using a 200-kV TEM. The newly resolved structure revealed conformational changes of two subdomains in the RdRp. These conformational changes, which were involved in RdRp's switch from non-transcribing to transcribing mode, suggest that the RdRp may facilitate the unwinding of genomic double-stranded RNA. The possibility of 3-Å resolution structural determinations for biological assemblies of relatively small sizes using cryo-EM at 200kV was discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283616305204
+00222836

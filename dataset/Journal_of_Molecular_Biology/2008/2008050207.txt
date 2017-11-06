@@ -1,0 +1,6 @@
+Regulation of RNA Polymerase III Transcription by Maf1 in Mammalian Cells
+12042451000,7202160149,13610574600,22938110200,35083347600,13805930900,7102879479,57190076913,29167629300
+Maf1,RNA polymerase III,TFIIIB,transcription
+RNA polymerase (pol) III produces essential components of the biosynthetic machinery; therefore, its output is tightly coupled with the rate of cell growth and proliferation. In Saccharomyces cerevisiae, Maf1 is an essential mediator of pol III repression in response to starvation. We demonstrate that a Maf1 ortholog is also used to restrain pol III activity in mouse and human cells. Mammalian Maf1 represses pol III transcription in vitro and in transfected fibroblasts. Furthermore, genetic deletion of Maf1 elevates pol III transcript expression, thus confirming the role of endogenous Maf1 as an inhibitor of mammalian pol III output. Maf1 is detected at chromosomal pol III templates in rodent and human cells. It interacts with pol III as well as its associated initiation factor TFIIIB and is phosphorylated in a serum-sensitive manner in vivo. These aspects of Maf1 function have been conserved between yeast and mammals and are therefore likely to be of fundamental importance in controlling pol III transcriptional activity.
+http://www.sciencedirect.com/science/article/pii/S0022283608002593
+00222836

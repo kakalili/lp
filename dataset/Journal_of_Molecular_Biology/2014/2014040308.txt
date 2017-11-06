@@ -1,0 +1,6 @@
+The 1.8-Å Crystal Structure of the N-Terminal Domain of an Archaeal MCM as a Right-Handed Filament
+55654651000,24468891000,55992338900,8716475300,8548516000
+MCM,helicase,DNA replication,crystal structure
+Mini-chromosome maintenance (MCM) proteins are the replicative helicase necessary for DNA replication in both eukarya and archaea. Most of archaea only have one MCM gene. Here, we report a 1.8-Å crystal structure of the N-terminal MCM from the archaeon Thermoplasma acidophilum (tapMCM). In the structure, the MCM N-terminus forms a right-handed filament that contains six subunits in each turn, with a diameter of 25Å of the central channel opening. The inner surface is highly positively charged, indicating DNA binding. This filament structure with six subunits per turn may also suggests a potential role for an open-ring structure for hexameric MCM and dynamic conformational changes in initiation and elongation stages of DNA replication.
+http://www.sciencedirect.com/science/article/pii/S0022283613008127
+00222836

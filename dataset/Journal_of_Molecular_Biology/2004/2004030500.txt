@@ -1,0 +1,6 @@
+Interaction of Helix D of Elongation Factor Tu with Helices 4 and 5 of Protein L7/12 on the Ribosome
+10142428700,6602781131,7103042445,7006116936
+GTP-binding proteins,rapid kinetics,fluorescence,stopped flow,quench flow
+Elongation factor Tu (EF-Tu) promotes binding of aminoacyl-tRNA to the A site of the ribosome. Here, we report the effects of mutations in helix D of EF-Tu and in the C-terminal domain of L7/12 on the kinetics of A-site binding. Reaction rates were measured by stopped-flow and quench-flow techniques. The rates of A-site binding were decreased by mutations at positions 144, 145, 148, and 152 in helix D of EF-Tu as well as at positions 65, 66, 69, 70, 73, and 84 in helices 4 and 5 of L7/12. The effect was due primarily to the lower association rate constant of ternary complex binding to the ribosome. These results suggest that helix D of EF-Tu is involved in an initial transient contact with helices 4 and 5 of L7/12 that promotes ternary complex binding to the ribosome. By analogy to the interaction of helix D of EF-Tu with the N-terminal domain of EF-Ts, the contact area is likely to consist of a hydrophobic patch flanked by two salt-bridges.
+http://www.sciencedirect.com/science/article/pii/S0022283604000567
+00222836

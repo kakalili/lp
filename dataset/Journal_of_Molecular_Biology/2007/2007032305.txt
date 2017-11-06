@@ -1,0 +1,6 @@
+Maturation of Shark Single-domain (IgNAR) Antibodies: Evidence for Induced-fit Binding
+35513093100,6602452037,6603592484,35481841100,7401743864
+shark,antibody,new antigen receptor,NAR,affinity maturation
+Sharks express an unusual heavy-chain isotype called IgNAR, whose variable regions bind antigen as independent soluble domains. To further probe affinity maturation of the IgNAR response, we structurally characterized the germline and somatically matured versions of a type II variable (V) region, both in the presence and absence of its antigen, hen egg-white lysozyme. Despite a disulfide bond linking complementarity determining regions (CDRs) 1 and 3, both germline and somatically matured V regions displayed significant structural changes in these CDRs upon complex formation with antigen. Somatic mutations in the IgNAR V region serve to increase the number of contacts with antigen, as reflected by a tenfold increase in affinity, and one of these mutations appears to stabilize the CDR3 region. In addition, a residue in the HV4 loop plays an important role in antibody–antigen interaction, consistent with the high rate of somatic mutations in this non-CDR loop.
+http://www.sciencedirect.com/science/article/pii/S0022283606017220
+00222836

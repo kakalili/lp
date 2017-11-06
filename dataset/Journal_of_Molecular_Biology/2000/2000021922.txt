@@ -1,0 +1,6 @@
+Extensive central disruption of a four-way junction on binding CCE1 resolving enzyme11Edited by M. Yaniv
+6603164450,35563282900
+Recombination,DNA structure,Holliday junction,2-aminopurine,fluorescence
+Junction-resolving enzymes are nucleases that are selective for the structure of the four-way DNA junction that is important in genetic recombination. They exhibit selectivity for the structure of the junction, but they also manipulate the structure. Local disruption of DNA structure around the centre of the junction by CCE1 of Saccharomyces cerevisiae has been investigated using 2-aminopurine fluorescence. On binding CCE1, 2-aminopurine bases located at the point of strand exchange exhibit a large increase in fluorescence intensity (up to 39-fold enhancement), consistent with complete unstacking. This was observed for all positions around the centre of the junction, both 5′ and 3′ to the point of strand exchange. Thymine bases complementary to the modified adenine bases adjacent to the junction centre were strongly reactive to potassium permanganate. The results indicate that binding of CCE1 results in a complete unpairing of the four central base-pairs of the junction, with a lesser disruption of the next base-pairs.
+http://www.sciencedirect.com/science/article/pii/S0022283699934794
+00222836

@@ -1,0 +1,6 @@
+The Structure of RNA-Free Rho Termination Factor Indicates a Dynamic Mechanism of Transcript Capture
+7005977485,7004373162,35449319500
+helicase,Rho factor,RNA capture mechanism,transcription termination,X-ray crystal structure
+The Rho factor is a ring-shaped ATP-dependent helicase that mediates transcription termination in most prokaryotic cells by disengaging the transcription elongation complex formed by the RNA polymerase, DNA, and the nascent RNA transcript. The crystal structures of key intermediates along the kinetic pathway of RNA binding to Rho unveiled an unprecedented mode of helicase loading and provided a model for the ATP turnover coupled to coordinated strand movement. Here we report the structure of the early RNA-free state of Rho, which had eluded crystallization for many years but now completes the series. The structure allows the characterization of the apo-form Rho from Thermotoga maritima to 2.3 Å resolution, reveals an RNA-recruiting site that becomes hidden after occupancy of the adjacent specific primary RNA-binding site, and suggests an enriched model for mRNA capture that is consistent with previous data.
+http://www.sciencedirect.com/science/article/pii/S0022283610004705
+00222836

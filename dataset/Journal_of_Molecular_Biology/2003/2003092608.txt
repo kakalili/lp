@@ -1,0 +1,6 @@
+Dimerization of Crh by Reversible 3D Domain Swapping Induces Structural Adjustments to its Monomeric Homologue Hpr
+6701330517,7007075375,23392686800,7003533496,6603505960,7005279057,7005335423,6603820671
+phosphotransferase system,carbon catabolite repression,Crh,X-ray structure,domain swapped dimer
+The crystal structure of the regulatory protein Crh from Bacillus subtilis was solved at 1.8Å resolution and showed an intertwined dimer formed by N-terminal β1-strand swapping of two monomers. Comparison with the monomeric NMR structure of Crh revealed a domain swap induced conformational rearrangement of the putative interaction site with the repressor CcpA. The resulting conformation closely resembles that observed for the monomeric Crh homologue HPr, indicating that the Crh dimer is the active form binding to CcpA. An analogous dimer of HPr can be constructed without domain swapping, suggesting that HPr may dimerize upon binding to CcpA. Our data suggest that reversible 3D domain swapping of Crh might be an efficient regulatory mechanism to modulate its activity.
+http://www.sciencedirect.com/science/article/pii/S0022283603009185
+00222836

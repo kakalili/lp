@@ -1,0 +1,6 @@
+Transcriptional Regulation by Antitermination. Interaction of RNA with NusB Protein and NusB/NusE Protein Complex of Escherichia coli
+6507701704,6508223766,55909679800,6602515284,7202029217,55425393700,7202209456,7102875119,7202605893
+antitermination,ribosomal RNA,NMR spectroscopy,surface plasmon spectroscopy,protein/RNA interaction
+A recombinant heterodimeric NusB/NusE protein complex of Escherichia coli was expressed under the control of a synthetic mini operon. Surface plasmon resonance measurements showed that the heterodimer complex has substantially higher affinity for the boxA RNA sequence motif of the ribosomal RNA (rrn) operons of E.coli as compared to monomeric NusB protein. Single base exchanges in boxA RNA reduced the affinity of the protein complex up to 15-fold. The impact of base exchanges in the boxA RNA on the interaction with NusB protein was studied by 1H,15N heterocorrelation NMR spectroscopy. Spectra obtained with modified RNA sequences were analysed by a novel generic algorithm. Replacement of bases in the terminal segments of the boxA RNA motif caused minor chemical shift changes as compared to base exchanges in the central part of the dodecameric boxA motif.
+http://www.sciencedirect.com/science/article/pii/S0022283601953884
+00222836

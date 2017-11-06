@@ -1,0 +1,6 @@
+Molecular Basis of the Functional Divergence of Fatty Acyl-AMP Ligase Biosynthetic Enzymes of Mycobacterium tuberculosis
+12806839000,8586272600,37055547300,35577403000,7004954738
+crystal structure,acyl-adenylate enzymes,pathogenesis,substrate specificity,virulent lipid synthesis
+Activation of fatty acids as acyl-adenylates by fatty acyl-AMP ligases (FAALs) in Mycobacterium tuberculosis is a variant of a classical theme that involves formation of acyl-CoA (coenzyme A) by fatty acyl-CoA ligases (FACLs). Here, we show that FAALs and FACLs possess similar structural fold and substrate specificity determinants, and the key difference is the absence of a unique insertion sequence in FACL13 structure. A systematic analysis shows a conserved hydrophobic anchorage of the insertion motif across several FAALs. Strikingly, mutagenesis of two phenylalanine residues, which are part of the anchorage, to alanine converts FAAL32 to FACL32. This insertion-based in silico analysis suggests the presence of FAAL homologues in several other non-mycobacterial genomes including eukaryotes. The work presented here establishes an elegant mechanism wherein an insertion sequence drives the functional divergence of FAALs from canonical FACLs.
+http://www.sciencedirect.com/science/article/pii/S0022283611013350
+00222836

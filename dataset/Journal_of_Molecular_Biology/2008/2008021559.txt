@@ -1,0 +1,6 @@
+Coulomb Forces Control the Density of the Collapsed Unfolded State of Barstar
+7401952893,7004064626,55803190000,7005273608,7003878592
+barstar,collapse,protein folding,single-molecule fluorescence
+Although it has been recently shown that unfolded polypeptide chains undergo a collapse on transfer from denaturing to native conditions, the forces determining the dynamics and the size of the collapsed form have not yet been understood. Here, we use single-molecule fluorescence resonance energy transfer experiments on the small protein barstar to characterize the unfolded chain in guanidinium chloride (GdmCl) and urea. The unfolded protein collapses on decreasing the concentration of denaturants. Below the critical concentration of 3.5 M denaturant, the collapse in GdmCl leads to a more dense state than in urea. Since it is known that GdmCl suppresses electrostatic interactions, we infer that Coulomb forces are the dominant forces acting in the unfolded barstar under native conditions. This hypothesis is clearly buttressed by the finding of a compaction of the unfolded barstar by addition of KCl at low urea concentrations.
+http://www.sciencedirect.com/science/article/pii/S0022283607015847
+00222836

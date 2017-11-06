@@ -1,0 +1,6 @@
+Enhancement of Transactivation Activity of Rta of Epstein-Barr Virus by RanBPM
+35502894200,7409460310,55470161300,57133263800,7201692071,7101993180,57154842300
+Epstein-Barr virus,Rta,RanBPM
+Epstein-Barr virus (EBV) expresses the immediate-early protein Rta to activate the transcription of EBV lytic genes and the lytic cycle. We show that RanBPM acts as a binding partner of Rta in yeast two-hybrid analysis. The binding was confirmed by glutathione-S-transferase pull-down assay. A coimmunoprecipitation experiment and confocal microscopy revealed that RanBPM and Rta interact in vivo and colocalize in the nucleus. The interaction appears to involve the SPRY domain in RanBPM and the region between amino acid residues 416 to 476 in Rta. The interaction promotes the transactivation activity of Rta in activating the transcription of BMLF1 and p21 in transient transfection assays. Additionally, RanBPM interacts with SUMO-E2 (Ubc9) to promote sumoylation of Rta by SUMO-1. This fact explains why the expression of RanBPM enhances the transactivation activity of Rta. Taken together, the present results indicate a new role of RanBPM in regulating a viral protein that is critical to EBV lytic activation.
+http://www.sciencedirect.com/science/article/pii/S0022283608004300
+00222836

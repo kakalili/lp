@@ -1,0 +1,6 @@
+The Bacteriophage Genome Undergoes a Succession of Intracapsid Phase Transitions upon DNA Ejection
+6602080078,7004680583
+bacteriophage,cryo-electron microscopy,liquid crystal,DNA packaging,DNA ejection
+Double-stranded DNA bacteriophage genomes are densely packaged into capsids until the ejection is triggered upon interaction of the tail with the bacterial receptor. Using cryo-electron microscopy, we describe the organization of the genome in the full capsid of T5 and show how it undergoes a series of phase transitions upon progressive ejection when the encapsidated DNA length decreases. Monodomains of hexagonally crystallized DNA segments initially form a three-dimensional lattice of defects. The structure turns liquid crystalline (two-dimensional hexagonal and then cholesteric) and finally isotropic. These structures suggest a mechanism in which defects of the full capsid would initiate the ejection and introduce the necessary fluidity to relax the constrained mosaic crystal to let the genome start flowing out of the capsid.
+http://www.sciencedirect.com/science/article/pii/S0022283609014417
+00222836

@@ -1,0 +1,6 @@
+Unwinding of Forked DNA Structures by UvrD
+56632846300,7006122185,6701659421
+helicase,genome stability,replication,recombination
+Many studies have demonstrated the need for processing of blocked replication forks to underpin genome duplication. UvrD helicase in Escherichia coli has been implicated in the processing of damaged replication forks, or the recombination intermediates formed from damaged forks. Here we show that UvrD can unwind forked DNA structures, in part due to the ability of UvrD to initiate unwinding from discontinuities within the phosphodiester backbone of DNA. UvrD does therefore have the capacity to target DNA intermediates of replication and recombination. Such an activity resulted in unwinding of what would be the parental duplex DNA ahead of either a stalled replication fork or a D-loop formed by recombination. However, UvrD had a substrate preference for fork structures having a nascent lagging strand at the branch point but no leading strand. Furthermore, at such structures the polarity of UvrD altered so that unwinding of the lagging strand predominated. This reaction is reminiscent of the PriC-Rep pathway of replication restart, suggesting that UvrD and Rep may have at least partially redundant functions.
+http://www.sciencedirect.com/science/article/pii/S0022283606007674
+00222836

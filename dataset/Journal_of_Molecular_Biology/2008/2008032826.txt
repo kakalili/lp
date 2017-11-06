@@ -1,0 +1,6 @@
+Insect Juvenile Hormone Binding Protein Shows Ancestral Fold Present in Human Lipid-Binding Proteins
+7801610795,6603986318,11739874600,6701480692,7006167504,7004919684
+Galleria mellonella,hemolymph,hormone-binding protein,JHBP fold,juvenile hormone
+Low molecular weight juvenile hormone binding proteins (JHBPs) are specific carriers of juvenile hormone (JH) in the hemolymph of butterflies and moths. As hormonal signal transmitters, these proteins exert a profound effect on insect development. The crystal structure of JHBP from Galleria mellonella shows an unusual fold consisting of a long α-helix wrapped in a highly curved antiparallel β-sheet. JHBP structurally resembles the folding pattern found in tandem repeats in some mammalian lipid-binding proteins, with similar organization of one cavity and a disulfide bond between the long helix and the β-sheet. JHBP reveals, therefore, an archetypal fold used by nature for hydrophobic ligand binding. The JHBP molecule possesses two hydrophobic cavities. Several lines of experimental evidence conclusively indicate that JHBP binds JH in only one cavity, close to the N- and C-termini, and that this binding induces a structural change. The second cavity, located at the opposite end of the molecule, could bind another ligand.
+http://www.sciencedirect.com/science/article/pii/S0022283608000429
+00222836

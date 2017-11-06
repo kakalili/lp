@@ -1,0 +1,6 @@
+Protein Vivisection Reveals Elusive Intermediates in Folding
+36524509900,7005833979
+Psi-analysis,ubiquitin,protein engineering,native-state hydrogen exchange,NMR
+Although most folding intermediates escape detection, their characterization is crucial to the elucidation of folding mechanisms. Here, we outline a powerful strategy to populate partially unfolded intermediates: A buried aliphatic residue is substituted with a charged residue (e.g., Leu→Glu−) to destabilize and unfold a specific region of the protein. We applied this strategy to ubiquitin, reversibly trapping a folding intermediate in which the β5-strand is unfolded. The intermediate refolds to a native-like structure upon charge neutralization under mildly acidic conditions. Characterization of the trapped intermediate using NMR and hydrogen exchange methods identifies a second folding intermediate and reveals the order and free energies of the two major folding events on the native side of the rate-limiting step. This general strategy may be combined with other methods and have broad applications in the study of protein folding and other reactions that require trapping of high-energy states.
+http://www.sciencedirect.com/science/article/pii/S0022283610001117
+00222836

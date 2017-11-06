@@ -1,0 +1,6 @@
+Regulator of Calcineurin (RCAN-1) Regulates Thermotaxis Behavior in Caenorhabditiselegans
+36673120800,44161038800,35481351000,36066753700
+RCAN,calcineurin,CREB,thermotaxis,Caenorhabditis elegans
+Regulator of calcineurin (RCAN) is a calcineurin-interacting protein that inhibits calcineurin phosphatase when overexpressed, often upregulated under neuropathological conditions with impaired learning and memory processes, such as Down syndrome or Alzheimer's disease. Thermotactic behavior in the nematode Caenorhabditis elegans is a form of memory in which calcineurin signaling plays a pivotal role in the thermosensation of AFD neurons. In this study, we found that rcan-1 deletion mutants exhibited cryophilic behavior dependent on tax-6, which was rescued by expressing rcan-1 in AFD neurons. Interaction between RCAN-1 and TAX-6 requires the conserved PxIxIT motif of RCAN-1, without which thermotactic behavior could not be fully rescued. In addition, the loss of crh-1/CREB suppressed the thermotaxis phenotypes of rcan-1 and tax-6 mutants, indicating that crh-1 is crucial in thermotaxis memory in these mutants. Taken together, our results suggest that rcan-1 is an inhibitory regulator of tax-6 and that it acts in the formation of thermosensory behavioral memory in C. elegans.
+http://www.sciencedirect.com/science/article/pii/S0022283615004192
+00222836

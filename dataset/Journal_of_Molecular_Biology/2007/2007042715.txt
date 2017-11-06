@@ -1,0 +1,6 @@
+Solution Structure and Self-association Properties of the p8 TFIIH Subunit Responsible for Trichothiodystrophy
+16067637500,6701802660,11441056900,7402373186,7102899054,7005722533,6701409088,57152353300
+NMR,trichothiodystrophy:nucleotide excision repair:TFIIH
+Trichothiodystrophy (TTD) is a rare hereditary multi-system disorder associated with defects in nucleotide excision repair (NER) and transcription as consequences of mutations in XPB, XPD and p8/TTD-A subunits of transcription factor IIH (TFIIH). Here, we report the solution structure of the p8/TTD-A protein, a small α/β protein built around an antiparallel β-sheet that forms a homodimer with an extended interface. In order to characterize the dimer interface, we have introduced a mutation at position 44, which destabilizes the dimeric form of the protein. We have shown that this mutation has no effect on the intrinsic ability of p8/TTD-A to stimulate NER in vitro, but affects the capacity of p8/TTD-A to restore TFIIH concentration in TTD-A fibroblasts. Point mutations found in TTD-A patients are discussed on the basis of the present structure.
+http://www.sciencedirect.com/science/article/pii/S002228360700201X
+00222836

@@ -1,0 +1,6 @@
+Characterization of a Myosin VII MyTH/FERM Domain
+53866892900,53866568300,7601530902,7007019193
+MyTH4,FERM,myosin VII,microtubules,actin
+A group of closely related myosins is characterized by the presence of at least one MyTH/FERM (myosin tail homology; band 4.1, ezrin, radixin, moesin) domain in their C-terminal tails. This domain interacts with a variety of binding partners, and mutations in either the MyTH4 or the FERM domain of myosin VII and myosin XV result in deafness, highlighting the functional importance of each domain. The N-terminal MyTH/FERM region of Dictyostelium myosin VII (M7) has been isolated as a first step toward gaining insight into the function of this domain and its interaction with binding partners. The M7 MyTH4/FERM domain (MF1) binds to both actin and microtubules in vitro, with dissociation constants of 13.7 and 1.7 μM, respectively. Gel filtration and UV spectroscopy reveal that MF1 exists as a monomer in solution and forms a well-folded, compact conformation with a high degree of secondary structure. These results indicate that MF1 forms an integrated structural domain that serves to couple actin filaments and microtubules in specific regions of the cytoskeleton.
+http://www.sciencedirect.com/science/article/pii/S002228361100934X
+00222836

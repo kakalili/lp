@@ -1,0 +1,6 @@
+Formation of hydrogen bonds precedes the rate-limiting formation of persistent structure in the folding of ACBP11Edited by C. R. Matthews
+6602968088,6602564073,7202772685,7005473282
+protein folding,hydrogen exchange,hydrogen bonds,quenched-flow,ACBP
+A burst phase in the early folding of the four-helix two-state folder protein acyl-coenzyme A binding protein (ACBP) has been detected using quenched-flow in combination with site-specific NMR-detected hydrogen exchange. Several of the burst phase structures coincide with a structure consisting of eight conserved hydrophobic residues at the interface between the two N and C-terminal helices. Previous mutation studies have shown that the formation of this structure is rate limiting for the final folding of ACBP. The burst phase structures observed in ACBP are different from the previously reported collapsed types of burst phase intermediates observed in the folding of other proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283600940038
+00222836

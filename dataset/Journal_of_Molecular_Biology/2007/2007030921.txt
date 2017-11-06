@@ -1,0 +1,6 @@
+Physical Responses of Bacterial Chemoreceptors
+6701372260,7201856564
+chemotaxis,receptors,membrane proteins,fluorescence polarization,fluorescence resonance energy transfer
+Chemoreceptors of the bacterium Escherichia coli are thought to form trimers of homodimers that undergo conformational changes upon ligand binding and thereby signal a cytoplasmic kinase. We monitored the physical responses of trimers in living cells lacking other chemotaxis proteins by fluorescently tagging receptors and measuring changes in fluorescence anisotropy. These changes were traced to changes in energy transfer between fluorophores on different dimers of a trimer: attractants move these fluorophores farther apart, and repellents move them closer together. These measurements allowed us to define the responses of bare receptor oligomers to ligand binding and compare them to the corresponding response in kinase activity. Receptor responses could be fit by a simple “two-state” model in which receptor dimers are in either active or inactive conformations, from which energy bias and dissociation constants could be estimated. Comparison with responses in kinase-activity indicated that higher-order interactions are dominant in receptor clusters.
+http://www.sciencedirect.com/science/article/pii/S0022283606017001
+00222836

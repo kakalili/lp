@@ -1,0 +1,6 @@
+How Reliable are Experimental Protein–Protein Interaction Data?
+6603346177,6506834908,7003661401
+protein–protein interaction,genome-wide analysis,yeast two-hybrid,cellular localization,cellular-role
+Data of protein–protein interactions provide valuable insight into the molecular networks underlying a living cell. However, their accuracy is often questioned, calling for a rigorous assessment of their reliability. The computation offered here provides an intelligible mean to assess directly the rate of true positives in a data set of experimentally determined interacting protein pairs. We show that the reliability of high-throughput yeast two-hybrid assays is about 50%, and that the size of the yeast interactome is estimated to be 10,000–16,600 interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283603002390
+00222836

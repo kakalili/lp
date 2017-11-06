@@ -1,0 +1,6 @@
+Preformed secondary structure drives the association reaction of GCN4-p1, a model coiled-coil system11Edited by P. E. Wright
+6602985805,6602769408,6603954386,7102854975,56235307600
+protein folding,leucine zipper peptides,circular dichroism,helix formation,framework model
+The structure of the transition state for the rate-limiting step in the folding and association of the homodimeric coiled-coil peptide GCN4-p1, was probed by mutational analysis. A series of quadruple amino acid replacements that spanned the helix propensity scale were made at the four external f positions in the heptad repeat. Equilibrium and kinetic circular dichroism studies demonstrate that both the stability and the unfolding and refolding rate constants vary with helix propensity but also reflect interactions of the altered side-chains with their local environments. Pairwise replacements and fragment studies show that the two C-terminal heptads are the likely source of the nucleating helices. Helix-helix recognition between preformed elements of secondary structure plays an important role in this fundamental folding reaction.
+http://www.sciencedirect.com/science/article/pii/S0022283600935071
+00222836

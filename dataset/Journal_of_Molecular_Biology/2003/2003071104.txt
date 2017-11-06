@@ -1,0 +1,6 @@
+The Crystal Structure of AF1521 a Protein from Archaeoglobus fulgidus with Homology to the Non-histone Domain of MacroH2A
+7404105591,35547911900,6603608155,7401790616,7005973731
+histone macroH2A,crystal structure,P-loop nucleotide hydrolases,RNA binding,X-chromosome inactivation
+MacroH2A is an unusual histone H2A variant that has an extensive C-terminal tail that comprises approximately two thirds of the protein. The C-terminal non-histone domain of macroH2A is also found in a number of other proteins and has been termed the macro domain. Here we report the crystal structure to 1.7Å of AF1521, a protein consisting of a stand-alone macro domain from Archaeoglobus fulgidus. The structure has a mixed α/β fold that closely resembles the N-terminal DNA binding domain of the Escherichia coli leucine aminopeptidase PepA. The structure also shows some similarity to members of the P-loop family of nucleotide hydrolases.
+http://www.sciencedirect.com/science/article/pii/S002228360300473X
+00222836

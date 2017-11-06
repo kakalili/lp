@@ -1,0 +1,6 @@
+Roles of RNA:DNA hybrid stability, RNA structure, and active site conformation in pausing by human RNA polymerase II11Edited by K. Yamamoto
+6508310923,7005639387
+RNA polymerase,pausing,transcriptional regulation,RNA:DNA hybrid
+Human RNA polymerase II recognizes a strong transcriptional pause signal in the initially transcribed region of HIV-1. We report the use of a limited-step transcription assay to dissect the mechanism underlying recognition of and escape from this HIV-1 pause. Our results suggest that the primary determinant of transcriptional pausing is a relatively weak RNA:DNA hybrid that triggers backtracking of RNA polymerase II along the RNA and DNA chains and displaces the RNA 3′ OH from the active site. In contrast, two alternative RNA secondary structures, TAR and anti-TAR, are not required for pausing and affect it only indirectly, rather than through direct interaction with RNA polymerase II. TAR accelerates escape from the pause, but anti-TAR inhibits formation of TAR prior to pause escape. The behavior of RNA polymerase II at a mutant pause signal supports a two-step, non-equilibrium mechanism in which the rate-determining step is a conformational change in the enzyme, rather than the changes in nucleic-acid base-pairing that accompany backtracking.
+http://www.sciencedirect.com/science/article/pii/S0022283601948429
+00222836

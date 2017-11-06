@@ -1,0 +1,6 @@
+Folding Amphipathic Helices Into Membranes: Amphiphilicity Trumps Hydrophobicity
+19638730100,7005843309,7003387868,35401655400
+antimicrobial peptides,toxins,membrane proteins,peptide secondary structure,hydrophobic moment
+High amphiphilicity is a hallmark of interfacial helices in membrane proteins and membrane-active peptides, such as toxins and antimicrobial peptides. Although there is general agreement that amphiphilicity is important for membrane-interface binding, an unanswered question is its importance relative to simple hydrophobicity-driven partitioning. We have examined this fundamental question using measurements of the interfacial partitioning of a family of 17-residue amidated-acetylated peptides into both neutral and anionic lipid vesicles. Composed only of Ala, Leu, and Gln residues, the amino acid sequences of the peptides were varied to change peptide amphiphilicity without changing total hydrophobicity. We found that peptide helicity in water and interface increased linearly with hydrophobic moment, as did the favorable peptide partitioning free energy. This observation provides simple tools for designing amphipathic helical peptides. Finally, our results show that helical amphiphilicity is far more important for interfacial binding than simple hydrophobicity.
+http://www.sciencedirect.com/science/article/pii/S0022283607006262
+00222836

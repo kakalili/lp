@@ -1,0 +1,6 @@
+Physicochemical Determinants of Chaperone Requirements
+15840553700,56623994700,56238765200,7007094071
+molecular chaperones,protein solubility,protein abundance,protein homeostasis
+We describe a series of stringent relationships between abundance, solubility and chaperone usage of proteins. Based on these relationships, we show that the need of Escherichia coli proteins for the chaperonin GroEL can be predicted with 86% accuracy. Furthermore, from the observation that the abundance and solubility of proteins depend on the physicochemical properties of their amino acid sequences, we demonstrate that the requirement for GroEL can also be predicted directly from the sequences with 90% accuracy. These results indicate that the physicochemical properties of the amino acid sequences represent an essential component of the cellular quality control system that ensures the maintenance of protein homeostasis in living systems.
+http://www.sciencedirect.com/science/article/pii/S0022283610003773
+00222836

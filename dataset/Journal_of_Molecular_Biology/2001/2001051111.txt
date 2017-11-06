@@ -1,0 +1,6 @@
+Two-dimensional crystallization of a membrane protein on a detergent-resistant lipid monolayer11Edited by R. Huber
+7006559897,6507085277,6602842384,7005499721,57194795138,57190850516,7007111534,7006010107,7102249369
+lipid layer crystallization,2D crystal,membrane protein,nickel-chelating lipid,fluorinated lipid
+Two-dimensional crystals of a membrane protein, the proton ATPase from plant plasma membranes, have been obtained by a new strategy based on the use of functionalized, fluorinated lipids spread at the air-water interface. Monolayers of the fluorinated lipids are stable even in the presence of high concentrations of various detergents as was established by ellipsometry measurements. A nickel functionalized fluorinated lipid was spread into a monolayer at the air-water interface. The overexpressed His-tagged ATPase solubilized by detergents was added to the subphase. 2D crystals of the membrane protein, embedded in a lipid bilayer, formed as the detergent was removed by adsorption. Electron microscopy indicated that the 2D crystals were single layers with dimensions of 10 μm or more. Image processing yielded a projection map at 9 Å resolution, showing three well-separated domains of the membrane-embedded proton ATPase.
+http://www.sciencedirect.com/science/article/pii/S0022283601946297
+00222836

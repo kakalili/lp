@@ -1,0 +1,6 @@
+SecA, the Motor of the Secretion Machine, Binds Diverse Partners on One Interactive Surface
+24484639500,7401798810,8934251000,24485019400,8934250500,7101999241
+SecA,EPR,translocon,SecB,precursors
+In all living cells, regulated passage across membranes of specific proteins occurs through a universally conserved secretory channel. In bacteria and chloroplasts, the energy for the mechanical work of moving polypeptides through that channel is provided by SecA, a regulated ATPase. Here, we use site-directed spin labeling and electron paramagnetic resonance spectroscopy to identify the interactive surface used by SecA for each of the diverse binding partners encountered during the dynamic cycle of export. Although the binding sites overlap, resolution at the level of aminoacyl side chains allows us to identify contacts that are unique to each partner. Patterns of constraint and mobilization of residues on that interactive surface suggest a conformational change that may underlie the coupling of ATP hydrolysis to precursor translocation.
+http://www.sciencedirect.com/science/article/pii/S0022283608007651
+00222836

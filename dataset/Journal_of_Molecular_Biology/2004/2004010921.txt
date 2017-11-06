@@ -1,0 +1,6 @@
+The Herpes Simplex Virus Processivity Factor, UL42, Binds DNA as a Monomer
+7004080413,7102713707
+processivity,oligomerization,sliding clamp,DNA binding,DNA replication
+The processivity subunit of the herpes simplex virus DNA polymerase, UL42, is a monomer in solution. However, UL42 is structurally similar to sliding clamp processivity factors, such as PCNA, which encircle DNA as a multimeric ring. We used chemical crosslinking and electrophoretic mobility-shift assays to investigate whether UL42 oligomerizes upon DNA binding. UL42 did not form intermolecular crosslinks upon treatment with glutaraldehyde in the presence of DNA, whereas proteins that are known to be multimers in solution were successfully crosslinked by this treatment. This result suggests that UL42 does not form multimers on DNA. We next analyzed the composition of UL42:DNA complexes using electrophoretic mobility-shift assays. UL42 was mixed with a maltose-binding protein–UL42 fusion protein before being added to DNA. The patterns of electrophoretic mobility of the resultant protein:DNA complexes were those predicted if each isoform of UL42 binds to DNA as a monomer. From this result and the failure of UL42 to form crosslinks, we infer that UL42 binds DNA as a monomer.
+http://www.sciencedirect.com/science/article/pii/S002228360301372X
+00222836

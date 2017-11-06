@@ -1,0 +1,6 @@
+Structural Basis for a High Affinity Inhibitor Bound to Protein Kinase MK2
+6603659101,15850405300,6602183425,57194968444,55809434800,6701485568,55840491700,6701329379
+structure,protein kinase,binding mode,soaking,co-crystallization
+The Ser/Thr protein kinase MAPKAP kinase 2 (MK2) plays a crucial role in inflammation. We determined the structure of the kinase domain of MK2 in complex with a low molecular mass inhibitor in two different crystal forms, obtained from soaking and co-crystallization. To our knowledge, these are the first structures of MK2 showing the binding mode of an inhibitor with high binding affinity (IC50 8.5 nM). The two crystal forms revealed conformational flexibility in the binding site and extend the experimental basis for rational drug design. Crystal form-1 contained one MK2 molecule per asymmetric unit. Form-2 contained 12 molecules, which arrange into two different types of MK2 trimers. One of them may serve as a model for an intermediate state during substrate phosphorylation, as each MK2 monomer places its activation segment into the substrate peptide binding groove of the trimer neighbor.
+http://www.sciencedirect.com/science/article/pii/S0022283607003336
+00222836

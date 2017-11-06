@@ -1,0 +1,6 @@
+Design Principles of a Universal Protein Degradation Machine
+6506569111,55708423700
+26S proteasome,ubiquitin,UPS,protein degradation,AAA+ ATPase
+The 26S proteasome is a 2.5-MDa, 32-subunit ATP-dependent protease that is responsible for the degradation of ubiquitinated protein targets in all eukaryotic cells. This proteolytic machine consists of a barrel-shaped peptidase capped by a large regulatory particle, which contains a heterohexameric AAA+ unfoldase as well as several structural modules of previously unknown function. Recent electron microscopy (EM) studies have allowed major breakthroughs in understanding the architecture of the regulatory particle, revealing that the additional modules provide a structural framework to position critical, ubiquitin-interacting subunits and thus allow the 26S proteasome to function as a universal degradation machine for a wide variety of protein substrates. The EM studies have also uncovered surprising asymmetries in the spatial arrangement of proteasome subunits, yet the functional significance of these architectural features remains unclear. This review will summarize the recent findings on 26S proteasome structure and discuss the mechanistic implications for substrate binding, deubiquitination, unfolding, and degradation.
+http://www.sciencedirect.com/science/article/pii/S002228361200856X
+00222836

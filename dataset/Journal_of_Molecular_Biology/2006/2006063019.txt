@@ -1,0 +1,6 @@
+Membrane-transferring Sequences of the HIV-1 Gp41 Ectodomain Assemble into an Immunogenic Complex
+6507634662,6602476851,7004676510,7006426091,7004317241
+HIV-1,gp41,HIV-1 fusion peptide,gp41 pre-transmembrane,2F5 antibody
+The membrane-proximal stem region of gp41 has been postulated to host the two conserved membrane-transferring domains that promote HIV-1 fusion: the amino-terminal fusion peptide (FP) and the highly aromatic pre-transmembrane sequence. Our results confirm that the hydrophobic FP and membrane-proximal sequences come into contact and form structurally defined complexes. These complexes are immunogenic and evoke responses in rabbits that compete with the recognition of native functional gp41 by the 2F5 monoclonal antibody. We conclude that co-assembly of the FP and the pre-transmembrane sequences might exert a constraint that helps maintain a gp41 stem region pre-fusion structure.
+http://www.sciencedirect.com/science/article/pii/S0022283606005353
+00222836

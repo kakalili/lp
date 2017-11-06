@@ -1,0 +1,6 @@
+Zooming In on Metagenomics: Molecular Microdiversity of Subtilisin Carlsberg in Soil
+6603947868,6603602188,23130599700,7006365431
+metagenome,population,diversity,enzyme,evolution
+Evolution has led to the development of a gigantic repertoire of microbial genes that can be exploited for industrial purposes. Due to microevolutionary processes, this gene pool is constantly varied and adapted to the prevalent environmental and physiological conditions. It though remains unclear to what extent gene variants coexist in natural habitats and to what extent they vanish due to competition. Here, we tapped the pool of gene variants of the serine protease Subtilisin Carlsberg present in soil habitats, demonstrating a high degree of (micro) diversity on a genetic level, as well as on a functional level. A set of 51 mature enzyme variants each carrying two to eight amino acid changes were recovered. While some mutations were only present in single variants, other changes appear to be rather conserved even across different habitats. The observed spectrum of biochemical properties makes persistent gene variants a potent source for biotechnologically relevant enzymes, expanding the toolbox of metagenomic approaches.
+http://www.sciencedirect.com/science/article/pii/S002228361200157X
+00222836

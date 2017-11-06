@@ -1,0 +1,6 @@
+Relative Affinity of Calcium Pump Isoforms for Phospholamban Quantified by Fluorescence Resonance Energy Transfer
+55892673300,6507052860
+phospholamban,SERCA1a,SERCA2a,calcium ATPase,affinity
+To investigate the regulation of SERCA1a [sarco(endo)plasmic reticulum calcium ATPase] and SERCA2a calcium pump isoforms by phospholamban (PLB), we quantified PLB-SERCA interactions by fluorescence resonance energy transfer (FRET) in live cells. For both SERCA1a and SERCA2a, FRET to PLB increased with increasing protein expression level to a maximum value corresponding to a probe separation distance of 64 Å. The data indicate that the respective regulatory complexes assume the same overall quaternary conformation. However, FRET measurements also revealed that PLB has a 50% higher apparent affinity for SERCA1a relative to SERCA2a. The results suggest that despite the structural similarities of the respective regulatory complexes, there is preferential binding of PLB to SERCA1a over SERCA2a. This apparent selectivity may have implications for biochemical studies in which SERCA1a is used as a substitute for SERCA2a. It may also be an important strategic consideration for therapeutic overexpression of SERCA isoforms in cardiac muscle.
+http://www.sciencedirect.com/science/article/pii/S002228361000776X
+00222836

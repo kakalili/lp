@@ -1,0 +1,6 @@
+Heat Shock Protein 70 Inhibits α-Synuclein Fibril Formation via Interactions with Diverse Intermediates
+8509681500,55474368400,7201637742,13405713100,7410271558,22941132300,7402036361,16312758800,8079548000
+α-synuclein,fibril,intermediate,heat shock protein 70,chaperone
+α-Synuclein (AS) is a main component of Lewy bodies in midbrain dopamine neurons pathologically characteristic of Parkinson's disease. We show that heat shock protein (Hsp) 70 inhibits AS fibril formation via preventing the formation of prefibrillar AS (PreAS), binding with PreAS to impede nuclei formation, and binding with nuclei to retard fibril elongation. Also, Hsp70 suppresses the PreAS-induced permeabilization of vesicular membrane through interactions with PreAS. The substrate-binding domain alone is sufficient for Hsp70 to inhibit AS fibril formation. The binding of Hsp70 with PreAS only requires the substrate-binding subdomain, and the binding with AS nuclei requires the C-terminal lid subdomain as well. The results may form the molecular basis for elucidating the mechanism of AS fibril formation and the crucial roles of chaperones in protecting proteins from toxic conversion in many conformational diseases.
+http://www.sciencedirect.com/science/article/pii/S0022283606011156
+00222836

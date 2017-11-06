@@ -1,0 +1,6 @@
+Various Themes of Myosin Regulation
+37665114800,7101651088
+actin,cytoskeleton,inhibitor,posttranslational regulation
+Members of the myosin superfamily are actin-based molecular motors that are indispensable for cellular homeostasis. The vast functional and structural diversity of myosins accounts for the variety and complexity of the underlying allosteric regulatory mechanisms that determine the activation or inhibition of myosin motor activity and enable precise timing and spatial aspects of myosin function at the cellular level. This review focuses on the molecular basis of posttranslational regulation of eukaryotic myosins from different classes across species by allosteric intrinsic and extrinsic effectors. First, we highlight the impact of heavy and light chain phosphorylation. Second, we outline intramolecular regulatory mechanisms such as autoinhibition and subsequent activation. Third, we discuss diverse extramolecular allosteric mechanisms ranging from actin-linked regulatory mechanisms to myosin:cargo interactions. At last, we briefly outline the allosteric regulation of myosins with synthetic compounds.
+http://www.sciencedirect.com/science/article/pii/S0022283616000413
+00222836

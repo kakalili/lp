@@ -1,0 +1,6 @@
+ATP-Induced Allostery in the Eukaryotic Chaperonin CCT Is Abolished by the Mutation G345D in CCT4 that Renders Yeast Temperature-Sensitive for Growth
+8215670200,6701645589,6604038888,7004364473,7007064036
+CCT,TCP-1,chaperonins,allostery,protein folding
+Saccharomyces cerevisiae yeast cells containing the chaperonin CCT (chaperonin-containing t-complex polypeptide 1 (TCP-1)) with the G345D mutation in subunit CCT4 (anc2-1) are temperature-sensitive for growth and display defects in organization of actin structure, budding and cell shape. In this first structure–function analysis of CCT, we show that this mutation abolishes both intra- and inter-ring cooperativity in ATP binding by CCT. The finding that a single mutation in only one subunit in each CCT ring has such drastic effects highlights the importance of allostery for its in vivo function. These results, together with other kinetic data for wild-type CCT reported in this study, provide support for the sequential model for ATP-dependent allosteric transitions in CCT.
+http://www.sciencedirect.com/science/article/pii/S0022283608000296
+00222836

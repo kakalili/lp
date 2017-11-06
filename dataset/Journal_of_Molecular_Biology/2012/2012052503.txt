@@ -1,0 +1,6 @@
+The Amino-Terminal Helix Modulates Light-Activated Conformational Changes in AsLOV2
+55123958600,23666180500,7005833979
+LOV domains,PAS domains,NMR
+The mechanism of light-triggered conformational change and signaling in light-oxygen-voltage (LOV) domains remains elusive in spite of extensive investigation and their use in optogenetic studies. The LOV2 domain of Avena sativa phototropin 1 (AsLOV2), a member of the Per-Arnt-Sim (PAS) family, contains a flavin mononucleotide chromophore that forms a covalent bond with a cysteine upon illumination. This event leads to the release of the carboxy-terminal Jα helix, the biological output signal. Using mutational analysis, circular dichroism, and NMR, we find that the largely ignored amino-terminal helix is a control element in AsLOV2's light-activated conformational change. We further identify a direct amino-to-carboxy-terminal “input–output” signaling pathway. These findings provide a framework to rationalize the LOV domain architecture, as well as the signaling mechanisms in both isolated and tandem arrangements of PAS domains. This knowledge can be applied in engineering LOV-based photoswitches, opening up new design strategies and improving existing ones.
+http://www.sciencedirect.com/science/article/pii/S0022283612002094
+00222836

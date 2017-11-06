@@ -1,0 +1,6 @@
+Two-state expansion and collapse of a polypeptide11Edited by A. R. Fersht
+7102498538,35233140900
+cytochrome c,molten globule,collapse,temperature-jump,denatured states
+The initial phase of folding for many proteins is presumed to be the collapse of the polypeptide chain from expanded to compact, but still denatured, conformations. Theory and simulations suggest that this collapse may be a two-state transition, characterized by barrier-crossing kinetics, while the collapse of homopolymers is continuous and multi-phasic. We have used a laser temperature-jump with fluorescence spectroscopy to measure the complete time-course of the collapse of denatured cytochrome c with nanosecond time resolution. We find the process to be exponential in time and thermally activated, with an apparent activation energy ∼9 kBT (after correction for solvent viscosity). These results indicate that polypeptide collapse is kinetically a two-state transition. Because of the observed free energy barrier, the time scale of polypeptide collapse is dramatically slower than is predicted by Langevin models for homopolymer collapse.
+http://www.sciencedirect.com/science/article/pii/S002228360093969X
+00222836

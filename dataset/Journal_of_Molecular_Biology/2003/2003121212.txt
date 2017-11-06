@@ -1,0 +1,6 @@
+Interaction of the Repressor Element 1-silencing Transcription Factor (REST) with Target Genes
+7102583677,7004845213,7202888991,55474299200,7003865303,6603185779,7102676785
+chromatin,gene expression,neuron
+The repressor element 1-silencing transcription factor (REST) has been proposed to restrict expression of repressor element 1 (RE1) bearing genes to differentiated neurons by silencing their expression in non-neural tissue. Here, we have examined the interaction of REST with the M4 muscarinic acetylcholine receptor gene. We show that REST binds to the RE1 of the M4 gene in those cell lines and brain regions where the M4 gene is expressed but not in those where the M4 is not expressed. Furthermore, in cells that express M4, the presence of REST represses but is insufficient to silence transcription of M4. In non-neural cells REST is absent from the RE1 of the silent M4 gene and perturbation of REST function fails to induce M4 expression. We propose that REST acts to regulate expression levels of some RE1-bearing genes in neural cells, thereby playing an important role in defining neuronal activity.
+http://www.sciencedirect.com/science/article/pii/S0022283603012713
+00222836

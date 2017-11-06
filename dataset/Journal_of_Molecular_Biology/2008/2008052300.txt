@@ -1,0 +1,6 @@
+Folding Kinetics of Large RNAs
+21742822300,7004463099,6508361997,55883113200,7004324809,7004629363,7005342372,7102702401,8067738400
+RNA folding kinetics,co-transcriptional folding,folding pathway,metastable structure,folding trajectories
+We introduce here a heuristic approach to kinetic RNA folding that constructs secondary structures by stepwise combination of building blocks. These blocks correspond to subsequences and their thermodynamically optimal structures. These are determined by the standard dynamic programming approach to RNA folding. Folding trajectories are modeled at base-pair resolution using the Morgan–Higgs heuristic and a barrier tree-based heuristic to connect combinations of the local building blocks. Implemented in the program Kinwalker, the algorithm allows co-transcriptional folding and can be used to fold sequences of up to about 1500 nucleotides in length. A detailed comparison with several well-studied examples from the literature, including the delayed folding of bacteriophage cloverleaf structures, the adenine sensing riboswitch, and the hok RNA, shows an excellent agreement of predicted trajectories and experimental evidence. The software is available as part of the ViennaRNA Package.
+http://www.sciencedirect.com/science/article/pii/S002228360800274X
+00222836

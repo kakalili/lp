@@ -1,0 +1,6 @@
+Functional Antagonism of Human CD40 Achieved by Targeting a Unique Species-Specific Epitope
+7801340561,7005408957,6701564845,15077485000,15068736900,56136950300,57190091934,6602424299,7003973448,55474051200,56479892600,7101736874,25930368800,7006639058,7102606663,7103369135,35763878400
+CD40,X-ray structure,autoimmune disease,domain antibody,therapeutic
+Current clinical anti-CD40 biologic agents include both antagonist molecules for the treatment of autoimmune diseases and agonist molecules for immuno-oncology, yet the relationship between CD40 epitope and these opposing biological outcomes is not well defined. This report describes the identification of potent antagonist domain antibodies (dAbs) that bind to a novel human CD40-specific epitope that is divergent in the CD40 of nonhuman primates. A similarly selected anti-cynomolgus CD40 dAb recognizing the homologous epitope is also a potent antagonist. Mutagenesis, biochemical, and X-ray crystallography studies demonstrate that the epitope is distinct from that of CD40 agonists. Both the human-specific and cynomolgus-specific molecules remain pure antagonists even when formatted as bivalent Fc-fusion proteins, making this an attractive therapeutic format for targeting hCD40 in autoimmune indications.
+http://www.sciencedirect.com/science/article/pii/S0022283616301693
+00222836

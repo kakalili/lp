@@ -1,0 +1,6 @@
+Structure of a mutant EF-G reveals domain III and possibly the fusidic acid binding site11Edited by I. A. Wilson
+6602585763,7005596469,6701477722,7103372704,55394265200,7403464527,7006264228
+proteins synthesis,elongation factor G,crystal structure,conformational change,fusidic acid resistance
+The crystal structure of Thermus thermophilus elongation factor G (EF-G) carrying the point mutation His573Ala was determined at a resolution of 2.8 Å. The mutant has a more closed structure than that previously reported for wild-type EF-G. This is obtained by a 10° rigid rotation of domains III, IV and V with regard to domains I and II. This rotation results in a displacement of the tip of domain IV by approximately 9 Å. The structure of domain III is now fully visible and reveals the double split β-α-β motif also observed for EF-G domain V and for several ribosomal proteins. A large number of fusidic acid resistant mutations found in domain III have now been possible to locate. Possible locations for the effector loop and a possible binding site for fusidic acid are discussed in relation to some of the fusidic acid resistant mutations.
+http://www.sciencedirect.com/science/article/pii/S0022283600941688
+00222836

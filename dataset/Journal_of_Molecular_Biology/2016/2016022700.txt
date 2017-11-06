@@ -1,0 +1,6 @@
+Functionalization of an Antisense Small RNA
+16317175400,56688110000,56644438300,37112479100,18437144500
+biotechnology,computational design,information encoding,regulatory RNA,synthetic biology
+In order to explore the possibility of adding new functions to preexisting genes, we considered a framework of riboregulation. We created a new riboregulator consisting of the reverse complement of a known riboregulator. Using computational design, we engineered a cis-repressing 5′ untranslated region that can be activated by this new riboregulator. As a result, both RNAs can orthogonally trans-activate translation of their cognate, independent targets. The two riboregulators can also repress each other by antisense interaction, although not symmetrically. Our work highlights that antisense small RNAs can work as regulatory agents beyond the antisense paradigm and that, hence, they could be interfaced with other circuits used in synthetic biology.
+http://www.sciencedirect.com/science/article/pii/S0022283615007135
+00222836

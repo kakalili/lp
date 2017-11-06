@@ -1,0 +1,6 @@
+Localization of the δ subunit in the Escherichia coli F1F0-ATPsynthase by immuno electron microscopy: the δ subunit binds on top of the F111Edited by W. Baumeister
+56265270000,15739079100,36902224500,7201627139,7102668168
+F1F0-ATPsynthase,δ subunit,second stalk,electron microscopy
+The binding site of the δ subunit in the F1F0-ATPsynthase from Escherichia coli has been determined by electron microscopy of negatively stained, antibody-decorated enzyme molecules. The images show that the antibody is bound at the very top of the F1 domain indicating that at least part of δ is bound in the dimple formed by the N termini of the α and β subunits. The data may explain why there is only one binding site for δ on the F1 despite there being three identical αβ pairs. The finding also implies that the b subunits of the F0 have to extend all the way from the membrane surface to the very top of the F1 domain to make contact with the δ subunit.
+http://www.sciencedirect.com/science/article/pii/S0022283699933818
+00222836

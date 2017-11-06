@@ -1,0 +1,6 @@
+An RNA Conformational Switch Regulates Pre-18S rRNA Cleavage
+6701783341,6506167782
+ribosome assembly,RNA conformational switch,RNA cleavage,RNP assembly
+To produce mature ribosomal RNAs (rRNAs), polycistronic rRNA transcripts are cleaved in an ordered series of events. We have uncovered the molecular basis for the ordering of two essential cleavage steps at the 3′-end of 18S rRNA. Using in vitro and in vivo structure probing, RNA binding and cleavage experiments, and yeast genetics, we demonstrate that a conserved RNA sequence in the spacer region between the 18S and 5.8S rRNAs base-pairs with the decoding site of 18S rRNA in early assembly intermediates. Nucleolar cleavage at site A2 excises this sequence element, leading to a conformational switch in pre-18S rRNA, by which the ribosomal decoding site is formed. This conformational switch positions the nuclease Nob1 for cytoplasmic cleavage at the 3′-end of 18S rRNA and is required for the final maturation step of 18S rRNA in vivo and in vitro. More generally, our data show that the intrinsic ability of RNA to form stable structural switches is exploited to order and regulate RNA-dependent biological processes.
+http://www.sciencedirect.com/science/article/pii/S002228361001082X
+00222836

@@ -1,0 +1,6 @@
+Defining how Ubiquitin Receptors hHR23a and S5a Bind Polyubiquitin
+55031425100,55277413700,7004638374,7403376290,7102916305
+ubiquitin receptors,proteasome subunit S5a,hHR23a,Rad23,proteasomal degradation
+Ubiquitin receptors connect substrate ubiquitylation to proteasomal degradation. HHR23a binds proteasome subunit 5a (S5a) through a surface that also binds ubiquitin. We report that UIM2 of S5a binds preferentially to hHR23a over polyubiquitin, and we provide a model for the ternary complex that we expect represents one of the mechanisms used by the proteasome to capture ubiquitylated substrates. Furthermore, we demonstrate that hHR23a is surprisingly adept at sequestering the ubiquitin moieties of a polyubiquitin chain, and provide evidence that it and the ubiquitylated substrate are committed to each other after binding.
+http://www.sciencedirect.com/science/article/pii/S0022283607003373
+00222836

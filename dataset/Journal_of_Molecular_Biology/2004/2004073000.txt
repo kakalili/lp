@@ -1,0 +1,6 @@
+A Functional Interaction Between RHA and Ubc9, an E2-like Enzyme Specific for Sumo-1
+7801467536,55725416000,15919081800,7202248496,23011814000
+CREB,maleless,RNA helicase A,Sumo-1,Ubc9
+RNA helicase A (RHA) is a member of the DEAH helicase family of proteins. Recent studies imply the role of RHA in the regulation of the topology of chromatin DNA, which could influence diverse nuclear processes such as transcription activity of the chromatin DNA and chromosome condensation. We previously reported that Ubc9, an E2-like enzyme specific for small ubiquitin-like modifier 1 (Sumo-1), is required for the interaction between RHA and topoisomerase IIα. Here, we describe that Ubc9 is a novel factor that functionally interacts with RHA and activates the transcription activity of RHA, measured in the CREB-mediated pathway. We demonstrate that the N-terminal domain of RHA, encompassing amino acid residues 1–137, is sufficient for its interaction with Ubc9. Our data also show that interaction with Ubc9 leads to the Sumo-1 conjugation of RHA both in vitro and in vivo. However, the catalytic activity of Ubc9 seems to be dispensable for the transcription activation activity of RHA. Our observation suggests multiple roles for Ubc9 in the regulation of the RHA function.
+http://www.sciencedirect.com/science/article/pii/S0022283604006552
+00222836

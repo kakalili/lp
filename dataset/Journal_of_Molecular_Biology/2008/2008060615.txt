@@ -1,0 +1,6 @@
+tRNA Integrity Is a Prerequisite for Rapid CCA Addition: Implication for Quality Control
+6505764393,24168875000,24168103200,7006471270,7402198867
+kinetic quality control,tRNA surveillance,single-turnover kinetics
+CCA addition to the 3′ end is an essential step in tRNA maturation. High-resolution crystal structures of the CCA enzymes reveal primary enzyme contact with the tRNA minihelix domain, consisting of the acceptor stem and T stem–loop. RNA and DNA minihelices are efficient substrates for CCA addition in steady-state kinetics. However, in contrast to structural models and steady-state experiments, we show here by single-turnover kinetics that minihelices are insufficient substrates for the Escherichia coli CCA enzyme and that only the full-length tRNA is kinetically competent. Even a nick in the full-length tRNA backbone in the T loop, or as far away from the minihelix domain as in the anticodon loop, prevents efficient CCA addition. These results suggest a kinetic quality control provided by the CCA enzyme to inspect the integrity of the tRNA molecule and to discriminate against nicked or damaged species from further maturation.
+http://www.sciencedirect.com/science/article/pii/S0022283608004129
+00222836

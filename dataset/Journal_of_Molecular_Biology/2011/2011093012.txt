@@ -1,0 +1,6 @@
+Active State of Sensory Rhodopsin II: Structural Determinants for Signal Transfer and Proton Pumping
+40561259100,55194323200,35101679100,53063781900,47461570500,8414751400,7006474533,7003894783,7003606807
+bacterial rhodopsins,membrane protein,active state,signaling
+The molecular mechanism of transmembrane signal transduction is still a pertinent question in cellular biology. Generally, a receptor can transfer an external signal via its cytoplasmic surface, as found for G-protein-coupled receptors such as rhodopsin, or via the membrane domain, such as that in sensory rhodopsin II (SRII) in complex with its transducer, HtrII. In the absence of HtrII, SRII functions as a proton pump. Here, we report on the crystal structure of the active state of uncomplexed SRII from Natronomonas pharaonis, NpSRII. The problem with a dramatic loss of diffraction quality upon loading of the active state was overcome by growing better crystals and by reducing the occupancy of the state. The conformational changes in the region comprising helices F and G are similar to those observed for the NpSRII–transducer complex but are much more pronounced. The meaning of these differences for the understanding of proton pumping and signal transduction by NpSRII is discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283611007765
+00222836

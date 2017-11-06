@@ -1,0 +1,6 @@
+Ligand Screening by Exoproteolysis and Mass Spectrometry in Combination With Computer Modelling
+7102616264,6602669132,7006808084,7005688779,7101901077
+SH3 domain,ligand screening,computer design,binding constant,mass spectrometry
+Here, we present a new approach for protein ligand screening based on the use of limited exoproteolysis coupled to MALDI-TOF mass spectrometry, combined with computational modelling and prediction of binding energies. As a test for this combined approach, we have screened a combinatorial library containing 8000 peptides (organized in 60 peptide samples) based on positional scanning format. This library is attached to a poly-Pro framework, and screened against the Abl-SH3 domain. The results obtained demonstrated the validity of the experimental and theoretical approaches in identifying better ligands and in rationalizing the changes in affinity. Exoproteolysis coupled to MALDI-TOF mass spectrometry could be used to screen complex libraries in a fast and efficient way.
+http://www.sciencedirect.com/science/article/pii/S0022283603006648
+00222836

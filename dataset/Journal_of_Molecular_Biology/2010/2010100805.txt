@@ -1,0 +1,6 @@
+The Non-Core Regions of Human Lysozyme Amyloid Fibrils Influence Cytotoxicity
+8632368300,24775645800,7003408480,6508312098,6602336675,6602693037,7004911481,57194700417,56623994700,6602617527
+human lysozyme,amyloid fibrils,polymorphism,stability,toxicity
+Identifying the cause of the cytotoxicity of species populated during amyloid formation is crucial to understand the molecular basis of protein deposition diseases. We have examined different types of aggregates formed by lysozyme, a protein found as fibrillar deposits in patients with familial systemic amyloidosis, by infrared spectroscopy, transmission electron microscopy, and depolymerization experiments, and analyzed how they affect cell viability. We have characterized two types of human lysozyme amyloid structures formed in vitro that differ in morphology, molecular structure, stability, and size of the cross-β core. Of particular interest is that the fibrils with a smaller core generate a significant cytotoxic effect. These findings indicate that protein aggregation can give rise to species with different degree of cytotoxicity due to intrinsic differences in their physicochemical properties.
+http://www.sciencedirect.com/science/article/pii/S0022283610007473
+00222836

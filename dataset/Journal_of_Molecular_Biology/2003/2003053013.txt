@@ -1,0 +1,6 @@
+Searching Sequence Space for High-affinity Binding Peptides using Ribosome Display
+7801653371,7102485719
+in vitro selection,ribosome display,streptavidin,binding peptide,affinity tag
+We present the construction of a synthetic library based on the scaffold of bovine heart fatty acid-binding protein (FABP) with 1.1×1014 independent members. Ribosome display was applied to select streptavidin-binding peptides in vitro from 2×1013 molecules of the library each encoding FABP with 15 contiguous random amino acid residues at its N terminus. The selection yielded several different binding peptides. The best binder possessed a dissociation constant as low as 4nM and, in contrast to the previously isolated peptides, contained no HPQ motif. A substitution analysis enabled shortening of the 15-mer peptide and revealed a 9-mer variant with a dissociation constant of 17nM, which is a 1000-fold increase of affinity compared to the already known peptides of this size. This high-affinity binding peptide in combination with the whole set of streptavidin conjugates should be an extremely useful tool for the detection and purification of recombinant proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283603004327
+00222836

@@ -1,0 +1,6 @@
+Architectural and Functional Similarities between Trimeric ATP-Gated P2X Receptors and Acid-Sensing Ion Channels
+6603851251,6603346487
+ASIC,P2X receptors,trimeric ion channels,structure,function
+ATP-gated P2X receptors and acid-sensing ion channels are two distinct ligand-gated ion channels that assemble into trimers. They are involved in many important physiological functions such as pain sensation and are recognized as important therapeutic targets. They have unrelated primary structures and respond to different ligands (ATP and protons) and are thus considered as two different ion channels. As a consequence, comparisons of the biophysical properties and underlying mechanisms have only been rarely made between these two channels. However, the recent determination of their molecular structures by X-ray crystallography has revealed unexpected parallels in the architecture of the two pores, providing a basis for possible functional analogies. In this review, we analyze the structural and functional similarities that are shared by these trimeric ion channels, and we outline key unanswered questions that, if addressed experimentally, may help us to elucidate how two unrelated ion channels have adopted a similar fold of the pore.
+http://www.sciencedirect.com/science/article/pii/S0022283614002848
+00222836

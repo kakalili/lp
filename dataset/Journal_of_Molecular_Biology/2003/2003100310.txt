@@ -1,0 +1,6 @@
+Temperature Adaptation of Proteins: Engineering Mesophilic-like Activity and Stability in a Cold-adapted α-Amylase
+7004136642,7005220974,7006283635
+psychrophile,cold adaptation,α-amylase,thermal stability,microcalorimetry
+Two multiple mutants of a psychrophilic α-amylase were produced, bearing five mutations (each introducing additional weak interactions found in pig pancreatic α-amylase) with or without an extra disulfide bond specific to warm-blooded animals. Both multiple mutants display large modifications of stability and activity arising from synergic effects in comparison with single mutations. Newly introduced weak interactions and the disulfide bond confer mesophilic-like stability parameters, as shown by increases in the melting point tm, in the calorimetric enthalpy ΔHcal and in protection against heat inactivation, as well as by decreases in cooperativity and reversibility of unfolding. In addition, both kinetic and thermodynamic activation parameters of the catalyzed reaction are shifted close to the values of the porcine enzyme. This study confirms the central role of weak interactions in regulating the balance between stability and activity of an enzyme in order to adapt to the environmental temperature.
+http://www.sciencedirect.com/science/article/pii/S0022283603010283
+00222836

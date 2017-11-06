@@ -1,0 +1,6 @@
+Native-like Mean Structure in the Unfolded Ensemble of Small Proteins
+6603002573,7103381193,7004599108,6701736553,7004966384
+mean-structure hypothesis,unfolded state of proteins,distributed computing,conformational averaging
+The nature of the unfolded state plays a great role in our understanding of proteins. However, accurately studying the unfolded state with computer simulation is difficult, due to its complexity and the great deal of sampling required. Using a supercluster of over 10,000 processors we have performed close to 800μs of molecular dynamics simulation in atomistic detail of the folded and unfolded states of three polypeptides from a range of structural classes: the all-alpha villin headpiece molecule, the beta hairpin tryptophan zipper, and a designed alpha-beta zinc finger mimic. A comparison between the folded and the unfolded ensembles reveals that, even though virtually none of the individual members of the unfolded ensemble exhibits native-like features, the mean unfolded structure (averaged over the entire unfolded ensemble) has a native-like geometry. This suggests several novel implications for protein folding and structure prediction as well as new interpretations for experiments which find structure in ensemble-averaged measurements.
+http://www.sciencedirect.com/science/article/pii/S0022283602008884
+00222836

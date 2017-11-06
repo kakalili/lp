@@ -1,0 +1,6 @@
+The Structure of CDK8/CycC Implicates Specificity in the CDK/Cyclin Family and Reveals Interaction with a Deep Pocket Binder
+55703783300,8981156100,6506341671,7102611611,34975087600,56279061200
+cyclin-dependent kinase 8/CDK8,cyclin C,sorafenib,deep pocket binder,Mediator complex
+Cyclin-dependent kinase (CDK) 8 associates with cyclin C (CycC) and belongs to the CDK module of the Mediator of transcription, together with MED12 and MED13. CDK8 is involved in the regulation of mRNA transcription and was identified as a potent oncogene in colon cancerogenesis. We have solved the 2.2-Å crystal structure of CDK8/CycC in complex with sorafenib, an anti-cancer drug of clinical relevance. The CDK8 structure reveals a unique CycC recognition helix that explains the specificity of the CDK8/CycC pair and discrimination among the highly promiscuous binding in the CDK/cyclin family. In contrast to all CDKs, the CDK8 activation loop appears not to be phosphorylated. Based on the structure, we discuss an alternate mode of CDK8 activation to the general CDK activation by T-loop phosphorylation.Sorafenib binds to the catalytic cleft of CDK8. It displays a deep pocket binding mode and is the first small molecule to induce a DFG-out conformation in the CDK family, which is actually DMG-out in CDK8.
+http://www.sciencedirect.com/science/article/pii/S0022283611007741
+00222836

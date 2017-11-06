@@ -1,0 +1,6 @@
+A Novel Lipid Binding Site Formed by the MAP Kinase Insert in p38α
+14017691800,7004747433,7004252645
+p38,MAP kinase insert,lipid binding site,protein crystallography,structure analysis
+The p38 mitogen-activated protein (MAP) kinases function as signaling molecules essential for many cellular processes, particularly mediating stress response. The activity of p38 MAP kinases is meticulously regulated to reach the desired cellular phenotype. Several alternative activation and attenuation mechanisms have been characterized recently which include new phosphorylation sites. Here we present the crystal structure of p38α MAP kinase in complex with n-octyl-β-glucopyranoside detergent. The complex unveils a novel lipid-binding site formed by a local conformational change of the MAP kinase insert. This binding is the first attribution for a possible role of the MAP kinase insert in p38. The binding site can accommodate a large selection of lipidic molecules. In addition, we also show via biophysical methods that arachidonic acid and its derivatives bind p38α in vitro. Based on our analysis we propose that the binding of lipids could fine-tune p38α catalytic activity towards a preferred phenotype.
+http://www.sciencedirect.com/science/article/pii/S0022283607011655
+00222836

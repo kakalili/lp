@@ -1,0 +1,6 @@
+Ligand Binding Mode of GABAA Receptor-Associated Protein
+6602976119,6507517275,24478848900,22938348400,9242312900,7004563027
+GABARAP,GABAA receptor,synthetic peptide,phage display,X-ray crystallography
+The γ-aminobutyric acid type A (GABAA) receptor-associated protein is a versatile adaptor protein playing an important role in intracellular vesicle trafficking, particularly in neuronal cells. We present the X-ray structure of the soluble form of human GABAA receptor-associated protein complexed with a high-affinity synthetic peptide at 1.3 Å resolution. The data shed light on the probable binding modes of key interaction partners, including the GABAA receptor and the cysteine protease Atg4. The resulting models provide a structural background for further investigation of the unique biological properties of this protein.
+http://www.sciencedirect.com/science/article/pii/S0022283608008243
+00222836

@@ -1,0 +1,6 @@
+Trashing of Single-Stranded DNA Generated during Processing of Arrested Replication Fork in E. coli
+7006041333,55513862100,35110908500
+ssDNA,E. coli,quinolone,SOS responses,DSB
+We analyzed formation of single-stranded DNA (ssDNA) related to SOS induction in nalidixilate (Nal)-treated Escherichia coli, using immunofluorescence microscopy accompanied by computer analysis. We found enhancement of both ssDNA concentrations and cells having ssDNA foci that often localized around cellpoles. Analyzing several mutants deficient in DNA repair or replication, we found, after Nal treatment, that recN, recA, uvrD and dnaB failed to increase ssDNA concentration and that recG and particularly ruvA only partially enhanced it. In Nal-treated recB mutant, despite its failure in SOS induction, ssDNA foci positive cells increased with a slight enhancement of its concentration. These observations suggest the existence of a cellular process that sequesters genotoxic ssDNA as inert form, offering a new concept for SOS suppressor genes action.
+http://www.sciencedirect.com/science/article/pii/S002228361300421X
+00222836

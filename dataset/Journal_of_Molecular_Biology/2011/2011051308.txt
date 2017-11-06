@@ -1,0 +1,6 @@
+Structural Basis for Metal Sensing by CnrX
+44161401100,7003908635,7007183677,6603296593,26431558300,7201463807,7003794629
+transmembrane signal transduction,metal sensing,extracytoplasmic function,CnrX,Cupriavidus metallidurans CH34
+CnrX is the metal sensor and signal modulator of the three-protein transmembrane signal transduction complex CnrYXH of Cupriavidus metallidurans CH34 that is involved in the setup of cobalt and nickel resistance. We have determined the atomic structure of the soluble domain of CnrX in its Ni-bound, Co-bound, or Zn-bound form. Ni and Co ions elicit a biological response, while the Zn-bound form is inactive. The structures presented here reveal the topology of intraprotomer and interprotomer interactions and the ability of metal-binding sites to fine-tune the packing of CnrX dimer as a function of the bound metal. These data suggest an allosteric mechanism to explain how the complex is switched on and how the signal is modulated by Ni or Co binding. These results provide clues to propose a model for signal propagation through the membrane in the complex.
+http://www.sciencedirect.com/science/article/pii/S0022283611002798
+00222836

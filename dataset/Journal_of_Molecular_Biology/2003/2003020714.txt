@@ -1,0 +1,6 @@
+Structure of a G-quadruplex–Ligand Complex
+7102816362,7102183504,35820006900
+G-quadruplex,acridine complex,crystal structure,molecular dynamics
+Stabilisation of G-quadruplex structures formed from telomeric DNA, by means of quadruplex-selective ligands, is a means of inhibiting the telomerase enzyme from catalysing the synthesis of telomeric DNA repeats. In order to understand the molecular basis of ligand–quadruplex recognition, the crystal structure has been determined of such a complex, at 1.75Å resolution. This complex is between a dimeric antiparallel G-quadruplex formed from the Oxytricha nova telomeric DNA sequence d(GGGGTTTTGGGG), and a di-substituted aminoalkylamido acridine compound. The structure shows that the acridine moiety is bound at one end of the stack of G-quartets, within one of the thymine loops. It is held in place by a combination of stacking interactions and specific hydrogen bonds with thymine bases. The stability of the ligand in this binding site has been confirmed by a 2ns molecular dynamics simulation.
+http://www.sciencedirect.com/science/article/pii/S0022283602013542
+00222836

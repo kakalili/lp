@@ -1,0 +1,6 @@
+Light-induced Rotation of a Transmembrane α-Helix in Bacteriorhodopsin
+7202456499,7404221741,7005713205,7102497987,36742309100
+bacteriorhodopsin,EPR spectroscopy,transmembrane,conformational change
+Spin labeling EPR spectroscopy has been used to characterize light-induced conformational changes of bacteriorhodopsin (bR). Pairs of nitroxide spin labels were attached to engineered cysteine residues at strategic positions near the cytoplasmic ends of transmembrane α-helices B, F, and G in order to monitor distance changes upon light activation. The EPR analysis of six doubly labeled bR mutants indicates that the cytoplasmic end of helix F not only tilts outwards, but also rotates counter-clockwise during the photocycle. The direction of the rotation of helix F is the opposite of the clockwise rotation previously reported for bovine rhodopsin. The opposite chirality of the F helix rotation in the two systems is perhaps related to the differences in the cis-trans photoisomerization of the retinal in the two proteins. Using time-resolved EPR, we monitored the rotation of helix F also in real time, and found that the signal from the rotation arises concurrently with the reprotonation of the retinal Schiff base.
+http://www.sciencedirect.com/science/article/pii/S0022283600942554
+00222836

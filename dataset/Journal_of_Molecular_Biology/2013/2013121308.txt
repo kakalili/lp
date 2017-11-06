@@ -1,0 +1,6 @@
+The Tiers and Dimensions of Evasion of the Type I Interferon Response by Human Cytomegalovirus
+55650407400,12244130500,7801666085
+cytomegalovirus,interferon,innate immunity,immune evasion
+Human cytomegalovirus (HCMV) is a member of the β-herpesvirus family that invariably occupies hosts for life despite a consistent multi-pronged antiviral immune response that targets the infection. This persistence is enabled by the large viral genome that encodes factors conferring a wide assortment of sophisticated, often redundant phenotypes that disable or otherwise manipulate impactful immune effector processes. The type I interferon system represents a first line of host defense against infecting viruses. The physiological reactions induced by secreted interferon act to effectively block replication of a broad spectrum of virus types, including HCMV. As such, the virus must exhibit counteractive mechanisms to these responses that involve their inhibition, tolerance, or re-purposing. The goal of this review is to describe the impact of the type I interferon system on HCMV replication and to showcase the number and diversity of strategies employed by the virus that allow infection of hosts in the presence of interferon-dependent activity.
+http://www.sciencedirect.com/science/article/pii/S0022283613005561
+00222836

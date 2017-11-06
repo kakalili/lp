@@ -1,0 +1,6 @@
+Regulation of RNA Polymerase Promoter Selectivity by Covalent Modification of DNA
+7006679631,6602536293,7004902847,7005509332
+DNA methylation,R/M,RNA polymerase,σ70 subunit,promoter complex
+Expression of genes encoding type II restriction/modification (R/M) systems, which are widely spread in eubacteria, must be tightly regulated to ensure that host DNA is protected from restriction endonucleases at all times. Examples of coordinated expression of R/M genes that rely on the action of regulatory factors or the ability of methyl transferases to repress their own synthesis by interacting with the promoter DNA have been described. Here, we characterize the molecular mechanism of factor-independent regulation in the CfrBI R/M system. Regulation of the cfrBIM gene transcription occurs through CfrBIM-catalyzed methylation of a cytosine residue in the cfrBIM promoter. The covalent modification inhibits cfrB1M promoter complex formation by interfering with the RNA polymerase σ70 subunit region 4.2 recognition of the −35 promoter element. The decrease in the cfrBIM promoter complex formation leads to increase in the activity of overlapping cfrBIR promoters. This elegant factor-independent regulatory system ensures coordinated expression of the cfrBI genes.
+http://www.sciencedirect.com/science/article/pii/S0022283603012683
+00222836

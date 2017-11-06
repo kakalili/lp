@@ -1,0 +1,6 @@
+Membrane-anchored Human FcRn can Oligomerize in the Absence of IgG
+6507623441,22979399400,7403972013,7007145266
+IgG Fc receptor,dimerization,disulfide bond,oligomerization,protein structure
+FcRn is unique among immunoglobulin G (IgG) Fc receptors in that it is structurally closely related to major histocompatibility complex class I molecules and likewise consists of an α-chain and β2-microglobulin. Crystallographic data show that rat FcRn α-chain/β2m heterodimers can further dimerize via ionic interactions and a carbohydrate handshake. Intriguingly, however, no dimers are found in crystals of human FcRn, probably because the charged amino acids and the carbohydrate implicated in dimerization of rat FcRn are not conserved. Here, we show that although a secreted soluble form of human FcRn does not dimerize, the membrane-anchored receptor can form both non-covalent and covalent dimers. Furthermore, dimerization of human FcRn occurs in the absence of its ligand, IgG.
+http://www.sciencedirect.com/science/article/pii/S0022283602006265
+00222836

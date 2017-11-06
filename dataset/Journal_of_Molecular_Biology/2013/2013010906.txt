@@ -1,0 +1,6 @@
+Unclosed HIV-1 Capsids Suggest a Curled Sheet Model of Assembly
+55445488500,35725467100,7201356398,6507225423,35847496600,6505869363,55272089600,7006899720,6602510876,7102968273,7201969703
+HIV-1,capsid,cryotomography,retroviruses
+The RNA genome of retroviruses is encased within a protein capsid. To gather insight into the assembly and function of this capsid, we used electron cryotomography to image human immunodeficiency virus (HIV) and equine infectious anemia virus (EIAV) particles. While the majority of viral cores appeared closed, a variety of unclosed structures including rolled sheets, extra flaps, and cores with holes in the tip were also seen. Simulations of nonequilibrium growth of elastic sheets recapitulated each of these aberrations and further predicted the occasional presence of seams, for which tentative evidence was also found within the cryotomograms. To test the integrity of viral capsids in vivo, we observed that ~25% of cytoplasmic HIV complexes captured by TRIM5α had holes large enough to allow internal green fluorescent protein (GFP) molecules to escape. Together, these findings suggest that HIV assembly at least sometimes involves the union in space of two edges of a curling sheet and results in a substantial number of unclosed forms.
+http://www.sciencedirect.com/science/article/pii/S0022283612008157
+00222836

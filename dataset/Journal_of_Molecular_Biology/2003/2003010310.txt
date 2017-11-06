@@ -1,0 +1,6 @@
+Assembly of Amyloid Protofibrils via Critical Oligomers—A Novel Pathway of Amyloid Formation
+6602443791,7005486753,56632946800,7005274940
+amyloid,misfolding,non-native structure,diffusion–collision,colloid
+The amyloid formation of phosphoglycerate kinase (PGK) was investigated by static and dynamic light-scattering. The time-course of the scattering intensity and the hydrodynamic radius scale with initial monomer concentration in a linear fashion over a range of about 50 in concentration. This sets limits on theories for aggregation kinetics that can be used, and points towards irreversible, cascade type models. In addition, circular dichroism (CD) was used to monitor the transition between a predominantly α-helical spectrum to a β-sheet enriched one. The time-course of the CD also proves to scale linearly with initial monomer concentration. Electron microscopy shows that small oligomers as well as protofibrils are present during aggregation. The found coupling between growth of intermediates and acquisition of β-sheet structure is interpreted in terms of a generalized diffusion–collision model, where stabilization of β-strands takes place by intermolecular interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283602011750
+00222836

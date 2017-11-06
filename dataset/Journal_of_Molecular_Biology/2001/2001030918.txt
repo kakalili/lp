@@ -1,0 +1,6 @@
+Role of counterion condensation in folding of the Tetrahymena ribozyme. I. Equilibrium stabilization by cations11Edited by J. Doudna
+6507033934,7005558196,7006553529
+RNA structure,metal ion,group I ribozyme,counterion condensation,native gel electrophoresis
+Folding of RNA into an ordered, compact structure requires substantial neutralization of the negatively charged backbone by positively charged counterions. Using a native gel electrophoresis assay, we have examined the effects of counterion condensation upon the equilibrium folding of the Tetrahymena ribozyme. Incubation of the ribozyme in the presence of mono-, di- and trivalent ions induces a conformational state that is capable of rapidly forming the native structure upon brief exposure to Mg2+. The cation concentration dependence of this transition is directly correlated with the charge of the counterion used to induce folding. Substrate cleavage assays confirm the rapid onset of catalytic activity under these conditions. These results are discussed in terms of classical counterion condensation theory. A model for folding is proposed which predicts effects of charge, ionic radius and temperature on counterion-induced RNA folding transitions.
+http://www.sciencedirect.com/science/article/pii/S0022283601944377
+00222836

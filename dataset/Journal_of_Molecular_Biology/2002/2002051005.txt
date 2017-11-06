@@ -1,0 +1,6 @@
+The X-ray Crystallographic Structure of the Angiogenesis Inhibitor Angiostatin
+7005815307,7003972183,6602372662,35497577000,7005860449,7203027225
+angiogenesis,plasminogen,coagulation,crystal structure,kringle domains
+Angiogenesis inhibitors have gained much public attention recently as anti-cancer agents and several are currently in clinical trials, including angiostatin (Phase I, Thomas Jefferson University Hospital, Philadelphia, PA). We report here the bowl-shaped structure of angiostatin kringles 1–3, the first multi-kringle structure to be determined. All three kringle lysine-binding sites contain a bound bicine molecule of crystallization while the former of kringle 2 and kringle 3 are cofacial. Moreover, the separation of the kringle 2 and kringle 3 lysiner binding sites is sufficient to accommodate the α-helix of the 30 residue peptide VEK-30 found in the kringle 2/VEK-30 complex. Together the three kringles produce a central cavity suggestive of a unique domain where they may function in concert.
+http://www.sciencedirect.com/science/article/pii/S0022283602002115
+00222836

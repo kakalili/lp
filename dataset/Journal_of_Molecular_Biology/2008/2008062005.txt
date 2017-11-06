@@ -1,0 +1,6 @@
+Solution Structure of the Inner DysF Domain of Myoferlin and Implications for Limb Girdle Muscular Dystrophy Type 2B
+54407349800,35353390700,6601990932,17347145600,7404155667,7101603431,7006355401,7103273637,7003604750
+muscular dystrophy,dysferlin,myoferlin,Fer domain,NMR
+Mutations in the protein dysferlin, a member of the ferlin family, lead to limb girdle muscular dystrophy type 2B and Myoshi myopathy. The ferlins are large proteins characterised by multiple C2 domains and a single C-terminal membrane-spanning helix. However, there is sequence conservation in some of the ferlin family in regions outside the C2 domains. In one annotation of the domain structure of these proteins, an unusual internal duplication event has been noted where a putative domain is inserted in between the N- and C-terminal parts of a homologous domain. This domain is known as the DysF domain. Here, we present the solution structure of the inner DysF domain of the dysferlin paralogue myoferlin, which has a unique fold held together by stacking of arginine and tryptophans, mutations that lead to clinical disease in dysferlin.
+http://www.sciencedirect.com/science/article/pii/S0022283608004920
+00222836

@@ -1,0 +1,6 @@
+Two Distinct Binding Modes of a Protein Cofactor with its Target RNA
+57191476387,6507347930,14058390800,7005035272,55187265400,7006336693,7101678767
+ribonucleoprotein,RNA–protein interaction,RNA folding,group I intron,FRET
+Like most cellular RNA enzymes, the bI5 group I intron requires binding by a protein cofactor to fold correctly. Here, we use single-molecule approaches to monitor the structural dynamics of the bI5 RNA in real time as it assembles with its CBP2 protein cofactor. These experiments show that CBP2 binds to the target RNA in two distinct modes with apparently opposite effects: a “non-specific” mode that forms rapidly and induces large conformational fluctuations in the RNA, and a “specific” mode that forms slowly and stabilizes the native RNA structure. The bI5 RNA folds though multiple pathways toward the native state, typically traversing dynamic intermediate states induced by non-specific binding of CBP2. These results suggest that the protein cofactor-assisted RNA folding involves sequential non-specific and specific protein–RNA interactions. The non-specific interaction potentially increases the local concentration of CBP2 and the number of conformational states accessible to the RNA, which may promote the formation of specific RNA–protein interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283606007765
+00222836

@@ -1,0 +1,6 @@
+Projection structure of the monomeric porin OmpG at 6 å resolution11Edited by W. Baumeister
+15720526200,7402570964,56039042200,7006010107,6602460090
+electron crystallography,2-D crystals,membrane protein,porin,β-barrel
+The Escherichia coli porin OmpG, which acts as an efficient unspecific channel for mono-, di- and trisaccharides, has been purified and crystallized in two dimensions. Projection maps of two different crystal forms of OmpG at 6 Å resolution show that the protein has a β-barrel structure characteristic for outer membrane proteins, and that it does not form trimers, unlike most other porins such as OmpF and OmpC, but appears in monomeric form. The size of the barrel is ∼2.5 nm, indicating that OmpG may consist of 14 β-strands. The projection map suggests that the channel is restricted by internal loops.
+http://www.sciencedirect.com/science/article/pii/S0022283600942840
+00222836

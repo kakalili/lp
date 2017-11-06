@@ -1,0 +1,6 @@
+Alternative Splicing Mechanisms for the Modulation of Protein Function: Conservation Between Human and Other Species
+7103344888,6603113545,7102809158,6603686486
+alternative splicing,protein function,protein structure,gene structure,organism's complexity
+Alternative splicing (AS) is an important process in eukaryotic organisms by which a given gene may express a set of different protein isoforms depending on the tissue, or the developmental stage of the individual. In the present work, we have compared AS among species, focusing on the conservation of AS mechanisms for the modulation of protein function. For this purpose, we first analysed the frequency with which different species, human, mouse, rat and fruitfly, utilise them. Second, we focused more directly on the conservation among species of the mechanisms themselves. To this end, we compared biologically equivalent AS events between human and mouse, or rat. Our results indicate only minor differences in the frequency of use of these mechanisms, as well as a high degree of conservation among the species studied.
+http://www.sciencedirect.com/science/article/pii/S002228360301355X
+00222836

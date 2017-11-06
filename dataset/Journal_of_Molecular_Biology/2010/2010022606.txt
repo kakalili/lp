@@ -1,0 +1,6 @@
+Discrimination between Closely Related Cellular Metabolites by the SAM-I Riboswitch
+6506248766,35242830600,23486822700,25121136000,6506734402,7101961726
+non-protein-coding RNA,X-ray crystallography,isothermal titration calorimetry,riboregulation,S-adenosylmethionine
+The SAM-I riboswitch is a cis-acting element of genetic control found in bacterial mRNAs that specifically binds S-adenosylmethionine (SAM). We previously determined the 2.9-Å X-ray crystal structure of the effector-binding domain of this RNA element, revealing details of RNA–ligand recognition. To improve this structure, variations were made to the RNA sequence to alter lattice contacts, resulting in a 0.5-Å improvement in crystallographic resolution and allowing for a more accurate refinement of the crystallographic model. The basis for SAM specificity was addressed by a structural analysis of the RNA complexed to S-adenosylhomocysteine (SAH) and sinefungin and by measuring the affinity of SAM and SAH for a series of mutants using isothermal titration calorimetry. These data illustrate the importance of two universally conserved base pairs in the RNA that form electrostatic interactions with the positively charged sulfonium group of SAM, thereby providing a basis for discrimination between SAM and SAH.
+http://www.sciencedirect.com/science/article/pii/S0022283609014776
+00222836

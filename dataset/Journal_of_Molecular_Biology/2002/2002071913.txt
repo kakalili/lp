@@ -1,0 +1,6 @@
+Kinetic Model of DNA Replication in Eukaryotic Organisms
+7101712023,8403787600,6603749445,56232324500
+DNA replication,replicon,S-phase,Xenopus laevis,molecular combing
+We formulate a kinetic model of DNA replication that quantitatively describes recent results on DNA replication in the in vitro system of Xenopus laevis prior to the mid-blastula transition. The model describes well a large amount of different data within a simple theoretical framework. This allows one, for the first time, to determine the parameters governing the DNA replication program in a eukaryote on a genome-wide basis. In particular, we have determined the frequency of origin activation in time and space during the cell cycle. Although we focus on a specific stage of development, this model can easily be adapted to describe replication in many other organisms, including budding yeast.
+http://www.sciencedirect.com/science/article/pii/S0022283602005223
+00222836

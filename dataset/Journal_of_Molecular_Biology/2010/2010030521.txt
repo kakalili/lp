@@ -1,0 +1,6 @@
+The Glycine-Rich Motif of Pyrococcus abyssi DNA Polymerase D Is Critical for Protein Stability
+26639033300,36523117000,6603424968,7003507953,24446481900
+DNA replication,DNA polymerase D, (G)-PYF box,Archaea,thermostability
+A glycine-rich motif described as being involved in human polymerase δ proliferating cell nuclear antigen (PCNA) binding has also been identified in all euryarchaeal DNA polymerase D (Pol D) family members. We redefined the motif as the (G)-PYF box. In the present study, Pol D (G)-PYF box motif mutants from Pyrococcus abyssi were generated to investigate its role in functional interactions with the cognate PCNA. We demonstrated that this motif is not essential for interactions between PabPol D (P. abyssi Pol D) and PCNA, using surface plasmon resonance and primer extension studies. Interestingly, the (G)-PYF box is located in a hydrophobic region close to the active site. The (G)-PYF box mutants exhibited altered DNA binding properties. In addition, the thermal stability of all mutants was reduced compared to that of wild type, and this effect could be attributed to increased exposure of the hydrophobic region. These studies suggest that the (G)-PYF box motif mediates intersubunit interactions and that it may be crucial for the thermostability of PabPol D.
+http://www.sciencedirect.com/science/article/pii/S0022283610000215
+00222836

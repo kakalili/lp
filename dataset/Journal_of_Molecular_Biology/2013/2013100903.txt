@@ -1,0 +1,6 @@
+Posttranscriptional Gene Regulation by Long Noncoding RNA
+55318967100,13006314400,26643133700
+lncRNA,lincRNA,RNA-binding protein,mRNA turnover,translational regulation
+Eukaryotic cells transcribe a vast number of noncoding RNA species. Among them, long noncoding RNAs (lncRNAs) have been widely implicated in the regulation of gene transcription. However, examples of posttranscriptional gene regulation by lncRNAs are emerging. Through extended base-pairing, lncRNAs can stabilize or promote the translation of target mRNAs, while partial base-pairing facilitates mRNA decay or inhibits target mRNA translation. In the absence of complementarity, lncRNAs can suppress precursor mRNA splicing and translation by acting as decoys of RNA-binding proteins or microRNAs and can compete for microRNA-mediated inhibition leading to increased expression of the mRNA. Through these regulatory mechanisms, lncRNAs can elicit differentiation, proliferation, and cytoprotective programs, underscoring the rising recognition of lncRNA roles in human disease. In this review, we summarize the mechanisms of posttranscriptional gene regulation by lncRNAs identified until now.
+http://www.sciencedirect.com/science/article/pii/S0022283612008960
+00222836

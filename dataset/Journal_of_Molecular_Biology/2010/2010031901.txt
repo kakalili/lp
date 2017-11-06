@@ -1,0 +1,6 @@
+Surrobodies with Functional Tails
+55986773300,7005884248,55275466700,56627524600,19334269500,24172968900,24173187100,56223955400,7202132390,7203016554
+Surrobody,surrogate light chain,bispecific,combinatorial libraries
+Surrobodies22The Surrobody and Surrobodies marks are trademarks of Sea Lane Biotechnologies, LLC. are a unique type of binding protein based on the pre-B-cell receptor (pre-BCR). The pre-BCR is transiently expressed during development of the antibody repertoire. Unlike heterotetrameric canonical antibodies that are composed of identical pairs of heavy and light chains, the pre-BCR is a heterohexameric complex composed of identical pairs of heavy chains that are each paired with a two-subunit surrogate light chain (SLC). The SLC contains nonimmunoglobulin-like peptide extensions on each of the two SLC components. This arrangement provides unique opportunities for protein engineering by functional derivatization of these nonimmunoglobulin-like tails. Here we report recombinant fusions to these tails with either a fully active cytokine or with single-chain variable fragment (scFv) domains to generate Surrobodies with unique functions or Surrobodies that are bispecific with respect to targeted binding.
+http://www.sciencedirect.com/science/article/pii/S0022283610000823
+00222836

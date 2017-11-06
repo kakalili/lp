@@ -1,0 +1,6 @@
+Phosphorylation of Acanthamoeba actophorin (ADF/cofilin) blocks interaction with actin without a change in atomic structure11Edited by M. F. Moody
+6603412271,7403878989,7101751732,36811507300
+actin,actophorin,LIM-kinase,phosphorylation
+LIM-kinase activated by GST-Pak1 phosphorylates Acanthamoeba actophorin stoichiometrically and specifically on serine 1. The atomic structure of phosphorylated actophorin determined by X-ray crystallography is essentially identical with the structure of unphosphorylated actophorin. We compared biochemical properties of phosphorylated actophorin, unphosphorylated actophorin and mutants of actophorin with serine 1 replaced by aspartic acid or alanine. Phosphorylation strongly inhibits interaction of actophorin with Mg-ADP- or Mg-ATP-actin monomers and Mg-ADP-actin filaments, so Ser1 phosphorylation directly blocks interaction of actin-depolymerizing factor (ADF)/cofilin proteins with actin. About 30 % of actophorin is phosphorylated in live amoebas grown in suspension culture. Phosphorylation of ADF/cofilin proteins by LIM-kinase or other enzymes will tend to stabilize actin filaments by inhibiting the ability of these proteins to sever and depolymerize older actin filaments that have hydrolyzed their bound ATP and dissociated the phosphate.
+http://www.sciencedirect.com/science/article/pii/S0022283699933363
+00222836

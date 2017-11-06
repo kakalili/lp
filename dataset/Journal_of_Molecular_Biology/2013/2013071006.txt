@@ -1,0 +1,6 @@
+Conformational Flexibility and Structural Dynamics in GPCR-Mediated G Protein Activation: A Perspective
+6506222300,7004961758,7102223303
+Gα,hydrophobic triad,IC2,β2/β3 loop,conformational flexibility
+Structure and dynamics of G proteins and their cognate receptors, both alone and in complex, are becoming increasingly accessible to experimental techniques. Understanding the conformational changes and timelines that govern these changes can lead to new insights into the processes of ligand binding and associated G protein activation. Experimental systems may involve the use of, or otherwise stabilize, non-native environments. This can complicate our understanding of structural and dynamic features of processes such as the ionic lock, tryptophan toggle, and G protein flexibility. While elements in the receptor's transmembrane helices and the C-terminal α5 helix of Gα undergo well-defined structural changes, regions subject to conformational flexibility may be important in fine-tuning the interactions between activated receptors and G proteins. The pairing of computational and experimental approaches will continue to provide powerful tools to probe the conformation and dynamics of receptor-mediated G protein activation.
+http://www.sciencedirect.com/science/article/pii/S0022283613002428
+00222836

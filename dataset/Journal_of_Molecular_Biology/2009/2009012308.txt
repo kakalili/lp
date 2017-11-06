@@ -1,0 +1,6 @@
+Characterization of DNA-Binding Proteins Using Multiplexed Competitor EMSA
+55740318200,55695478300
+electrophoretic mobility shift assay,transcription factor,DNA competitor
+We describe a low-cost high-throughput technique to characterize nuclear protein DNA-binding interactions. This technique, known as Multiplexed Competitor Electrophoretic Mobility Shift Assay, uses a series of multiplexed oligonucleotide DNA consensus competitors, in combination with a standard electrophoretic mobility shift assay procedure, to efficiently characterize DNA-binding proteins. We show utility for the method to identify a previously unreported hepatocyte nuclear factor-3 site created in intron 8 of the lipoprotein lipase gene by a common single-nucleotide polymorphism (rs327).
+http://www.sciencedirect.com/science/article/pii/S002228360801468X
+00222836

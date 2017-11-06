@@ -1,0 +1,6 @@
+Orientation of the 19S Regulator Relative to the 20S Core Proteasome: An Immunoelectron Microscopic Study
+7004391375,7005675651
+proteasome,antibody labelling,19S proteasome regulator,immunoelectron microscopy,protein complex symmetry
+Specific labelling with monoclonal antibodies reveals that in regulator-proteasome complexes the asymmetric 19S regulator (PA700) binds to one or both terminal α-disks of the cylinder-shaped 20S core proteasome in such a way that its reclining front part is positioned in the vicinity of proteasome subunit α6. The protruding rear part of the regulator appears to be situated distal to the sites occupied by the subunits α2 and α3, respectively. When viewed from β1/β1′ to β4/β4′ along the polar 2-fold axis of the 20S proteasome core, the rear part of each 19S regulator cap appears to protrude clockwise. Thus, a defined alignment of the 19S regulator with respect to the single polar 2-fold rotational axis of the 20S core proteasome is obtained.
+http://www.sciencedirect.com/science/article/pii/S0022283603004029
+00222836

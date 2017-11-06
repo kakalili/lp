@@ -1,0 +1,6 @@
+Reciprocal “flipping” underlies substrate recognition and catalytic activation by the human 8-oxo-guanine DNA glycosylase11Edited by J. Karn
+6603694044,7006254053,7004870814,7005486548,7202538434
+crystal structure,8oxo-guanine DNA-glycosylase,specificity pocket,reciprocal flipping,nucleophilic attack
+Both 8oxo-guanine and formamidopyrimidines are major products of oxidative DNA damage that can result in the fixation of transversion mutations following replication if left unrepaired. These lesions are targeted by the N-DNA glycosylase hOgg1, which catalyses excision of the aberrant base followed by cleavage of the phosphate backbone directly 5′ to the resultant abasic site in a context, dependent manner. We present the crystal structure of native hOgg1 refined to 2.15 Å resolution that reveals a number of highly significant conformational changes on association with DNA that are clearly required for substrate recognition and specificity. Changes of this magnitude appear to be unique to hOgg1 and have not been observed in any of the DNA-glycosylase structures analysed to date where both native and DNA-bound forms are available. It has been possible to identify a mechanism whereby the catalytic residue Lys 249 is “primed” for nucleophilic attack of the N-glycosidic bond.
+http://www.sciencedirect.com/science/article/pii/S0022283602954008
+00222836

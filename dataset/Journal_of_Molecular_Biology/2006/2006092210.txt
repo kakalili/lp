@@ -1,0 +1,6 @@
+Crystal Structure of Thermus thermophilus Δ1-Pyrroline-5-carboxylate Dehydrogenase
+6701906639,8252830700,55711768600,6506103191,36037012700,37001289600
+Δ1-pyrroline-5-carboxylate dehydrogenase,Δ1-pyrroline-5-carboxylate,glutamate-γ-semialdehyde,aldehyde dehydrogenase superfamily,type II hyperprolinemia
+Δ1-pyrroline-5-carboxylate dehydrogenase (P5CDh) plays an important role in the metabolic pathway from proline to glutamate. It irreversibly catalyzes the oxidation of glutamate-γ-semialdehyde, the product of the non-enzymatic hydrolysis of Δ1-pyrroline-5-carboxylate, into glutamate with the reduction of NAD+ into NADH. We have confirmed the P5CDh activity of the Thermus thermophilus protein TT0033 (TtP5CDh), and determined the crystal structure of the enzyme in the ligand-free form at 1.4 Å resolution. To investigate the structural basis of TtP5CDh function, the TtP5CDh structures with NAD+, with NADH, and with its product glutamate were determined at 1.8 Å, 1.9 Å, and 1.4 Å resolution, respectively. The solved structures suggest an overall view of the P5CDh catalytic mechanism and provide insights into the P5CDh deficiencies in the case of the human type II hyperprolinemia.
+http://www.sciencedirect.com/science/article/pii/S0022283606008990
+00222836

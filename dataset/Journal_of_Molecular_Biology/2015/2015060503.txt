@@ -1,0 +1,6 @@
+Next-Generation Pathology—Surveillance of Tumor Microecology
+26536296600,6506501161,7201387926,7101632183,8685298100,56397597200,6603157675,7003778117
+molecular profiling,image analysis,proximity ligation assay,padlock probe,pathology
+A tumor is a heterogeneous population of cells that provides an environment in which every cell resides in a microenvironmental niche. Microscopic evaluation of tissue sections, based on histology and immunohistochemistry, has been a cornerstone in pathology for decades. However, the dawn of novel technologies to investigate genetic aberrations is currently adopted in routine molecular pathology. We herein describe our view on how recent developments in molecular technologies, focusing on proximity ligation assay and padlock probes, can be applied to merge the two branches of pathology, allowing molecular profiling under histologic observation. We also discuss how the use of image analysis will be pivotal to obtain information at a cellular level and to interpret holistic images of tissue sections. By understanding the cellular communications in the microecology of tumors, we will be at a better position to predict disease progression and response to therapy.
+http://www.sciencedirect.com/science/article/pii/S0022283615001114
+00222836

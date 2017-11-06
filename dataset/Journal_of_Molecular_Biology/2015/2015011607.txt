@@ -1,0 +1,6 @@
+Bacterial Voltage-Gated Sodium Channels (BacNaVs) from the Soil, Sea, and Salt Lakes Enlighten Molecular Mechanisms of Electrical Signaling and Pharmacology in the Brain and Heart
+13407107400,7003380876
+voltage-gated sodium channel,structural biology,channel gating,ion permeation,channel pharmacology
+Voltage-gated sodium channels (NaVs) provide the initial electrical signal that drives action potential generation in many excitable cells of the brain, heart, and nervous system. For more than 60years, functional studies of NaVs have occupied a central place in physiological and biophysical investigation of the molecular basis of excitability. Recently, structural studies of members of a large family of bacterial voltage-gated sodium channels (BacNaVs) prevalent in soil, marine, and salt lake environments that bear many of the core features of eukaryotic NaVs have reframed ideas for voltage-gated channel function, ion selectivity, and pharmacology. Here, we analyze the recent advances, unanswered questions, and potential of BacNaVs as templates for drug development efforts.
+http://www.sciencedirect.com/science/article/pii/S002228361400429X
+00222836

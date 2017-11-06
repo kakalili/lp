@@ -1,0 +1,6 @@
+Cryo-EM Structure of the Yeast ATP Synthase
+24822298900,24821920900,7102355745
+ATP synthase,structure,Saccharomyces cerevisiae,cryo-EM,single particle
+We have used electron cryomicroscopy of single particles to determine the structure of the ATP synthase from Saccharomyces cerevisiae. The resulting map at 24 Å resolution can accommodate atomic models of the F1–c10 subcomplex, the peripheral stalk subcomplex, and the N-terminal domain of the oligomycin sensitivity conferral protein. The map is similar to an earlier electron cryomicroscopy structure of bovine mitochondrial ATP synthase but with important differences. It resolves the internal structure of the membrane region of the complex, especially the membrane embedded subunits b, c, and a. Comparison of the yeast ATP synthase map, which lacks density from the dimer-specific subunits e and g, with a map of the bovine enzyme that included e and g indicates where these subunits are located in the intact complex. This new map has allowed construction of a model of subunit arrangement in the FO motor of ATP synthase that dictates how dimerization of the complex via subunits e and g might occur.
+http://www.sciencedirect.com/science/article/pii/S0022283608009947
+00222836

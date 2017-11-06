@@ -1,0 +1,6 @@
+Intersubunit Bridges of the Bacterial Ribosome
+57188662567,6603067016
+protein synthesis,translation,rRNA,tRNA
+The ribosome is a large two-subunit ribonucleoprotein machine that translates the genetic code in all cells, synthesizing proteins according to the sequence of the mRNA template. During translation, the primary substrates, transfer RNAs, pass through binding sites formed between the two subunits. Multiple interactions between the ribosomal subunits, termed intersubunit bridges, keep the ribosome intact and at the same time govern dynamics that facilitate the various steps of translation such as transfer RNA–mRNA movement. Here, we review the molecular nature of these intersubunit bridges, how they change conformation during translation, and their functional roles in the process.
+http://www.sciencedirect.com/science/article/pii/S0022283616001145
+00222836

@@ -1,0 +1,6 @@
+NMR structure of the sterol carrier protein-2: implications for the biological role11Edited by P. E. Wright
+13004633100,7007118395,7202228476,6602620342,57191513830,56186417100,36047173900
+sterol carrier protein 2,NMR,protein structure,protein dynamics,nitroxide spin labels
+The determination of the NMR structure of the sterol carrier protein-2 (SCP2), analysis of backbone 15N spin relaxation parameters and NMR studies of nitroxide spin-labeled substrate binding are presented as a new basis for investigations of the mode of action of SCP2. The SCP2 fold is formed by a five-stranded β-sheet and four α-helices. Fatty acid binding to a hydrophobic surface area formed by amino acid residues of the first and third helices, and the β-sheet, which are all located in the polypeptide segment 8-102, was identified with the use of the spin-labeled substrate 16-doxylstearic acid. In the free protein, the lipid-binding site is covered by the C-terminal segment 105-123, suggesting that this polypeptide segment, which carries the peroxisomal targeting signal (PTS1), might be involved in the regulation of ligand binding.
+http://www.sciencedirect.com/science/article/pii/S0022283699933557
+00222836

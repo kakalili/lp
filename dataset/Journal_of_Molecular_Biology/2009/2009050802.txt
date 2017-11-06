@@ -1,0 +1,6 @@
+The Structure of Sox17 Bound to DNA Reveals a Conserved Bending Topology but Selective Protein Interaction Platforms
+23567053600,23027326000,23097982600,7003407231
+protein–DNA recognition,stem cells,DNA bending,transcription,HMG domain
+Sox17 regulates endodermal lineage commitment and is thought to function antagonistically to the pluripotency determinant Sox2. To investigate the biochemical basis for the distinct functions of Sox2 and Sox17, we solved the crystal structure of the high mobility group domain of Sox17 bound to a DNA element derived from the Lama1 enhancer using crystals diffracting to 2.7 Å resolution. Sox17 targets the minor groove and bends the DNA by approximately 80°. The DNA architecture closely resembles the one seen for Sox2/DNA structures, suggesting that the degree of bending is conserved between both proteins and nucleotide substitutions have only marginal effects on the bending topology. Accordingly, affinities of Sox2 and Sox17 for the Lama1 element were found to be identical. However, when the Oct1 contact interface of Sox2 is compared with the corresponding region of Sox17, a significantly altered charge distribution is observed, suggesting differential co-factor recruitment that may explain their biological distinctiveness.
+http://www.sciencedirect.com/science/article/pii/S0022283609003635
+00222836

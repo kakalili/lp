@@ -1,0 +1,6 @@
+Recognition of Herpes Simplex Viruses: Toll-Like Receptors and Beyond
+8635380600,7402047143
+herpes simplex virus,Toll-like receptor,interferon,cytokine,innate immunity
+Herpes simplex viruses (HSVs) are human pathogens that establish lytic and latent infections. Reactivation from latency occurs intermittently, which represents a lifelong source of recurrent infection. In this complex process, HSV triggers and neutralizes innate immunity. Therefore, a dynamic equilibrium between HSV and the innate immune system determines the outcome of viral infection. Detection of HSV involves pathogen recognition receptors that include Toll-like receptors, retinoic acid-inducible gene I-like receptors, and cytosolic DNA sensors. Moreover, innate components or pathways exist to sense membrane fusion upon viral entry into host cells. Consequently, this surveillance network activates downstream transcription factors, leading to the induction of type I interferon and inflammatory cytokines. Not surprisingly, with the capacity to establish chronic infection HSV has evolved strategies that modulate or evade innate immunity. In this review, we describe recent advances pertinent to the interplay of HSV and the induction of innate immunity mediated by pathogen recognition receptors or pathways.
+http://www.sciencedirect.com/science/article/pii/S0022283613007237
+00222836

@@ -1,0 +1,6 @@
+Identification of a Stable Flavin-thiolate Adduct in Heterotetrameric Sarcosine Oxidase
+6507868770,7006957813,6602829379
+flavin mononucleotide,sarcosine oxidation,intramolecular electron transfer,oxygen reduction,thiolate adduct
+Heterotetrameric sarcosine oxidase (TSOX) is a complex bifunctional flavoenzyme that contains two flavins. Most of the FMN in recombinant TSOX is present as a covalent adduct with an endogenous ligand. Enzyme denaturation disrupts the adduct, accompanied by release of a stoichiometric amount of sulfide. Enzyme containing ≥90% unmodified FMN is prepared by displacement of the endogenous ligand with sulfite, a less tightly bound competing ligand. Reaction of adduct-depleted TSOX with sodium sulfide produces a stable complex that resembles the endogenous TSOX adduct and known 4a-S-cysteinyl flavin adducts. The results provide definitive evidence for sulfide as the endogenous TSOX ligand and strongly suggest that the modified FMN is a 4a-sulfide adduct. A comparable reaction with sodium sulfide is not detected with other flavoprotein oxidases. A model of the postulated TSOX adduct suggests that it is stabilized by nearby residues that may be important in the electron transferase/oxidase function of the coenzyme.
+http://www.sciencedirect.com/science/article/pii/S0022283606009314
+00222836

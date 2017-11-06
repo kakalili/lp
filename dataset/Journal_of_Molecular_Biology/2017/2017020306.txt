@@ -1,0 +1,6 @@
+ClusPro-DC: Dimer Classification by the Cluspro Server for Protein–Protein Docking
+54796332700,7404434197,36711094700,56734564300,8695707200,7005156142
+crystallographic dimer,biological dimer,solution structure,energy landscape,interface discrimination
+ClusPro-DC (https://cluspro.bu.edu/) implements a straightforward approach to the discrimination between crystallographic and biological dimers by docking the two subunits to exhaustively sample the interaction energy landscape. If a substantial number of low energy docked poses cluster in a narrow vicinity of the native structure of the dimer, then one can assume that there is a well-defined free energy well around the native state, which makes the interaction stable. In contrast, if the interaction sites in the docked poses do not form a large enough cluster around the native structure, then it is unlikely that the subunits form a stable biological dimer. The number of near-native structures is used to estimate the probability of a dimer being biological. Currently, the server examines only the stability of a given interface rather than generating all putative quaternary structures as accomplished by PISA or EPPIC, but it complements the information provided by these methods.
+http://www.sciencedirect.com/science/article/pii/S0022283616304430
+00222836

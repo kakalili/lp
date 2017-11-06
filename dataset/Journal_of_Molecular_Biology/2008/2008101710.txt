@@ -1,0 +1,6 @@
+Insights into the Replisome from the Structure of a Ternary Complex of the DNA Polymerase III α-Subunit
+14326088500,7401729577,7102949800
+eubacterial DNA replication,DNA polymerase III,OB-fold,ternary complex,nucleotidyltransferase
+The crystal structure of the catalytic α−subunit of the DNA polymerase III (PolIIIα) holoenzyme bound to primer–template DNA and an incoming deoxy-nucleoside 5′-triphosphate has been determined at 4.6-Å resolution. The polymerase interacts with the sugar–phosphate backbone of the DNA across its minor groove, which is made possible by significant movements of the thumb, finger, and β-binding domains relative to their orientations in the unliganded polymerase structure. Additionally, the DNA and incoming nucleotide are bound to the active site of PolIIIα nearly identically as they are in their complex with DNA polymerase β, thereby proving that the eubacterial replicating polymerase, but not the eukaryotic replicating polymerase, is homologous to DNA polymerase β. Finally, superimposing a recent structure of the clamp bound to DNA on this PolIIIα complex with DNA places a loop of the β-binding domain into the appropriate clamp cleft and supports a mechanism of polymerase switching.
+http://www.sciencedirect.com/science/article/pii/S0022283608009121
+00222836

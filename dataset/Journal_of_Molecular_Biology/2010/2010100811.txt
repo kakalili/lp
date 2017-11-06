@@ -1,0 +1,6 @@
+Proteome-Level Interplay between Folding and Aggregation Propensities of Proteins
+15840553700,7007094071
+protein folding,protein aggregation,CamFold,Zyggregator
+With the advent of proteomics, there is an increasing need of tools for predicting the properties of large numbers of proteins by using the information provided by their amino acid sequences, even in the absence of the knowledge of their structures. One of the most important types of predictions concerns whether proteins will fold or aggregate. Here, we study the competition between these two processes by analyzing the relationship between the folding and aggregation propensity profiles for the human and Escherichia coli proteomes. These profiles are calculated, respectively, using the CamFold method, which we introduce in this work, and the Zyggregator method. Our results indicate that the kinetic behavior of proteins is, to a large extent, determined by the interplay between regions of low folding and high aggregation propensities.
+http://www.sciencedirect.com/science/article/pii/S0022283610008648
+00222836

@@ -1,0 +1,6 @@
+Molecular Basis for the Anchoring of Proto-Oncoprotein Nup98 to the Cytoplasmic Face of the Nuclear Pore Complex
+14621999400,55230025600,35866913800,6505904119
+macromolecular assembly,evolutionary conservation,mRNA export,Nup98 leukemias,X-ray crystallography
+The cytoplasmic filament nucleoporins of the nuclear pore complex (NPC) are critically involved in nuclear export and remodeling of mRNA ribonucleoprotein particles and are associated with various human malignancies. Here, we report the crystal structure of the Nup98 C-terminal autoproteolytic domain, frequently missing from leukemogenic forms of the protein, in complex with the N-terminal domain of Nup82 and the C-terminal tail fragment of Nup159. The Nup82 β propeller serves as a noncooperative binding platform for both binding partners. Interaction of Nup98 with Nup82 occurs through a reciprocal exchange of loop structures. Strikingly, the same Nup98 groove promiscuously interacts with Nup82 and Nup96 in a mutually excusive fashion. Simultaneous disruption of both Nup82 interactions in yeast causes severe defects in mRNA export, while the severing of a single interaction is tolerated. Thus, the cytoplasmic filament network of the NPC is robust, consistent with its essential function in nucleocytoplasmic transport.
+http://www.sciencedirect.com/science/article/pii/S0022283612002987
+00222836

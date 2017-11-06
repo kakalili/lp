@@ -1,0 +1,6 @@
+Real-Time Evidence for EF-G-Induced Dynamics of Helix 44 in 16S rRNA
+13805909100,36672914600,7202970668
+dynamics,16S rRNA,helix 44,EF-G,translocation
+The penultimate stem–loop of 16S ribosomal RNA (rRNA), helix 44, plays a central role in ribosome function. Using time-resolved dimethyl sulfate (DMS) probing, we have analyzed time-dependent modifications that occur at specific bases in this helix near the decoding region, resulting from the binding of elongation factor G (EF-G) in various forms. When EF-G-GTP is bound to 70S ribosomes, bases A1492 and A1493 are immediately protected, while other bases in the region show either no change or enhanced modification. When apo-EF-G is bound to 70S ribosomes and GTP is added, substantial transient time-dependent enhancement occurs at bases A1492 and A1493, with somewhat less enhancement occurring at base A1483, all in the first 45 ms. When mRNA and deacylated tRNAs are bound to the 70S ribosome and EF-G-GTP is added, bases A1492 and A1493 again show substantial and continued enhancement, while bases A1408, A1413, and A1418 all show time-dependent protection. These results provide primary, real-time evidence that EF-G induces direct or indirect structural changes in this region as EF-G is bound and as GTP is hydrolyzed.
+http://www.sciencedirect.com/science/article/pii/S002228361200397X
+00222836

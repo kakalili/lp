@@ -1,0 +1,6 @@
+Human plasminogen catalytic domain undergoes an unusual conformational change upon activation11Edited by I. A. Wilson
+8509827600,6603932777,7404637625,7005081309,7404513790,56132107800
+plasminogen,crystal structure,zymogen activation
+Activation of the serine protease plasmin from its zymogen, plasminogen, is the key step in fibrinolysis leading to blood clot dissolution. It also plays critical roles in cell migration, such as in tumor metastasis. Here, we report the crystal structure of an inactive S741A mutant of human plasminogen catalytic domain at 2.0 Å resolution. This structure permits a direct comparison with that of the plasmin catalytic unit. Unique conformational differences are present between these two structures that are not seen in other zymogen-enzyme pairs of the trypsin family. The functional significance of these differences and the structural basis of plasminogen activation is discussed in the light of this new structure.
+http://www.sciencedirect.com/science/article/pii/S0022283699933971
+00222836

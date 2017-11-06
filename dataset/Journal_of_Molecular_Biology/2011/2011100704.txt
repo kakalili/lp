@@ -1,0 +1,6 @@
+σ70-dependent Transcription Pausing in Escherichia coli
+26641383900,7410324118
+transcription,sigma-dependent pausing,backtracking,gene regulation
+After promoter escape in Escherichia coli, the initiating σ70 factor is retained by core RNA polymerase (RNAP) for at least tens of nucleotides. While it is bound, σ70 can engage a repeat of a promoter DNA element located downstream of the promoter and thereby induce a transcription pause. The σ70-dependent promoter-proximal pause that occurs at all lambdoid phage late gene promoters is essential to regulation of the late gene operons. Several, and possibly many, E. coli promoters have associated σ70-dependent pauses. Clearly characterized σ70-dependent pauses occur within 25 nucleotides of the start site, but σ70-dependent pausing might occur farther downstream as well. In this review, we summarize evidence for σ70-dependent promoter-proximal and promoter-distal pausing, and we discuss its potential regulatory function and mechanistic basis.
+http://www.sciencedirect.com/science/article/pii/S0022283611001446
+00222836

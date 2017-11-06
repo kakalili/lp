@@ -1,0 +1,6 @@
+Structural Insights into the Design of Inhibitors for the L1 Metallo-β-lactamase from Stenotrophomonas maltophilia
+9038118100,7201463807,6603549624,7403026450,56253764600
+Lactamase,metalloenzyme,binuclear,zinc,inhibitor design
+One mechanism by which bacteria can escape the action of β-lactam antibiotics is the production of metallo-β-lactamases. Inhibition of these enzymes should restore the action of these widely used antibiotics. The tetrameric enzyme L1 from Stenotrophomonas maltophilia was used as a model system to determine a series of high-resolution crystal structures of apo, mono and bi-metal substituted proteins as well as protein–inhibitor complexes. Unexpectedly, although the apo structure revealed only few significant structural differences from the holo structure, some inhibitors were shown to induce amino acid side-chain rotations in the tightly packed active site. Moreover, one inhibitor employs a new binding mode in order to interact with the di-zinc center. This structural information could prove essential in the process of elucidation of the mode of interaction between a putative lead compound and metallo-β-lactamases, one of the main steps in structure-based drug design.
+http://www.sciencedirect.com/science/article/pii/S0022283607013745
+00222836

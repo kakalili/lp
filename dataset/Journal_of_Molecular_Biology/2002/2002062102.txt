@@ -1,0 +1,6 @@
+Secondary Structure Prediction for Aligned RNA Sequences
+7004324809,7005960338,7102702401
+RNA secondary structure prediction,conserved substructures,compensatory mutations
+Most functional RNA molecules have characteristic secondary structures that are highly conserved in evolution. Here we present a method for computing the consensus structure of a set aligned RNA sequences taking into account both thermodynamic stability and sequence covariation. Comparison with phylogenetic structures of rRNAs shows that a reliability of prediction of more than 80% is achieved for only five related sequences. As an application we show that the Early Noduline mRNA contains significant secondary structure that is supported by sequence covariation.
+http://www.sciencedirect.com/science/article/pii/S002228360200308X
+00222836

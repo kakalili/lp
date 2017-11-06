@@ -1,0 +1,6 @@
+YidC-Driven Membrane Insertion of Single Fluorescent Pf3 Coat Proteins
+7201544620,36895048700,7005136945,6602115356,35366429400
+membrane insertase YidC,membrane translocation,bacteriophage Pf3,single molecule counting,hydrophobicity
+The membrane insertion of single bacteriophage Pf3 coat proteins was observed by confocal fluorescence microscopy. Within seconds after addition of the purified and fluorescently labeled protein to liposomes or proteoliposomes containing the purified and reconstituted membrane insertase YidC of Escherichia coli, the translocation of the labeled residue was detected. The 50-amino-acid-long Pf3 coat protein was labeled with Atto520 and inserted into the proteoliposomes. Translocation of the dye into the proteoliposome was revealed by quenching the fluorescence outside of the vesicles. This allowed us to distinguish single Pf3 coat proteins that only bound to the surface of the liposomes from proteins that had inserted into the bilayer and translocated the dye into the lumen. The Pf3 coat protein required the presence of the YidC membrane insertase, whereas mutants that have a membrane-spanning region with an increased hydrophobicity were autonomously inserted into the liposomes without YidC.
+http://www.sciencedirect.com/science/article/pii/S0022283611007777
+00222836

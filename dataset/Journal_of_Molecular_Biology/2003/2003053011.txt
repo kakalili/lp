@@ -1,0 +1,6 @@
+Structural Requirement for Mg2+ Binding in the Group I Intron Core
+7003316090,7006553529
+RNA folding,group I ribozyme,metal ions,RNA stability,equilibrium phase diagram
+Divalent metal ions are required for splicing of group I introns, but their role in maintaining the structure of the active site is still under investigation. Ribonuclease and hydroxyl radical footprinting of a small group I intron from Azoarcus pre-tRNAIle showed that tertiary interactions between helical domains are stable in a variety of cations. Only Mg2+, however, induced a conformational change in the intron core that correlates with self-splicing activity. Three metal ion binding sites in the catalytic core were identified by Tb(III)-dependent cleavage. Two of these are near bound substrates in a three-dimensional model of the ribozyme. A third metal ion site is near an A minor motif in P3. In the pre-tRNA, Tb3+ cleavage was redirected to the 5′ and 3′ splice sites, consistent with metal-dependent activation of splice site phosphodiesters. The results show that many counterions induce global folding, but organization of the group I active site is specifically linked to Mg2+ binding at a few sites.
+http://www.sciencedirect.com/science/article/pii/S0022283603004303
+00222836

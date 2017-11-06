@@ -1,0 +1,6 @@
+Sequence-Based Prediction of Protein Solubility
+40660955500,7007094071,15840553700
+protein aggregation,protein solubility,protein folding,E. coli proteome
+In order to investigate the relationship between the thermodynamics and kinetics of protein aggregation, we compared the solubility of proteins with their aggregation rates. We found a significant correlation between these two quantities by considering a database of protein solubility values measured using an in vitro reconstituted translation system containing about 70% of Escherichia coli proteins. The existence of such correlation suggests that the thermodynamic stability of the native states of proteins relative to the aggregate states is closely linked with the kinetic barriers that separate them. In order to create the possibility of conducting computational studies at the proteome level to investigate further this concept, we developed a method of predicting the solubility of proteins based on their physicochemical properties.
+http://www.sciencedirect.com/science/article/pii/S0022283611012940
+00222836

@@ -1,0 +1,6 @@
+Bacterial Networks in Cells and Communities
+6603182740,7003399158
+bacteria,networks,signal transduction,cell biology,systems biology
+Research on the bacterial regulatory networks is currently experiencing a true revival, driven by advances in methodology and by emergence of novel concepts. The biannual conference Bacterial Networks (BacNet15) held in May 2015, in Sant Feliu de Guíxols, Spain, covered progress in the studies of regulatory networks that control bacterial physiology, cell biology, stress responses, metabolism, collective behavior and evolution. It demonstrated how interdisciplinary approaches that combine molecular biology and biochemistry with the latest microscopy developments, whole cell (-omics) approaches and mathematical modeling can help understand design principles relevant in microbiology. It further showed how current biotechnology and medical microbiology could profit from our knowledge of and ability to engineer regulatory networks of bacteria.
+http://www.sciencedirect.com/science/article/pii/S0022283615006099
+00222836

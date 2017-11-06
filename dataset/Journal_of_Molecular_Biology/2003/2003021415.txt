@@ -1,0 +1,6 @@
+Mega-Dalton Biomolecular Motion Captured from Electron Microscopy Reconstructions
+7005148641,6603210961,7004454996
+normal mode analysis,flexing,domain motions,macromolecular assemblies,subcellular machines
+The vibrational analysis of elastic models suggests that the essential motions of large biomolecular assemblies can be captured efficiently at an intermediate scale without requiring knowledge of the atomic structure. While prior work has established a theoretical foundation for this analysis, we demonstrate here on experimental electron microscopy maps that vibrational modes indeed describe functionally relevant movements of macromolecular machines. The clamp closure in bacterial RNA polymerase, the ratcheting of 30S and 50S subunits of the ribosome, and the dynamic flexibility of chaperonin CCT are extracted directly from single electron microscopy structures at 15–27Å resolution. The striking agreement of the presented results with experimentally observed motions suggests that the motion of the large scale machinery in the cell is surprisingly independent of detailed atomic interactions and can be quite reasonably described as a motion of elastic bodies.
+http://www.sciencedirect.com/science/article/pii/S0022283602014262
+00222836

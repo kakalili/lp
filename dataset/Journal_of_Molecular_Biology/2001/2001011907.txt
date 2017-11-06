@@ -1,0 +1,6 @@
+Hydrogen bonds with π-acceptors in proteins: frequencies and role in stabilizing local 3D structures11Edited by R. Huber
+7103109878,7004676454
+hydrogen bonding,aromatic hydrogen bonding,weak polar interactions,secondary structure,protein structure
+A comprehensive structural analysis of X—H⋯π hydrogen bonding in proteins is performed based on 592 published high-resolution crystal structures (⩽1.6 Å). All potential donors and acceptors are considerered, including acidic C—H groups. The sample contains 1311 putative X—H⋯π hydrogen bonds with N—H, O—H or S—H donors, that is about one per 10.8 aromatic residues. By far the most efficient π-acceptor is the side-chain of Trp, which accepts one X—H⋯π hydrogen bond per 5.7 residues. The focus of the analysis is on recurrent structural patterns involving regular secondary structure elements. Numerous examples are found where peptide X—H⋯π interactions are functional in stabilization of helix termini, strand ends, strand edges, β-bulges and regular turns. Side-chain X—H⋯π hydrogen bonds are formed in considerable numbers in α-helices and β-sheets. Geometrical data on various types of X—H⋯π hydrogen bonds are given.
+http://www.sciencedirect.com/science/article/pii/S0022283600943018
+00222836

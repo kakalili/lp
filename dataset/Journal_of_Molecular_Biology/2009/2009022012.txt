@@ -1,0 +1,6 @@
+The Chromatin of Active Genes Is Not in a Permanently Open Conformation
+6602362933,7006115159,7005398796,35575783500,7005971784
+chromatin,heterochromatin,DNase I,active genes,DHS
+Quantitative measurements of local chromatin accessibility to DNase I in 15-day chicken embryo erythrocyte nuclei have been performed using a range of nuclease concentrations and real-time TaqMan PCR to monitor the loss of short (∼80 bp) amplicons. At the β-globin locus, well-established DNase I hypersensitive sites stand out against a background in which actively transcribed gene sequences (e.g., β-adult and β-hatching) are no more sensitive than the nearby constitutive heterochromatin that has previously been shown to form the 30-nm fibre structure. Similar observations were made at the lysozyme locus containing the active Gas41 gene and also at the GAPDH locus. We conclude that active genes are not continuously held in an open ‘beads-on-a-string’ configuration, but adopt a 30-nm-type structure most of the time. This implies that the compact nucleosomal supercoil re-forms in the wake of the polymerase complex.
+http://www.sciencedirect.com/science/article/pii/S0022283608015684
+00222836

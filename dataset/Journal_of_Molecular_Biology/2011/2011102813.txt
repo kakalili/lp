@@ -1,0 +1,6 @@
+Conserved Glycine Residues in the P-Loop of ATP Synthases Form a Doorframe for Nucleotide Entrance
+56259462600,56054013900,24481778400,26643247300
+A-ATP synthases,P-loop,glycine mutant,archaea,nucleotide binding
+The phosphate binding loop (GXXXXGKT(S)) is conserved in several mononucleotide-binding proteins with similar three-dimensional structures. Although variations in other amino acids have been noted, the first glycine and glycine–lysine residues are highly conserved in all enzymes, whose role is yet to be understood. Alanine substitutions for critically positioned glycines—G234, G237, and G239—were generated for the catalytic A-subunit of A-ATP synthase from Pyrococcus horikoshii OT3, and their crystal structures were determined. They showed altered conformation for the phosphate binding loop, with G234A and G237A becoming flat and with G239A taking an intermediate conformation, resulting in the active-site region being closed to nucleotide entry. Furthermore, the essential amino acids S238 and K240, which normally interact with the nucleotide, become inaccessible. These mutant structures demonstrate the role of the strictly conserved glycine residues in guarding the active-site region for nucleotide entrance in archaea-type ATP synthases.
+http://www.sciencedirect.com/science/article/pii/S0022283611009570
+00222836

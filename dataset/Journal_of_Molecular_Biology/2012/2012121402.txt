@@ -1,0 +1,6 @@
+Classification of Ligand Molecules in PDB with Fast Heuristic Graph Match Algorithm COMPLIG
+8381887800,55418977500,7401554570
+graph match,protein ligand,metabolome,bioinformatics
+A fast heuristic graph-matching algorithm, COMPLIG, was devised to classify the small-molecule ligands in the Protein Data Bank (PDB), which are currently not properly classified on structure basis. By concurrently classifying proteins and ligands, we determined the most appropriate parameter for categorizing ligands to be more than 60% identity of atoms and bonds between molecules, and we classified 11,585 types of ligands into 1946 clusters. Although the large clusters were composed of nucleotides or amino acids, a significant presence of drug compounds was also observed. Application of the system to classify the natural ligand status of human proteins in the current database suggested that, at most, 37% of the experimental structures of human proteins were in complex with natural ligands. However, protein homology- and/or ligand similarity-based modeling was implied to provide models of natural interactions for an additional 28% of the total, which might be used to increase the knowledge of intrinsic protein–metabolite interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283612008091
+00222836

@@ -1,0 +1,6 @@
+Hypothesis: A Phospholipid Translocase Couples Lateral and Transverse Bilayer Asymmetries in Dividing Bacteria
+56233971600,6701566470,57191983664,7102074723
+flippase,cell division,phospholipid,ABC transporter,oscillation
+Cell division in bacteria such as Escherichia coli entails changes in the radii of curvature of the invaginating cytoplasmic membrane which culminate in rearrangements of its monolayers. Division therefore risks perturbing transverse and lateral asymmetries and compromising membrane integrity. This leads us to propose that a strong selective pressure exists for a phospholipid translocator that would transfer phospholipids across the cytoplasmic membrane so as to both demarcate the division site and mediate lipid composition during division. This translocase has an affinity for phospholipids with small headgroups and unsaturated acyl chains which it translocates so as to (1) generate changes in the radius of curvature, (2) facilitate septum formation, (3) minimise bilayer disruption during fusion and (4) prevent septum formation at old or inappropriate division sites. We discuss briefly possible candidates for this translocase including ABC transporters and proteins localised to the division site.
+http://www.sciencedirect.com/science/article/pii/S0022283602000980
+00222836

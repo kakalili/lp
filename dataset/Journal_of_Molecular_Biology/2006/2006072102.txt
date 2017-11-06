@@ -1,0 +1,6 @@
+The Three-dimensional Arcitecture of the EJC Core
+6506323532,36814656000,55727324500,7404471382,6603858126
+spliceosome,exon junction complex,mRNA,electron microscopy,three-dimensional structure
+The exon junction complex (EJC) is a macromolecular complex deposited at splice junctions on mRNAs as a consequence of splicing. At the core of the EJC are four proteins: eIF4AIII, a member of the DExH/D-box family of NTP-dependent RNA binding proteins, Y14, Magoh, and MLN51. These proteins form a stable heterotetramer that remains bound to the mRNA throughout many different cellular environments. We have determined the three-dimensional (3D) structure of this EJC core using negative-stain random-conical tilt electron microscopy. This structure represents the first structure of a DExH/D-box protein in complex with its binding partners. The EJC core is a four-lobed complex with a central channel and dimensions consistent with its known RNA footprint of about ten nucleotides. Using known X-ray crystallographic structures and a model of three of the four components, we propose a model for complex assembly on RNA and explain how Y14:Magoh may influence eIF4AIII's RNA binding.
+http://www.sciencedirect.com/science/article/pii/S0022283606006504
+00222836

@@ -1,0 +1,6 @@
+Structural Basis for RanGTP Independent Entry of Spliceosomal U snRNPs into the Nucleus
+13610439400,8652468300,6601962256,7004237468
+nuclear transport,importins,U snRNPs,RanGTP,thermodynamics
+The nuclear import of assembled spliceosomal subunits, the uridine-rich small nuclear ribonucleoprotein particles (U snRNPs), is mediated by a nuclear import receptor adaptor couple of importinβ (Impβ) and snurportin1 (SPN1). In contrast to any other characterized active nuclear import, the Impβ/SPN1/U snRNP complex does not require RanGTP for the terminal release from the nuclear basket of the nuclear pore complex (NPC). The crystal structure of Impβ (127–876) in complex with the Impβ-binding (IBB) domain of SPN1 (1–65) at 2.8-Å resolution reveals that Impβ adopts an open conformation, which is unique for a functional Impβ/cargo complex, and rather surprisingly, it resembles the conformation of the Impβ/RanGTP complex. As binding of RanGTP to Impβ usually triggers the release of import complexes from the NPC, we propose that by already mimicking a conformation similar to Impβ/RanGTP the independent dissociation of Impβ/SPN1 from the nuclear basket is energetically aided.
+http://www.sciencedirect.com/science/article/pii/S0022283607012648
+00222836

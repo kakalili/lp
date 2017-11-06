@@ -1,0 +1,6 @@
+Compartmentalization of the Cell Membrane
+35262215200,6603327473
+cell membrane ultrastructure,cortical actin,network,lipid raft,nano cluster
+Many cell-membrane-associated processes require transient spatiotemporal separation of components on scales ranging from a couple of molecules to micrometers in size. Understanding these processes mechanistically involves understanding how lipids and proteins self-organize and interact with the cell cortex. Here, we review recent advances in dissecting the mechanisms of cell membrane compartmentalization. We introduce the challenges in studying cell membrane organization, the current understanding of how complex membranes self-organize to form transient domains, and the role of protein scaffolds in membrane organization. We discuss the formation of signaling domains as an important example of transient membrane compartmentalization. We conclude by pointing to the current limitations of measuring membrane organization in living cells and the steps that are required to advance the field.
+http://www.sciencedirect.com/science/article/pii/S0022283616304144
+00222836

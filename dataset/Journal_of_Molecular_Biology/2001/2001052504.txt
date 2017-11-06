@@ -1,0 +1,6 @@
+Direct observation of three conformations of MutS protein regulated by adenine nucleotides11Edited by T. Richmond
+37026425000,8203914000,6604019388,16190557100
+MutS,mismatch repair,small-angle X-ray scattering,nucleotide binding,conformational change
+Mismatched base-pairs, which are caused by either DNA replication errors, DNA damage or genetic recombination, are repaired by the mismatch-repair system. The MutS protein, a component of the mismatch-repair system, recognizes mismatched base-pairs in DNA, and its DNA-binding activity is affected by ATP and ADP. Here, we show that the MutS protein from Thermus thermophilus HB8 can have three different conformations in solution, based on direct observations made by small-angle X-ray scattering. The conformation of MutS in solution is drastically influenced by the presence of ADP and ATP; the ATP-bound form has the most compact conformation, the ADP-bound form the most stretched, and the nucleotide-free form has a conformation intermediate between the two. Based on these findings, we conclude that the DNA-binding activity of MutS may depend on conformational changes triggered by both the binding and hydrolysis of ATP.
+http://www.sciencedirect.com/science/article/pii/S0022283601947527
+00222836

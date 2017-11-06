@@ -1,0 +1,6 @@
+Network-Based Interpretation of Genomic Variation Data
+6603240812,7005271135
+single-nucleotide polymorphism,graph algorithm,disease association,molecular pathway,protein–protein interaction
+Advances in sequencing technologies are allowing genome-wide association studies at an ever-growing scale. The interpretation of these studies requires dealing with statistical and combinatorial challenges, owing to the multi-factorial nature of human diseases and the huge space of genomic markers that are being monitored. Recently, it was proposed that using protein–protein interaction network information could help in tackling these challenges by restricting attention to markers or combinations of markers that map to close proteins in the network. In this review, we survey techniques for integrating genomic variation data with network information to improve our understanding of complex diseases and reveal meaningful associations.
+http://www.sciencedirect.com/science/article/pii/S0022283613004737
+00222836

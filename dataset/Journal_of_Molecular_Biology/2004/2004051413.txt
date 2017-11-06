@@ -1,0 +1,6 @@
+Crystallographic Structure and Biochemical Analysis of the Thermus thermophilus Osmotically Inducible Protein C
+6603492684,8252830700,6603575133,37001289600
+OsmC,osmotic stress,peroxidase,Ohr,X-ray crystal structure
+The X-ray crystallographic structure of osmotically inducible Protein C from the thermophilic bacterium, Thermus thermophilus HB8, was solved to 1.6Å using the multiple wavelength anomalous dispersion method and a selenomethionine incorporated protein (Se-MAD). The crystal space group was P1 with cell dimensions of a=37.58Å, b=40.95Å, c=48.14Å, α=76.9°, β=74.0° and γ=64.1°. The two tightly interacting monomers in the asymmetric unit are related by a non-crystallographic 2-fold. The dimer structure is defined primarily by two very long anti-parallel, over-lapping α-helices at the core, with a further six-stranded anti-parallel β-sheet on the outside of the structure. With respect to the β-sheets, both A and B monomers contribute three strands each resulting in an intertwining of the structure. The active site consists of two cysteine residues from one monomer and an arginine and glutamic acid from the other. Enzymatic assays have revealed that T.thermophilus OsmC has a hydroperoxide peroxidase activity.
+http://www.sciencedirect.com/science/article/pii/S0022283604003535
+00222836

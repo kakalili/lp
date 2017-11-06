@@ -1,0 +1,6 @@
+A Single Mutation in the IF3 N-Terminal Domain Perturbs the Fidelity of Translation Initiation at Three Levels
+55316830700,6602865658,9435404900,6603784132,7007085592,55552007700,25121398500,7006016723,35430439500,7202166618
+translation initiation,IF3,accuracy
+Bacterial translation initiation factor 3 (IF3) is involved in the fidelity of translation initiation at several levels, including start-codon discrimination, mRNA translation, and initiator-tRNA selection. The IF3 C-terminal domain (CTD) is required for binding to the 30S ribosomal subunit. N-terminal domain (NTD) function is less certain, but likely contributes to initiation fidelity. Point mutations in either domain can decrease initiation fidelity, but C-terminal domain mutations may be indirect. Here, the Y75N substitution mutation in the NTD is examined in vitro and in vivo. IF3Y75N protein binds 30S subunits normally, but is defective in start-codon discrimination, inhibition of initiation on leaderless mRNA, and initiator-tRNA selection, thereby establishing a direct role for the IF3 NTD in these initiation processes. A model illustrating how IF3 modulates an inherent function of the 30S subunit is discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283608011340
+00222836

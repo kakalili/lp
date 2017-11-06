@@ -1,0 +1,6 @@
+Molecular Structure and Flexibility of the Yeast Coatomer as Revealed by Electron Microscopy
+7101665539,7005465519
+coatomer,single-particle electron microscopy,COPI,membrane trafficking,yeast
+Coat protein complex I (COPI)-coated vesicles, one of three major types of vesicular carriers in the cell, mediate the early secretory pathway and retrograde transport from the Golgi to the endoplasmic reticulum. COPI vesicles are generated through activation of the regulatory GTPase Arf1 at the donor membrane and the subsequent recruitment of coatomer, a coat protein complex consisting of seven stably associated components. Coatomer functions in binding and sequestering cargo molecules and assembles into a polymeric protein shell that encompasses the surface of COPI vesicles. Little is known about the structural properties of this heptameric complex. We have isolated native yeast coatomer and examined its structure and subunit organization by single-particle electron microscopy. Our analyses provide the first three-dimensional picture of the complete coatomer and reveal substantial conformational flexibility likely to be critical for its scaffolding function.
+http://www.sciencedirect.com/science/article/pii/S0022283611003056
+00222836

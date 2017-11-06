@@ -1,0 +1,6 @@
+Protein Feature Based Identification of Cell Cycle Regulated Proteins in Yeast
+6506824444,9845594400,35548941900,7005477388
+cell cycle,proteome dynamics,phosphorylation,subcellular location,instability/degradation
+DNA microarrays have been used extensively to identify cell cycle regulated genes in yeast; however, the overlap in the genes identified is surprisingly small. We show that certain protein features can be used to distinguish cell cycle regulated genes from other genes with high confidence (features include protein phosphorylation, glycosylation, subcellular location and instability/degradation). We demonstrate that co-expressed, periodic genes encode proteins which share combinations of features, and provide an overview of the proteome dynamics during the cycle. A large set of novel putative cell cycle regulated proteins were identified, many of which have no known function.
+http://www.sciencedirect.com/science/article/pii/S002228360300490X
+00222836

@@ -1,0 +1,6 @@
+Effects of Salts on Internal DNA Pressure and Mechanical Properties of Phage Capsids
+6602918429,7005606770,6507113691,24402647100,7401732396,6602361770
+genome ejection,bacteriophage λ,AFM, nanoindentation,stability
+Based on atomic force microscopy nanoindentation measurements of phage λ, we previously proposed a minimal model describing the effect of water hydrating DNA that strengthens viral capsids against external deformation at wild-type DNA packing density. Here, we report proof of this model by testing the prediction that DNA hydration forces can be dramatically decreased by addition of multivalent ions (Mg2+ and Sp4+). These results are explained using a DNA hydration model without adjustable parameters. The model also predicts the stiffness of other DNA-filled capsids, which we confirm using bacteriophage ϕ29 and herpes simplex virus type 1 particles.
+http://www.sciencedirect.com/science/article/pii/S0022283610011587
+00222836

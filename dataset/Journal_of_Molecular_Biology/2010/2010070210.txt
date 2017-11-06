@@ -1,0 +1,6 @@
+Adding a Lysine Mimic in the Design of Potent Inhibitors of Histone Lysine Methyltransferases
+18041872100,7003344532,7402836798,16317520000,36064082300,8267147200,56060929100,7006206437,7004815423,7401498863,55205682600
+epigenetics,histone lysine methylation,enzymatic inhibition,lysine mimics
+Dynamic histone lysine methylation involves the activities of modifying enzymes (writers), enzymes removing modifications (erasers), and readers of the histone code. One common feature of these activities is the recognition of lysines in methylated and unmethylated states, whether they are substrates, reaction products, or binding partners. We applied the concept of adding a lysine mimic to an established inhibitor (BIX-01294) of histone H3 lysine 9 methyltransferases G9a and G9a-like protein by including a 5-aminopentyloxy moiety, which is inserted into the target lysine-binding channel and becomes methylated by G9a-like protein, albeit slowly. The compound enhances its potency in vitro and reduces cell toxicity in vivo. We suggest that adding a lysine or methyl-lysine mimic should be considered in the design of small-molecule inhibitors for other methyl-lysine writers, erasers, and readers.
+http://www.sciencedirect.com/science/article/pii/S0022283610004365
+00222836

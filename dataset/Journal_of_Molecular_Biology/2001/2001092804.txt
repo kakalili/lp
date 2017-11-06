@@ -1,0 +1,6 @@
+The A730 loop is an important component of the active site of the VS ribozyme11Edited by J. Karn
+35563626400,7403496446,7201792285,35563282900
+RNA catalysis,rate enhancement,nucleobases,FRET,metal ions
+The core of the VS ribozyme comprises five helices, that act either in cis or in trans on a stem-loop substrate to catalyse site-specific cleavage. The structure of the 2-3-6 helical junction indicates that a cleft is formed between helices II and VI that is likely to serve as a receptor for the substrate. Detailed analysis of sequence variants suggests that the base bulges of helices II and VI play an architectural role. By contrast, the identity of the nucleotides in the A730 loop is very important for ribozyme activity. The base of A756 is particularly vital, and substitution by any other nucleotide or ablation of the base leads to a major reduction in cleavage rate. However, variants of A756 bind substrate efficiently, and are not defective in global folding. These results suggest that the A730 loop is an important component of the active site of the ribozyme, and that A756 could play a key role in catalysis.
+http://www.sciencedirect.com/science/article/pii/S0022283601949964
+00222836

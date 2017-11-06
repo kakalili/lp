@@ -1,0 +1,6 @@
+Regulation of Calcium Homeostasis by ER Redox: A Close-Up of the ER/Mitochondria Connection
+16244043300,16308562100
+redox-regulated calcium signaling,mitochondria-associated membranes,SERCA,IP3R,RyR
+Calcium signaling plays an important role in cell survival by influencing mitochondria-related processes such as energy production and apoptosis. The endoplasmic reticulum (ER) is the main storage compartment for cell calcium (Ca2+; ~60–500μM), and the Ca2+ released by the ER has a prompt effect on the homeostasis of the juxtaposed mitochondria. Recent findings have highlighted a close connection between ER redox and Ca2+ signaling that is mediated by Ca2+-handling proteins. This paper describes the redox-regulated mediators and mechanisms that orchestrate Ca2+ signals from the ER to mitochondria.
+http://www.sciencedirect.com/science/article/pii/S002228361730058X
+00222836

@@ -1,0 +1,6 @@
+Structural Characterization of a Mannose-binding Protein–Trimannoside Complex using Residual Dipolar Couplings
+56215745700,7101864085,7007181442
+NMR,residual dipolar couplings,mannose-binding protein,trimannoside,protein–carbohydrate interactions
+The ligand-binding properties of a 53kDa homomultimeric trimer from mannose-binding protein (MBP) have been investigated using residual dipolar couplings (RDCs) that are easily measured from NMR spectra of the ligand and isotopically labeled protein. Using a limited set of 1H–15N backbone amide NMR assignments for MBP and orientational information derived from the RDC measurements in aligned media, an order tensor for MBP has been determined that is consistent with symmetry-based predictions of an axially symmetric system. 13C–1H couplings for a bound trisaccharide ligand, methyl 3,6-di-O-(α-d-mannopyranosyl)-α-d-mannopyranoside (trimannoside) have been determined at natural abundance and used as orientational constraints. The bound ligand geometry and orientational constraints allowed docking of the trimannoside ligand in the binding site of MBP to produce a structural model for MBP–oligosaccharide interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283603002687
+00222836

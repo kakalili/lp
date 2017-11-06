@@ -1,0 +1,6 @@
+In Vivo Topography of Rap1p–DNA Complex at Saccharomyces cerevisiae TEF2 UASRPG During Transcriptional Regulation
+7006250831,6507253168,35508363500,7101690505,7003924369,7006952485,7004380416
+Rap1p,transcription regulation,chromatin,potassium permanganate,amino acid starvation
+We have analyzed in detail the structure of RAP1–UASRPG complexes in Saccharomyces cerevisiae cells using multi-hit KMnO4, UV and micrococcal nuclease high-resolution footprinting. Three copies of the Rap1 protein are bound to the promoter simultaneously in exponentially growing cells, as shown by KMnO4 multi-hit footprinting analysis, causing extended and diagnostic changes in the DNA structure of the region containing the UASRPG. Amino acid starvation does not cause loss of Rap1p from the complex; however, in vivo UV-footprinting reveals the occurrence of structural modifications of the complex. Moreover, low-resolution micrococcal nuclease digestion shows that the chromatin of the entire region is devoid of positioned nucleosomes but is susceptible to changes in accessibility to the nuclease upon amino acid starvation. The implications of these results for the mechanism of Rap1p action are discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283602001109
+00222836

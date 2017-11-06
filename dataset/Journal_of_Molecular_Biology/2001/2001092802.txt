@@ -1,0 +1,6 @@
+Internalins from the human pathogen Listeria monocytogenes combine three distinct folds into a contiguous internalin domain11Edited by T. Richmond
+7202740881,15736667700,23492109800,7004199151,7801382006,7005249330,7103223764,7005037779,7004060398,7006521400
+pathogenic bacteria,cellular invasion,leucine-rich repeat protein,X-ray crystal strcutures
+Listeria monocytogenes is an opportunistic, food-borne human and animal pathogen. Host cell invasion requires the action of the internalins A (InlA) and B (InlB), which are members of a family of listerial cell-surface proteins. Common to these proteins are three distinctive N-terminal domains that have been shown to direct host cell-specific invasion for InlA and InlB. Here, we present the high-resolution crystal structures of these domains present in InlB and InlH, and show that they constitute a single “internalin domain”. In this internalin domain, a central LRR region is flanked contiguously by a truncated EF-hand-like cap and an immunoglobulin (Ig)-like fold. The extended β-sheet, resulting from the distinctive fusion of the LRR and the Ig-like folds, constitutes an adaptable concave interaction surface, which we propose is responsible for the specific recognition of the host cellular binding partners during infection.
+http://www.sciencedirect.com/science/article/pii/S0022283601949897
+00222836

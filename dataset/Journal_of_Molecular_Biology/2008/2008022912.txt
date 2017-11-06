@@ -1,0 +1,6 @@
+The Nucleoid Binding Protein H-NS Acts as an Anti-Channeling Factor to Favor Intermolecular Tn10 Transposition and Dissemination
+55637640800,6504746097,7003653083,6701478257
+Tn10,H-NS,IHF,DNA transposition,target site selection
+Dissemination of the bacterial transposon Tn10 is limited by target site channeling, a process wherein the transposon ends are forced to interact with and insert into a target site located within the transposon. Integration host factor (IHF) promotes this self-destructive event by binding to the transpososome and forming a DNA loop close to one or both transposon ends; this loop imposes geometric and topological constraints that are responsible for channeling. We demonstrate that a second ‘host’ protein, histone-like nucleoid structuring protein (H-NS), acts as an anti-channeling factor to limit self-destructive intramolecular transposition events in vitro. Evidence that H-NS competes with IHF for binding to the Tn10 transpososome to block channeling and that this event is relatively insensitive to the level of DNA supercoiling present in the Tn10-containing substrate plasmid are presented. This latter observation is atypical for H-NS, as H-NS binding to other DNA sequences, such as promoters, is generally affected by subtle changes in DNA structure.
+http://www.sciencedirect.com/science/article/pii/S0022283607016531
+00222836

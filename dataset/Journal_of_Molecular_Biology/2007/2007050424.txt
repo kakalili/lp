@@ -1,0 +1,6 @@
+Intrinsically Disordered Regions of Human Plasma Membrane Proteins Preferentially Occur in the Cytoplasmic Segment
+6602465943,35728781900,36085064700
+transmembrane topology,intrinsically disordered region,domain organization,human proteome analysis,Escherichia coli
+A systematic survey of intrinsically disordered (ID) regions was carried out in 2109 human plasma membrane proteins with full assignment of the transmembrane topology with respect to the lipid bilayer. ID regions with 30 consecutive residues or more were detected in 41.0% of the human proteins, a much higher percentage than the corresponding figure (4.7%) for inner membrane proteins of Escherichia coli. The domain organization of each of the membrane protein in terms of transmembrane helices, structural domains, ID, and unassigned regions as well as the distinction of inside or outside of the cell was determined. Long ID regions constitute 13.3 and 3.5% of the human plasma membrane proteins on the inside and outside of the cell, respectively, showing that they preferentially occur on the cytoplasmic side. We interpret this phenomenon as a reflection of the general scarcity of ID regions on the extracellular side and their relative abundance on the cytoplasmic side in multicellular eukaryotic organisms.
+http://www.sciencedirect.com/science/article/pii/S0022283607002148
+00222836

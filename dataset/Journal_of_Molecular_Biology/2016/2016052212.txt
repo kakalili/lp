@@ -1,0 +1,6 @@
+N6-Methylated Adenosine in RNA: From Bacteria to Humans
+7004499861,36945963700,37014759700,37028893000,36902281400,56641585700,55542417100,57056462200,57003258500,56997036000,56061439500,57056488500,7005115616,7201674756,7004105777
+RNA modification,methyltransferase,m6A,rlmF,rlmJ
+N6-methyladenosine (m6A) is ubiquitously present in the RNA of living organisms from Escherichia coli to humans. Methyltransferases that catalyze adenosine methylation are drastically different in specificity from modification of single residues in bacterial ribosomal or transfer RNA to modification of thousands of residues spread among eukaryotic mRNA. Interactions that are formed by m6A residues range from RNA–RNA tertiary contacts to RNA–protein recognition. Consequences of the modification loss might vary from nearly negligible to complete reprogramming of regulatory pathways and lethality. In this review, we summarized current knowledge on enzymes that introduce m6A modification, ways to detect m6A presence in RNA and the functional role of this modification everywhere it is present, from bacteria to humans.
+http://www.sciencedirect.com/science/article/pii/S0022283615007044
+00222836

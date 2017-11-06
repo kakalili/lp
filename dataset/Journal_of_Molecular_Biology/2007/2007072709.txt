@@ -1,0 +1,6 @@
+Design and Isolation of Temperature-sensitive Mutants of Gal4 in Yeast and Drosophila
+7004865986,16479739800,7404167224,6506284015,8410957600,7004031702,24528008000
+temperature-sensitive,design,transferability,yeast,Drosophila
+Little is known about mechanisms responsible for the temperature-sensitive (ts) phenotype, or of the transferability of ts mutants of a specific gene between organisms. Using a structure-based approach, nine ts mutants of Gal4 were generated in yeast by mutating four DNA binding residues. Two of these nine yeast ts mutants were cloned into P element vectors under control of the Elav and GMR promoters and transgenic Drosophila lines were generated. These were crossed to UAS reporter lines and progeny were characterized for reporter gene expression as a function of temperature. Both of these yeast ts mutants show a ts phenotype in Drosophila and result in rapid induction of reporter gene expression upon shifting to the permissive temperature. Exposed, functional residues involved in protein–ligand or protein–protein interactions appear to be attractive candidate sites for generating ts mutants that are transferable between organisms.
+http://www.sciencedirect.com/science/article/pii/S0022283607006705
+00222836

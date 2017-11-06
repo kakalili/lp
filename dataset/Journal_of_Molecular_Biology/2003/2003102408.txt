@@ -1,0 +1,6 @@
+Sites for Interaction between Gal80p and Gal1p in Kluyveromyces lactis: Structural Model of Galactokinase based on Homology to the GHMP Protein Family
+7006750309,6504084194,8068664200,6505817769,6602829172,35473369100
+Kluyveromyces lactis,Gal1p–Gal80p interaction,protein interaction,Gal1p protein structure,galactose induction
+The induction of transcription of the galactose genes in yeast involves the galactose-dependent binding of ScGal3p (in Saccharomyces cerevisiae) or KlGal1p (in Kluyveromyces lactis) to Gal80p. This binding abrogates Gal80's inhibitory effect on the activation domain of Gal4p, which can then activate transcription. Here, we describe the isolation and characterization of new interaction mutants of K.lactis GAL1 and GAL80 using a two-hybrid screen. We present the first structural model for Gal1p to be based on the published crystal structures of other proteins belonging to the GHMP (galactokinase, homoserine kinase, mevalonate kinase and phosphomevalonate kinase) kinase family and our own X-ray diffraction data of Gal1p crystals at 3Å resolution.The locations of the various mutations in the modelled Gal1p structure identify domains involved in the interaction with Gal80p and provide a structural explanation for the phenotype of constitutive GAL1 mutations.
+http://www.sciencedirect.com/science/article/pii/S0022283603010295
+00222836

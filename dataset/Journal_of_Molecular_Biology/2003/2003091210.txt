@@ -1,0 +1,6 @@
+A Helical Twist-induced Conformational Switch Activates Cleavage in the Hammerhead Ribozyme
+35332231900,35234409600,7403054248
+ribozyme,hammerhead,RNA,catalysis,conformational change
+We have captured the structure of a pre-catalytic conformational intermediate of the hammerhead ribozyme using a phosphodiester tether formed between I and Stem II. This phosphodiester tether appears to mimic interactions in the wild-type hammerhead RNA that enable switching between nuclease and ligase activities, both of which are required in the replicative cycles of the satellite RNA viruses from which the hammerhead ribozyme is derived. The structure of this conformational intermediate reveals how the attacking nucleophile is positioned prior to cleavage, and demonstrates how restricting the ability of Stem I to rotate about its helical axis, via interactions with Stem II, can inhibit cleavage. Analogous covalent crosslinking experiments have demonstrated that imposing such restrictions on interhelical movement can change the hammerhead ribozyme from a nuclease to a ligase. Taken together, these results permit us to suggest that switching between ligase and nuclease activity is determined by the helical orientation of Stem I relative to Stem II.
+http://www.sciencedirect.com/science/article/pii/S002228360300843X
+00222836

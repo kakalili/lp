@@ -1,0 +1,6 @@
+Structural and Thermodynamic Basis for the Interaction of the Src SH2 Domain with the Activated Form of the PDGF β-receptor
+7801579662,7004804200
+SH2 domain,PDGF receptor,X-ray crystallography,calorimetry
+Recruitment of the Src kinase to the activated form of the platelet-derived growth factor (PDGF) receptor involves recognition of a unique sequence motif in the juxtamembrane region of the receptor by the Src homology 2 (SH2) domain of the enzyme. This motif contains two phosphotyrosine residues separated by one residue (sequence pYIpYV where pY indicates a phosphotyrosine). Here, we provide the thermodynamic and structural basis for the binding of this motif by the Src SH2 domain. We show that the second phosphorylation event increases the free energy window for specific interaction and that the physiological target is exquisitely designed for the task of recruiting specifically an SH2 domain which otherwise demonstrates very little intrinsic ability to discriminate sequences C-terminal to the first phosphorylation event. Surprisingly, we show that water plays a role in the recognition process.
+http://www.sciencedirect.com/science/article/pii/S0022283603003449
+00222836

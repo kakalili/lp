@@ -1,0 +1,6 @@
+Some Motile Properties of Fast Characean Myosin
+7801467835,6701474735,7410402953,55739393600
+characean algae,cytoplasmic streaming,plant myosin,motile activity,processivity
+We improved a motility assay system by using an affinity-purified antibody against the C-terminal globular domain of characean myosin. This improvement allowed us to study the sensitivity to ionic strength or the processivity of characean myosin. The sliding velocity of actin filaments on a characean myosin-coated surface was unaffected by ionic strength. This property is unlike that of skeletal or smooth muscle myosin and suggests that the binding manner of characean myosin to actin is different from that in other muscle myosins. The sliding velocity decreased when the MgADP concentration was raised. The extent of inhibition by MgADP on the motile activity of characean myosin was almost the same as in skeletal muscle or cardiac myosin. The number of sliding filaments on the characean myosin-coated surface decreased drastically with a decrease in the motor density. The motor density required to produce a successful movement of actin filament was about 200molecules/μm2. These results suggest that the characean myosin is not a processive motor protein.
+http://www.sciencedirect.com/science/article/pii/S0022283602014699
+00222836

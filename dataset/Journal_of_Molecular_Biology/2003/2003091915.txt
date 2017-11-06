@@ -1,0 +1,6 @@
+Distinct Requirements for Heparin and α-Dystroglycan Binding Revealed by Structure-based Mutagenesis of the Laminin α2 LG4–LG5 Domain Pair
+20236682600,7003963449,7202067470,56232530600,7407396809,7004515782
+extracellular matrix,basement membrane,cell adhesion,receptor binding,laminin G-like domain
+Laminin-2 (α2β1γ1) is found in basement membranes surrounding muscle and peripheral nerve cells. Several types of cellular receptors bind to the laminin G-like (LG) domains at the C terminus of the α2 chain, the interaction with α-dystroglycan (α-DG) being particularly important in muscle. We have used site-directed mutagenesis and in vitro binding assays to map the binding sites on the laminin α2 chain LG4–LG5 domain pair for α-DG, heparin and sulfatides. Calcium-dependent α-DG recognition requires the calcium ion in LG4, but not the one in LG5, as well as basic residues in both LG domains. Heparin and sulfatides also bind to basic residues in both LG domains, but there is little overlap in the binding sites for α-DG and heparin/sulfatides. The results should prove useful for the molecular dissection of laminin–receptor interactions in vivo.
+http://www.sciencedirect.com/science/article/pii/S0022283603008489
+00222836

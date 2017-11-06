@@ -1,0 +1,6 @@
+Sequence of the loxP Site Determines the Order of Strand Exchange by the Cre Recombinase
+55198667200,7005050263
+Cre,loxP,tyrosine recombinase,strand exchange,Holliday junction
+Conservative site-specific recombinases of the integrase family carry out recombination via a Holliday intermediate. The Cre recombinase, a member of the integrase family, was previously shown to initiate recombination by cleaving and exchanging preferentially on the bottom strand of its loxP target sequence. We have confirmed this strand bias for an intermolecular recombination reaction that used wild-type loxP sites and Cre protein. We have examined the sequence determinants for this strand preference by selectively mutating the two asymmetric scissile base-pairs in the lox site (those immediately adjacent to the sites of cleavage by Cre). We found that the initial strand exchange occurs preferentially next to the scissile G residue. Resolution of the Holliday intermediate thus formed takes place preferentially next to the scissile A residue. Lys86, which contacts the scissile nucleotides in the Cre–lox crystal structures, was important for establishing the strand preference in the resolution of the loxP-Holliday intermediate, but not for the initiation of recombination between loxP sites.
+http://www.sciencedirect.com/science/article/pii/S0022283602014298
+00222836

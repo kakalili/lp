@@ -1,0 +1,6 @@
+SUMO in the DNA Double-Stranded Break Response: Similarities, Differences, and Cooperation with Ubiquitin
+7405895981,55376678700
+
+In recent years, our knowledge of the varied role that ubiquitination plays in promoting signal amplification, novel protein interactions, and protein turnover has progressed rapidly. This is particularly remarkable in the examination of how DNA double-stranded breaks (DSBs) are repaired, with many components of the ubiquitin (Ub) conjugation, de-conjugation, and recognition machinery now identified as key factors in DSB repair. In addition, a member of the Ub-like family, small Ub-like modifier (SUMO), has also been recognised as integral for efficient repair. Here, we summarise our emerging understanding of SUMOylation both as a distinct modification and as a cooperative modification with Ub, using the cellular response to DNA DSBs as the primary setting to compare these modifications.
+http://www.sciencedirect.com/science/article/pii/S0022283617302279
+00222836

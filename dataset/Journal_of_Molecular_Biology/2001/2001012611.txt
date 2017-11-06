@@ -1,0 +1,6 @@
+Detection of altered protein conformations in living cells11Edited by W. Baumeister
+6602814784,8748123400,55457160100,7003484333
+protein stability,protein folding,Sec-proteins,split ubiquitin,ubiquitin
+The maturation, conformational stability, and the rate of in vivo degradation are specific for each protein and depend on both the intrinsic features of the protein and those of the surrounding cellular environment. While synthesis and degradation can be measured in living cells, stability and maturation of proteins are more difficult to quantify. We developed the split-ubiquitin method into a tool for detecting and analyzing changes in protein conformation. The biophysical parameter that forms the basis of these measurements is the time-averaged distance between the N terminus and C terminus of a protein. Starting from three proteins of known structure, we demonstrate the feasibility of this approach, and employ it to elucidate the effect of a previously described mutation in the protein Sec62p on its conformation in living cells.
+http://www.sciencedirect.com/science/article/pii/S0022283600942396
+00222836

@@ -1,0 +1,6 @@
+Emerging Roles for Maf1 beyond the Regulation of RNA Polymerase III Activity
+55210247300,56720847900,7103220958
+RNA polymerase III,Caenorhabditis elegans,Drosophila melanogaster,mouse,human
+Maf1 was first identified in yeast, and studies in metazoans have primarily focused on examining its role in the repression of transcription that is dependent on RNA polymerase III. Recent work has revealed a novel and conserved function for Maf1 in the maintenance of intracellular lipid pools in Caenorhabditis elegans, mice, and cancer cell lines. Although additional Maf1 targets are likely, they have not been identified, and these recent findings begin to define specific activities for Maf1 in multicellular organisms beyond the regulation of RNA polymerase III transcription and suggest that Maf1 plays a more diverse role in organismal physiology. We will discuss these newly defined physiological roles of Maf1 that point to its placement as an important new player in lipid metabolism with implications in human metabolic diseases such as obesity and cancer, which display prominent defects in lipid homeostasis.
+http://www.sciencedirect.com/science/article/pii/S0022283615003642
+00222836

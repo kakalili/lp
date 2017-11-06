@@ -1,0 +1,6 @@
+Tandem adaptation with a common design in Escherichia coli chemotaxis
+35277515900,7201856564
+adaptation,bacterial chemotaxis,motor switch,feedback control
+We analyze a model for motor-level adaptation in Escherichia coli based upon the premise that clockwise (CW) and counter-clockwise (CCW) states have different preferred numbers of FliM subunits. We show that this model provides a simple mechanism for the recently observed motor-level adaptation, and it also explains the long-lasting puzzle on the thresholds observed when tethered cells are used to monitor responses to temporal ramps. We note that the motor-level adaptation has the same negative-feedback network design as the upstream receptor-level adaptation, and the tandem architecture of one control circuit followed by the other mitigates the effects of cell-to-cell variation and broadens the range of stimuli over which cells optimally respond.
+http://www.sciencedirect.com/science/article/pii/S0022283612006742
+00222836

@@ -1,0 +1,6 @@
+Detergent Structure in Crystals of the Integral Membrane Light-harvesting Complex LH2 from Rhodopseudomonas acidophila Strain 10050
+7103002247,7202242267,7005483110,7202691045,35586886100,6603960067,7006465617,7005520141
+membrane protein,detergent,neutron-scattering,contrast,crystallography
+Integral membrane proteins are solubilized by their incorporation into a detergent micelle. The detergent micelle has a critical influence on the formation of a three-dimensional crystal lattice. The bulk detergent phase is not seen in X-ray crystal structures of integral membrane proteins, due to its disordered character. Here, we describe the detergent structure present in crystals of the peripheral light-harvesting complex of the purple bacteria Rhodopseudomonas acidophila strain 10050 at a maximal resolution of 12Å as determined by neutron crystallography. The LH2 molecule has a toroidal shape and spans the membrane completely in vivo. A volume of 16% of the unit cell could be ascribed to detergent tails, localized on both the inner and outer hydrophobic surfaces of the molecule. The detergent tail volumes were found to be associated with individual LH2 molecules and had no direct role in the formation of the crystalline lattice.
+http://www.sciencedirect.com/science/article/pii/S002228360201361X
+00222836

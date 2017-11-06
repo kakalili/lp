@@ -1,0 +1,6 @@
+Time-resolved detection of transient movement of helix F in spin-labelled pharaonis sensory rhodopsin II11Edited by W. Baumeister
+7006132715,7003905363,7006474533,7005240612
+phoborhodopsin,bacterial signal transduction,phototaxis,site-directed spin labelling,EPR spectroscopy
+Sensory rhodopsin II (also called phoborhodopsin) from the archaeal Natronobacterium pharaonis (pSRII) functions as a repellent phototaxis receptor. The excitation of the receptor by light triggers the activation of a transducer molecule (pHtrII) which has close resemblance to the cytoplasmic domain of bacterial chemotaxis receptors. In order to elucidate the first step of the signal transduction chain, the accessibility as well as static and transient mobility of cytoplasmic residues in helices F and G were analysed by electron paramagnetic resonance spectroscopy. The results indicate an outward tilting of helix F during the early steps of the photocycle which is sustained until the reformation of the initial ground state. Co-expression of pSRII with a truncated fragment of pHtrII affects the accessibility and/or the mobility of certain spin-labelled residues on helices F and G. The results suggest that these sites are located within the binding surface of the photoreceptor with its transducer.
+http://www.sciencedirect.com/science/article/pii/S0022283600940087
+00222836

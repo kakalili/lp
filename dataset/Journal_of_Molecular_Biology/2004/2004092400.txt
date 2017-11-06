@@ -1,0 +1,6 @@
+Inhibition of the Expression of the Human RNase P Protein Subunits Rpp21, Rpp25, Rpp29 by External Guide Sequences (EGSs) and siRNA
+55856184900,7103152962
+HeLa cells,transfection,RNase P protein subunits,Rpp38
+External guide sequences (EGSs) and siRNAs were targeted individually to the mRNA of three of the protein subunits of human RNase P, Rpp21, Rpp25 and Rpp29.The production of each of the three targets was inhibited in every specific case. In addition, some of the remaining protein subunits were also inhibited by these specific EGSs and the siRNAs. These data, in general, confirm previous results on the inhibition of a sub-group of all the protein subunits with an EGS against Rpp38.The effect of EGSs is apparent in 24 hours after transfection but the effect of siRNAs, which is comparable to the EGS data in amounts of inhibition, takes at least 48 to 96 hours to become evident. No general understanding of the mechanism of action of the siRNAs, in terms of which portion of a target mRNA they bind to for function, was apparent from the design of those used here.
+http://www.sciencedirect.com/science/article/pii/S0022283604006564
+00222836

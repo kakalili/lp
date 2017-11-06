@@ -1,0 +1,6 @@
+Fast folding of a ribozyme by stabilizing core interactions: evidence for multiple folding pathways in RNA11Edited by I. Tinoco
+55459080400,6603484780,7006553529
+group I intron,RNA folding,X-ray footprinting,hydroxyl radical cleavage
+Folding of the Tetrahymena ribozyme under physiological conditions in vitro is limited by slow conversion of long-lived intermediates to the active structure. These intermediates arise because the most stable domain of the ribozyme folds 10–50 times more rapidly than the core region containing helix P3. Native gel electrophoresis and time-resolved X-ray-dependent hydroxyl radical cleavage revealed that mutations that weaken peripheral interactions between domains accelerated folding fivefold, while a point mutation that stabilizes P3 enabled 80 % of the mutant RNA to reach the native conformation within 30 seconds at 22 °C. The P3 mutation increased the folding rate of the catalytic core as much as 50-fold, so that both domains of the ribozyme were formed at approximately the same rate. The results show that the ribozyme folds rapidly without significantly populating metastable intermediates when native interactions in the ribozyme core are stabilized relative to peripheral structural elements.
+http://www.sciencedirect.com/science/article/pii/S0022283699934393
+00222836

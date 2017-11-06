@@ -1,0 +1,6 @@
+The antiterminator NusB enhances termination at a sub-optimal rho site11Edited by M. Gottesman
+7003306214,16468851300
+boxA,his operon,polarity,Rho-dependent termination,rut sites
+Interactions between the antiterminator NusB and boxA elements in the nut sites are necessary to ensure λ N-mediated processive antitermination. Similarly, in the bacterial cell, interactions between NusB and boxA elements help RNA polymerase to counteract polarity during transcription of rrn operons. We analyzed the effects of NusB on intragenic termination at the level of two tandem terminators located in the hisG cistron, GTTE1 and GTTE2. Unexpectedly, we found that NusB enhances transcription termination at the sub-optimal Rho site GTTE1. Moreover, site-directed mutagenesis of a boxA homolog located within GTTE1 and the masking of this element by translating ribosomes demonstrated that the recruitment of NusB in the termination complex is mediated by a boxA element. The mutated boxA also abolishes the formation of a NusB-dependent complex on GTTE1 RNA. On the whole, results provide evidence that interactions between NusB and boxA can enhance Rho-dependent termination.
+http://www.sciencedirect.com/science/article/pii/S0022283601946789
+00222836

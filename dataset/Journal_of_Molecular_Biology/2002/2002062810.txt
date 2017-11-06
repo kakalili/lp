@@ -1,0 +1,6 @@
+Evolution of an Antibiotic Resistance Enzyme Constrained by Stability and Activity Trade-offs
+57192623572,6603737810,7006416338
+protein stability,TEM-1,β-lactamase,antibiotic resistance,evolution
+Pressured by antibiotic use, resistance enzymes have been evolving new activities. Does such evolution have a cost? To investigate this question at the molecular level, clinically isolated mutants of the β-lactamase TEM-1 were studied. When purified, mutant enzymes had increased activity against cephalosporin antibiotics but lost both thermodynamic stability and kinetic activity against their ancestral targets, penicillins. The X-ray crystallographic structures of three mutant enzymes were determined. These structures suggest that activity gain and stability loss is related to an enlarged active site cavity in the mutant enzymes. In several clinically isolated mutant enzymes, a secondary substitution is observed far from the active site (Met182→Thr). This substitution had little effect on enzyme activity but restored stability lost by substitutions near the active site. This regained stability conferred an advantage in vivo. This pattern of stability loss and restoration may be common in the evolution of new enzyme activity.
+http://www.sciencedirect.com/science/article/pii/S002228360200400X
+00222836

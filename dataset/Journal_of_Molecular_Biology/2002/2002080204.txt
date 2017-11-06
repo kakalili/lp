@@ -1,0 +1,6 @@
+Fast Compaction of α-Lactalbumin During Folding Studied by Stopped-flow X-ray Scattering
+7402957659,7410402969,6603066149,7402205778,7202670672,6603551649,7103148208,7101945148,7005351868
+protein folding,X-ray scattering,molten globule state,folding intermediate,hydration
+To monitor the fast compaction process during protein folding, we have used a stopped-flow small-angle X-ray scattering technique combined with a two-dimensional charge-coupled device-based X-ray detector that makes it possible to improve the signal-to-noise ratio of data dramatically, and measured the kinetic refolding reaction of α-lactalbumin. The results clearly show that the radius of gyration and the overall shape of the kinetic folding intermediate of α-lactalbumin are the same as those of the molten globule state observed at equilibrium. Thus, the identity between the kinetic folding intermediate and the equilibrium molten globule state is firmly established. The present results also suggest that the folding intermediate is more hydrated than the native state and that the hydrated water molecules are dehydrated when specific side-chain packing is formed during the change from the molten globule to the native state.
+http://www.sciencedirect.com/science/article/pii/S0022283602005661
+00222836

@@ -1,0 +1,6 @@
+High-Speed Atomic Force Microscopy: Cooperative Adhesion and Dynamic Equilibrium of Junctional Microdomain Membrane Proteins
+55258737200,22949744300,55985714800,7003736659
+atomic force microscopy,high-speed atomic force microscopy,aquaporin,connexin,lens membrane
+Junctional microdomains, paradigm for membrane protein segregation in functional assemblies, in eye lens fiber cell membranes are constituted of lens-specific aquaporin-0 tetramers (AQP04) and connexin (Cx) hexamers, termed connexons. Both proteins have double function to assure nutrition and mediate adhesion of lens cells. Here we use high-speed atomic force microscopy to examine microdomain protein dynamics at the single-molecule level. We found that the adhesion function of head-to-head associated AQP04 and Cx is cooperative. This finding provides first experimental evidence for the mechanistic importance for junctional microdomain formation. From the observation of lateral association–dissociation events of AQP04, we determine that the enthalpic energy gain of a single AQP04–AQP04 interaction in the membrane plane is −2.7 kBT, sufficient to drive formation of microdomains. Connexon association is stronger as dynamics are rarely observed, explaining their rim localization in junctional microdomains.
+http://www.sciencedirect.com/science/article/pii/S0022283612005566
+00222836

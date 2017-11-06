@@ -1,0 +1,6 @@
+Ribosome Rescue by tmRNA Requires Truncated mRNAs
+7201544952,7006751442,57195256130,7006051841
+protein synthesis,ribosome,tmRNA,trans-translation kinetics
+tmRNA targets ribosomes, stalled either on truncated mRNAs or on mRNAs with slowly read sense or stop codons, tags the newly synthesized peptide chains for degradation and allows for their release by a class-1 release factor. We have studied in vitro how the rate of trans-transfer of a peptide from the P-site tRNA to tmRNA and the efficiency by which tmRNA competes with peptide release factors depend on the length of the mRNA downstream from the P-site. We show that the rate and efficiency of tmRNA action decrease rapidly with increasing down stream length and approach zero when it exceeds 15 bases. We demonstrate that tmRNA action is strongly stimulated by RelE cleavage of mRNA in the A site. We conclude that tmRNA action in vivo must always be preceded by mRNA truncation, and suggest that cleavage of ribosome bound mRNAs is a common element in different bacterial stress responses.
+http://www.sciencedirect.com/science/article/pii/S002228360400227X
+00222836

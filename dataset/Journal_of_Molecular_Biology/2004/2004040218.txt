@@ -1,0 +1,6 @@
+Molecular Flexibility and Discontinuous Translocation of a Non-templated Polymerase
+55455570500,57191662169,7005006432
+poly(A),polymerase,translocation,RNA
+Little is known regarding the translocation of non-templated nucleic acid polymerases with respect to single-stranded primers. VP55, the vaccinia virus poly(A) polymerase, translocates as it processively adds a ∼3–7 adenylate tail to primers possessing only three ribouridylate residues (as an (rU)2–N15–rU motif), and a ∼25–30 adenylate tail to primers that are more U-rich. Here, three models were addressed for the translocation of VP55 with respect to its primer, namely: (a) rigid protein/rigid nucleic acid; (b) flexible protein/rigid nucleic acid; (c) rigid protein/flexible nucleic acid. Analysis of free and covalently VP55-attached primers favored either (b) or a version of (c) incorporating a passive steric block, and suggested two regions of relative motion between polymerase and primer. Inclusion of a 6nt uridylate-rich patch at the primer 3′ end switched the polymerase from ∼3–7nt to ∼25–30nt tail addition without affecting initial binding affinity. By synthesizing this patch as a (rU/dC) pool, discontinuous polymerase movements could be detected.
+http://www.sciencedirect.com/science/article/pii/S0022283604001494
+00222836

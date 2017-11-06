@@ -1,0 +1,6 @@
+Separate Molecular Determinants in Amyloidogenic and Antimicrobial Peptides
+36552640400,7202425493,57150276000
+antimicrobial peptides,amyloid formation,peptide folding,membrane binding,discordant helices
+Several amyloid-forming and antimicrobial peptides (AMYs and AMPs) have the ability to bind to and damage cell membranes. In addition, some AMYs possess antimicrobial activity and some AMPs form amyloid-like fibrils, relating the two peptide types and their properties. However, a comparison of their sequence characteristics reveals important differences. The high β-strand and aggregation propensities typical of AMYs are largely absent in α-helix-forming AMPs, which are instead marked by a strong amphipathic moment not generally found in AMYs. Although a few peptides, for example, islet amyloid polypeptide and dermaseptin S9, combine some determinants of both groups, the structural distinctions suggest that antimicrobial activity and amyloid formation are separate features not generally associated.
+http://www.sciencedirect.com/science/article/pii/S0022283614001296
+00222836

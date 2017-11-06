@@ -1,0 +1,6 @@
+Alternative Oligomeric States of the Yeast Rvb1/Rvb2 Complex Induced by Histidine Tags
+55118673500,35083648000,6701688966,6603434769,7402623968
+AAA+,electron microscopy,helicase,pontin,reptin
+Rvb1 and Rvb2 are essential AAA+ (ATPases associated with diverse cellular activities) helicases, which are important components of critical complexes such as chromatin remodeling and telomerase complexes. The oligomeric state of the Rvb proteins has been controversial. Independent studies from several groups have described the yeast and human Rvb1/Rvb2 complex both as a single and as a double hexameric ring complex. We found that histidine-tagged constructs of yeast Rvb proteins employed in some of these studies induced the assembly of double hexameric ring Rvb1/Rvb2 complexes. Instead, untagged versions of these proteins assemble into single hexameric rings. Furthermore, purified endogenous untagged Rvb1/Rvb2 complexes from Saccharomyces cerevisiae were also found as single hexameric rings, similar to the complexes assembled in vitro from the purified untagged components. These results demonstrate that some of the differences between the reported structures are caused by histidine tags and imply that further studies on the purified proteins should be carried out using untagged constructs.
+http://www.sciencedirect.com/science/article/pii/S0022283610010892
+00222836

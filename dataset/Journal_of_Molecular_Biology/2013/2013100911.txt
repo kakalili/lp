@@ -1,0 +1,6 @@
+The Role of miRNAs in Regulating Gene Expression Networks
+14009025100,35492513700
+network,miRNA,let-7,Drosha,Dicer
+MicroRNAs (miRNAs) are key regulators of gene expression. They are conserved across species, expressed across cell types, and active against a large proportion of the transcriptome. The sequence-complementary mechanism of miRNA activity exploits combinatorial diversity, a property conducive to network-wide regulation of gene expression, and functional evidence supporting this hypothesized systems-level role has steadily begun to accumulate. The emerging models are exciting and will yield deep insight into the regulatory architecture of biology. However, because of the technical challenges facing the network-based study of miRNAs, many gaps remain. Here, we review mammalian miRNAs by describing recent advances in understanding their molecular activity and network-wide function.
+http://www.sciencedirect.com/science/article/pii/S002228361300154X
+00222836

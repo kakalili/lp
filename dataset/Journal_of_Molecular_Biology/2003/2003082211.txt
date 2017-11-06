@@ -1,0 +1,6 @@
+Structural Basis of Carbohydrate Recognition by the Lectin LecB from Pseudomonas aeruginosa
+7003765725,22939802000,7103288943,7005251750
+lectin,adhesin,carbohydrate
+The crystal structure of Pseudomonas aeruginosa fucose-specific lectin LecB was determined in its metal-bound and metal-free state as well as in complex with fucose, mannose and fructopyranose. All three monosaccharides bind isosterically via direct interactions with two calcium ions as well as direct hydrogen bonds with several side-chains. The higher affinity for fucose is explained by the details of the binding site around C6 and O1 of fucose. In the mannose and fructose complexes, a carboxylate oxygen atom and one or two hydroxyl groups are partly shielded from solvent upon sugar binding, preventing them from completely fulfilling their hydrogen bonding potential. In the fucose complex, no such defects are observed. Instead, C6 makes favourable interactions with a small hydrophobic patch. Upon demetallization, the C terminus as well as the otherwise rigid metal-binding loop become more mobile and adopt multiple conformations.
+http://www.sciencedirect.com/science/article/pii/S002228360300754X
+00222836

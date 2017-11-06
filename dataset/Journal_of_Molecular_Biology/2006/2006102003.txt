@@ -1,0 +1,6 @@
+Requirement of Tryptophan Hydroxylase During Development for Maturation of Sensorimotor Gating
+55574238718,7402471491,8455199200,55993384200,12786833000,6701657003,14045233500,25628724900,9840565000,12242728300,7102916664,7402657538,35467377500,7403526265,7403015281
+actin,5-HT,psychiatric disorder
+Deficits in sensorimotor gating, a function to focus on the most salient stimulus, could lead to a breakdown of cognitive integrity, and could reflect the “flooding” by sensory overload and cognitive fragmentation seen in schizophrenia. Sensorimotor gating emerges at infancy, and matures during childhood. The mechanisms that underlie its development are largely unclear. Here, we screened the mouse genome, and found that tryptophan hydroxylase (TPH) is implicated in the maturation of sensorimotor gating. TPH, an enzyme involved in the biosynthesis of serotonin, proved to be required only during the weaning period for maturation of sensorimotor gating, but was dispensable for its emergence. Proper serotonin levels during development underlie the mature functional architecture for sensorimotor gating via appropriate actin polymerization. Thus, maintaining proper serotonin levels during childhood may be important for mature sensorimotor gating in adulthood.
+http://www.sciencedirect.com/science/article/pii/S0022283606010904
+00222836

@@ -1,0 +1,6 @@
+Exploring the Basis of [PIN+] Variant Differences in [PSI+] Induction
+38062318500,7005026073
+Prion,Sup35,PSI+,PIN+,Yeast
+Certain soluble proteins can form amyloid-like prion aggregates. Indeed, the same protein can make different types of aggregates, called variants. Each variant is heritable because it attracts soluble homologous protein to join its aggregate, which is then broken into seeds (propagons) and transmitted to daughter cells. [PSI+] and [PIN+] are respectively prion forms of Sup35 and Rnq1. Curiously, [PIN+] enhances the de novo induction of [PSI+]. Different [PIN+] variants do this to dramatically different extents. Here, we investigate the mechanism underlying this effect. Consistent with a heterologous prion cross-seeding model, different [PIN+] variants preferentially promoted the appearance of different variants of [PSI+]. However, we did not detect this specificity in vitro. Also, [PIN+] variant cross-seeding efficiencies were not proportional to the level of Rnq1 coimmunocaptured with Sup35 or to the number of [PIN+] propagons characteristic for that variant. This leads us to propose that [PIN+] variants differ in the cross-seeding quality of their seeds, following the Sup35/[PIN+] binding step.
+http://www.sciencedirect.com/science/article/pii/S0022283613003665
+00222836

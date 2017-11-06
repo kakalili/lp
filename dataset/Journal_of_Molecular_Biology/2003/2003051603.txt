@@ -1,0 +1,6 @@
+Expansion of the Genetic Code Enables Design of a Novel “Gold” Class of Green Fluorescent Proteins
+8287173300,7006976225,35229517800,7006801664,56273956700,55663667300,7601379316,55913044500,23137483400,7103123802,34975087600,6603707564
+green fluorescent protein,chromophore,amino acid incorporation,tryptophan,genetic code
+Much effort has been dedicated to the design of significantly red shifted variants of the green fluorescent protein (GFP) from Aequoria victora (av). These approaches have been based on classical engineering with the 20 canonical amino acids. We report here an expansion of these efforts by incorporation of an amino substituted variant of tryptophan into the “cyan” GFP mutant, which turned it into a “gold” variant. This variant possesses a red shift in emission unprecedented for any avFP, similar to “red” FPs, but with enhanced stability and a very low aggregation tendency. An increasing number of non-natural amino acids are available for chromophore redesign (by engineering of the genetic code) and enable new general strategies to generate novel classes of tailor-made GFP proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283603003644
+00222836

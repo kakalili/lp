@@ -1,0 +1,6 @@
+Crystal Structure of a Thermally Stable Rhodopsin Mutant
+8285325800,7202981409,7401881729,6701854471,7003418485,6603807411
+G protein-coupled receptors,signal transduction,visual system,rhodopsin,retinitis pigmentosa
+We determined the structure of the rhodopsin mutant N2C/D282C expressed in mammalian cells; the first structure of a recombinantly produced G protein-coupled receptor (GPCR). The mutant was designed to form a disulfide bond between the N terminus and loop E3, which allows handling of opsin in detergent solution and increases thermal stability of rhodopsin by 10 deg.C. It allowed us to crystallize a fully deglycosylated rhodopsin (N2C/N15D/D282C). N15 mutations are normally misfolding and cause retinitis pigmentosa in humans. Microcrystallographic techniques and a 5 μm X-ray beam were used to collect data along a single needle measuring 5 μm×5 μm×90 μm. The disulfide introduces only minor changes but fixes the N-terminal cap over the β-sheet lid covering the ligand-binding site, a likely explanation for the increased stability. This work allows structural investigation of rhodopsin mutants and shows the problems encountered during structure determination of GPCRs and other mammalian membrane proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283607003361
+00222836

@@ -1,0 +1,6 @@
+A Functional Role for Correlated Motion in the N-terminal RNA-binding Domain of Human U1A Protein
+16231551400,7402946611
+U1A protein,reorientational eigenmode dynamics,NMR dynamics,molecular dynamics simulations,RNA-binding domain
+The N-terminal RNA-binding domain of the human U1A protein (RBD1) undergoes local conformational changes upon binding to its target RNA. Here, the wild-type RBD1 and two mutants are examined with molecular dynamics simulations that are analyzed using the reorientational eigenmode dynamics (RED) formalism. The results reveal changes in the magnitude and extent of coupled intra-domain motions resulting from single amino acid substitutions. Interpretation of the novel RED results and corresponding NMR relaxation data suggests that the loss of collective motions in the mutants could account for their weak RNA-binding.
+http://www.sciencedirect.com/science/article/pii/S0022283602008045
+00222836

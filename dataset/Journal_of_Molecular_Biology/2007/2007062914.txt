@@ -1,0 +1,6 @@
+Structural and Functional Characterization of Enantiomeric Glutamic Acid Derivatives as Potential Transition State Analogue Inhibitors of MurD Ligase
+6505949448,8372573700,12143739400,7004430385,6505926405,7004815794,7003312453,7003332132,23992294900,7004517839,7003840526
+crystal structure,Mur ligase,inhibitor,kinetic study,drug design
+Mur ligases play an essential role in the intracellular biosynthesis of bacterial peptidoglycan, the main component of the bacterial cell wall, and represent attractive targets for the design of novel antibacterials. UDP-N-acetylmuramoyl-l-alanine:d-glutamate ligase (MurD) catalyses the addition of d-glutamic acid to the cytoplasmic intermediate UDP-N-acetylmuramoyl-l-alanine (UMA) and is the second in the series of Mur ligases. MurD ligase is highly stereospecific for its substrate, d-glutamic acid (d-Glu). Here, we report the high resolution crystal structures of MurD in complexes with two novel inhibitors designed to mimic the transition state of the reaction, which contain either the d-Glu or the l-Glu moiety. The binding modes of N-sulfonyl-d-Glu and N-sulfonyl-l-Glu derivatives were also characterised kinetically. The results of this study represent an excellent starting point for further development of novel inhibitors of this enzyme.
+http://www.sciencedirect.com/science/article/pii/S0022283607005402
+00222836

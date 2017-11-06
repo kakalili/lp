@@ -1,0 +1,6 @@
+Native hydrogen bonds in a molten globule: the apoflavodoxin thermal intermediate11Edited by A. R. Fersht
+19639884800,6507814785,7005721174,7201937433
+protein stability,hydrogen bond,molten globule,protein intermediate,protein folding
+The structure and energetics of protein-folding intermediates are poorly understood. We have identified, in the thermal unfolding of the apoflavodoxin from Anabaena PCC 7119, an equilibrium intermediate with spectroscopic properties of a molten globule and substantial enthalpy and heat capacity of unfolding. The structure of the intermediate is probed by mutagenesis (and phi analysis) of polar residues involved in surface-exposed hydrogen bonds connecting secondary-structure elements in the native protein. All hydrogen bonds analysed are formed in the molten globule intermediate, either with native strength or debilitated. This suggests the overall intermediate’s topology and surface tertiary interactions are close to native, and indicates that hydrogen bonding may contribute significantly to shape the conformation and energetics of folding intermediates.
+http://www.sciencedirect.com/science/article/pii/S0022283601944365
+00222836

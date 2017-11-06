@@ -1,0 +1,6 @@
+Influence of Strand Number on Antiparallel β-Sheet Stability in Designed Three- and Four-stranded β-Sheets
+6507238696,6602988999,6507305127,24482970800,7006041966,7102479771,26643052000
+protein stability,protein design,antiparallel β-sheet,β-hairpin,NMR
+We describe experiments that probe whether antiparallel β-sheet secondary structure becomes more stable as the number of strands increases. Several groups, including ours, have explored this issue with pepides designed to adopt three-stranded β-sheet conformations, but the conclusions have not been consistent. In this study, we examine the effect on conformational stability of β-sheet lengthening perpendicular to the strand direction via analysis of designed peptides that adopt three-stranded or four-stranded antiparallel β-sheet conformations in aqueous solution. The findings reported here, along with the context provided by earlier studies, suggest that antiparallel β-sheet does, in general, become more stable when the number of strands is increased from two to three. We show that this conclusion is not influenced by the rigidity of the loop segment used to link adjacent β-strands (d-Pro-Gly versus Asn-Gly). We show that further extension, from three strands to four, leads to a further increase in antiparallel β-sheet stability.
+http://www.sciencedirect.com/science/article/pii/S0022283602013049
+00222836

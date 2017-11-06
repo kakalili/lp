@@ -1,0 +1,6 @@
+Structural and Mutational Analyses of the Interaction between the Barley α-Amylase/Subtilisin Inhibitor and the Subtilisin Savinase Reveal a Novel Mode of Inhibition
+8672774400,6505966221,24340980500,7006898001,35563688900,35429770600,56089040800
+barley α-amylase/subtilisin inhibitor,subtilisin,Savinase,inhibition,X-ray crystallography
+Subtilisins represent a large class of microbial serine proteases. To date, there are three-dimensional structures of proteinaceous inhibitors from three families in complex with subtilisins in the Protein Data Bank. All interact with subtilisin via an exposed loop covering six interacting residues. Here we present the crystal structure of the complex between the Bacillus lentus subtilisin Savinase and the barley α-amylase/subtilisin inhibitor (BASI). This is the first reported structure of a cereal Kunitz-P family inhibitor in complex with a subtilisin. Structural analysis revealed that BASI inhibits Savinase in a novel way, as the interacting loop is shorter than loops previously reported. Mutational analysis showed that Thr88 is crucial for the inhibition, as it stabilises the interacting loop through intramolecular interactions with the BASI backbone.
+http://www.sciencedirect.com/science/article/pii/S0022283608006001
+00222836

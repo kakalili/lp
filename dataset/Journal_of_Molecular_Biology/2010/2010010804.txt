@@ -1,0 +1,6 @@
+The Crystal Structure of the Hinge Domain of the Escherichia coli Structural Maintenance of Chromosomes Protein MukB
+24830565600,6506930902,7403413176,7005459617
+MukB,structural maintenance of chromosomes (SMC),hinge,coiled coil,condensin
+MukB, a divergent structural maintenance of chromosomes (SMC) protein, is important for chromosomal segregation and condensation in γ-proteobacteria. MukB and canonical SMC proteins share a characteristic five-domain structure. Globular N- and C-terminal domains interact to form an ATP-binding cassette-like ATPase or “head” domain, which is connected to a smaller dimerization or “hinge” domain by a long, antiparallel coiled coil. In addition to mediating dimerization, this hinge region has been implicated in both conformational flexibility and dynamic protein–DNA interactions. We report here the first crystallographic model of the MukB hinge domain. This model also contains approximately 20% of the coiled-coil domain, including an unusual coiled-coil deviation. These results will facilitate studies to clarify the roles of both the hinge and the coiled-coil domains in MukB function.
+http://www.sciencedirect.com/science/article/pii/S0022283609012807
+00222836

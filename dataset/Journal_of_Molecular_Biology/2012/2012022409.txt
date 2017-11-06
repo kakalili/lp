@@ -1,0 +1,6 @@
+An Analog of BIX-01294 Selectively Inhibits a Family of Histone H3 Lysine 9 Jumonji Demethylases
+23486780300,8577500500,55590483400,55261593300,18041872100,55261992600,56060929100,16403759000,7005565428,55205682600
+epigenetics,histone lysine demethylation,enzymatic inhibition,BIX analogs
+BIX-01294 and its analogs were originally identified and subsequently designed as potent inhibitors against histone H3 lysine 9 (H3K9) methyltransferases G9a and G9a-like protein. Here, we show that BIX-01294 and its analog E67 can also inhibit H3K9 Jumonji demethylase KIAA1718 with half-maximal inhibitory concentrations in low micromolar range. Crystallographic analysis of KIAA1718 Jumonji domain in complex with E67 indicated that the benzylated six-membered piperidine ring was disordered and exposed to solvent. Removing the moiety (generating compound E67-2) has no effect on the potency against KIAA1718 but, unexpectedly, lost inhibition against G9a-like protein by a factor of 1500. Furthermore, E67 and E67-2 have no effect on the activity against histone H3 lysine 4 (H3K4) demethylase JARID1C. Thus, our study provides a new avenue for designing and improving the potency and selectivity of inhibitors against H3K9 Jumonji demethylases over H3K9 methyltransferases and H3K4 demethylases.
+http://www.sciencedirect.com/science/article/pii/S0022283611013659
+00222836

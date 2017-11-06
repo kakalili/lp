@@ -1,0 +1,6 @@
+Thermodynamic Analysis of Mutant lac Repressors
+16432509400,56346852000,7404188229
+allostery,gene regulation,lac repressor,induction
+The lactose (lac) repressor is an allosteric protein that can respond to environmental changes. Mutations introduced into the DNA binding domain and the effector binding pocket affect the repressor's ability to respond to its environment. We have demonstrated how the observed phenotype is a consequence of altering the thermodynamic equilibrium constants. We discuss mutant repressors, which (1) show tighter repression; (2) induce with a previously noninducing species, orthonitrophenyl-β-d-galactoside; and (3) transform an inducible switch to one that is corepressed. The ability of point mutations to change multiple thermodynamic constants, and hence drastically alter the repressor's phenotype, shows how allosteric proteins can perform a wide array of similar yet distinct functions such as that exhibited in the Lac/Gal family of bacterial repressors.
+http://www.sciencedirect.com/science/article/pii/S0022283611003469
+00222836

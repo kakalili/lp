@@ -1,0 +1,6 @@
+Structural Basis of the Interaction of the Breast Cancer Oncogene LMO4 with the Tumour Suppressor CtIP/RBBP8
+7102836975,7102648891,7101738221,55577353300,55165948900,55577081900,55925069100,7003366047,7201377458,7402837574
+LIM domains,protein–protein interactions,breast cancer,cell cycle control,intrinsically disordered domains
+LIM-only protein 4 (LMO4) is strongly linked to the progression of breast cancer. Although the mechanisms underlying this phenomenon are not well understood, a role is emerging for LMO4 in regulation of the cell cycle. We determined the solution structure of LMO4 in complex with CtIP (C-terminal binding protein interacting protein)/RBBP8, a tumour suppressor protein that is involved in cell cycle progression, DNA repair and transcriptional regulation. Our data reveal that CtIP and the essential LMO cofactor LDB1 (LIM-domain binding protein 1) bind to the same face on LMO4 and cannot simultaneously bind to LMO4. We hypothesise that overexpression of LMO4 may disrupt some of the normal tumour suppressor activities of CtIP, thereby contributing to breast cancer progression.
+http://www.sciencedirect.com/science/article/pii/S0022283613000338
+00222836

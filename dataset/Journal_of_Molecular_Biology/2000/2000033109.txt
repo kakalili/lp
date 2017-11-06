@@ -1,0 +1,6 @@
+Solution structure of hanatoxin1, a gating modifier of voltage-dependent K+ channels: common surface features of gating modifier toxins11Edited by P. E. Wright
+55711657000,35956476300,36921346100,7406409211,7102705359,35458815800
+cystine knot motif,gating modifier,hanatoxin,nuclear magnetic resonance,potassium channel
+The three-dimensional structure of hanatoxin1 (HaTx1) was determined by using NMR spectroscopy. HaTx1 is a 35 amino acid residue peptide toxin that inhibits the drk1 voltage-gated K+ channel not by blocking the pore, but by altering the energetics of gating. Both the amino acid sequence of HaTx1 and its unique mechanism of action distinguish this toxin from the previously described K+ channel inhibitors. Unlike most other K+ channel-blocking toxins, HaTx1 adopts an “inhibitor cystine knot” motif and is composed of two β-strands, strand I for residues 19–21 and strand II for residues 28–30, connected by four chain reversals. A comparison of the surface features of HaTx1 with those of other gating modifier toxins of voltage-gated Ca2+ and Na+ channels suggests that the combination of a hydrophobic patch and surrounding charged residues is principally responsible for the binding of gating modifier toxins to voltage-gated ion channels.
+http://www.sciencedirect.com/science/article/pii/S002228360093609X
+00222836

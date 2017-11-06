@@ -1,0 +1,6 @@
+Novel Aspects of the Acid Response Network of E. coli K-12 Are Revealed by a Study of Transcriptional Dynamics
+55441327100,55547121921,25639554100,36789632400,55567403900
+acid resistance,Escherichia coli,transcription dynamics,bacterial luciferase,regulatory networks
+Understanding gene regulation and its adaptive significance requires not only a detailed knowledge of individual molecular interactions that give rise to changes in gene expression but also an overview of complete genetic networks and the ways in which components within them interact. Increasingly, such studies are being done using luminescent or fluorescent reporter proteins that enable monitoring of gene expression dynamics in real time, particularly during changes in expression. We show here that such an approach is valid for dissecting the responses of the AR2 or GAD network of Escherichia coli K-12 to changes in pH, which is one of the most complex networks known in E. coli. In addition to confirming several regulatory interactions that have been revealed by previous studies, this approach has identified new components in this system that lead to complex dynamics of gene expression following a drop in pH, including an auto-regulatory loop involving the YdeO activator protein and novel roles for the PhoP protein.
+http://www.sciencedirect.com/science/article/pii/S0022283610006972
+00222836

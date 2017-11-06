@@ -1,0 +1,6 @@
+Dissecting the interaction network of multiprotein complexes by pairwise coexpression of subunits in E. coli11Edited by K. Nagai
+7006745292,6603521834,6506636920,6603471316,6701409088,7102899054
+over expression,TFIID,TFIIH,interaction mapping,structural biology
+Using the human basal transcription factors TFIID and TFIIH as examples, we show that pairwise coexpression of polypeptides in Escherichia coli can be used as a tool for the identification of specifically interacting subunits within multiprotein complexes. We find that coexpression of appropriate combinations generally leads to an increase in the solubility and stability of the polypeptides involved, which means that large amounts of the resulting complexes can immediately be obtained for subsequent biochemical and structural analysis. Furthermore, we demonstrate that the solubilization and/or the proper folding of a protein by its natural partner can be used as a monitor for deletion mapping to determine precise interaction domains. Coexpression can be used as an alternative or complementary approach to conventional techniques for interaction studies such as yeast two-hybrid analysis, GST pulldown and immunoprecipitation.
+http://www.sciencedirect.com/science/article/pii/S0022283600943766
+00222836

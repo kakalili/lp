@@ -1,0 +1,6 @@
+Wavelet transforms for the characterization and detection of repeating motifs11Edited by G. von Heijne
+7203086011,56257234600,7402781853
+protein repeats,hydropathy,accessibility,wavelets,Fourier transforms
+The role of repeating motifs in protein structures is thought to be as modular building blocks which allow an economic way of constructing complex proteins. In this work novel wavelet transform analysis techniques are used to detect and characterize repeating motifs in protein sequence and structure data, where the Kyte-Doolittle hydrophobicity scale (HΦ) and relative accessible surface area (rASA) data provide residue information about the protein sequence and structure, respectively. We analyze a variety of repeating protein motifs, TIM barrels, propellor blades, coiled coils and leucine-rich repeat structures. Detection and characterization of these motifs is performed using techniques based on the continuous wavelet transform (CWT). Results indicate that the wavelet transform techniques developed herein are a promising approach for the detection and characterization of repeating motifs for both structural and in some instances sequence data.
+http://www.sciencedirect.com/science/article/pii/S002228360195332X
+00222836

@@ -1,0 +1,6 @@
+Reversible loss of crystallinity on photobleaching purple membrane in the presence of hydroxylamine11Edited by W. Baumeister
+7102916880,7003894783,7006154420,7402582545,24173563400
+AFM,apomembrane,apoprotein,bacterioopsin,bacteriorhodopsin
+Structural changes of purple membrane during photobleaching in the presence of hydroxylamine were monitored using atomic force microscopy (AFM). The process of bleaching was associated with the disassembly of the purple membrane crystal into smaller crystals. Imaging steps of the photobleaching progress showed that disassembly proceeds until the sample is fully bleached and its crystallinity is almost lost. As revealed from high resolution AFM topographs, the loss of crystallinity was initiated by loss of lattice forming contact between the individual bacteriorhodopsin trimers. The bacteriorhodopsin molecules, however, remained assembled into trimers during the entire photobleaching process. Regeneration of the photobleached sample into intact purple membrane resulted in the reassembly of the bacteriorhodopsin trimers into the trigonal lattice of purple membrane. The data provide novel insights into factors triggering purple membrane formation and structure.
+http://www.sciencedirect.com/science/article/pii/S0022283600939950
+00222836

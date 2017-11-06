@@ -1,0 +1,6 @@
+Life's Simple Measures: Unlocking the Proteome
+7102472990,55454511800,56626927000,35609105700,55241617100,35214032300,35548791000
+SOMAmers,aptamers,proteomics,cancer,diagnostics
+Using modified nucleotides and selecting for slow off-rates in the SELEX procedure, we have evolved a special class of aptamers, called SOMAmers (slow off‐rate modified aptamers), which bind tightly and specifically to proteins in body fluids. We use these in a novel assay that yields 1:1 complexes of the SOMAmers with their cognate proteins in body fluids. Measuring the SOMAmer concentrations of the resultant complexes reflects the concentration of the proteins in the fluids. This is simply done by hybridization to complementary sequences on solid supports, but it can also be done by any other DNA quantification technology (including NexGen sequencing). We use measurements of over 1000 proteins in under 100μL of serum or plasma to answer important medical questions, two of which are reviewed here. A number of bioinformatics methods have guided our discoveries, including principal component analysis. We use various methods to evaluate sample handling procedures in our clinical samples and can identify many parameters that corrupt proteomics analysis.
+http://www.sciencedirect.com/science/article/pii/S0022283612004949
+00222836

@@ -1,0 +1,6 @@
+Crystal Structure of Metastasis-Associated Protein S100A4 in the Active Calcium-Bound Form
+15052480700,6508290858,7006841486
+S100,metastasis,merohedral twinning,angiogenesis,calcium binding
+S100A4 (metastasin) is a member of the S100 family of calcium-binding proteins that is directly involved in tumorigenesis. Until recently, the only structural information available was the solution NMR structure of the inactive calcium-free form of the protein. Here we report the crystal structure of human S100A4 in the active calcium-bound state at 2.03 Å resolution that was solved by molecular replacement in the space group P65 with two molecules in the asymmetric unit from perfectly merohedrally twinned crystals. The Ca2+-bound S100A4 structure reveals a large conformational change in the three-dimensional structure of the dimeric S100A4 protein upon calcium binding. This calcium-dependent conformational change opens up a hydrophobic binding pocket that is capable of binding to target proteins such as annexin A2, the tumor-suppressor protein p53 and myosin IIA. The structure of the active form of S100A4 provides insight into its interactions with its binding partners and a better understanding of its role in metastasis.
+http://www.sciencedirect.com/science/article/pii/S0022283608005421
+00222836

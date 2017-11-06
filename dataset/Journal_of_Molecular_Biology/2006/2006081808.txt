@@ -1,0 +1,6 @@
+The DICE-binding Activity of KH Domain 3 of hnRNP K Is Affected by c-Src-mediated Tyrosine Phosphorylation
+6602806360,24576394700,6603240457,7006179310,6603348899
+KH domain,hnRNP K,hnRNP E1,RNA binding,tyrosine phosphorylation
+hnRNP K and hnRNP E1/E2 are RNA-binding proteins comprised of three hnRNP K-homology (KH) domains. These proteins are involved in the translational control and stabilization of mRNAs in erythroid cells. hnRNP E1 and hnRNP K regulate the translation of reticulocyte 15-lipoxygenase (r15-LOX) mRNA. Both proteins bind specifically to the differentiation control element (DICE) in the 3′ untranslated region (3′UTR) of the r15-LOX mRNA. It has been shown that hnRNP K is a substrate of the tyrosine kinase c-Src and that tyrosine phosphorylation by c-Src inhibits the binding of hnRNP K to the DICE. Here, we investigate which of the three KH domains of hnRNP E1 and hnRNP K mediate the DICE interaction. Using RNA-binding assays, we demonstrate DICE-binding of the KH domains 1 and 3 of hnRNP E1, and KH domain 3 of hnRNP K. Furthermore, with RNA-binding assays, NMR experiments and in vitro translation studies, we show that tyrosine 458 in KH domain 3 of hnRNP K is important for the DICE interaction and we provide evidence that it is a target of c-Src.
+http://www.sciencedirect.com/science/article/pii/S0022283606007303
+00222836

@@ -1,0 +1,6 @@
+Replication Stress-Induced Genome Instability: The Dark Side of Replication Maintenance by Homologous Recombination
+56157551400,7201834073
+homologous recombination,DNA replication,genome instability,genomic disorders
+Homologous recombination (HR) is an evolutionary-conserved mechanism involved in a subtle balance between genome stability and diversity. HR is a faithful DNA repair pathway and has been largely characterized in the context of double-strand break (DSB) repair. Recently, multiple functions for the HR machinery have been identified at arrested forks. These are evident across different organisms and include replication fork-stabilization and fork-restart functions. Interestingly, a DSB appears not to be a prerequisite for HR-mediated replication maintenance. HR has the ability to rebuild a replisome at inactivated forks, but perhaps surprisingly, the resulting replisome is liable to intrastrand and interstrand switches leading to replication errors. Here, we review our current understanding of the replication maintenance function of HR. The error proneness of these pathways leads us to suggest that the origin of replication-associated genome instability should be re-evaluated.
+http://www.sciencedirect.com/science/article/pii/S0022283613002714
+00222836

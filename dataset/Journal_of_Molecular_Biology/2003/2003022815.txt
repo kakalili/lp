@@ -1,0 +1,6 @@
+Crystal Structure Of MHC Class II I-Ab in Complex with a Human CLIP Peptide: Prediction of an I-Ab Peptide-binding Motif
+56172537000,7005761205,6603220592,7005251090,7401743864
+MHC class II,peptide binding,invariant chain,antigen presentation
+Association between the class II major histocompatibility complex (MHC) and the class II invariant chain-associated peptide (CLIP) occurs naturally as an intermediate step in the MHC class II processing pathway. Here, we report the crystal structure of the murine class II MHC molecule I-Ab in complex with human CLIP at 2.15Å resolution. The structure of I-Ab accounts, via the peptide-binding groove's unique physicochemistry, for the distinct peptide repertoire bound by this allele. CLIP adopts a similar conformation to peptides bound by other I-A alleles, reinforcing the notion that CLIP is presented as a conventional peptide antigen. When compared to the related HLA-DR3/CLIP complex structure, the CLIP peptide displays a slightly different conformation and distinct interaction pattern with residues in I-Ab. In addition, after examining the published sequences of peptides presented by I-Ab, we discuss the possibility of predicting peptide alignment in the I-Ab binding groove using a simple scoring matrix.
+http://www.sciencedirect.com/science/article/pii/S0022283602014377
+00222836

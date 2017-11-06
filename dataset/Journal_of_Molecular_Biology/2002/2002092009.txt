@@ -1,0 +1,6 @@
+Solution Structure of a Luteoviral P1–P2 Frameshifting mRNA Pseudoknot
+7102754835,7003633007,7410210758,23036781000,34770709900,7006436740,7006930310
+RNA triple helix,base quadruple,protonated cytidine,RNA pseudoknot
+A hairpin-type messenger RNA pseudoknot from pea enation mosaic virus RNA1 (PEMV-1) regulates the efficiency of programmed −1 ribosomal frameshifting. The solution structure and 15N relaxation rates reveal that the PEMV-1 pseudoknot is a compact-folded structure composed almost entirely of RNA triple helix. A three nucleotide reverse turn in loop 1 positions a protonated cytidine, C10, in the correct orientation to form an A(n−1)·C+·G-Cn major groove base quadruple, like that found in the beet western yellows virus pseudoknot and the hepatitis delta virus ribozyme, despite distinct structural contexts. A novel loop 2–loop 1 A·U Hoogsteen base-pair stacks on the C10+·G28 base-pair of the A12·C10+·G28-C13 quadruple and forms a wedge between the pseudoknot stems stabilizing a bent and over-rotated global conformation. Substitution of key nucleotides that stabilize the unique conformation of the PEMV-1 pseudoknot greatly reduces ribosomal frameshifting efficacy.
+http://www.sciencedirect.com/science/article/pii/S0022283602007799
+00222836

@@ -1,0 +1,6 @@
+Derivation of the Crick–Wyman Equation for Allosteric Proteins Defining the Difference between the Number of Binding Sites and the Hill Coefficient
+36116959200,7103085375
+Allostery,Hill coefficient,Cooperativity
+In response to a 100-word footnote in the 1965 article by Monod, Wyman, and Changeux, a detailed manuscript signed by Francis Crick and Jeffries Wyman with 6000 words and 30 equations entitled “A Footnote on Allostery” circulated in 1965 among a limited group of scientists interested in allosteric interactions. This interesting and provocative document is published in this special issue for the first time. An intriguing equation in their text relates the difference between n (the number of ligand binding sites) and n′ (the Hill coefficient) to the ratio of the saturation functions Y¯, for oligomers with n−1 and n binding sites. A compact derivation of this equation was not provided by Crick and Wyman, but one is presented here based on a definition of Y¯ involving the binding polynomial and its first derivative.
+http://www.sciencedirect.com/science/article/pii/S0022283613001629
+00222836

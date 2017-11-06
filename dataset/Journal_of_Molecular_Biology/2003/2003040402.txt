@@ -1,0 +1,6 @@
+PKA-dependent Binding of mRNA to the Mitochondrial AKAP121 Protein
+7202385182,7006146779,56294966800,7003738432,7202589454
+protein kinase A anchoring proteins,manganese superoxide dismutase,cAMP,mitochondria,ATP synthase
+Protein kinase A (PKA) anchoring proteins (AKAPs) tether PKA to various subcellular locations. AKAP121, which tethers PKAII to the outer mitochondrial membrane, includes a K homology (KH) RNA-binding motif. Purified AKAP121 KH domain binds the 3′ untranslated regions (3′UTRs) of transcripts encoding the Fo-f subunit of mitochondrial ATP synthase and manganese superoxide dismutase (MnSOD). Binding requires a structural motif in the 3′UTR and is stimulated by PKA phosphorylation of the domain or a mutation that mimics this phosphorylation. AKAP121 expressed in HeLa cells promotes the translocation of MnSOD mRNA from cytosol to mitochondria and an increase in mitochondrial MnSOD. Both reactions are stimulated by cAMP. Thus, by focusing translation at the mitochondrial membrane, AKAP121 may facilitate import of mitochondrial proteins in response to cAMP stimulation.
+http://www.sciencedirect.com/science/article/pii/S0022283603001736
+00222836

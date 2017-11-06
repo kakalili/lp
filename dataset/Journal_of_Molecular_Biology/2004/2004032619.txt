@@ -1,0 +1,6 @@
+Anchoring a Cationic Ligand: The Structure of the Fab Fragment of the Anti-morphine Antibody 9B1 and its Complex with Morphine
+6602790508,55482055100,6508075092,6701736250,35598255500,7005585050
+protein–ligand interaction,cation–π interaction,electrostatics,domain motion,hapten
+The crystal structures of an anti-morphine antibody 9B1 (to 1.6Å resolution) and its complex with morphine (to 2.0Å resolution) are reported. The morphine-binding site is described as a shallow depression on the protein surface, an unusual topology for a high-affinity (Ka∼109M−1) antibody against a small antigen. The polar part of the ligand is exposed to solvent, and the cationic nitrogen atom of the morphine molecule is anchored at the bottom of the binding site by a salt-bridge to a glutamate side-chain. Additional affinity is provided by a double cation–π interaction with two tryptophan residues. Comparison of the morphine complex with the structure of the free Fab shows that a domain closure occurs upon binding of the ligand.
+http://www.sciencedirect.com/science/article/pii/S0022283604001123
+00222836

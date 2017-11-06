@@ -1,0 +1,6 @@
+Role of Conformational Fluctuations in the Enzymatic Reaction of HIV-1 Protease
+56021570100,35466109800,56007745800
+density functional,HIV-1 protease,molecular dynamics,protein flexibility,reaction mechanism
+The emergence of compensatory drug-resistant mutations in HIV-1 protease challenges the common view of the reaction mechanism of this enzyme. Here, we address this issue by performing classical and ab initio molecular dynamics simulations (MD) on a complex between the enzyme and a peptide substrate. The classical MD calculation reveals large-scale protein motions involving the flaps and the cantilever. These motions modulate the conformational properties of the substrate at the cleavage site. The ab initio calculations show in turn that substrate motion modulates the activation free energy barrier of the enzymatic reaction dramatically. Thus, the catalytic power of the enzyme does not arise from the presence of a pre-organized active site but from the protein mechanical fluctuations. The implications of this finding for the emergence of drug-resistance are discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283602003017
+00222836

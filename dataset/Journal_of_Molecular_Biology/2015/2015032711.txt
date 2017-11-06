@@ -1,0 +1,6 @@
+Contributions of the TEL-patch Amino Acid Cluster on TPP1 to Telomeric DNA Synthesis by Human Telomerase
+7004281211,6507600103,7102774242
+telomere,telomerase recruitment,DNA substrate-competition,TPP1 TEL-patch,processivity
+Telomere maintenance is a highly coordinated process, and its misregulation is linked to cancer and telomere-shortening syndromes. Recent studies have shown that the TEL-patch—a cluster of amino acids on the surface of the shelterin component TPP1—is necessary for the recruitment of telomerase to the telomere in human cells. However, there has been only basic biochemical analysis of the role of TPP1 in the telomerase recruitment process. Here we develop an in vitro assay to quantitatively measure the contribution of the TEL-patch to telomerase recruitment—binding and extension of the first telomeric repeat. We also demonstrate that the TEL-patch contributes to the translocation step of the telomerase reaction. Finally, our quantitative observations indicate that the TEL-patch stabilizes the association between telomerase and telomeric DNA substrates, providing a molecular explanation for its contributions to telomerase recruitment and action.
+http://www.sciencedirect.com/science/article/pii/S0022283615000297
+00222836

@@ -1,0 +1,6 @@
+Functional Reconstitution of Purified Human Hv1 H+ Channels
+37056904100,6603719301,7004688477
+voltage sensor,membrane protein,proton channel
+Voltage-dependent H+ (Hv) channels mediate proton conduction into and out of cells under the control of membrane voltage. Hv channels are unusual compared to voltage-dependent K+, Na+, and Ca2+ channels in that Hv channel genes encode a voltage sensor domain (VSD) without a pore domain. The H+ currents observed when Hv channels are expressed heterologously suggest that the VSD itself provides the pathway for proton conduction. In order to exclude the possibility that the Hv channel VSD assembles with an as yet unknown protein in the cell membrane as a requirement for H+ conduction, we have purified Hv channels to homogeneity and reconstituted them into synthetic lipid liposomes. The Hv channel VSD by itself supports H+ flux.
+http://www.sciencedirect.com/science/article/pii/S0022283609002046
+00222836

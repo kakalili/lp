@@ -1,0 +1,6 @@
+Integrating -Omics: Systems Biology as Explored Through C. elegans Research
+56088614400,55650231000,16642250900,37037841900,53879317100,7006398883,24330312400
+systems biology,integrating -omics,-omics,C. elegans
+-Omics data have become indispensable to systems biology, which aims to describe the full complexity of functional cells, tissues, organs and organisms. Generating vast amounts of data via such methods, researchers have invested in ways of handling and interpreting these. From the large volumes of -omics data that have been gathered over the years, it is clear that the information derived from one -ome is usually far from complete. Now, individual techniques and methods for integration are maturing to the point that researchers can focus on network-based integration rather than simply interpreting single -ome studies. This review evaluates the application of integrated -omics approaches with a focus on Caenorhabditis elegans studies, intending to direct researchers in this field to useful databases and inspiring examples.
+http://www.sciencedirect.com/science/article/pii/S0022283615002004
+00222836

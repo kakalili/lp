@@ -1,0 +1,6 @@
+Global Stabilization of rRNA Structure by Ribosomal Proteins S4, S17, and S20
+8119048600,7006553529
+ribosome,ribosomal protein,RNA folding,hydroxyl radical footprinting,RNA–protein interactions
+Ribosomal proteins stabilize the folded structure of the ribosomal RNA and enable the recruitment of further proteins to the complex. Quantitative hydroxyl radical footprinting was used to measure the extent to which three different primary assembly proteins, S4, S17, and S20, stabilize the three-dimensional structure of the Escherichia coli 16S 5′ domain. The stability of the complexes was perturbed by varying the concentration of MgCl2. Each protein influences the stability of the ribosomal RNA tertiary interactions beyond its immediate binding site. S4 and S17 stabilize the entire 5′ domain, while S20 has a more local effect. Multistage folding of individual helices within the 5′ domain shows that each protein stabilizes a different ensemble of structural intermediates that include nonnative interactions at low Mg2+ concentration. We propose that the combined interactions of S4, S17, and S20 with different helical junctions bias the free-energy landscape toward a few RNA conformations that are competent to add the secondary assembly protein S16 in the next step of assembly.
+http://www.sciencedirect.com/science/article/pii/S0022283609008651
+00222836

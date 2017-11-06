@@ -1,0 +1,6 @@
+The Crystal Structure of a Major Dust Mite Allergen Der p 2, and its Biological Implications
+7003408761,55720581500,7006520222,55697658500,7403127538,57194515418,7202045026
+allergen,asthma,X-ray structure,immunoglobulin fold,hydrophobic cavity
+The crystal structure of the common house mite (Dermatophagoides sp.) Der p 2 allergen was solved at 2.15Å resolution using the MAD phasing technique, and refined to an R-factor of 0.209. The refined atomic model, which reveals an immunoglobulin-like tertiary fold, differs in important ways from the previously described NMR structure, because the two β-sheets are significantly further apart and create an internal cavity, which is occupied by a hydrophobic ligand. This interaction is structurally reminiscent of the binding of a prenyl group by a regulatory protein, the Rho guanine nucleotide exchange inhibitor. The crystal structure suggests that binding of non-polar molecules may be essential to the physiological function of the Der p 2 protein.
+http://www.sciencedirect.com/science/article/pii/S002228360200027X
+00222836

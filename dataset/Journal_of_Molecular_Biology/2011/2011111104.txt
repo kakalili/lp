@@ -1,0 +1,6 @@
+Hotspot-Centric De Novo Design of Protein Binders
+7004456136,9043407800,37038536800,56582751900,6603280270,55463548900
+protein interactions,computational design,negative design,antibody engineering,conformational plasticity
+Protein–protein interactions play critical roles in biology, and computational design of interactions could be useful in a range of applications. We describe in detail a general approach to de novo design of protein interactions based on computed, energetically optimized interaction hotspots, which was recently used to produce high-affinity binders of influenza hemagglutinin. We present several alternative approaches to identify and build the key hotspot interactions within both core secondary structural elements and variable loop regions and evaluate the method's performance in natural-interface recapitulation. We show that the method generates binding surfaces that are more conformationally restricted than previous design methods, reducing opportunities for off-target interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283611009909
+00222836

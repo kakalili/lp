@@ -1,0 +1,6 @@
+Optogenetic Control of Ca2+ and Voltage-Dependent Large Conductance (BK) Potassium Channels
+35275414700,7402901570,7006317098
+optogenetics,BK channel,channelrhodopsin,calcium jump,minimal invasive
+Ca2+ concentration jumps for the activation of Ca2+-dependent ion channels or transporters can be obtained either by fast solution exchange or by the use of caged Ca2+. Here, we report on an alternate optogenetic method for the activation of Ca2+ and voltage-dependent large conductance (BK) potassium channels. This was achieved through the use of the light-gated channelrhodopsin 2 variant, CatCh(Calcium translocating Channelrhodopsin) with enhanced Ca, which produces locally [Ca2+] in the μM range on the inner side of the membrane, without significant [Ca2+] increase in the cytosol. BK channel subunits α and β1 were expressed together with CatCh in HEK293 cells, and voltage and Ca2+ dependence were analyzed. Light activation of endogenous BK channels under native conditions in astrocytes and glioma cells was also investigated. Additionally, BK channels were used as sensors for the calibration of the [Ca2+] on the inner surface of the cell membrane.
+http://www.sciencedirect.com/science/article/pii/S0022283617300682
+00222836

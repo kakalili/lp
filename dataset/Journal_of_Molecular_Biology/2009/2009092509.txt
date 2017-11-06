@@ -1,0 +1,6 @@
+The Genesis of Ribosome Structure: How a Protein Generates RNA Structure in Real Time
+30268064300,7202970668
+RNA folding,dynamics,16S rRNA,S17,ribosome
+Ribosomal subunit assembly is initiated by the binding of several primary binding proteins. Results from chemical modification studies show that 16S ribosomal RNA undergoes striking structural rearrangements when protein S17 is bound. For the first time, we are able to distinguish and order these structural rearrangements by using time-dependent chemical probing. Initially, protein S17 binds to a portion of helix 11, inducing a kink-turn in that helix that bends helix 7 toward the S17–helix 11 complex in a hairpin-like manner, allowing helix 7 to bind to protein S17. This structural change is rapidly stabilized by interactions at the distal and proximal ends of both RNA helices. Identifying the dynamic nature of interactions between RNA and proteins is not only essential in unraveling ribosome assembly, but also has more general application to all protein–RNA interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283609007864
+00222836

@@ -1,0 +1,6 @@
+Crystal Structure of Yeast FAD Synthetase (Fad1) in Complex with FAD
+6602147778,6603717409,15845828600,8677094900,56057437600,55665875300
+YDL045c,PP-ATPase,FAD synthetase
+Flavin adenine dinucleotide (FAD) synthetase is an essential enzyme responsible for the synthesis of FAD by adenylation of riboflavin monophosphate (FMN). We have solved the 1.9 Å resolution structure of Fad1, the yeast FAD synthetase, in complex with the FAD product in the active site. The structure of Fad1 shows it to be a member of the PP-ATPase superfamily. Important conformational differences in the two motifs involved in binding the phosphate moieties of FAD compared to the Candida glabrata FMNT ortholog suggests that this loop is dynamic and undergoes substantial conformational changes during its catalytic cycle.
+http://www.sciencedirect.com/science/article/pii/S0022283610003025
+00222836

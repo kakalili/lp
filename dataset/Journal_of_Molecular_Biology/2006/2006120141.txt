@@ -1,0 +1,6 @@
+PCNA Activates the Holliday Junction Endonuclease Hjc
+6602881566,7404595384,7404176673
+Holliday junction,resolving enzyme,endonuclease,archaea,PCNA
+The resolving enzyme Hjc, which cleaves Holliday junctions with a high degree of structural specificity, is conserved in all archaea. Like RuvC in Escherichia coli, Hjc functions in the related processes of homologous recombination and double-strand break repair. In bacteria, the RuvAB complex binds Holliday junctions and catalyses ATP-dependent branch migration, but the equivalent proteins in archaea and eukarya are unknown. Here, we demonstrate that Hjc from Sulfolobus solfataricus forms a physical interaction with the sliding clamp PCNA via a C-terminal PCNA-interacting peptide (PIP) motif in Hjc. PCNA stimulates the Holliday junction cleavage activity of Hjc in vitro, and deletion of the PIP motif abrogates this effect. This is the first report of a functional interaction between a sliding clamp and a junction-resolving enzyme, and raises the possibility that PCNA could recruit a variety of different proteins to act on Holliday junctions in vivo.
+http://www.sciencedirect.com/science/article/pii/S0022283606011843
+00222836

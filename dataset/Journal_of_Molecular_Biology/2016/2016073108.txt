@@ -1,0 +1,6 @@
+Processive DNA Unwinding by RecBCD Helicase in the Absence of Canonical Motor Translocation
+57190382896,51664253600,57190376840,55214112100,7103412351
+allostery,fluorescence,recombination,SF1 helicase
+Escherichia coli RecBCD is a DNA helicase/nuclease that functions in double-stranded DNA break repair. RecBCD possesses two motors (RecB, a 3′ to 5′ translocase, and RecD, a 5′ to 3′ translocase). Current DNA unwinding models propose that motor translocation is tightly coupled to base pair melting. However, some biochemical evidence suggests that DNA melting of multiple base pairs may occur separately from single-stranded DNA translocation. To test this hypothesis, we designed DNA substrates containing reverse backbone polarity linkages that prevent ssDNA translocation of the canonical RecB and RecD motors. Surprisingly, we find that RecBCD can processively unwind DNA for at least 80bp beyond the reverse polarity linkages. This ability requires an ATPase active RecB motor, the RecB “arm” domain, and also the RecB nuclease domain, but not its nuclease activity. These results indicate that RecBCD can unwind duplex DNA processively in the absence of ssDNA translocation by the canonical motors and that the nuclease domain regulates the helicase activity of RecBCD.
+http://www.sciencedirect.com/science/article/pii/S0022283616302479
+00222836

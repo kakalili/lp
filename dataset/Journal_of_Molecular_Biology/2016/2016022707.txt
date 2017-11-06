@@ -1,0 +1,6 @@
+Overcoming Challenges in Engineering the Genetic Code
+36844344800,56999914300,56401632400
+genomically recoded organism (GRO),expanded genetic code,genome engineering
+Withstanding 3.5billionyears of genetic drift, the canonical genetic code remains such a fundamental foundation for the complexity of life that it is highly conserved across all three phylogenetic domains. Genome engineering technologies are now making it possible to rationally change the genetic code, offering resistance to viruses, genetic isolation from horizontal gene transfer, and prevention of environmental escape by genetically modified organisms. We discuss the biochemical, genetic, and technological challenges that must be overcome in order to engineer the genetic code.
+http://www.sciencedirect.com/science/article/pii/S0022283615004921
+00222836

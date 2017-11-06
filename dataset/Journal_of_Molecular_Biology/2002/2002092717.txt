@@ -1,0 +1,6 @@
+Mapping Long-range Contacts in a Highly Unfolded Protein
+6507017067,7003725116,55663918300,7404316832
+apomyoglobin,spin label,protein folding
+Insights into the earliest events in protein folding can be obtained by analysis of the conformational propensities of unfolded or partly folded states. The structure of the acid-unfolded state of apomyoglobin has been characterized using paramagnetic spin labeling and NMR. Nitroxide side-chains, introduced by coupling to mutant cysteine residues at positions 18, 77, and 133, were used as probes of chain compaction and long-range tertiary contacts. Significant interactions are observed within and between the N and C termini, while the central region of the polypeptide chain behaves as a random polymer. Even in this highly denatured form, the protein samples transient compact states in which there are native-like contacts between the N and C-terminal regions.
+http://www.sciencedirect.com/science/article/pii/S0022283602008471
+00222836

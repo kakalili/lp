@@ -1,0 +1,6 @@
+Structural Basis of the Action of Glucosyltransferase Lgt1 from Legionella pneumophila
+36077781100,49663245600,55218887300,35219370100,15061270000,34769777500,7102230719,6603431240
+glucosyltransferases,Legionnaires disease,Legionella pneumophila,protein crystallography
+The glucosyltransferase Lgt1 is one of three glucosylating toxins of Legionella pneumophila, the causative agent of Legionnaires disease. It acts through specific glucosylation of a serine residue (S53) in the eukaryotic elongation factor 1A and belongs to type A glycosyltransferases. High-resolution crystal structures of Lgt1 show an elongated shape of the protein, with the binding site for uridine disphosphate glucose at the bottom of a deep cleft. Lgt1 shows only a low sequence identity with other type A glycosyltransferases, and structural conservation is limited to a central folding core that is usually observed within this family of proteins. Domains and protrusions added to the core motif represent determinants for the specific recognition and binding of the target. Manual docking experiments based on the crystal structures of toxin and target protein suggest an obvious mode of binding to the target that allows for efficient transfer of a glucose moiety.
+http://www.sciencedirect.com/science/article/pii/S0022283609014387
+00222836

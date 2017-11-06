@@ -1,0 +1,6 @@
+Projection Structure of Channelrhodopsin-2 at 6 Å Resolution by Electron Crystallography
+55477387200,23092759400,7006317098,7006010107
+microbial rhodopsin,channelrhodopsin,light-gated ion channel,two-dimensional crystallography,electron cryo-microscopy
+Channelrhodopsin-2 (ChR2) is the prototype of a new class of light-gated ion channels that is finding widespread applications in optogenetics and biomedical research. We present a  6-Å projection map of ChR2, obtained by cryo-electron microscopy of two-dimensional crystals grown from pure, heterologously expressed protein. The map shows that ChR2 is the same dimer with non-crystallographic 2-fold symmetry in three different membrane crystals. This is consistent with biochemical analysis, which shows a stable dimer in detergent solution. Comparison to the projection map to bacteriorhodopsin indicates a similar structure of seven transmembrane alpha helices. Based on the projection map and sequence alignments, we built a homology model of ChR2 that potentially accounts for light-induced channel gating. Although a monomeric channel is not ruled out, comparison to other membrane channels and transporters suggests that the ChR2 channel is located at the dimer interface on the 2-fold axis, lined by transmembrane helices 3 and 4.
+http://www.sciencedirect.com/science/article/pii/S0022283611010916
+00222836

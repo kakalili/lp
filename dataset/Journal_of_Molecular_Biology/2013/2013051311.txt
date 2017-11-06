@@ -1,0 +1,6 @@
+Allosteric Effects in the Regulation of 26S Proteasome Activities
+23969172700,7006963909,7102753373
+allostery,26S proteasome,proteostasis,cryo-electron microscopy
+The 26S proteasome is the executive arm of the ubiquitin-proteasome system. This 2.5-MDa complex comprising the 20S core particle (CP) and the 19S regulatory particle (RP) is able to effectively execute its function due to a tightly regulated network of allosteric interactions. From this perspective, we summarize the current state of knowledge on these regulatory interdependencies. We classify them into the three functional layers—within the CP, within the RP, and at the CP–RP interface. In the CP, allosteric effects are thought to couple the gate opening and substrate proteolysis. Gate opening depends on events occurring in the RP—ATP hydrolysis and substrate binding. Finally, a number of processes occurring solely in the RP, like ATP hydrolysis or substrate deubiquitylation, are also proposed to be allosterically regulated. Recent advances in structural studies of 26S proteasome open up new avenues for dissecting and rationalizing the molecular basis of these regulatory networks.
+http://www.sciencedirect.com/science/article/pii/S0022283613000685
+00222836

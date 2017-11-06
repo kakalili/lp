@@ -1,0 +1,6 @@
+S-Nitrosylation Induces Structural and Dynamical Changes in a Rhodanese Family Protein
+36243250800,8940258700,55741695900,7004129050,55402182800,56752369400,7102884332,7004321158
+rhodanese,post-translational modification,nuclear magnetic resonance (NMR),X-ray crystallography,mass spectrometry
+S-Nitrosylation is well established as an important post-translational regulator in protein function and signaling. However, relatively little is known about its structural and dynamical consequences. We have investigated the effects of S-nitrosylation on the rhodanese domain of the Escherichia coli integral membrane protein YgaP by NMR, X-ray crystallography, and mass spectrometry. The results show that the active cysteine in the rhodanese domain of YgaP is subjected to two competing modifications: S-nitrosylation and S-sulfhydration, which are naturally occurring in vivo. It has been observed that in addition to inhibition of the sulfur transfer activity, S-nitrosylation of the active site residue Cys63 causes an increase in slow motion and a displacement of helix 5 due to a weakening of the interaction between the active site and the helix dipole. These findings provide an example of how nitrosative stress can exert action at the atomic level.
+http://www.sciencedirect.com/science/article/pii/S0022283616302558
+00222836

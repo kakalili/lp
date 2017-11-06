@@ -1,0 +1,6 @@
+Geminate rebinding in trehalose-glass embedded myoglobins reveals residue-specific control of intramolecular trajectories11Edited by P. E. Wright
+6602140413,6603221446,7401879723,55703313100,15763453600,7401865857
+myoglobins,trehalose,xenon cavities,geminate recombination
+It is becoming increasingly apparent that hydrophobic cavities (also referred to as xenon cavities) within proteins have significant functional implications. The potential functional role of these cavities in modulating the internal dynamics of carbon monoxide in myoglobin (Mb) is explored in the present study by using glassy matrices derived from trehalose to limit protein dynamics and to eliminate ligand exchange between the solvent and the protein. By varying the temperature (−15 to 65°C) and humidity for samples of carbonmonoxy myoglobin embedded in trehalose-glass, it is possible to observe a hierarchy of distinct geminate recombination phases that extend from nanosecond to almost seconds that can be directly associated with rebinding from specific hydrophobic cavities. The use of mutant forms of Mb reveals the role of key residues in modulating ligand access between these cavities and the distal hemepocket.
+http://www.sciencedirect.com/science/article/pii/S0022283601952180
+00222836

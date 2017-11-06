@@ -1,0 +1,6 @@
+Transcription and DNA Damage: Holding Hands or Crossing Swords?
+57192588905,6602853133
+DNA damage response (DDR),R loops,RNA binding proteins (RBPs),Non-coding RNAs (ncRNAs)
+Transcription has classically been considered a potential threat to genome integrity. Collision between transcription and DNA replication machinery, and retention of DNA:RNA hybrids, may result in genome instability. On the other hand, it has been proposed that active genes repair faster and preferentially via homologous recombination. Moreover, while canonical transcription is inhibited in the proximity of DNA double-strand breaks, a growing body of evidence supports active non-canonical transcription at DNA damage sites. Small non-coding RNAs accumulate at DNA double-strand break sites in mammals and other organisms, and are involved in DNA damage signaling and repair. Furthermore, RNA binding proteins are recruited to DNA damage sites and participate in the DNA damage response. Here, we discuss the impact of transcription on genome stability, the role of RNA binding proteins at DNA damage sites, and the function of small non-coding RNAs generated upon damage in the signaling and repair of DNA lesions.
+http://www.sciencedirect.com/science/article/pii/S0022283616304715
+00222836

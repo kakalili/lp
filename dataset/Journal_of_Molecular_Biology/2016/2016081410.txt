@@ -1,0 +1,6 @@
+The Densely O-Glycosylated MUC2 Mucin Protects the Intestine and Provides Food for the Commensal Bacteria
+24390624000,7201744380
+mucus,glycosyltransferase,glycosylation,colon,small intestine
+All mucins are highly O-glycosylated by variable glycans depending on species, histoblood group and organ. This makes the intestinal main mucin MUC2 non-degradable by the host digestive system but well by both commensal and pathogenic bacteria. The MUC2 glycans are important for selection of the commensal bacteria and act as a nutritional source for the bacteria; this also helps the host to recover some of the energy spent on constantly renewing the protective mucus layer. Glycosylation is the most diverse and common posttranslational modification of cell surfaces and secreted proteins. N-Glycosylation is most well studied and predictable, whereas O-glycosylation is more diverse and less well understood. O-Glycosylation is also often called mucin-type glycosylation as it is typical for mucins that often have more than 80% of the mass as O-glycans. This review will discuss the mucin-type O-glycosylation and especially the O-glycosylation of human and mice intestinal mucin MUC2 in relation to bacteria and disease.
+http://www.sciencedirect.com/science/article/pii/S0022283616001157
+00222836

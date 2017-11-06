@@ -1,0 +1,6 @@
+Two holliday junction resolving enzymes in Sulfolobus solfataricus11Edited by J. Karn
+6602596374,7404176673
+Holliday junction,archaea,endonuclease,resolving enzyme,homologous recombination
+Holliday junction resolving enzymes bind specifically to four-way DNA junctions created by the process of homologous recombination, cleaving them to yield recombinant duplex DNA products. Homologous recombination is known to occur in the third domain of life, the archaea, and may constitute a simplified model for the corresponding eucaryal pathway, but has not been well characterised. Identification of a gene encoding an archaeal Holliday junction resolving enzyme, Hjc, has recently been reported in the euryarchaea, and an activity has been observed in the hyperthermophilic crenarchaeote Sulfolobus solfataricus. Here we report the identification, heterologous expression and characterisation of the Hjc protein from Sulfolobus. We demonstrate that Sulfolobus has two distinct junction resolving enzymes, Hjc and Hje, with differing substrate specificities.
+http://www.sciencedirect.com/science/article/pii/S0022283600936246
+00222836

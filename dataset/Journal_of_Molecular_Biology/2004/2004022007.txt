@@ -1,0 +1,6 @@
+Crystal Structure of the Catalytic Domain of Human Matrix Metalloproteinase 10
+35459943000,7004676426,6602534343,7103221000,7004888013,57194751059
+matrix metalloproteinase,stromelysin-2,MMP-10,crystal structure,inhibitor
+The catalytic domain of matrix metalloproteinase-10 (MMP-10) has been expressed in Escherichia coli and its crystal structure solved at 2.1Å resolution. The availability of this structure allowed us to critically examine the small differences existing between the catalytic domains of MMP-3 and MMP-10, which show the highest sequence identity among all MMPs. Furthermore, the binding mode of N-isobutyl-N-[4-methoxyphenylsulfonyl]glycyl hydroxamic acid (NNGH), which is one of the most known commercial inhibitors of MMPs, is described for the first time.
+http://www.sciencedirect.com/science/article/pii/S0022283603015377
+00222836

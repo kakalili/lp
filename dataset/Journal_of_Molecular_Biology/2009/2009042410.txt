@@ -1,0 +1,6 @@
+The Determinants of Stability and Folding in Evolutionarily Diverged Cytochromes c
+24282130800,7201716253,56066325000,7003281798
+cytochrome c,carbon–deuterium,FTIR,protein folding,evolution
+Cytochrome c has served as a paradigm for the study of protein stability, folding, and molecular evolution, but it remains unclear how these aspects of the protein are related. For example, while the bovine and equine cytochromes c are known to have different stabilities, and possibly different folding mechanisms, it is not known how these differences arise from just three amino acid substitutions introduced during divergence. Using site-selectively incorporated carbon–deuterium bonds, we show that like the equine protein, bovine cytochrome c is induced to unfold by guanidine hydrochloride via a stepwise mechanism, but it does not populate an intermediate as is observed with the equine protein. The increased stability also results in more similar free energies of unfolding observed at different sites within the protein, giving the appearance of a more concerted mechanism. Furthermore, we show that the differences in stability and folding appear to result from a single amino acid substitution that stabilizes a helix by allowing for increased solvation of its N-terminus.
+http://www.sciencedirect.com/science/article/pii/S0022283609002381
+00222836

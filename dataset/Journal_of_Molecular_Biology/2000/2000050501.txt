@@ -1,0 +1,6 @@
+Color-coding reveals tandem repeats in the Escherichia coli genome11Edited by J. H. Miller
+56244527000,7004974795,7004285952
+color-coding,tandem repeat,sequence analysis,genome,periodicity
+Genomic DNA contains a wide variety of repetitive sequences. In Escherichia coli, there have been several classes of repetitive sequences reported, some of which cluster as tandem repeats. We propose a novel method for analyzing symbolic sequences by two-dimensional pattern formation with color-coding. We applied this method for searching tandem repeats in the E. coli genome and found approximately 50 repeats with periods longer than 30 bases. The longest repeat has a period of 1267 bases.
+http://www.sciencedirect.com/science/article/pii/S0022283600936672
+00222836

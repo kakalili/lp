@@ -1,0 +1,6 @@
+High Local Concentration: A Fundamental Strategy of Life
+6602705822,7005968548
+local concentration,cooperativity,protein,DNA,origin of life
+Local increase in concentration is a basic principle of transcriptional control. Closer inspection reveals that it is a major force governing all interactions within and between proteins and DNA. Local increase in concentration acts on all levels of organization of living matter. The structures and functions of two central molecules of life—the linear polymers DNA and protein—are particularly illuminating examples. Local increase in concentration leads to cooperative or competitive interactions between molecules. It is an important principle of life.
+http://www.sciencedirect.com/science/article/pii/S0022283609013151
+00222836

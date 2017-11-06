@@ -1,0 +1,6 @@
+For Better or Worse: Cytosolic DNA Sensing during Intracellular Bacterial Infection Induces Potent Innate Immune Responses
+57189072401,56663780200,8418136300
+host–pathogen interactions,cytosolic DNA sensing,type I interferon,intracellular bacteria,innate immunity
+Many intracellular bacterial pathogens previously thought to remain sealed within a vacuole can be recognized by cytosolic innate immune sensors. While a wide array of cytosolic nucleic acid sensors have been characterized in the context of viral infection, we are only now beginning to examine how these same molecules function in the context of bacterial infection. Interestingly, in addition to helping the host control the replication of some intracellular bacteria, cytosolic sensing of bacterial DNA has also been implicated in eliciting immune responses that enhance bacterial survival and promote pathogenesis, suggesting that activation of these host DNA sensing pathways is an evolutionarily conserved bacterial adaptation. Unlocking the mechanistic detail of these paradoxical innate immune events will be crucial for understanding how they influence the overall immune response during bacterial infection and how we may develop therapeutics to tip the balance in favor of the host.
+http://www.sciencedirect.com/science/article/pii/S0022283616301115
+00222836

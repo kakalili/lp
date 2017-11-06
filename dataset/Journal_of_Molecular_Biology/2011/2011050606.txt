@@ -1,0 +1,6 @@
+Simple Rules for Efficient Assembly Predict the Layout of a Packaged Viral RNA
+14830083600,25951389300,23095967500,6603463493,56270355500,55911941600
+ssRNA virus,virus assembly,genome organization,cryo-EM,Hamiltonian path
+Single-stranded RNA (ssRNA) viruses, which include major human pathogens, package their genomes as they assemble their capsids. We show here that the organization of the viral genomes within the capsids provides intriguing insights into the highly cooperative nature of the assembly process. A recent cryo-electron microscopy structure of bacteriophage MS2, determined with only 5-fold symmetry averaging, has revealed the asymmetric distribution of its encapsidated genome. Here we show that this RNA distribution is consistent with an assembly mechanism that follows two simple rules derived from experiment: (1) the binding of the MS2 maturation protein to the RNA constrains its conformation into a loop, and (2) the capsid must be built in an energetically favorable way. These results provide a new level of insight into the factors that drive efficient assembly of ssRNA viruses in vivo.
+http://www.sciencedirect.com/science/article/pii/S0022283611001963
+00222836

@@ -1,0 +1,6 @@
+Assembly of the Cytochrome bo3 Complex
+8916259100,7102118731,13606001200
+cytochrome bo3,macromolecular assembly,membrane protein,BN-PAGE,heme assembly
+An understanding of the mechanisms that govern the assembly of macromolecular protein complexes is fundamental for studying their function and regulation. With this in mind, we have determined the assembly pathway for the membrane-embedded cytochrome bo3 of Escherichia coli. We show that there is a preferred order of assembly, where subunits III and IV assemble first, followed by subunit I and finally subunit II. We also show that cofactor insertion catalyses assembly. These findings provide novel insights into the biogenesis of this model membrane protein complex.
+http://www.sciencedirect.com/science/article/pii/S0022283607006808
+00222836

@@ -1,0 +1,6 @@
+The Structure of an FF Domain from Human HYPA/FBP11
+7404105591,6603739256,57190147990,7005973731
+NMR structure,transcription,phosphopeptide recognition,RNA polymerase II carboxyl-terminal domain
+The FF domain is a 60 amino acid residue phosphopeptide-binding module found in a variety of eukaryotic proteins including the transcription elongation factor CA150, the splicing factor Prp40 and p190RHOGAP. We have determined the structure of an FF domain from HYPA/FBP11. The domain is composed of three α helices arranged in an orthogonal bundle with a 310 helix in the loop between the second and third α helices. The structure differs from those of other phosphopeptide-binding domains and represents a novel phosphopeptide-binding fold.
+http://www.sciencedirect.com/science/article/pii/S0022283602009683
+00222836

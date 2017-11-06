@@ -1,0 +1,6 @@
+Phase Diagrams: A Graphical Representation of Linkage Relations
+6602907815,7006159555
+statistical thermodynamics,ligand binding,denaturation,linkage,phase transition
+It is shown here that phase diagrams of ligand-binding biological macromolecules provide a powerful tool for the analysis of reaction mechanisms. The present study provides simple rules for the construction and interpretation of such phase diagrams. We give examples for the derivation of reaction schemes for macromolecules that can bind two different kinds of ligands. By sampling one dimension of a phase diagram it is possible to reconstruct the second dimension, including the correct stoichiometry, positive and negative linkage between the ligands and equilibrium binding constants for the complete series of reactions. The discussion is generalised to temperature and pressure-dependent phase diagrams.To exemplify the new diagram method we analyse the pH-dependent binding of trans-β-indole acrylic acid to apo-Trp repressor, the pH-dependent thermal denaturation of α-chymotrypsinogen A, calcium binding and denaturation of annexin I, high affinity zinc binding to a metallo-β-lactamase and high-pressure and temperature denaturation of RNase A and staphylococcal nuclease.
+http://www.sciencedirect.com/science/article/pii/S0022283603002468
+00222836

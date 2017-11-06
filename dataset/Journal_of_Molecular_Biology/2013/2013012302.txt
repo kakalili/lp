@@ -1,0 +1,6 @@
+A 2.1-Å-Resolution Crystal Structure of Unliganded CRM1 Reveals the Mechanism of Autoinhibition
+55505111100,8614905900
+nuclear transport,nuclear export,exportin,CRM1,RanGTP
+CRM1 mediates nuclear export of numerous proteins and ribonucleoproteins containing a leucine-rich nuclear export signal (NES). Binding of RanGTP to CRM1 in the nucleus stabilizes cargo association with CRM1, and vice versa, but the mechanism underlying the positive cooperativity in RanGTP and NES binding to CRM1 remains incompletely understood. Herein we report a 2.1-Å-resolution crystal structure of unliganded Saccharomyces cerevisiae CRM1 (Xpo1p) that demonstrates that an internal loop of CRM1 (referred to as HEAT9 loop) is primarily responsible for maintaining the NES-binding cleft in a closed conformation, rendering CRM1 incapable of NES binding in the absence of RanGTP. The structure also shows that the C-terminal tail of CRM1 stabilizes the autoinhibitory conformation of the HEAT9 loop and thereby reinforces autoinhibition. Comparison with the structures of CRM1–NES–RanGTP complexes reveals how binding of RanGTP is associated with a series of allosteric conformational changes in CRM1 that lead to opening of the NES-binding cleft, allowing for stable binding of NES cargoes.
+http://www.sciencedirect.com/science/article/pii/S0022283612008868
+00222836

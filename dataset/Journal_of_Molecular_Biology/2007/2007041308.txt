@@ -1,0 +1,6 @@
+Isolation and Characterization of Conditional Alleles of the Yeast SIR2 Gene
+14219280900,35074558300,16041063700,6504126633,16040222700,6507526401,35073464900,56964898300,7203030871
+silencing,chromatin,transcription,Sir2
+Sir2 is a protein deacetylase that mediates transcriptional silencing at the HM loci, telomeres, and rDNA repeats in yeast. To identify functionally significant regions of the Sir2 protein, we have characterized two types of mutations. First, we used random mutagenesis to create temperature-sensitive alleles of the SIR2 gene. Mutations conferring conditional silencing can be isolated throughout the SIR2 gene, causing both enzymatic and protein interaction defects. We used external deletions to identify regions essential for silencing in the non-conserved regions of Sir2. Deletions of the Sir2 N-terminal 89 amino acid residues caused a subtle increase in silencing, while deletions encompassing residues 110–146 caused loss of Sir2 interactions with both Sir4 and Net1. This loss of protein interaction correlates with a loss of Sir2-mediated silencing, and is consistent with a model in which Net1 and Sir4 compete for interaction with Sir2. These results indicate that recognition of the binding partners of Sir2 is a key function of non-conserved sequences.
+http://www.sciencedirect.com/science/article/pii/S0022283607000848
+00222836

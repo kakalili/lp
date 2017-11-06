@@ -1,0 +1,6 @@
+Solid-State NMR Reveals Structural Differences between Fibrils of Wild-Type and Disease-Related A53T Mutant α-Synuclein
+7102117095,6506286291,7402398883,7006348787,15078350200,15077846600,7102837477,7004926277
+solid-state NMR,Amyloid,Parkinson's disease,alpha-synuclein,AFM
+Fibrils from the Parkinson's-disease-related A53T mutant of α-synuclein were investigated by solid-state NMR spectroscopy, electron microscopy, and atomic force microscopy. Sequential solid-state NMR resonance assignments were obtained for a large fraction of the fibril core. Experiments conducted above and below the freezing point suggest that the fibrils contain regions with increased mobility and structural elements different from β-strand character, in addition to the rigid β-sheet-rich core region. As in earlier studies on wild-type α-synuclein, the C-terminus was found to be flexible and unfolded, whereas the main core region was highly rigid and rich in β-sheets. Compared to fibrils from wild-type α-synuclein, the well-ordered β-sheet region extends to at least L38 and L100. These results demonstrate that a disease-related mutant of α-synuclein differs in both aggregation kinetics and fibril structure.
+http://www.sciencedirect.com/science/article/pii/S0022283608005809
+00222836

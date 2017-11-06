@@ -1,0 +1,6 @@
+Crystal Structure and Mutational Study of a Unique SpoU Family Archaeal Methylase that Forms 2′-O-Methylcytidine at Position 56 of tRNA
+23025276800,7006510971,8738622300,7006065000,36037012700
+aTrm56,crystal structure,SPOUT,tRNA methylation,λ form
+The conserved cytidine residue at position 56 of tRNA contributes to the maintenance of the L-shaped tertiary structure. aTrm56 catalyzes the 2′-O-methylation of the cytidine residue in archaeal tRNA, using S-adenosyl-L-methionine. Based on the amino acid sequence, aTrm56 is the most distant member of the SpoU family. Here, we determined the crystal structure of Pyrococcus horikoshii aTrm56 complexed with S-adenosyl-L-methionine at 2.48 Å resolution. aTrm56 consists of the SPOUT domain, which contains the characteristic deep trefoil knot, and a unique C-terminal β-hairpin. aTrm56 forms a dimer. The S-adenosyl-L-methionine binding and dimerization of aTrm56 were similar to those of the other SpoU members. A structure-based sequence alignment revealed that aTrm56 conserves only motif II, among the four signature motifs. However, an essential Arg16 residue is located at a novel position within motif I. Biochemical assays showed that aTrm56 prefers the L-shaped tRNA to the λ form as its substrate.
+http://www.sciencedirect.com/science/article/pii/S0022283607014945
+00222836

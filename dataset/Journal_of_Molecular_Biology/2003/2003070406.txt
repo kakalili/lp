@@ -1,0 +1,6 @@
+Stepwise Conversion of a Mesophilic to a Thermophilic Ribozyme
+21034083200,6602505755,7102100289,7005833979,7202203221
+ribozyme,folding,stability,cooperativity,thermophile
+A fundamental question in RNA folding is the mechanism of thermodynamic stability. We investigated the equilibrium folding of a series of sequence variants in which one to three motifs of a 255-nucleotide mesophilic ribozyme were substituted with the corresponding motifs from its thermophilic homologue. Substitution of three crucial motifs individually or in groups results in a continual increase in the stability and folding cooperativity in a stepwise fashion. We find an unexpected relationship between stability and folding cooperativity. Without changing the folding cooperativity, RNAs having a similar native structure can only achieve moderate change in stability and likewise, without changing stability, RNAs having a similar native structure can only achieve moderate change in folding cooperativity. This intricate relationship must be included in the predictions of tertiary RNA stability.
+http://www.sciencedirect.com/science/article/pii/S0022283603005825
+00222836

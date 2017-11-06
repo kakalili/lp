@@ -1,0 +1,6 @@
+The Branched Photocycle of the Slow-Cycling Channelrhodopsin-2 Mutant C128T
+8694689800,7103218113,25824746100,7004385050,26643089900
+channelrhodopsin,ion channel,spectroscopy,retinal isomerization,FTIR spectroscopy
+Channelrhodopsins (ChRs) of green algae such as Chlamydomonas are used as neuroscience tools to specifically depolarize cells with light. A crude model of the ChR2 photocycle has been recently established, but details of the photoreactions are widely unknown. Here, we present the photoreactions of a slow-cycling ChR2 mutant (step function rhodopsin), with C128 replaced by threonine and 200-fold extended lifetime of the conducting-state P520. At a late state of the photocycle, a fraction of the proteins branches off into an inactive species, P380, which accumulates during prolonged illumination. At neutral pH, P380 is converted into P353, a species with a characteristic fine-structured spectrum that is interpreted as retroretinyl chromophore. The described branching reactions should be considered, when ChR is used as a neuroscience tool, especially in the case of fluorescence imaging at high light intensities.
+http://www.sciencedirect.com/science/article/pii/S0022283610002937
+00222836

@@ -1,0 +1,6 @@
+Solution structure of a C-terminal coiled-coil domain from bovine IF1: the inhibitor protein of F1 ATPase11Edited by M. F. Summers
+6602558170,6602997964,56988026600,23989458100,7004220133,35513086500,7005551887
+protein structure,NMR spectroscopy,coiled-coil,F1 ATPase,inhibitor protein
+Bovine IF1 is a basic, 84 amino acid residue protein that inhibits the hydrolytic action of the F1F0 ATP synthase in mitochondria under anaerobic conditions. Its oligomerization state is dependent on pH. At a pH value below 6.5 it forms an active dimer. At higher pH values, two dimers associate to form an inactive tetramer. Here, we present the solution structure of a C-terminal fragment of IF1 (44–84) containing all five of the histidine residues present in the sequence. Most unusually, the molecule forms an anti-parallel coiled-coil in which three of the five histidine residues occupy key positions at the dimer interface.
+http://www.sciencedirect.com/science/article/pii/S002228360194570X
+00222836

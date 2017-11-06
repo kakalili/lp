@@ -1,0 +1,6 @@
+Phosphorylation and Prolyl Isomerization Independently Regulate the Signal Adapter Function of CrkII
+39362374700,7201441882
+CrkII signal adapter protein,Abelson kinase c-Abl,phosphorylation,protein folding,prolyl isomerization
+The signaling protein CrkII switches between forms with high or low binding affinity. Both phosphorylation and native-state prolyl isomerization were suggested to regulate the transition between these forms. Here we analyzed how phosphorylation at Tyr222 and Tyr252 and the Pro238Ala substitution affect signal transfer of human and chicken CrkII to a downstream target. Human CrkII is regulated by phosphorylation only, but chicken CrkII is regulated by Pro238 trans→cis isomerization and by Tyr222 phosphorylation. Surprisingly, they act in an independent fashion. Apparently, the allosteric transition to a low-activity form can be induced by phosphorylation or prolyl isomerization located at distant sites in CrkII.
+http://www.sciencedirect.com/science/article/pii/S002228361400521X
+00222836

@@ -1,0 +1,6 @@
+Temperature Dependence of the Thermodynamics of Helix–Coil Transition
+55280011600,7006677598
+CD,DSC,helix–coil transition,enthalpy,ΔCp
+The temperature-induced helix to coil transition in a series of host peptides was monitored using circular dichroism spectroscopy (CD) and differential scanning calorimetry (DSC). Combination of these two techniques allowed direct determination of the enthalpy of helix–coil transition for the studied peptides. It was found that the enthalpy of the helix–coil transition differs for different peptides and this difference is related to the difference in the temperature for the midpoint of helix–coil transition. The enthalpy of the helix–coil transition decreases with the increase in temperature, thus providing the first experimental estimate for the heat capacity changes upon helix–coil transition, ΔCp. The values for ΔCp of helix–coil transition are found to be negative, which is in contrast to the positive ΔCp for protein unfolding. Analysis suggests that this negative ΔCp of helix–coil transition is due to the exposure of the polar peptide backbone to solvent upon helix unfolding.
+http://www.sciencedirect.com/science/article/pii/S0022283603014372
+00222836

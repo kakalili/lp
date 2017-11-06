@@ -1,0 +1,6 @@
+Radioprobing of a RecA-three-stranded DNA complex with iodine 125: evidence for recognition of homology in the major groove of the target duplex11Edited by P. E. Wright
+7003265018,7003471594,7202469639,7004368994,7006594876
+RecA,major groove,iodine 125,recognition of homology,three-stranded DNA
+A fundamental problem in homologous recombination is how homology between DNAs is recognized. In all current models, a recombination protein loads onto a single strand of DNA and scans another duplex for homology. When homology is found, a synaptic complex is formed, leading to strand exchange and a heteroduplex. A novel technique based on strand cleavage by the Auger radiodecay of iodine 125, allows us to determine the distances between 125I on the incoming strand and the target sugars of the duplex DNA strands in an Escherichia coli RecA protein-mediated synaptic complex. Analysis of these distances shows that the complex represents a post-strand exchange intermediate in which the heteroduplex is located in the center, while the outgoing strand forms a relatively wide helix intertwined with the heteroduplex and located in its minor groove. The structure implies that homology is recognized in the major groove of the duplex.
+http://www.sciencedirect.com/science/article/pii/S0022283600937707
+00222836

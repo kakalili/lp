@@ -1,0 +1,6 @@
+Mcm10 and Cdc45 Cooperate in Origin Activation in Saccharomyces cerevisiae
+7103253182,34973967700,7005362086,7005248808
+DNA replication,ARS1 origin,pre-replication complex,pre-initiation complex,MCM2-7 proteins
+Mcm10 has recently been found to play a crucial role in multiple steps of the DNA replication initiation process in eukaryotes. Here, we have examined the role of Mcm10 in assembling initiation factors at a well-characterized yeast replication origin, ARS1. We find that the pre-replication complex (pre-RC) components Cdc6 and Mcm7 associate with ARS1 in the mcm10-1 mutant, suggesting that establishment of the pre-RC is not compromised in this mutant. Association of Cdc45 with ARS1 is reduced in the mcm10-1 mutant, suggesting that Mcm10 is involved in recruiting Cdc45 to the pre-RC. We find that overexpression of either Mcm10-1 or Cdc45 suppresses the growth defect of mcm10-1, and that a physical interaction between Cdc45 and Mcm10 is disrupted in the mcm10-1 mutant. Our results show that interaction between the Mcm10 and Cdc45 proteins facilitates the recruitment of Cdc45 onto the ARS1 origin.
+http://www.sciencedirect.com/science/article/pii/S0022283604005297
+00222836

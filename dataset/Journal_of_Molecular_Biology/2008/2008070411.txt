@@ -1,0 +1,6 @@
+Prediction of Aggregation-Prone Regions in Structured Proteins
+15840553700,8567555600,14919060800,36040001800,7004045049,7007094071
+Aggregation,Misfolding,Prion disease,Alzheimer's disease,Parkinson's disease
+We present a method for predicting the regions of the sequences of peptides and proteins that are most important in promoting their aggregation and amyloid formation. The method extends previous approaches by allowing such predictions to be carried out for conditions under which the molecules concerned can be folded or contain a significant degree of persistent structure. In order to achieve this result, the method uses only knowledge of the sequence of amino acids to estimate simultaneously both the propensity for folding and aggregation and the way in which these two types of propensity compete. We illustrate the approach by its application to a set of peptides and proteins both associated and not associated with disease. Our results show not only that the regions of a protein with a high intrinsic aggregation propensity can be identified in a robust manner but also that the structural context of such regions in the monomeric form is crucial for determining their actual role in the aggregation process.
+http://www.sciencedirect.com/science/article/pii/S0022283608005676
+00222836

@@ -1,0 +1,6 @@
+A DEAD-Box Helicase Mediates an RNA Structural Transition in the HIV-1 Rev Response Element
+57193201699,25321098400,56833727000,56833281300
+RNA structure,HIV-1,RRE,Rev
+Nuclear export of partially spliced or unspliced HIV-1 RNA transcripts requires binding of the viral protein regulator of expression of virion (Rev) to the Rev response element (RRE) and subsequent oligomerization in a cooperative manner. Cellular DEAD-box helicase DEAD-box protein 1 (DDX1) plays a role in HIV replication, interacting with and affecting Rev-containing HIV transcripts in vivo, interacting directly with the RRE and Rev in vitro, and promoting Rev oligomerization in vitro. Binding of DDX1 results in enhancement of Rev oligomerization on the RRE that is correlated with an RNA structural change within the RRE that persists even after dissociation of DDX1. Furthermore, this structural transition is likely located within the three-way junction of stem II of the RRE that is responsible for initial Rev binding. This discovery of the stem II structural transition leads to a model wherein DDX1 can act as an RNA chaperone, folding stem IIB into a proper Rev binding conformation.
+http://www.sciencedirect.com/science/article/pii/S0022283617300591
+00222836

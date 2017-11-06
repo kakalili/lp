@@ -1,0 +1,6 @@
+Immunogenicity of Peptide-vaccine Candidates Predicted by Molecular Dynamics Simulations
+6603683263,7004251649,7003870500,7006082848,6602658487,16460830200,57190984888,35475176800,7202826547
+peptide-vaccine,molecular dynamics,structure-based design,immunogenicity,beta-turn
+We present an in silico, structure-based approach for design and evaluation of conformationally restricted peptide-vaccines. In particular, we designed four cyclic peptides of ten or 11 residues mimicking the crystallographically observed β-turn conformation of a predicted immunodominant loop of PorA from Neisseria meningitidis. Conformational correctness and stability of the peptide designs, as evaluated by molecular dynamics simulations, correctly predicted the immunogenicity of the peptides. We observed a peptide-induced functional antibody response that, remarkably, exceeded the response induced by the native protein in outer membrane vesicles, without losing specificity for related strains. The presented approach offers tools for a priori design and selection of peptide-vaccine candidates with full biological activity. This approach could be widely applicable: to outer membrane proteins of Gram-negative bacteria, and to other epitopes in a large range of pathogens.
+http://www.sciencedirect.com/science/article/pii/S0022283603003772
+00222836

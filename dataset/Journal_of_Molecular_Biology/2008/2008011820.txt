@@ -1,0 +1,6 @@
+Partially Folded Bovine Pancreatic Trypsin Inhibitor Analogues Attain Fully Native Structures when Co-Crystallized with S195A Rat Trypsin
+6603053017,55222889300,6505845669,7004809622,7201356348,7005184624
+BPTI,[14–38]Abu,partially folded protein,ligand-induced folding,crystal structure
+Crystal structures, at 1.7 Å resolution, were solved for complexes between each of two chemically synthesized partially folded analogues of bovine pancreatic trypsin inhibitor (BPTI) with the proteolytically inactive rat trypsin mutant S195A. The BPTI analogue termed [14–38]Abu retains only the disulfide bond between Cys14 and Cys38, while Cys5, Cys30, Cys51, and Cys55 are replaced by isosteric α-amino-n-butyric acid residues. The analogue K26P,A27D[14–38]Abu contains two further replacements, by statistically favored residues, in the type I β-turn that has been suggested to be a main site for initiation of BPTI folding. As a control, the structure of the complex between S195A trypsin and wild-type BPTI was also solved. Despite significant differences in the degree of structure detected among these three BPTIs in solution by several biophysical techniques, their tertiary folds once bound to S195A trypsin in a crystalline lattice are essentially superimposable.
+http://www.sciencedirect.com/science/article/pii/S0022283607014428
+00222836

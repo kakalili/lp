@@ -1,0 +1,6 @@
+Improving Profile HMM Discrimination by Adapting Transition Probabilities
+6508303686,7003751723
+profile hidden Markov models,adaptive transition probabilities
+Profile hidden Markov models (HMMs) are used to model protein families and for detecting evolutionary relationships between proteins. Such a profile HMM is typically constructed from a multiple alignment of a set of related sequences. Transition probability parameters in an HMM are used to model insertions and deletions in the alignment. We show here that taking into account unrelated sequences when estimating the transition probability parameters helps to construct more discriminative models for the global/local alignment mode. After normal HMM training, a simple heuristic is employed that adjusts the transition probabilities between match and delete states according to observed transitions in the training set relative to the unrelated (noise) set. The method is called adaptive transition probabilities (ATP) and is based on the HMMER package implementation. It was benchmarked in two remote homology tests based on the Pfam and the SCOP classifications. Compared to the HMMER default procedure, the rate of misclassification was reduced significantly in both tests and across all levels of error rate.
+http://www.sciencedirect.com/science/article/pii/S002228360400316X
+00222836

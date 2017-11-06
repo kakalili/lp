@@ -1,0 +1,6 @@
+Regulation of HIV-1 Latency by Chromatin Structure and Nuclear Architecture
+7801547084,7005255834
+HIV-1,latency,chromatin,nuclear architecture,gene expression
+Current antiretroviral therapies fail to cure HIV-1 (human immunodeficiency virus type 1) infection because HIV-1 persists as a transcriptionally inactive provirus in resting memory CD4+ T cells. Multiple molecular events are known to regulate HIV-1 gene expression, yet the mechanisms governing the establishment and maintenance of latency remain incompletely understood. Here we summarize different molecular aspects of viral latency, from its establishment in resting CD4+ T cells to the mechanisms involved in the reactivation of latent viral reservoirs. We focus on the relevance of chromatin structure and nuclear architecture in determining the transcriptional fate of integrated HIV-1 genomes, in light of recent findings indicating that proximity to specific subnuclear neighborhoods regulates HIV-1 gene expression.
+http://www.sciencedirect.com/science/article/pii/S0022283614003702
+00222836

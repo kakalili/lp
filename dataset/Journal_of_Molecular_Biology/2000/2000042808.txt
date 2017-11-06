@@ -1,0 +1,6 @@
+High-resolution structure of the OmpA membrane domain11Edited by D. C. Rees
+7801330641,35480103800
+anisotropic chain mobilities,beta-barrel,integral membrane protein,non-polar packing contact,X-ray analysis
+The membrane domain of OmpA consists of an eight-stranded all-next-neighbor antiparallel β-barrel with short turns at the periplasmic barrel end and long flexible loops at the external end. The structure analysis has been extended from medium resolution to 1.65 Å (1 Å=0.1 nm), and the molecular model has been refined anisotropically to show oriented mobilities of the structural elements. The improved data allowed us to locate five further detergent molecules and 11 more water molecules. Moreover, the two large non-polar packing contacts have now been defined in detail. The analysis indicates that the β-barrel constitutes a solid scaffold such that the long external loops need not contribute to stability. These loops are highly mobile and thus cause a major problem during the crystallization process. The β-barrel was related to those of lipocalins. Two further crystal forms with exceptionally dense packing arrangements were established at medium resolution.
+http://www.sciencedirect.com/science/article/pii/S0022283600936714
+00222836

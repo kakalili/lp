@@ -1,0 +1,6 @@
+Crystal Structure of Human Renal Dipeptidase Involved in β-Lactam Hydrolysis
+6507520285,55520641600,7402547274,16187492400
+crystal structure,human renal dipeptidase,metabolism of β-lactam antibiotics,cilastatin complex,binuclear metal ions
+Human renal dipeptidase is a membrane-bound glycoprotein hydrolyzing dipeptides and is involved in hydrolytic metabolism of penem and carbapenem β-lactam antibiotics. The crystal structures of the saccharide-trimmed enzyme are determined as unliganded and inhibitor-liganded forms. They are informative for designing new antibiotics that are not hydrolyzed by this enzyme. The active site in each of the (α/β)8 barrel subunits of the homodimeric molecule is composed of binuclear zinc ions bridged by the Glu125 side-chain located at the bottom of the barrel, and it faces toward the microvillar membrane of a kidney tubule. A dipeptidyl moiety of the therapeutically used cilastatin inhibitor is fully accommodated in the active-site pocket, which is small enough for precise recognition of dipeptide substrates. The barrel and active-site architectures utilizing catalytic metal ions exhibit unexpected similarities to those of the murine adenosine deaminase and the catalytic domain of the bacterial urease.
+http://www.sciencedirect.com/science/article/pii/S0022283602006320
+00222836

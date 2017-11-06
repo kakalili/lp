@@ -1,0 +1,6 @@
+Understanding Nicotinamide Dinucleotide Cofactor and Substrate Specificity in Class I Flavoprotein Disulfide Oxidoreductases: Crystallographic Analysis of a Glutathione Amide Reductase
+35235330500,55684399000,6602070791,35331336200,35331414000
+glutathione amide reductase,X-ray crystallographic structure,nicotinamide adenine dinucleotide,cofactor specificity,molecular evolution
+Glutathione reductase (GR) plays a vital role in maintaining the antioxidant levels of the cytoplasm by catalyzing the reduction of glutathione disulfide to reduced glutathione, thereby using NADPH and flavin adenine dinucleotide as cofactors. Chromatiaceae have evolved an unusual homolog that prefers both a modified substrate (glutathione amide disulfide [GASSAG]) and a different cofactor (NADH). Herein, we present the crystal structure of the Chromatium gracile glutathione amide reductase (GAR) both alone and in complex with NAD+. An altered charge distribution in the GASSAG binding pocket explains the difference in substrate specificity. The NADH binding pocket of GAR differs from that of wild-type GR as well as that of a low active GR that was engineered to mimic NADH binding. Based on the GAR structure, we propose two attractive rationales for producing an efficient GR enzyme with NADH specificity.
+http://www.sciencedirect.com/science/article/pii/S0022283607012715
+00222836

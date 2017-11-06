@@ -1,0 +1,6 @@
+The Shuttling Protein Npl3 Promotes Translation Termination Accuracy in Saccharomyces cerevisiae
+24066253000,56277590800,36065373200
+hnRNP,translation termination,NMD,mRNP
+Heterogeneous nuclear ribonucleoproteins are multifunctional proteins that bind to newly synthesized mRNAs in the nucleus and participate in many subsequent steps of gene expression. A well-studied Saccharomyces cerevisiae heterogeneous nuclear ribonucleoprotein that has several nuclear functions is Npl3p. Here, we provide evidence that Npl3p also has a cytoplasmic role: it functions in translation termination fidelity. Yeast harboring the npl3-95 mutant allele have an impaired ability to translate lacZ, enhanced sensitivity to cycloheximide and paromomycin, and increased ability to read through translation termination codons. Most of these defects are enhanced in yeast that also lack Upf1p, an RNA surveillance factor crucial for translation termination. We show that the npl3-95 mutant allele encodes a form of Npl3p that is part of high molecular-weight complexes that cofractionate with the poly(A)-binding protein Pab1p. Together, these results lead us to propose a model in which Npl3p engenders translational fidelity by promoting the remodeling of mRNPs during translation termination.
+http://www.sciencedirect.com/science/article/pii/S0022283609010936
+00222836

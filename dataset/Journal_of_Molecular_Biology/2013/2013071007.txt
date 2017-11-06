@@ -1,0 +1,6 @@
+Allosteric Controls of Nuclear Receptor Function in the Regulation of Transcription
+6603840613,7102899054
+nuclear receptors,allosteric regulation
+Nuclear receptors control a large number of physiological events through the regulation of gene transcription. Their activation function involves and is controlled by ligands and multiple cofactors (repressors, activators and bridging proteins). Further post-translational modifications resulting from the crosstalk between different signaling pathways provide additional regulations. The numerous players involved allow the sophisticated fine-tuning of transcriptional regulation. The present review describes how allosteric mechanisms are used in the control of the sequential and ordered binding of nuclear receptors and the various protein effectors to target DNA.
+http://www.sciencedirect.com/science/article/pii/S0022283613001654
+00222836

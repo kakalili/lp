@@ -1,0 +1,6 @@
+Solution Structure of the R3H Domain from Human Sμbp-2
+7003732968,6602317863,6602643433,6603135852,7006020482
+R3H domain,Sμbp-2,NMR spectroscopy,C-terminal domain of IF3,YhhP
+The R3H domain is a conserved sequence motif, identified in over 100 proteins, that is thought to be involved in polynucleotide-binding, including DNA, RNA and single-stranded DNA. In this work the 3D structure of the R3H domain from human Sμbp-2 was determined by NMR spectroscopy. It is the first 3D structure determination of an R3H domain. The fold presents a small motif, consisting of a three-stranded antiparallel β-sheet and two α-helices, which is related to the structures of the YhhP protein and the C-terminal domain of the translational initiation factor IF3. The similarities are non-trivial, as the amino acid identities are below 10%. Three conserved basic residues cluster on the same face of the R3H domain and could play a role in nucleic acid recognition. An extended hydrophobic area at a different site of the molecular surface could act as a protein-binding site. A strong correlation between conservation of hydrophobic amino acids and side-chain solvent protection indicates that the structure of the Sμbp-2 R3H domain is representative of R3H domains in general.
+http://www.sciencedirect.com/science/article/pii/S0022283602013815
+00222836

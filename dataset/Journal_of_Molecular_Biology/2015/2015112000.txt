@@ -1,0 +1,6 @@
+Pseudomonas aeruginosa Biofilm Infections: Community Structure, Antimicrobial Tolerance and Immune Response
+26646995800,56736968100,55196935300,6603859418
+biofilm,antimicrobial tolerance,structure,Pseudomonas aeruginosa
+Studies of biopsies from infectious sites, explanted tissue and medical devises have provided evidence that biofilms are the underlying cause of a variety of tissue-associated and implant-associated recalcitrant human infections. With a need for novel anti-biofilm treatment strategies, research in biofilm infection microbiology, biofilm formation mechanisms and biofilm-associated antimicrobial tolerance has become an important area in microbiology. Substantial knowledge about biofilm formation mechanisms, biofilm-associated antimicrobial tolerance and immune evasion mechanisms has been obtained through work with biofilms grown in in vitro experimental setups, and the relevance of this information in the context of chronic infections is being investigated by the use of animal models of infection. Because our current in vitro experimental setups and animal models have limitations, new advanced in vitro models developed with knowledge about the chemical landscape at infectious sites are needed.
+http://www.sciencedirect.com/science/article/pii/S0022283615004817
+00222836

@@ -1,0 +1,6 @@
+Domain II of Thermus thermophilus Ribosomal Protein L1 Hinders Recognition of Its mRNA
+7004017393,10039792900,23100120900,56063234700,7101632975,7006686579,6701873941,35412032800,7005068735
+L1 conformations,L1–RNA interactions,RNA–protein recognition,crystal structure
+The two-domain ribosomal protein L1 has a dual function as a primary rRNA-binding ribosomal protein and as a translational repressor that binds its own mRNA. Here, we report the crystal structure of a complex between the isolated domain I of L1 from the bacterium Thermus thermophilus and a specific mRNA fragment from Methanoccocus vannielii. In parallel, we report kinetic characteristics measured for complexes formed by intact TthL1 and its domain I with the specific mRNA fragment. Although, there is a close similarity between the RNA–protein contact regions in both complexes, the association rate constant is higher in the case of the complex formed by the isolated domain I. This finding demonstrates that domain II hinders mRNA recognition by the intact TthL1.
+http://www.sciencedirect.com/science/article/pii/S0022283608010668
+00222836

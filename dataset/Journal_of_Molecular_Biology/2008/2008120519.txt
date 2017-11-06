@@ -1,0 +1,6 @@
+Molecular Basis for Proline- and Arginine-Rich Peptide Inhibition of Proteasome
+6507801571,6503934477,9747577100,7201538867,7004310052
+proteasome inhibition,proline- and arginine-rich peptides,NF-κB,NMR
+PR39, a naturally occurring and cell-permeable proline- and arginine-rich peptide, blocks the degradation of inhibitor of nuclear factor κB (IκBα), thereby attenuating inflammation. It is a noncompetitive and reversible inhibitor of 20S proteasome. To identify its basis of action, we used solution NMR spectroscopy and mutational analyses of the active fragment, PR11, which identified amino acids required for human 20S proteasome inhibiting activity. We then examined PR11-mediated changes in the expression of nuclear factor κB-dependent genes in situ. The results provide prerequisites for proteasome inhibition by proline- and arginine-rich peptides, providing a powerful new tool to investigate inflammatory processes. These findings offer new leads in developing drugs to treat heart diseases or stroke.
+http://www.sciencedirect.com/science/article/pii/S002228360801156X
+00222836

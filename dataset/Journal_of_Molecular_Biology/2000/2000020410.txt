@@ -1,0 +1,6 @@
+Evidence for helical unwinding of an RNA substrate by the RNA enzyme RNase P: use of an interstrand disulfide crosslink in substrate11Edited by K. Nagai
+57071570700,7801579059,7005704416,7103152962
+RNase P,M1 RNA,model substrates,convertible nucleosides,disulfide crosslink
+To gain an understanding of structural changes induced in substrates by Escherichia coli ribonuclease P (RNase P), we have incorporated an interstrand disulfide crosslink proximal to the cleavage site in a model substrate. RNase P is able to process the reduced, non-crosslinked form of this substrate as well as a substrate in which the free thiol molecules have been alkylated with iodoacetamide. However, the oxidized, crosslinked form is cleaved at a significantly lower rate. Therefore, helical unwinding of the analog of the aminoacyl stem of the substrate near its site of cleavage may be necessary for efficient processing by E. coli RNase P.
+http://www.sciencedirect.com/science/article/pii/S0022283699934241
+00222836

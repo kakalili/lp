@@ -1,0 +1,6 @@
+Studying the Lysine Acetylation of Malate Dehydrogenase
+57193883860,57193885795,57193886792,57192652582,57145846200
+post-translational modification,acetyltransferase,deacetylase,genetic code expansion,protein acetylation
+Protein acetylation plays important roles in many biological processes. Malate dehydrogenase (MDH), a key enzyme in the tricarboxylic acid cycle, has been identified to be acetylated in bacteria by proteomic studies, but no further characterization has been reported. One challenge for studying protein acetylation is to get purely acetylated proteins at specific positions. Here, we applied the genetic code expansion strategy to site-specifically incorporate Nε-acetyllysine into MDH. The acetylation of lysine residues in MDH could enhance its enzyme activity. The Escherichia coli deacetylase CobB could deacetylate acetylated MDH, while the E. coli acetyltransferase YfiQ cannot acetylate MDH efficiently. Our results also demonstrated that acetyl-CoA or acetyl-phosphate could acetylate MDH chemically in vitro. Furthermore, the acetylation level of MDH was shown to be affected by carbon sources in the growth medium.
+http://www.sciencedirect.com/science/article/pii/S0022283617301432
+00222836

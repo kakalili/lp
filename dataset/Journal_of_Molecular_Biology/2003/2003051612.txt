@@ -1,0 +1,6 @@
+Folding of a β-sheet Protein Monitored by Real-time NMR Spectroscopy
+7103201316,6603793230,7404316832,7102413157
+β-sheet folding,slow protein folding,proline isomerism,plastocyanin
+At low ionic strength, apoplastocyanin forms an unfolded state under non-denaturing conditions. The refolding of this state is sufficiently slow to allow real-time NMR experiments to be performed. Folding of apoplastocyanin, initiated by the addition of salt and followed by real-time 2D 1H–15N heteronuclear single quantum coherence (HSQC) spectroscopy, is highly cooperative. A concomitant increase in the intensity of both sequential and long-range nuclear Overhauser effects (NOEs) between backbone amide protons in successive acquisitions of 1H–15N HSQC-NOESY-HSQC spectra provides the first direct observation of the development of structure-specific NOEs as a protein folds. Our results show that the local and long-range interactions in the native apoplastocyanin are formed simultaneously, consistent with highly cooperative formation of the native structure.
+http://www.sciencedirect.com/science/article/pii/S0022283603003498
+00222836

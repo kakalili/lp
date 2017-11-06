@@ -1,0 +1,6 @@
+Structure and Dynamics of the Actin Filament
+8924119700,12244634700,36811507300,7005823898
+cytoskeleton,ATP hydrolysis,persistence length,filament,actin
+We used all-atom molecular dynamics simulations to investigate the structure and properties of the actin filament, starting with either the recent Oda model or the older Holmes model. Simulations of monomeric and polymerized actin show that polymerization changes the nucleotide-binding cleft, bringing together the Q137 side chain and bound ATP in a way that may enhance the ATP hydrolysis rate in the filament. Simulations with different bound nucleotides and conformations of the DNase I binding loop show that the persistence length of the filament depends only on loop conformation. Computational modeling reveals how bound phalloidin stiffens actin filaments and inhibits the release of γ-phosphate from ADP-Pi actin.
+http://www.sciencedirect.com/science/article/pii/S0022283609014119
+00222836

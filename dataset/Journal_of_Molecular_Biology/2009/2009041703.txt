@@ -1,0 +1,6 @@
+Novel Insights into the Mechanisms of CIN85 SH3 Domains Binding to Cbl Proteins: Solution-Based Investigations and In Vivo Implications
+6603776753,6701497946,7004818585
+ubiquitination,NMR spectroscopy,isothermal titration calorimetry,chemical shifts
+CIN85 is a multifunctional protein that plays key roles in endocytic down-regulation of receptor tyrosine kinases, apoptosis, cell adhesion, and cytoskeleton rearrangement. Its three SH3 domains (CIN85A, CIN85B, and CIN85C) allow it to recruit multiple binding partners. To understand the manifold interactions of CIN85, we present a detailed high-resolution solution structural study of CIN85A and CIN85B binding to proline–arginine peptides derived from the cognate ligands Cbl and Cbl-b. We report the structure of CIN85B and provide evidence that both CIN85A and CIN85B, in isolation or when linked, form heterodimeric complexes with the peptides. We report unusual curved chemical shift changes for several residues of CIN85A when titrated with Cbl-b peptide, indicating the existence of more than one complex form. Here we demonstrate that CIN85A and CIN85B use different mechanisms for peptide binding.
+http://www.sciencedirect.com/science/article/pii/S0022283609002411
+00222836

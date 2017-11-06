@@ -1,0 +1,6 @@
+Mic10, a Core Subunit of the Mitochondrial Contact Site and Cristae Organizing System, Interacts with the Dimeric F1Fo-ATP Synthase
+24315168000,16425664400,39863828200,54583420000,6603396753,7102395155,7005398936
+mitochondria,MICOS,membrane architecture,inner membrane,cell organelles
+The mitochondrial contact site and cristae organizing system (MICOS) is crucial for maintaining the architecture of the mitochondrial inner membrane. MICOS is enriched at crista junctions that connect the two inner membrane domains: inner boundary membrane and cristae membrane. MICOS promotes the formation of crista junctions, whereas the oligomeric F1Fo-ATP synthase is crucial for shaping cristae rims, indicating antagonistic functions of these machineries in organizing inner membrane architecture. We report that the MICOS core subunit Mic10, but not Mic60, binds to the F1Fo-ATP synthase. Mic10 selectively associates with the dimeric form of the ATP synthase and supports the formation of ATP synthase oligomers. Our results suggest that Mic10 plays a dual role in mitochondrial inner membrane architecture. In addition to its central function in sculpting crista junctions, a fraction of Mic10 molecules interact with the cristae rim-forming F1Fo-ATP synthase.
+http://www.sciencedirect.com/science/article/pii/S0022283617301109
+00222836

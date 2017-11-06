@@ -1,0 +1,6 @@
+Decreased Thermodynamic Stability as a Crucial Factor for Familial Amyloidotic Polyneuropathy
+6507341750,6602084735,7401803586,36078771200,21637804200,24545361400
+transthyretin,familial amyloidotic polyneuropathy,high-pressure NMR,thermodynamic stability,unfolded monomer
+A single mutation in the wild-type transthyretin (WT TTR) such as V30M causes a familial amyloidotic polyneuropathy disease. Comparison of the three-dimensional crystal structures of WT and V30M does not tell much about the reason. High-pressure NMR revealed that at neutral pH both WT and V30M exist as equilibrium between the native tetramer and the dissociated/unfolded monomer. The native tetramer is highly stable in WT (ΔG0=104kJ/mol at 37°C, pH 7.1), but the stability is significantly reduced in V30M (ΔΔG0=−18kJ/mol), increasing the fraction of the unfolded monomer by a 1000-fold. Significant reduction of thermodynamic stability of WT TTR by mutation could be a crucial factor for familial amyloidotic polyneuropathy.
+http://www.sciencedirect.com/science/article/pii/S0022283602004254
+00222836

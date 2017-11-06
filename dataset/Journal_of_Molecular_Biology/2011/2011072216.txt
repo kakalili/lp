@@ -1,0 +1,6 @@
+Molecular Determinants that Regulate Plasma Membrane Association of HIV-1 Gag
+23667014600,7202973234
+PI(4,5)P2,Gag,plasma membrane,assembly,matrix
+Human immunodeficiency virus type 1 assembly is a multistep process that occurs at the plasma membrane (PM). Targeting and binding of Gag to the PM are the first steps in this assembly process and are mediated by the matrix domain of Gag. This review highlights our current knowledge on viral and cellular determinants that affect specific interactions between Gag and the PM. We will discuss potential mechanisms by which the matrix domain might integrate three regulatory components, myristate, phosphatidylinositol-(4,5)-bisphosphate, and RNA, to ensure that human immunodeficiency virus type 1 assembly occurs at the PM.
+http://www.sciencedirect.com/science/article/pii/S002228361100430X
+00222836

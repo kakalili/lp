@@ -1,0 +1,6 @@
+Structure of the Haemagglutinin-neuraminidase from Human Parainfluenza Virus Type III
+7201469292,6701395118,7004264828,6602792791,6603341550,35598244500,7003729752,35394912600
+parainfluenza,paramyxovirus,haemagglutinin-neuraminidase,sialic acid,protein structure
+The three-dimensional structure of the haemagglutinin-neuraminidase (HN) from a human parainfluenza virus is described at ca 2.0Å resolution, both in native form and in complex with three substrate analogues. In support of earlier work on the structure of the homologous protein from the avian pathogen Newcastle disease virus (NDV), we observe a dimer of β-propellers and find no evidence for spatially separated sites performing the receptor-binding and neuraminidase functions of the protein. As with the NDV HN, the active site of the HN of parainfluenza viruses is structurally flexible, suggesting that it may be able to switch between a receptor-binding state and a catalytic state. However, in contrast to the NDV structures, we observe no ligand-induced structural changes that extend beyond the active site and modify the dimer interface.
+http://www.sciencedirect.com/science/article/pii/S002228360301444X
+00222836

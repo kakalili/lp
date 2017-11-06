@@ -1,0 +1,6 @@
+Porous silicon: an effective nucleation-inducing material for protein crystallization11Edited by R. Huber
+7004241774,56238202100,15736814300,7005826420
+nucleation,phase diagrams,porous silicon,mesoporous,protein crystallization
+Protein crystals play a pivotal part in structural genomics, hence there is an urgent requirement for new and improved methodology to aid crystal growth. Considerable effort has been invested in the search of substances (nucleants) that will induce efficient nucleation of protein crystals in a controlled manner. To date, nucleation has been facilitated mainly by seeding, epitaxy, charged surfaces or mechanical means. A different approach is introduced here, involving the use of a mesoporous material that is likely to constrain protein molecules and thereby encourage them to aggregate in crystalline order. Large single crystals were obtained using porous silicon at conditions that are not sufficient for spontaneous nucleation, for five out of six proteins that were investigated. We propose that this success is due to the size distribution of pores in the specially designed porous silicon.
+http://www.sciencedirect.com/science/article/pii/S0022283601949952
+00222836

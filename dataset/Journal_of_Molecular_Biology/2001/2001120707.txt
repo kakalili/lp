@@ -1,0 +1,6 @@
+Importance of two ATP-binding sites for oligomerization, ATPase activity and chaperone function of mitochondrial Hsp78 protein11Edited by M. Yaniv
+6506720111,6701730553,7004131421
+chaperone,Hsp78,mitochondrion,oligomerization,Saccharomyces cerevisiae
+The yeast mitochondrial chaperone Hsp78, a homologue of yeast cytosolic Hsp104 and bacterial ClpB, is required for maintenance of mitochondrial functions under heat stress. Here, Hsp78 was purified to homogeneity and shown to form a homo-hexameric complex, with an apparent molecular mass of approximately 440 kDa, in an ATP-dependent manner. Analysis of its ATPase activity reveals that the observed positive cooperativity effect depends both on Hsp78 and ATP concentration. Site-directed mutagenesis of the two putative Hsp78 nucleotide-binding domains suggest that the first nucleotide-binding domain is responsible for ATP hydrolysis and the second one for protein oligomerization. Studies on the chaperone activity of Hsp78 show that its cooperation with the mitochondrial Hsp70 system, consisting of Ssc1p, Mdj1p and Mge1p, is needed for the efficient reactivation of substrate proteins. These studies also suggest that the oligomerization but not the Hsp78 ATPase activity is essential for its chaperone activity.
+http://www.sciencedirect.com/science/article/pii/S0022283601951903
+00222836

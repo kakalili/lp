@@ -1,0 +1,6 @@
+Design and Signaling Mechanism of Light-Regulated Histidine Kinases
+6507851416,7005978633,55171841400
+light-oxygen-voltage,Per–Arnt–Sim,photosensor,protein design,reprogramming of signal specificity
+Signal transduction proteins are organized into sensor (input) domains that perceive a signal and, in response, regulate the biological activity of effector (output) domains. We reprogrammed the input signal specificity of a normally oxygen-sensitive, light-inert histidine kinase by replacing its chemosensor domain by a light-oxygen-voltage photosensor domain. Illumination of the resultant fusion kinase YF1 reduced net kinase activity by ∼1000-fold in vitro. YF1 also controls gene expression in a light-dependent manner in vivo. Signals are transmitted from the light-oxygen-voltage sensor domain to the histidine kinase domain via a 40°–60° rotational movement within an α-helical coiled-coil linker; light is acting as a rotary switch. These signaling principles are broadly applicable to domains linked by α-helices and to chemo- and photosensors. Conserved sequence motifs guide the rational design of light-regulated variants of histidine kinases and other proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283608015088
+00222836

@@ -1,0 +1,6 @@
+Mismatch Repair Factor MSH2-MSH3 Binds and Alters the Conformation of Branched DNA Structures Predicted to form During Genetic Recombination
+6701450738,7003433702
+MSH2-MSH3,mismatch repair,recombination,double-strand break repair
+Genetic studies in Saccharomyces cerevisiae predict that the mismatch repair (MMR) factor MSH2-MSH3 binds and stabilizes branched recombination intermediates that form during single strand annealing and gene conversion. To test this model, we constructed a series of DNA substrates that are predicted to form during these recombination events. We show in an electrophoretic mobility shift assay that S. cerevisiae MSH2–MSH3 specifically binds branched DNA substrates containing 3′ single-stranded DNA and that ATP stimulates its release from these substrates. Chemical footprinting analyses indicate that MSH2-MSH3 specifically binds at the double-strand/single-strand junction of branched substrates, alters its conformation and opens up the junction. Therefore, MSH2–MSH3 binding to its substrates creates a unique nucleoprotein structure that may signal downstream steps in repair that include interactions with MMR and nucleotide excision repair factors.
+http://www.sciencedirect.com/science/article/pii/S0022283606006140
+00222836

@@ -1,0 +1,6 @@
+Engineered Myosin VI Motors Reveal Minimal Structural Determinants of Directionality and Processivity
+9436810300,36478407500,7006426955,35601298800,6603211101
+molecular motor,protein engineering,swinging crossbridge,molecular dynamics,single molecule
+Myosins have diverse mechanical properties reflecting a range of cellular roles. A major challenge is to understand the structural basis for generating novel functions from a common motor core. Myosin VI (M6) is specialized for processive motion toward the (−) end of actin filaments. We have used engineered M6 motors to test and refine the “redirected power stroke” model for (−) end directionality and to explore poorly understood structural requirements for processive stepping. Guided by crystal structures and molecular modeling, we fused artificial lever arms to the catalytic head of M6 at several positions, retaining varying amounts of native structure. We found that an 18-residue α-helical insert is sufficient to reverse the directionality of the motor, with no requirement for any calmodulin light chains. Further, we observed robust processive stepping of motors with artificial lever arms, demonstrating that processivity can arise without optimizing lever arm composition or mechanics.
+http://www.sciencedirect.com/science/article/pii/S0022283609008997
+00222836

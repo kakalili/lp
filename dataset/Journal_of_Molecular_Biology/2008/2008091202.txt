@@ -1,0 +1,6 @@
+Dissecting NGF Interactions with TrkA and p75 Receptors by Structural and Functional Studies of an Anti-NGF Neutralizing Antibody
+6602454818,6602295426,6601921039,6602711557,36861068400,18134896800,7003374970,15829214500
+anti-NGF antibody,NGF receptors,epitope mapping,SAXS,docking
+The anti-nerve growth factor (NGF) monoclonal antibody αD11 is a potent antagonist that neutralizes the biological functions of its antigen in vivo. NGF antagonism is expected to be a highly effective and safe therapeutic approach in many pain states. A comprehensive functional and structural analysis of αD11 monoclonal antibody was carried out, showing its ability to neutralize NGF binding to either tropomyosine receptor kinase A (TrkA) or p75 receptors. The 3-D structure of the αD11 Fab fragment was solved at 1.7 Å resolution. A computational docking model of the αD11 Fab–NGF complex, based on epitope mapping using a pool of 44 NGF mutants and experimentally validated by small-angle X-ray scattering, provided the structural basis for identifying the residues involved in αD11 Fab binding. The present study pinpoints loop II of NGF to be an important structural determinant for NGF biological activity mediated by TrkA receptor.
+http://www.sciencedirect.com/science/article/pii/S0022283608006955
+00222836

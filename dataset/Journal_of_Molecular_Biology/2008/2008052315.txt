@@ -1,0 +1,6 @@
+The Hsp90 Inhibitor Radicicol Interacts with the ATP-Binding Pocket of Bacterial Sensor Kinase PhoQ
+7007125027,16418169700,7404930105,34972474900
+sensor kinase,PhoQ,radicicol,GHL inhibitor,ATP-binding pocket
+Sensor kinases in the bacterial two-component system share a unique ATP-binding Bergerat fold with the GHL (gyrase, Hsp90, and MutL) family of proteins. We demonstrated that selected GHL inhibitors bind to the catalytic domain of sensor kinase PhoQ (PhoQcat) using NMR chemical shift perturbation experiments. Using crystallographic approaches, we show that radicicol (an Hsp90 inhibitor) binds and interacts specifically with residues in the ATP-binding pocket of PhoQ. The interaction between radicicol and PhoQcat demonstrates significant similarities as well as differences compared to AMPPNP (a non-hydrolyzable ATP analog) bound to PhoQcat and radicicol bound to Hsp90. Our results suggest that GHL inhibitors may be useful lead compounds for developing sensor kinase inhibitors.
+http://www.sciencedirect.com/science/article/pii/S0022283608003562
+00222836

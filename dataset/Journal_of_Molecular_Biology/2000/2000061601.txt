@@ -1,0 +1,6 @@
+Core structure of the outer membrane lipoprotein from Escherichia coli at 1.9 å resolution11Edited by D. Rees
+36845137800,36014680100,55472942200,26642925400
+lipoprotein,outer membrane,protein folding,coiled coil,helix capping
+The outer membrane lipoprotein of the Escherichia coli cell envelope has characteristic lipid modifications at an amino-terminal cysteine and can exist in a form bound covalently to the peptidoglycan through a carboxyl-terminal lysine. The 56-residue polypeptide moiety of the lipoprotein, designated Lpp-56, folds into a stable, trimeric helical structure in aqueous solution. The 1.9 Å resolution crystal structure of Lpp-56 comprises a parallel three-stranded coiled coil including a novel alanine-zipper unit and two helix-capping motifs. The amino-terminal motif forms a hydrogen-bonding network anchoring an umbrella-shaped fold. The carboxyl-terminal motif uses puckering of the tyrosine side-chains as a unique docking arrangement in helix termination. The structure provides an explanation for assembly and insertion of the lipoprotein molecules into the outer membrane of gram-negative bacteria and suggests a molecular target for antibacterial drug discovery.
+http://www.sciencedirect.com/science/article/pii/S0022283600937768
+00222836

@@ -1,0 +1,6 @@
+Does Native State Topology Determine the RNA Folding Mechanism?
+6508040981,6508328084,7102441201,6601946009,6504824951,7004966384
+RNA folding,bulk kinetics,mechanism,distributed computing,biasing potential
+Recent studies in protein folding suggest that native state topology plays a dominant role in determining the folding mechanism, yet an analogous statement has not been made for RNA, most likely due to the strong coupling between the ionic environment and conformational energetics that make RNA folding more complex than protein folding. Applying a distributed computing architecture to sample nearly 5000 complete tRNA folding events using a minimalist, atomistic model, we have characterized the role of native topology in tRNA folding dynamics: the simulated bulk folding behavior predicts well the experimentally observed folding mechanism. In contrast, single-molecule folding events display multiple discrete folding transitions and compose a largely diverse, heterogeneous dynamic ensemble. This both supports an emerging view of heterogeneous folding dynamics at the microscopic level and highlights the need for single-molecule experiments and both single-molecule and bulk simulations in interpreting bulk experimental measurements.
+http://www.sciencedirect.com/science/article/pii/S002228360400186X
+00222836

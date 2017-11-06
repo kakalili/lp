@@ -1,0 +1,6 @@
+Identification of a Degradation Signal Sequence within Substrates of the Mitochondrial i-AAA Protease
+57191834305,56622527400
+mitochondria,protein quality control,AAA+,degron,intermembrane space
+The i-AAA protease is a component of the mitochondrial quality control machinery that regulates respiration, mitochondrial dynamics, and protein import. The protease is required to select specific substrates for degradation from among the diverse complement of proteins present in mitochondria, yet the rules that govern this selection are unclear. Here, we reconstruct the yeast i-AAA protease, Yme1p, to examine the in vitro degradation of two intermembrane space chaperone subunits, Tim9 and Tim10. Yme1p degrades Tim10 more rapidly than Tim9 despite high sequence and structural similarity, and loss of Tim10 is accelerated by the disruption of conserved disulfide bonds within the substrate. An unstructured N-terminal region of Tim10 is necessary and sufficient to target the substrate to the protease through recognition of a short phenylalanine-rich motif, and the presence of similar motifs in other small Tim proteins predicts robust degradation by the protease. Together, these results identify the first specific degron sequence within a native i-AAA protease substrate.
+http://www.sciencedirect.com/science/article/pii/S0022283617300840
+00222836

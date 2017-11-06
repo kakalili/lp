@@ -1,0 +1,6 @@
+Recognition templates for predicting adenylate-binding sites in proteins11Edited by G. van Heijne
+55482961300,7401776186,7102256591,7004845262
+molecular recognition,protein function prediction,protein-ligand docking,nucleotide recognition,nucleotide-binding proteins
+Recognition templates encapsulate the structural and energetic features for the specific recognition of a given ligand by a protein active site. These templates identify the major interactions used for specific recognition and may be used to find specific binding sites in proteins of unknown function. We present a grid-based method for deriving recognition templates for adenylate groups from a set of diverse nucleotide-binding proteins. The templates reveal the basis of specific binding of adenylate, including tight shape complementarity, specific hydrogen bonds, and underscoring the importance of a key steric contact for excluding guanylate from adenylate-specific sites. We demonstrate the utility of recognition templates in identifying specific adenylate-binding sites in a diverse set of dinucleotide-binding proteins.
+http://www.sciencedirect.com/science/article/pii/S002228360095201X
+00222836

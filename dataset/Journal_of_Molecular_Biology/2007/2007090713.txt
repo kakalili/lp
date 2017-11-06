@@ -1,0 +1,6 @@
+Inhibition of Mammalian Glycan Biosynthesis Produces Non-self Antigens for a Broadly Neutralising, HIV-1 Specific Antibody
+7006400837,7102600511,18436203400,6603829222,7202064593,7202648076,6603829032,7006831853,7004545258,7006832949,7102279599,7401577043,35399298000
+human immunodeficiency virus,neutralising antibody,vaccine,2G12
+The HIV envelope has evolved a dense array of immunologically “self” carbohydrates that efficiently protect the virus from antibody recognition. Nonetheless, one broadly neutralising antibody, IgG1 2G12, has been shown to recognise a cluster of oligomannose glycans on the HIV-1 surface antigen gp120. Thus the self carbohydrates of HIV are now regarded as potential targets for viral neutralisation and vaccine design. Here, we show that chemical inhibition of mammalian glycoprotein synthesis, with the plant alkaloid kifunensine, creates multiple HIV (2G12) epitopes on the surface of previously non-antigenic self proteins and cells, including HIV gp120. This formally demonstrates the structural basis for self/non-self discrimination between viral and host glycans, by a neutralising antibody. Moreover, this study provides an alternative protein engineering approach to the design of a carbohydrate vaccine for HIV-1 by chemical synthesis.
+http://www.sciencedirect.com/science/article/pii/S0022283607008236
+00222836

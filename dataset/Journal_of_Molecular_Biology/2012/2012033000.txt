@@ -1,0 +1,6 @@
+Phagemid Vectors for Phage Display: Properties, Characteristics and Construction
+54970097800,56131263000,8593095100,7103324386,55506001000
+phage display,phagemid,filamentous phage,phagemid vector construction
+Phagemids are filamentous-phage-derived vectors containing the replication origin of a plasmid. Phagemids usually encode no or only one kind of coat proteins. Other structural and functional proteins necessary to accomplish the life cycle of phagemid are provided by the helper phage. In addition, other elements such as molecular tags and selective markers are introduced into the phagemids to facilitate the subsequent operations, such as gene manipulation and protein purification. This review summarizes the elements of the phagemids and their corresponding functions. Finally, the possible trends and future direction to improve the characteristics of the phagemids are highlighted.
+http://www.sciencedirect.com/science/article/pii/S0022283612000927
+00222836

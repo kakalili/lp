@@ -1,0 +1,6 @@
+High Concentrations of Viscogens Decrease the Protein Folding Rate Constant by Prematurely Collapsing the Coil
+6602390335,55958959700
+protein folding,viscosity,protein engineering,denatured state,folding energy landscape
+In several studies, viscogenic osmolytes have been suggested to decrease the folding rate constant of polypeptides by slowing their motion through the solvent. Here, we show that osmolytes may slow protein folding by prematurely collapsing the coil. At low or moderate concentrations of osmolytes (&lt;30%), folding of the two-state protein CI2 becomes faster with increasing osmolyte concentrations, suggesting that the kinetics are governed by protein stability. However, at higher concentrations of osmolyte, the coil collapses in the dead-time of the refolding experiment, causing a dramatic drop in the folding rate. The collapsed state is non-native and appears to be different for different osmolytes.
+http://www.sciencedirect.com/science/article/pii/S0022283602013311
+00222836

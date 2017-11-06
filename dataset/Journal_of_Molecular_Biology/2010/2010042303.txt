@@ -1,0 +1,6 @@
+Nonantibiotic Properties of Tetracyclines: Structural Basis for Inhibition of Secretory Phospholipase A2
+35755266500,7004321586,35326188700,7006470710,7005329156
+nonantibiotic,minocycline,anti-inflammatory,phospholipase,X-ray crystallography
+Secretory phospholipase A2 is involved in inflammatory processes and was previously shown to be inhibited by lipophilic tetracyclines such as minocycline (minoTc) and doxycycline. Lipophilic tetracyclines might be a new lead compound for the design of specific inhibitors of secretory phospholipase A2, which play a crucial role in inflammatory processes. Our X-ray crystal structure analysis at 1.65 Å resolution of the minoTc complex of phospholipase A2 (PLA2) of the Indian cobra (Naja naja naja) is the first example of nonantibiotic tetracycline interactions with a protein. MinoTc interferes with the conformation of the active-site Ca2+-binding loop, preventing Ca2+ binding, and shields the active site from substrate entrance, resulting in inhibition of the enzyme. MinoTc binding to PLA2 is dominated by hydrophobic interactions quite different from antibiotic recognition of tetracyclines by proteins or the ribosome. The affinity of minoTc for PLA2 was determined by surface plasmon resonance, resulting in a dissociation constant Kd=1.8×10−4 M.
+http://www.sciencedirect.com/science/article/pii/S0022283610002251
+00222836

@@ -1,0 +1,6 @@
+Light Activation of Rhodopsin: Insights from Molecular Dynamics Simulations Guided by Solid-State NMR Distance Restraints
+6602392852,12767464100,7006695426,26221730400,35596874000,7102295631,7406653872
+rhodopsin,G-protein-coupled receptors,NMR,molecular dynamics,retinal
+Structural restraints provided by solid-state NMR measurements of the metarhodopsin II intermediate are combined with molecular dynamics simulations to help visualize structural changes in the light activation of rhodopsin. Since the timescale for the formation of the metarhodopsin II intermediate (&gt;1 ms) is beyond that readily accessible by molecular dynamics, we use NMR distance restraints derived from 13C dipolar recoupling measurements to guide the simulations. The simulations yield a working model for how photoisomerization of the 11-cis retinylidene chromophore bound within the interior of rhodopsin is coupled to transmembrane helix motion and receptor activation. The mechanism of activation that emerges is that multiple switches on the extracellular (or intradiscal) side of rhodopsin trigger structural changes that converge to disrupt the ionic lock between helices H3 and H6 on the intracellular side of the receptor.
+http://www.sciencedirect.com/science/article/pii/S0022283609014727
+00222836

@@ -1,0 +1,6 @@
+Structural Analysis of Lac Repressor Bound to Allosteric Effectors
+16432509400,6507121536,35081092900,7404188229
+Lac repressor,effector binding,allostery,inducer,conformational change
+The lac operon is a model system for understanding how effector molecules regulate transcription and are necessary for allosteric transitions. The crystal structures of the lac repressor bound to inducer and anti-inducer molecules provide a model for how these small molecules can modulate repressor function. The structures of the apo repressor and the repressor bound to effector molecules are compared in atomic detail. All effectors examined here bind to the repressor in the same location and are anchored to the repressor through hydrogen bonds to several hydroxyl groups of the sugar ring. Inducer molecules form a more extensive hydrogen-bonding network compared to anti-inducers and neutral effector molecules. The structures of these effector molecules suggest that the O6 hydroxyl on the galactoside is essential for establishing a water-mediated hydrogen bonding network that bridges the N-terminal and C-terminal sub-domains. The altered hydrogen bonding can account in part for the different structural conformations of the repressor, and is vital for the allosteric transition.
+http://www.sciencedirect.com/science/article/pii/S0022283607004998
+00222836

@@ -1,0 +1,6 @@
+Structure of AP205 Coat Protein Reveals Circular Permutation in ssRNA Bacteriophages
+57191543579,26868101300,55241660800,26535963800,23059570100,55242412800,6602540690,26867949500,55249707200,6602178237,7005476072,35518184300
+RNA bacteriophage,Leviviridae,coat protein,virus-like particle,circular permutation
+AP205 is a single-stranded RNA bacteriophage that has a coat protein sequence not similar to any other known single-stranded RNA phage. Here, we report an atomic-resolution model of the AP205 virus-like particle based on a crystal structure of an unassembled coat protein dimer and a cryo-electron microscopy reconstruction of the assembled particle, together with secondary structure information from site-specific solid-state NMR data. The AP205 coat protein dimer adopts the conserved Leviviridae coat protein fold except for the N-terminal region, which forms a beta-hairpin in the other known single-stranded RNA phages. AP205 has a similar structure at the same location formed by N- and C-terminal beta-strands, making it a circular permutant compared to the other coat proteins. The permutation moves the coat protein termini to the most surface-exposed part of the assembled particle, which explains its increased tolerance to long N- and C-terminal fusions.
+http://www.sciencedirect.com/science/article/pii/S002228361630345X
+00222836

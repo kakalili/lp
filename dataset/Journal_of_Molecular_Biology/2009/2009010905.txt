@@ -1,0 +1,6 @@
+Regulation of Root Elongation by Histone Acetylation in Arabidopsis
+35519811500,8377107600,11940169100,7202950644,35577718900
+cromatin remodeling,histone modification,gene repression
+Transcriptional repression by histone modification represents a universal mechanism that underlies critical biological processes, such as neurogenesis and hematopoietic differentiation, in animals. In plants, however, the extent to which these regulatory pathways are involved in development and morphogenesis is not well defined. SWP1/LDL1 is a component of a plant corepressor complex that is involved in regulation of flower timing. Here, we report that SWP1 also plays a role in the regulation of root elongation by repressing a root-specific gene lateral root primordium 1 (LRP1) via histone deacetylation. A null mutation in SWP1 results in hyperacetylation of histones H3 and H4 in LRP1 chromatin, elevation of LRP1 expression, and increased root elongation. This effect of SWP1 knockout on the root phenotype is mimicked by transgenic expression of LRP1, which bypasses the SWP1-mediated suppression of the native gene. Thus, SWP1 likely functions as a regulator of developmental events both in the shoot and in the root meristem.
+http://www.sciencedirect.com/science/article/pii/S002228360801187X
+00222836

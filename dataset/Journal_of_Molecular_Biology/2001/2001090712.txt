@@ -1,0 +1,6 @@
+Computer-aided design of β-sheet peptides11Edited by J. Thornton
+15734916100,16480324400,6603439246,7101901077
+β-sheet,peptide conformation,peptide design,peptide stability,Betanova
+The design of β-sheet proteins is still a challenge in the field of de novo protein design. Here, we have tested the validity of automatic design methods to create and/or improve β-sheet peptides and proteins. We chose Betanova, a three-stranded β-sheet peptide, as target system, and, as an automatic design tool, a protein design algorithm called PERLA (protein engineering rotamer library algorithm). PERLA was used to define both stabilising and destabilising single- and multiple-residue mutations of Betanova. Conformational analysis by NMR spectroscopy and far-UV circular dichroism (CD) allowed us to evaluate population differences among the set of designed peptides. Some of the new mutants are approximately 1 kcal/mol more stable than the wild-type peptide. Comparison of the scale of predicted and observed stabilities demonstrates that they are in good agreement for most peptides studied. Our results show that automatic design algorithms can be successfully applied to the design of β-sheet peptides.
+http://www.sciencedirect.com/science/article/pii/S0022283601949186
+00222836

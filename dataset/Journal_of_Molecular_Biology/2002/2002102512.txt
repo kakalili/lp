@@ -1,0 +1,6 @@
+Conserved Positions for Ribose Recognition: Importance of Water Bridging Interactions Among ATP, ADP and FAD-protein Complexes
+6507152872,7202818043,57194974446
+protein–ligand interactions,molecular recognition,hydrogen bonding,consensus structure,nucleotides
+Analysis of the spatial arrangement of protein and water atoms that form polar interactions with ribose has been performed for a structurally non-redundant dataset of ATP, ADP and FAD-protein complexes. The 26 ligand–protein structures were separated into two groups corresponding to the most populated furanose ring conformations (N and S-domains). Four conserved positions were found for S-domain protein–ligand complexes and five for N-domain complexes. Multiple protein folds and secondary structural elements were represented at a single conserved position. The following novel points were revealed: (i) Two complementary positions sometimes combine to describe a putative atomic spatial location for a specific conserved binding spot. (ii) More than one third of the interactions scored were water-mediated. Thus, conserved spatial positions rich in water atoms are a significant feature of ribose–protein complexes.
+http://www.sciencedirect.com/science/article/pii/S0022283602009750
+00222836

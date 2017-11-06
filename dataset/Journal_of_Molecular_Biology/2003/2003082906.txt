@@ -1,0 +1,6 @@
+DNA Looping and Physical Constraints on Transcription Regulation
+36002363200,7004359763
+gene expression,DNA looping,lac operon,computational modeling,regulation
+DNA looping participates in transcriptional regulation, for instance, by allowing distal binding sites to act synergistically. Here, we study this process and compare different regulatory mechanisms based on repression with and without looping. Within a simple mathematical model for the lac operon, we show that regulation based on DNA looping, in addition to increasing the repression level, can reduce the fluctuations of transcription and, at the same time, decrease the sensitivity to changes in the number of regulatory proteins. Looping is thus able to circumvent some of the constraints inherent to mechanisms based solely on binding to a single operator site and provides a mechanism to regulate the average properties of transcription and its fluctuations.
+http://www.sciencedirect.com/science/article/pii/S0022283603007642
+00222836

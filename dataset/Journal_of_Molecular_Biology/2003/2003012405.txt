@@ -1,0 +1,6 @@
+Determinants that Target the Integrase of Phage HK022 into the Mammalian Nucleus
+7003728042,7003648946
+integrase,bacteriophage HK022,nuclear localization,green fluorescent protein,COS1 cells
+The integrase (Int) protein of coliphage HK022 catalyzes the site-specific integration and excision of the phage into and from its Escherichia coli host chromosome. Int expressed from a plasmid in COS1 monkey cells is localized in the nucleus, as is a fusion protein between Int and the green fluorescent protein (GFP). Mutation analysis of the GFP–Int fusion has revealed in Int two regions of positively charged amino acid residues that cooperate in the nuclear localization. One region harbors residues Arg90 and Arg93. The other, which spans residues 307–340 belongs to the catalytic domain of Int, is rich in basic residues and is strongly conserved within the Int protein family. Being localized in the nucleus renders Int of HK022 as a potential recombinase for site-specific gene manipulations in mammals.
+http://www.sciencedirect.com/science/article/pii/S0022283602012664
+00222836

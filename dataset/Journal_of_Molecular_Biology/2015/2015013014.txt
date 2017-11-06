@@ -1,0 +1,6 @@
+Two-Ball Structure of the Flagellar Hook-Length Control Protein FliK as Revealed by High-Speed Atomic Force Microscopy
+6603242972,36991736400,7402175465,35376117800
+FliK,secretion substrate specificity,Salmonella enterica serovar Typhimurium,AFM,intrinsically disordered structure
+The bacterial flagellar hook is a short and uniquely curved tube that connects the basal body to the filament. Hook length is controlled at 55nm on average by a soluble protein FliK in Salmonella enterica serovar Typhimurium. The N-terminal segment of FliK responsible for measuring the hook length is considered to be intrinsically disordered. Here, we show by high-speed atomic force microscopy that a FliK molecule in solution takes on a shape of two balls linked by a flexible string; the larger ball corresponds to the N-terminal region and the smaller one corresponds to the C-terminal region. The N-terminal domain is stable but the C-terminal domain fluctuates in shape. Based on these and other features of FliK, we propose that the folding of the N-terminal segment at the tip of the growing hook plays a major role in determining the minimal length of the hook.
+http://www.sciencedirect.com/science/article/pii/S0022283614005877
+00222836

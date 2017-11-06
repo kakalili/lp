@@ -1,0 +1,6 @@
+Cryptochrome 3 from Arabidopsis thaliana: Structural and Functional Analysis of its Complex with a Folate Light Antenna
+13807403200,35243202000,15835325700,55952458200,7003674651
+cryptochromes,DNA photolyases,antenna chromophores,FAD,MTHF
+Cryptochromes are almost ubiquitous blue-light receptors and act in several species as central components of the circadian clock. Despite being evolutionary and structurally related with DNA photolyases, a class of light-driven DNA-repair enzymes, and having similar cofactor compositions, cryptochromes lack DNA-repair activity. Cryptochrome 3 from the plant Arabidopsis thaliana belongs to the DASH-type subfamily. Its crystal structure determined at 1.9 Å resolution shows cryptochrome 3 in a dimeric state with the antenna cofactor 5,10-methenyltetrahydrofolate (MTHF) bound in a distance of 15.2 Å to the U-shaped FAD chromophore. Spectroscopic studies on a mutant where a residue crucial for MTHF-binding, E149, was replaced by site-directed mutagenesis demonstrate that MTHF acts in cryptochrome 3 as a functional antenna for the photoreduction of FAD.
+http://www.sciencedirect.com/science/article/pii/S0022283606016251
+00222836

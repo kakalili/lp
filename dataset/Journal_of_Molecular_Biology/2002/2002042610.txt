@@ -1,0 +1,6 @@
+The Tubulin Ancester, FtsZ, Draughtsman, Designer and Driving Force for Bacterial Cytokinesis
+6603545024,7102232180
+bacterial cytokinesis,Z ring,Min oscillation,FtsZ polymerization,division site selection
+We discuss in this review the regulation of synthesis and action of FtsZ, its structure in relation to tubulin and microtubules, and the mechanism of polymerization and disassembly (contraction) of FtsZ rings from a specific nucleation site (NS) at mid cell. These topics are considered in the light of recent immunocytological studies, high resolution structures of some division proteins and results indicating how bacteria may measure their mid cell point.
+http://www.sciencedirect.com/science/article/pii/S0022283602000244
+00222836

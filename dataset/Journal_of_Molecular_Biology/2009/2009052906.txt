@@ -1,0 +1,6 @@
+Structure and in Vivo Requirement of the Yeast Spt6 SH2 Domain
+24480619200,36127768200,26535249300,7005337794
+Cellular signaling,RNA polymerase II,chromatin transcription,nucleosome assembly,evolution of SH2 domains
+During transcription elongation through chromatin, the Ser2-phosphorylated C-terminal repeat domain of RNA polymerase II binds the C-terminal Src homology 2 (SH2) domain of the nucleosome re-assembly factor Spt6. This SH2 domain is unusual in its specificity to bind phosphoserine, rather than phosphotyrosine and because it is the only SH2 domain in the yeast genome. Here, we report the high-resolution crystal structure of the SH2 domain from Candida glabrata Spt6. The structure combines features from both structural subfamilies of SH2 domains, suggesting it resembles a common ancestor of all SH2 domains. Two conserved surface pockets deviate from those of canonical SH2 domains, and may explain the unusual phosphoserine specificity. Differential gene expression analysis reveals that the SH2 domain is required for normal expression of a subset of yeast genes, and is consistent with multiple functions of Spt6 in chromatin transcription.
+http://www.sciencedirect.com/science/article/pii/S0022283609004318
+00222836

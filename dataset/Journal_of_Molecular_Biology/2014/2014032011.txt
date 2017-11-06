@@ -1,0 +1,6 @@
+TRIMmunity: The Roles of the TRIM E3-Ubiquitin Ligase Family in Innate Antiviral Immunity
+6506681196,7006948562,7006439931
+tripartite motif,E3-ubiquitin ligase,innate immunity,restriction factors,antiviral response
+Tripartite motif (TRIM) proteins have been implicated in multiple cellular functions, including antiviral activity. Research efforts so far indicate that the antiviral activity of TRIMs relies, for the most part, on their function as E3-ubiquitin ligases. A substantial number of the TRIM family members have been demonstrated to mediate innate immune cell signal transduction and subsequent cytokine induction. In addition, a subset of TRIMs has been shown to restrict viral replication by directly targeting viral proteins. Although the body of work on the cellular roles of TRIM E3-ubiquitin ligases has rapidly grown over the last years, many aspects of their molecular workings and multi-functionality remain unclear. The antiviral function of many TRIMs seems to be conferred by specific isoforms, by sub-cellular localization and in cell-type-specific contexts. Here we review recent findings on TRIM antiviral functions, current limitations and an outlook for future research.
+http://www.sciencedirect.com/science/article/pii/S0022283613007468
+00222836

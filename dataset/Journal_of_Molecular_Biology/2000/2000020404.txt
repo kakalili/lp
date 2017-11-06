@@ -1,0 +1,6 @@
+Functional conservation of RNA polymerase II in fission and budding yeasts11Edited by M. Yanagida
+7003819371,6603123946,6506399635,7003332514,7003749678,7402870039,6603334933,6507120399,55811394100,7005269113
+transcription,RNA polymerase,Saccharomyces cerevisiae,Schizosaccharomyces pombe
+The complementary DNAs of the 12 subunits of fission yeast (Schizosaccharomyces pombe) RNA polymerase II were expressed from strong promoters in Saccharomyces cerevisiae and tested for heterospecific complementation by monitoring their ability to replace in vivo the null mutants of the corresponding host genes. Rpb1 and Rpb2, the two largest subunits and Rpb8, a small subunit shared by all three polymerases, failed to support growth in S. cerevisiae. The remaining nine subunits were all proficient for heterospecific complementation and led in most cases to a wild-type level of growth. The two α-like subunits (Rpb3 and Rpb11), however, did not support growth at high (37 °C) or low (25 °C) temperatures. In the case of Rpb3, growth was restored by increasing the gene dosage of the host Rpb11 or Rpb10 subunits, confirming previous evidence of a close genetic interaction between these three subunits.
+http://www.sciencedirect.com/science/article/pii/S0022283699933995
+00222836

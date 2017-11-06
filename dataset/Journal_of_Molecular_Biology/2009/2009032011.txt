@@ -1,0 +1,6 @@
+Viral Membrane Protein Topology Is Dictated by Multiple Determinants in Its Sequence
+8663589500,25029315900,15062921200,7410012234,6701710656
+endoplasmic reticulum,membrane topology,translocon,transmembrane segment,viral protein
+The targeting, insertion, and topology of membrane proteins have been extensively studied in both prokaryotes and eukaryotes. However, the mechanisms used by viral membrane proteins to generate the correct topology within cellular membranes are less well understood. Here, the effect of flanking charges and the hydrophobicity of the N-terminal hydrophobic segment on viral membrane protein topogenesis are examined systematically. Experimental data reveal that the classical topological determinants have only a minor effect on the overall topology of p9, a plant viral movement protein. Since only a few individual sequence alterations cause an inversion of p9 topology, its topological stability is robust. This result further indicates that the protein has multiple, and perhaps redundant, structural features that ensure that it always adopts the same topology. These critical topogenic sequences appear to be recognized and acted upon from the initial stages of protein biosynthesis, even before the ribosome ends protein translation.
+http://www.sciencedirect.com/science/article/pii/S0022283609001235
+00222836

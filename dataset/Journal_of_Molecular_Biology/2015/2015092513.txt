@@ -1,0 +1,6 @@
+Selection of High-Affinity Peptidic Serine Protease Inhibitors with Increased Binding Entropy from a Back-Flip Library of Peptide–Protease Fusions
+7201376735,56799622100,56553518700,55376247300,7401675359,23034948800,7005769227
+mupain-1,glycine,phage display,fusion protein,conformation
+We have developed a new concept for designing peptidic protein modulators, by recombinantly fusing the peptidic modulator, with randomized residues, directly to the target protein via a linker and screening for internal modulation of the activity of the protein. We tested the feasibility of the concept by fusing a 10-residue-long, disulfide-bond-constrained inhibitory peptide, randomized in selected positions, to the catalytic domain of the serine protease murine urokinase-type plasminogen activator. High-affinity inhibitory peptide variants were identified as those that conferred to the fusion protease the lowest activity for substrate hydrolysis. The usefulness of the strategy was demonstrated by the selection of peptidic inhibitors of murine urokinase-type plasminogen activator with a low nanomolar affinity. The high affinity could not have been predicted by rational considerations, as the high affinity was associated with a loss of polar interactions and an increased binding entropy.
+http://www.sciencedirect.com/science/article/pii/S0022283615004507
+00222836

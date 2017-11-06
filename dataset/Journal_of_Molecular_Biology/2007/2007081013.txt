@@ -1,0 +1,6 @@
+Rigid Conformation of an Immunoglobulin Domain Tandem Repeat in the A-band of the Elastic Muscle Protein Titin
+7402824966,8750565800,26643603500,7003625875
+titin,protein kinase,immunoglobulin fold,tandem repeats,X-ray crystallography
+Most of the structure of the giant muscle protein titin is formed by small modular domains. Many of them are predicted to be arranged in repeats with short linkers that may be key determinants of the peculiar elastic properties of titin. Here, we present the molecular structure of a tandem arrangement of two immunoglobulin-like domains, A168 and A169, located within the A-band segment of titin. The two domains are connected by a 17 residue long β-strand and form a common interface. Based on these data, we establish general principles to estimate the amount of conformational flexibility of tandem domain motifs in titin. An unusual bulge within the second domain, A169, is directly involved into binding to a sarcomeric ligand, MURF-1, thus suggesting a dual role of this tandem for both the mechanical properties of titin and for sarcomeric signaling.
+http://www.sciencedirect.com/science/article/pii/S0022283607007024
+00222836

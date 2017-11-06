@@ -1,0 +1,6 @@
+Experimental Tests of Villin Subdomain Folding Simulations
+6701483692,35233140900,7006553970
+protein folding,villin headpiece,laser temperature jump
+We have used laser temperature-jump to investigate the kinetics and mechanism of folding the 35 residue subdomain of the villin headpiece. The relaxation kinetics are biphasic with a sub-microsecond phase corresponding to a helix–coil transition and a slower microsecond phase corresponding to overall unfolding/refolding. At 300 K, the folding time is 4.3(±0.6)μs, making it the fastest folding, naturally occurring protein, with a rate close to the theoretical speed limit. This time is in remarkable agreement with the prediction of 5 (+11,−3)μs by Zagrovic et al. from atomistic molecular dynamics simulations using an implicit solvent model. We test their prediction that replacement of the C-terminal phenylalanine residue with alanine will increase the folding rate by removing a transient non-native interaction. We find that the alanine substitution has no effect on the folding rate or on the equilibrium constant. Implications of this result for the validity of the simulated folding mechanism are discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283603005199
+00222836

@@ -1,0 +1,6 @@
+Incorporation of β-selenolo[3,2-b]pyrrolyl-alanine into proteins for phase determination in protein X-ray crystallography11Edited by K. Nagai
+8287173300,6603496460,7402184874,7103241826,7103123802,34975087600,6603707564
+analogue incorporation,MAD,X-ray crystallography,seleno-methionine,tryptophan
+β-Selenolo[3,2-b]pyrrolyl-l-alanine that mimics tryptophan with the benzene ring of the indole moiety replaced by selenophene, was incorporated into human annexin V and barstar. This was achieved by fermentation and expression in a Trp-auxotrophic Escherichia coli host strain using the selective pressure incorporation method. The seleno-proteins were obtained in yields comparable to those of the wild-type proteins and exhibit full crystallographic isomorphism to the parent proteins, but expectedly show altered absorbance profiles and quenched tryptophan fluorescence. Since the occurrence of tryptophan residues in proteins is rare, incorporation of the electron-rich selenium-containing tryptophan surrogate into proteins represents a useful supplementation and even a promising novel alternative to selenomethionine for solving the phase problem in protein X-ray crystallography.
+http://www.sciencedirect.com/science/article/pii/S0022283601946996
+00222836

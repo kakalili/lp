@@ -1,0 +1,6 @@
+Investigation of the Role of the Histidine–Aspartate Pair in the Human Exonuclease III-like Abasic Endonuclease, Ape1
+7005457177,7102990391,55399456600,6506715673,7006589053,7410087806
+Ape1,His–Asp pair,NMR,DNA repair,abasic
+Hydrogen bonded histidine–aspartate (His–Asp) pairs are critical constituents in several key enzymatic reactions. To date, the role that these pairs play in catalysis is best understood in serine and trypsin-like proteases, where structural and biochemical NMR studies have revealed important pKa values and hydrogen bonding patterns within the catalytic pocket. However, the role of the His–Asp pair in metal-assisted catalysis is less clear. Here, we apply liquid-state NMR to investigate the role of a critical histidine residue of apurinic endonuclease 1 (Ape1), a human DNA repair enzyme that cleaves adjacent to abasic sites in DNA using one or more divalent cations and an active-site His–Asp pair. The results of these studies suggest that the Ape1 His–Asp pair does not function as either a general base catalyst or a metal ligand. Rather, the pair likely stabilizes the pentavalent transition state necessary for phospho-transfer.
+http://www.sciencedirect.com/science/article/pii/S0022283603003826
+00222836

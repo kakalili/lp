@@ -1,0 +1,6 @@
+Rigidity of the Subunit Interfaces of the Trimeric Glutamate Transporter GltT During Translocation
+13204545900,6603039413
+membrane protein,glutamate transport,oligomeric state,transport mechanism,subunit interaction
+Glutamate transporters are trimeric membrane proteins in which each protomer contains a separate translocation path. To determine whether structural rearrangements take place at the subunit interfaces during transport, intersubunit disulfide bridges were introduced in the bacterial transporter GltT. None of the intersubunit cross-links, which had been designed across the entire interface, affected the glutamate transport activity, indicating that the subunit interfaces are rigid during turnover.
+http://www.sciencedirect.com/science/article/pii/S0022283607008741
+00222836

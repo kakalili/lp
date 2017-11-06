@@ -1,0 +1,6 @@
+Crystal Structure of the Dog Lipocalin Allergen Can f 2: Implications for Cross-reactivity to the Cat Allergen Fel d 4
+8263613500,7201967815,13614012200,35801024200,8600002700,6602938427,6701729204,6701490460,7005470754
+dog allergen,crystal structure,recombinant Can f 2,epitope,lipocalin fold
+The dog lipocalin allergen Can f 2 is an important cause of allergic sensitization in humans worldwide. Here, the first crystal structure of recombinant rCan f 2 at 1.45 Å resolution displays a classical lipocalin fold with a conserved Gly-Xaa-Trp motif, in which Trp19 stabilizes the overall topology of the monomeric rCan f 2. Phe38 and Tyr84 localized on the L1 and L5 loops, respectively, control access to the highly hydrophobic calyx. Although the rCan f 2 calyx is nearly identical with the aero-allergens MUP1, Equ c 1 and A2U from mouse, horse and rat, respectively, no IgE cross-reactivity was found using sera from five mono-sensitized subjects. However, clear IgE cross-reactivity was demonstrated between Can f 2 and the cat allergen Fel d 4, although they share less than 22% sequence identity. This suggests a role for these allergens in co-sensitization between cat- and dog-allergic patients.
+http://www.sciencedirect.com/science/article/pii/S0022283610005358
+00222836

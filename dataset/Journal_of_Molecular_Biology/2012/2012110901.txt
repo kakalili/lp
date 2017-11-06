@@ -1,0 +1,6 @@
+Binding and Translocation of Termination Factor Rho Studied at the Single-Molecule Level
+6506517651,15725224300,7102791983,7005639387,7103367295
+RNA polymerase,transcription,optical trap,single-molecule biophysics,force spectroscopy
+Rho termination factor is an essential hexameric helicase responsible for terminating 20–50% of all mRNA synthesis in Escherichia coli. We used single-molecule force spectroscopy to investigate Rho–RNA binding interactions at the Rho utilization site of the λtR1 terminator. Our results are consistent with Rho complexes adopting two states: one that binds 57±2nt of RNA across all six of the Rho primary binding sites, and another that binds 85±2nt at the six primary sites plus a single secondary site situated at the center of the hexamer. The single-molecule data serve to establish that Rho translocates 5′→3′ toward RNA polymerase (RNAP) by a tethered-tracking mechanism, looping out the intervening RNA between the Rho utilization site and RNAP. These findings lead to a general model for Rho binding and translocation and establish a novel experimental approach that should facilitate additional single-molecule studies of RNA-binding proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283612006286
+00222836

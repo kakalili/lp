@@ -1,0 +1,6 @@
+Revisiting the Structure of Hemoglobin and Myoglobin with Cryo-Electron Microscopy
+55241684700,8875890900,6701633140,7102753373
+cryo-electron microscopy,cryo-electron tomography
+Sixty years ago, the first protein structure of myoglobin was determined by John Kendrew and his colleagues; hemoglobin followed shortly thereafter. For quite some time, it seemed that only X-ray crystallography would be capable of determining the structure of proteins to high resolution. In recent years, cryo-electron microscopy has emerged as a viable alternative and indeed in many cases the preferred approach. It is capable of studying proteins that span a size range from several megadaltons to proteins as small as myoglobin and hemoglobin.
+http://www.sciencedirect.com/science/article/pii/S002228361730339X
+00222836

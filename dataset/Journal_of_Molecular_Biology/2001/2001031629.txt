@@ -1,0 +1,6 @@
+Crystal structure of the catalytic core component of the alkylhydroperoxide reductase AhpF from Escherichia coli11Edited by K. Nagai
+6507955247,7003674651
+alkylhydroperoxide reductase,disulphide oxidoreductase,reactive oxygen,FAD,crystal structure
+Alkylhydroperoxide reductases (AhpR, EC 1.6.4.∗) are essential for the oxygen tolerance of aerobic organisms by converting otherwise toxic hydroperoxides of lipids or nucleic acids to the corresponding alcohols. The AhpF component belongs to the family of pyridine nucleotide-disulphide oxidoreductases and channels electrons from NAD(P)H towards the AhpC component which finally reduces cognate substrates. The structure of the catalytic core of the Escherichia coli AhpF (A212-A521) with a bound FAD cofactor was determined at 1.9 Å resolution in its oxidized state. The dimeric arrangement of the AhpF catalytic core and the predicted interaction mode between the N-terminal PDO-like domain and the NADPH domain favours an intramolecular electron transfer between the two redox-active disulphide centres of AhpF.
+http://www.sciencedirect.com/science/article/pii/S0022283600944413
+00222836

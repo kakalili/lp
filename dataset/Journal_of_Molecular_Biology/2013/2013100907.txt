@@ -1,0 +1,6 @@
+Guided by RNAs: X-Inactivation as a Model for lncRNA Function
+55920667800,55732918600,35781962200
+long non-coding RNA,X-inactivation,polycomb complexes
+The recent revolution in sequencing technology has helped to reveal a large transcriptome of long non-coding RNAs (lncRNAs). A major challenge in the years to come is to determine what biological functions, if any, they serve. Although the purpose of these transcripts is largely unknown at present, existing examples suggest that lncRNAs play roles in a wide variety of biological processes. Exemplary cases are lncRNAs within the X-inactivation center. Indeed, lncRNAs dominate control of random X-chromosome inactivation (XCI). The RNA-based regulatory mechanisms of XCI include recruitment of chromatin modifiers, formation of RNA-based subnuclear compartments, and regulation of transcription by antisense transcription. XCI and lncRNAs now also appear to be very relevant in the development and progression of cancer. This perspective focuses on new insights into lncRNA-dependent regulation of XCI, which we believe serve as paradigms for understanding lncRNA function more generally.
+http://www.sciencedirect.com/science/article/pii/S0022283613004269
+00222836

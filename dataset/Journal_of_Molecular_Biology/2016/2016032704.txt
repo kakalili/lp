@@ -1,0 +1,6 @@
+Novel helical assembly in arginine methyltransferase 8
+56115659600,25121165300,56571704400,7005750093,9941006300,55324137800,35429790100,7102199011,7408147251
+PRMT,oligomerization,X-ray crystallography,small angle X-ray scattering,FRET
+Protein arginine methyltransferase 8 (PRMT8) is unique among PRMTs, as it is specifically expressed in brain and localized to the plasma membrane via N-terminal myristoylation. Here, we describe the crystal structure of human PRMT8 (hPRMT8) at 3.0-Å resolution. The crystal structure of hPRMT8 exhibited a novel helical assembly. Biochemical, biophysical and mutagenesis experiments demonstrated that hPRMT8 forms an octamer in solution. This octameric structure is necessary for proper localization to the plasma membrane and efficient methyltransferase activity. The helical assembly might be a relevant quaternary form for hPRMT1, which is the predominant PRMT in mammalian cells and most closely related to hPRMT8.
+http://www.sciencedirect.com/science/article/pii/S0022283616001121
+00222836

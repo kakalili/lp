@@ -1,0 +1,6 @@
+Structural Insight into Recognition of Methylated Histone H3K4 by Set3
+35573367500,55418998100,54890082300,57191580422,57191625554,6701762071
+PHD finger,Set3,Set4,histone,methylation
+The plant homeodomain (PHD) finger of Set3 binds methylated lysine 4 of histone H3 in vitro and in vivo; however, precise selectivity of this domain has not been fully characterized. Here, we explore the determinants of methyllysine recognition by the PHD fingers of Set3 and its orthologs. We use X-ray crystallographic and spectroscopic approaches to show that the Set3 PHD finger binds di- and trimethylated states of H3K4 with comparable affinities and employs similar molecular mechanisms to form complexes with either mark. Composition of the methyllysine-binding pocket plays an essential role in determining the selectivity of the PHD fingers. The finding that the histone-binding activity is not conserved in the PHD finger of Set4 suggests different functions for the Set3 and Set4 paralogs.
+http://www.sciencedirect.com/science/article/pii/S0022283616304004
+00222836

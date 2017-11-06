@@ -1,0 +1,6 @@
+Crystal Structure of the BIR1 Domain of XIAP in Two Crystal Forms
+13008835100,35490464400,7401935406,37043015300,56493346600
+crystal structure,XIAP,BIR1
+X-linked inhibitor of apoptosis (XIAP) is a potent negative regulator of apoptosis. It also plays a role in BMP signaling, TGF-β signaling, and copper homeostasis. Previous structural studies have shown that the baculoviral IAP repeat (BIR2 and BIR3) domains of XIAP interact with the IAP-binding-motifs (IBM) in several apoptosis proteins such as Smac and caspase-9 via the conserved IBM-binding groove. Here, we report the crystal structure in two crystal forms of the BIR1 domain of XIAP, which does not possess this IBM-binding groove and cannot interact with Smac or caspase-9. Instead, the BIR1 domain forms a conserved dimer through the region corresponding to the IBM-binding groove. Structural and sequence analyses suggest that this dimerization of BIR1 in XIAP may be conserved in other IAP family members such as cIAP1 and cIAP2 and may be important for the action of XIAP in TGF-β and BMP signaling and the action of cIAP1 and cIAP2 in TNF receptor signaling.
+http://www.sciencedirect.com/science/article/pii/S0022283607009473
+00222836

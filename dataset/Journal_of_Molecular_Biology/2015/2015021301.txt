@@ -1,0 +1,6 @@
+Chromatin Dynamics during Differentiation of Myeloid Cells
+36615683000,56248432400,55910713700
+chromatin dynamics,gene regulation,epigenetics,cell differentiation,myeloid leukaemia
+Cellular commitment to differentiation requires a tightly synchronized, spatial–temporal interaction of regulatory proteins with the basic DNA and chromatin. A complex network of mechanisms involving induction of lineage instructive transcription factors, installation or removal of histone modifications and changes in the DNA methylation pattern locally orchestrate the three-dimensional chromatin structure and determine cell fate. Maturation of myeloid lineages from hematopoietic stem cells has emerged as a powerful model to study those principles of chromatin mechanisms in cellular differentiation and lineage fate selection. This review summarizes recent knowledge and puts forward novel ideas on how dynamics in the epigenetic landscape of myeloid cells shape the development, immune activation and leukemic transformation outcome.
+http://www.sciencedirect.com/science/article/pii/S0022283614004586
+00222836

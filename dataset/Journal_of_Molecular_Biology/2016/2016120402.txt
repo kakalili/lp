@@ -1,0 +1,6 @@
+Phospholipids in Autophagosome Formation and Fusion
+22934831500,55468273400,7006810223
+autophagy,lysosome,conjugation,phosphatidylethanolamine,phosphatidylinositol 3-phosphate
+Autophagosomes are double-membrane organelles that are formed during a process referred to as macroautophagy. They serve to deliver cytoplasmic material into the lysosome for degradation. Autophagosomes are formed in a de novo manner and are the result of substantial membrane remodeling processes involving numerous protein–lipid interactions. While most studies focus on the proteins involved in autophagosome formation, it is obvious that lipids including phospholipids, sphingolipids, and sterols play an equally important role. Here, we summarize the current knowledge about the role of lipids, especially focusing on phospholipids and their interplay with the autophagic protein machinery during autophagosome formation and fusion.
+http://www.sciencedirect.com/science/article/pii/S0022283616304557
+00222836

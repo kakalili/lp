@@ -1,0 +1,6 @@
+Membrane Protein Dynamics versus Environment: Simulations of OmpA in a Micelle and in a Bilayer
+7103199681,7103092068
+outer membrane protein,simulation,molecular dynamics,pore
+The bacterial outer membrane protein OmpA is one of the few membrane proteins whose structure has been solved both by X-ray crystallography and by NMR. Crystals were obtained in the presence of detergent, and the NMR structure is of the protein in a detergent micelle. We have used 10ns duration molecular dynamics simulations to compare the behaviour of OmpA in a detergent micelle and in a phospholipid bilayer. The dynamic fluctuations of the protein structure seem to be ca 1.5 times greater in the micelle environment than in the lipid bilayer. There are subtle differences between the nature of OmpA–detergent and OmpA–lipid interactions. As a consequence of the enhanced flexibility of the OmpA protein in the micellar environment, side-chain torsion angle changes are such as to lead to formation of a continuous pore through the centre of the OmpA molecule. This may explain the experimentally observed channel formation by OmpA.
+http://www.sciencedirect.com/science/article/pii/S002228360300408X
+00222836

@@ -1,0 +1,6 @@
+A Conformational Unfolding Reaction Activates Phage fd for the Infection of Escherichia coli
+8565559300,7201441882
+phage fd,protein unfolding,prolyl isomerization,phage infection,domain interaction
+Unfolding usually leads to the loss of the biological function of a protein. Here, we show that an unfolding reaction activates the gene-3-protein of the filamentous phage fd for its function during the infection of Escherichia coli. Before infection, the gene-3-protein is in a fully folded locked form, in which the binding site for the phage receptor TolA is buried at the domain interface. To expose this binding site, the gene-3-protein must be activated, and previously we identified the cis-to-trans isomerization at Pro213 in the hinge region between the two domains as a key step of activation. We now report that Pro213 isomerization destabilizes the protein and leads to a loss of folded structure, presumably in the hinge region. The partially unfolded form of the gene-3-protein is metastable, and trans-Pro213 arrests the protein in this activated form for an extended time, long enough to find the receptor TolA. The partial unfolding and its timing by prolyl isomerization are essential for the biological function.
+http://www.sciencedirect.com/science/article/pii/S002228360701025X
+00222836

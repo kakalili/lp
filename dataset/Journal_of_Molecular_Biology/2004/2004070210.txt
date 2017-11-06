@@ -1,0 +1,6 @@
+Switching of Troponin I: Ca2+ and Myosin-induced Activation of Heart Muscle
+55574187680,21645404200,7202559052,7201839378
+muscle regulation,Ca2+-regulatory switch,troponin,signal transduction,length-dependent activation
+The principal task of the Ca2+ activation of striated muscle is the release of the troponin I (TnI) inhibitory region (TnI-I) from actin. TnI-I release facilitates the repositioning of tropomyosin across the actin surface and the formation of strong, force generating, actin-myosin cross-bridges. Full activation of the Ca2+ regulatory switch (CRS) requires two switching steps in cTnI: binding of the TnI regulatory region to hydrophobic sites in the N-domain of Ca2+-bound troponin C and release of the adjacent TnI-I from actin. Using Förster resonance energy transfer, we have examined the requirements for full activation of the cardiac CRS. In the presence of actin, both Ca2+ and strong cross-bridges are required for full activation. Actin desensitizes the CRS to Ca2+ and produces cooperativity in the Ca2+ activation of the CRS. Strong cross-bridges eliminate cooperativity and re-sensitize the CRS to Ca2+. We propose a kinetic scheme and a structural model to account for these findings.
+http://www.sciencedirect.com/science/article/pii/S0022283604004656
+00222836

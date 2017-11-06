@@ -1,0 +1,6 @@
+Solution NMR Studies of an Alternative Mode of Sin3 Engagement by the Sds3 Subunit in the Histone Deacetylase-Associated Sin3L/Rpd3L Corepressor Complex
+56723318100,12797891000,7003624946
+conformational exchange,conformational heterogeneity,multiple binding modes,NMR spectroscopy,protein–protein interaction
+The Sds3 transcriptional corepressor facilitates the assembly of the 1- to 2-MDa histone deacetylase-associated Sin3L/Rpd3L complex by providing a crucial homodimerization activity. Sds3 engages the scaffolding protein Sin3A, via a bipartite motif within the Sin3 interaction domain (SID) comprising a helix and an extended segment. Here, we show that the SID samples two discrete, substantially populated conformations with lifetimes in the tens of milliseconds range. The two conformations differ via a translation of the main chain and the corresponding side chains in the 5- to 7-Å range. Given the close proximity of the SID to other functional motifs in Sds3 at the sequence level, the conformational exchange has the potential to regulate these activities.
+http://www.sciencedirect.com/science/article/pii/S0022283615006117
+00222836

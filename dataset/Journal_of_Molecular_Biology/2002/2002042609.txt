@@ -1,0 +1,6 @@
+The Role of GyrB in the DNA Cleavage-religation Reaction of DNA Gyrase: A Proposed Two Metal-ion Mechanism
+7103250644,7101974168
+topoisomerase,quinolone,supercoiling,mechanism
+We have examined the role of the DNA gyrase B protein in cleavage and religation of DNA using site-directed mutagenesis. Three aspartate residues and a glutamate residue: E424, D498, D500 and D502, thought to co-ordinate a magnesium ion, were mutated to alanine; in addition, the glutamate residue and one aspartate residue were mutated to glutamine and asparagine, respectively. We have shown that these residues are important for the cleavage-religation reaction and are likely to be involved in magnesium ion co-ordination. On separate mutation of two of these aspartate residues to cysteine or histidine, the metal ion preference for the DNA relaxation activity of gyrase changed from magnesium to manganese (II). We present evidence to support the idea that cleavage of each DNA strand involves two or more metal ions, and suggest a scheme for the DNA cleavage chemistry of DNA gyrase involving two metal ions.
+http://www.sciencedirect.com/science/article/pii/S0022283602000499
+00222836

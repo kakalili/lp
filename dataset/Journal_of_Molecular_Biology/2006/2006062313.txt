@@ -1,0 +1,6 @@
+Characterization of a Divergent Sec61β Gene in Microsporidia
+6505917439,6602250258,35552607600
+general secretory pathway,SecYEG,Sec61,ER protein translocation,secretion
+The general secretory (Sec) pathway is the main mechanism for protein secretion and insertion into endoplasmic reticulum and plasma membrane in prokaryotes and eukaryotes. However, the complete genome of the highly specialized microsporidian parasite Encephalitozoon cuniculi appears to lack a gene for Sec61β, one of three universally conserved proteins that form the core of the Sec translocon. We have identified a putative, highly divergent homologue of Sec61β in the genome of another microsporidian, Antonospora locustae, and used this to identify a previously unrecognized Sec61β in E. cuniculi. The identity of these genes is supported by evidence from secondary structure prediction and gene order conservation. Their functional conservation is confirmed by expressing both microsporidian homologues in yeast, where they are localized to the endoplasmic reticulum and rescue a yeast Sec61β deletion mutant.
+http://www.sciencedirect.com/science/article/pii/S002228360600492X
+00222836

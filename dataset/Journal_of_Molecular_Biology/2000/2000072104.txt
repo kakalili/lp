@@ -1,0 +1,6 @@
+Structures of Type 2 Peroxisomal Targeting Signals in Two Trypanosomatid Aldolases
+6603404271,7006338212,8952054200,7103324489
+Trypanosoma brucei,Leishmania mexicana,aldolase,peroxisomal targeting signal
+Trypanosomatids, unicellular organisms responsible for several global diseases, contain unique organelles called glycosomes in which the first seven glycolytic enzymes are sequestered. We report the crystal structures of glycosomal fructose-1,6-bisphosphate aldolase from two major tropical pathogens, Trypanosoma brucei and Leishmania mexicana, the causative agents of African sleeping sickness and one form of leishmaniasis, respectively. Unlike mammalian aldolases, the T.brucei and L.mexicana aldolases contain nonameric N-terminal type 2 peroxisomal targeting signals (PTS2s) to direct their import into the glycosome. In both tetrameric trypanosomatid aldolases, the PTS2s from two different subunits form two closely intertwined structures. These “PTS2 dimers”, which have very similar conformations in the two aldolase structures, are the first reported conformations of a glycosomal or peroxisomal PTS2, and provide opportunities for the design of trypanocidal compounds.
+http://www.sciencedirect.com/science/article/pii/S002228360093910X
+00222836

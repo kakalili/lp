@@ -1,0 +1,6 @@
+p53 Inhibits Strand Exchange and Replication Fork Regression Promoted by Human Rad51
+36800322900,8548677800,18438850400,7003626731,8710629000
+p53,hRad51,Holliday junction,branch migration,fork regression
+We explore the effects of p53 on strand exchange as well as regression of stalled replication forks promoted by human Rad51. We have found that p53 specifically inhibits strand exchange mediated by human Rad51, but not by Escherichia coli RecA. In addition, we provide in vitro evidence that human Rad51 can promote regression of a stalled replication fork, and p53 also inhibits this fork regression. Furthermore, we show that two cancer-related p53 mutant proteins cannot inhibit strand exchange and fork regression catalyzed by human Rad51. The results establish a direct functional link between p53 and human Rad51, and reveal that one of p53's functions in genome stabilization may be to prevent detrimental genome rearrangements promoted by human Rad51. Thus, the results support the hypothesis that p53 contributes to genome stability by a transcription-independent modulation of homologous recombination.
+http://www.sciencedirect.com/science/article/pii/S0022283603015663
+00222836

@@ -1,0 +1,6 @@
+Globins Synthesize the Second Messenger Bis-(3′–5′)-Cyclic Diguanosine Monophosphate in Bacteria
+8841869300,6602081716,7102105814,35875924800,36897427000,6506703841,7007084819,7202571015,7004725923,7401493037
+globin,oxygen sensor,c-di-GMP,diguanylate cyclase,biofilm
+Globin-coupled sensors are heme-binding signal transducers in Bacteria and Archaea in which an N-terminal globin controls the activity of a variable C-terminal domain. Here, we report that BpeGReg, a globin-coupled diguanylate cyclase from the whooping cough pathogen Bordetella pertussis, synthesizes the second messenger bis-(3′–5′)-cyclic diguanosine monophosphate (c-di-GMP) upon oxygen binding. Expression of BpeGReg in Salmonella typhimurium enhances biofilm formation, while knockout of the BpeGReg gene of B. pertussis results in decreased biofilm formation. These results represent the first identification a signal ligand for any diguanylate cyclase and provide definitive experimental evidence that a globin-coupled sensor regulates c-di-GMP synthesis and biofilm formation. We propose that the synthesis of c-di-GMP by globin sensors is a widespread phenomenon in bacteria.
+http://www.sciencedirect.com/science/article/pii/S0022283609003052
+00222836

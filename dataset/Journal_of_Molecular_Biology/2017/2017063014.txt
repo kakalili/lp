@@ -1,0 +1,6 @@
+Choose Your Own Adventure: The Role of Histone Modifications in Yeast Cell Fate
+57192371357,57192383776,36466308300
+chromatin,post-translational modifications,meiosis,pseudohyphal growth,programmed cell death
+When yeast cells are challenged by a fluctuating environment, signaling networks activate differentiation programs that promote their individual or collective survival. These programs include the initiation of meiotic sporulation, the formation of filamentous growth structures, and the activation of programmed cell death pathways. The establishment and maintenance of these distinct cell fates are driven by massive gene expression programs that promote the necessary changes in morphology and physiology. While these genomic reprogramming events depend on a specialized network of transcription factors, a diverse set of chromatin regulators, including histone-modifying enzymes, chromatin remodelers, and histone variants, also play essential roles. Here, we review the broad functions of histone modifications in initiating cell fate transitions, with particular focus on their contribution to the control of expression of key genes required for the differentiation programs and chromatin reorganization that accompanies these cell fates.
+http://www.sciencedirect.com/science/article/pii/S0022283616304338
+00222836

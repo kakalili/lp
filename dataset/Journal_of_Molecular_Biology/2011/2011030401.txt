@@ -1,0 +1,6 @@
+Membrane Insertion and Topology of the Translocating Chain-Associating Membrane Protein (TRAM)
+25029315900,7004431206,15062921200,7410012234,6701710656
+membrane protein,topology,TRAM,photocross-linking,translocon
+The translocating chain-associating membrane protein (TRAM) is a glycoprotein involved in the translocation of secreted proteins into the endoplasmic reticulum (ER) lumen and in the insertion of integral membrane proteins into the lipid bilayer. As a major step toward elucidating the structure of the functional ER translocation/insertion machinery, we have characterized the membrane integration mechanism and the transmembrane topology of TRAM using two approaches: photocross-linking and truncated C-terminal reporter tag fusions. Our data indicate that TRAM is recognized by the signal recognition particle and translocon components, and suggest a membrane topology with eight transmembrane segments, including several poorly hydrophobic segments. Furthermore, we studied the membrane insertion capacity of these poorly hydrophobic segments into the ER membrane by themselves. Finally, we confirmed the main features of the proposed membrane topology in mammalian cells expressing full-length TRAM.
+http://www.sciencedirect.com/science/article/pii/S002228361100026X
+00222836

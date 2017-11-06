@@ -1,0 +1,6 @@
+Solvent Removal Induces a Reversible β-to-α Switch in Oligomeric Aβ Peptide
+55500499500,7006429588,55371088400,54885705300,6602493276,56207919900
+amyloid beta peptide,lyophilization,neurodegeneration,protein folding,solid-state NMR spectroscopy
+Solvation and hydration are key factors for determining the stability and folding of proteins, as well as the formation of amyloid fibrils and related polypeptide aggregates. Using attenuated total reflectance Fourier-transform infrared and solid-state NMR spectroscopy, we find that the Aβ peptide experiences a remarkable conformational switch from β to α secondary structure upon solvent removal by lyophilization of oligomers. This transition is, contrary to Aβ fibrils, independent of concentration of organic co-solvents or co-solutes and is reversible upon re-addition of the solvent. Our data illuminate a previously unnoted secondary structural plasticity of the Aβ peptide in amyloid oligomers that could bear relevance for Aβ's interactions with cellular structures of low polarity.
+http://www.sciencedirect.com/science/article/pii/S0022283615002867
+00222836

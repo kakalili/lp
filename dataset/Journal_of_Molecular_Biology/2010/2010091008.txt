@@ -1,0 +1,6 @@
+Structure and Engineering of l-Arabinitol 4-Dehydrogenase from Neurospora crassa
+17342163700,35800418100,7404778848,7402726311
+l-arabinitol 4-dehydrogenase,crystal structure,substrate specificity,cofactor specificity,mutagenesis
+l-Arabinitol 4-dehydrogenase (LAD) catalyzes the conversion of l-arabinitol into l-xylulose with concomitant NAD+ reduction. It is an essential enzyme in the development of recombinant organisms that convert l-arabinose into fuels and chemicals using the fungal l-arabinose catabolic pathway. Here we report the crystal structure of LAD from the filamentous fungus Neurospora crassa at 2.6 Å resolution. In addition, we created a number of site-directed variants of N. crassa LAD that are capable of utilizing NADP+ as cofactor, yielding the first example of LAD with an almost completely switched cofactor specificity. This work represents the first structural data on any LAD and provides a molecular basis for understanding the existing literature on the substrate specificity and cofactor specificity of this enzyme. The engineered LAD mutants with altered cofactor specificity should be useful for applications in industrial biotechnology.
+http://www.sciencedirect.com/science/article/pii/S0022283610007989
+00222836

@@ -1,0 +1,6 @@
+A Folding Zone in the Ribosomal Exit Tunnel for Kv1.3 Helix Formation
+7005157367,7102639587
+protein folding,nascent peptides,potassium channel biogenesis,transmembrane Kv segments,folding zone in the ribosome tunnel
+Although it is now clear that protein secondary structure can be acquired early, while the nascent peptide resides within the ribosomal exit tunnel, the principles governing folding of native polytopic proteins have not yet been elucidated. We now report an extensive investigation of native Kv1.3, a voltage-gated K+ channel, including transmembrane and linker segments synthesized in sequence. These native segments form helices vectorially (N- to C-terminus) only in a permissive vestibule located in the last 20 Å of the tunnel. Native linker sequences similarly fold in this vestibule. Finally, secondary structure acquired in the ribosome is retained in the translocon. These findings emerge from accessibility studies of a diversity of native transmembrane and linker sequences and may therefore be applicable to protein biogenesis in general.
+http://www.sciencedirect.com/science/article/pii/S0022283610000136
+00222836

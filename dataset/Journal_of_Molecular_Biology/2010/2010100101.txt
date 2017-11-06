@@ -1,0 +1,6 @@
+The Role of L1 Stalk–tRNA Interaction in the Ribosome Elongation Cycle
+6504150258,7006385683,12243356600,7006159126,7203014287,35600781600,7102415947
+translocation,modified ribonucleosides,flexible fitting,MDFF,FRET
+The ribosomal L1 stalk is a mobile structure implicated in directing tRNA movement during translocation through the ribosome. This article investigates three aspects of L1 stalk–tRNA interaction. First, by combining data from cryo electron microscopy, X-ray crystallography, and molecular dynamics simulations through the molecular dynamics flexible fitting method, we obtained atomic models of different tRNAs occupying the hybrid P/E state interacting with the L1 stalk. These models confirm the assignment of fluorescence resonance energy transfer states from previous single-molecule investigations of L1 stalk dynamics. Second, the models reconcile how initiator tRNAfMet interacts less strongly with the L1 stalk compared to elongator tRNAPhe, as seen in previous single-molecule experiments. Third, results from a simulation of the entire ribosome in which the L1 stalk is moved from a half-closed conformation to its open conformation are found to support the hypothesis that L1 stalk opening is involved in tRNA release from the ribosome.
+http://www.sciencedirect.com/science/article/pii/S0022283610008326
+00222836

@@ -1,0 +1,6 @@
+Statistical Models for Discerning Protein Structures Containing the DNA-binding Helix-Turn-Helix Motif
+7102123927,7101628162
+helix-turn-helix motif,DNA-binding,machine learning,structure classification
+A method for discerning protein structures containing the DNA-binding helix-turn-helix (HTH) motif has been developed. The method uses statistical models based on geometrical measurements of the motif. With a decision tree model, key structural features required for DNA binding were identified. These include a high average solvent-accessibility of residues within the recognition helix and a conserved hydrophobic interaction between the recognition helix and the second alpha helix preceding it. The Protein Data Bank was searched using a more accurate model of the motif created using the Adaboost algorithm to identify structures that have a high probability of containing the motif, including those that had not been reported previously.
+http://www.sciencedirect.com/science/article/pii/S0022283603005321
+00222836

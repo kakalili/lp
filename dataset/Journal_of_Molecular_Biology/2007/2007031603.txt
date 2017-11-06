@@ -1,0 +1,6 @@
+Crystal Structure and Solution NMR Studies of Lys48-linked Tetraubiquitin at Neutral pH
+6506997214,6505798380,8053124900,7006194539,7004561393
+ubiquitin,polyubiquitin chains,tetraubiquitin,Lys48-linked,crystal structure
+Ubiquitin modification of proteins is used as a signal in many cellular processes. Lysine side-chains can be modified by a single ubiquitin or by a polyubiquitin chain, which is defined by an isopeptide bond between the C terminus of one ubiquitin and a specific lysine in a neighboring ubiquitin. Polyubiquitin conformations that result from different lysine linkages presumably differentiate their roles and ability to bind specific targets and enzymes. However, conflicting results have been obtained regarding the precise conformation of Lys48-linked tetraubiquitin. We report the crystal structure of Lys48-linked tetraubiquitin at near-neutral pH. The two tetraubiquitin complexes in the asymmetric unit show the complete connectivity of the chain and the molecular details of the interactions. This tetraubiquitin conformation is consistent with our NMR data as well as with previous studies of diubiquitin and tetraubiquitin in solution at neutral pH. The structure provides a basis for understanding Lys48-linked polyubiquitin recognition under physiological conditions.
+http://www.sciencedirect.com/science/article/pii/S0022283606017554
+00222836

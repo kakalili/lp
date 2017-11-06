@@ -1,0 +1,6 @@
+Domain Swapping in p13suc1 Results in Formation of Native-like, Cytotoxic Aggregates
+7102890372,7103040746,7102616264,56267062500,6602317244,35596024200
+domain swapping,protein aggregation,protein folding,suc1
+The field of protein aggregation has been occupied mainly with the study of β-strand self-association that occurs as a result of misfolding and leads to the formation of toxic protein aggregates and amyloid fibers. However, some of these aggregates retain native-like structural and enzymatic properties suggesting mechanisms other than β-strand assembly. p13suc1 is a small protein that can exist as a monomer or a domain-swapped dimer. Here, we show that, under native conditions, p13suc1 forms three-dimensional domain-swapped aggregates, and that these aggregates are cytotoxic. Thus, toxicity of protein aggregates is not only associated with β-rich assemblies and amyloid fibers, involving non-native interactions, but it can be induced by oligomeric misassembly that maintains predominantly native-like interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283606009399
+00222836

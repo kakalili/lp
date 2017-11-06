@@ -1,0 +1,6 @@
+Ribosomal Protein S1 Is not Essential for the trans-translation Machinery
+36824237100,7404068458,7403983168
+trans-translation,tmRNA,ribosomal protein S1,ribosome,translation
+In eubacteria, ribosome stalling during protein synthesis is rescued by a tmRNA-derived trans-translation system. Because ribosomal protein S1 specifically binds to tmRNA with high affinity, it is considered to be involved in the trans-translation system. However, the role of S1 in trans-translation is still unclear. To study the function of S1 in the trans-translation system, we constructed an S1-free cell-free translation system. We found that trans-translation proceeded even in the absence of S1. Addition of S1 into the S1-free system did not affect trans-translation efficiency. These results suggest that S1 does not play a role in the trans-translation machinery.
+http://www.sciencedirect.com/science/article/pii/S0022283607002604
+00222836

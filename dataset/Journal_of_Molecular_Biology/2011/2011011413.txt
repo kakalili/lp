@@ -1,0 +1,6 @@
+Molecular Architecture and Connectivity of the Budding Yeast Mtw1 Kinetochore Complex
+56615876200,7201526470,24833036600,8877122600,7004084109,6603893656
+kinetochore,KMN network,chromosome segregation,force generation,microtubule
+Kinetochores are large multiprotein complexes that connect centromeres to spindle microtubules in all eukaryotes. Among the biochemically distinct kinetochore complexes, the conserved four-protein Mtw1 complex is a central part of the kinetochore in all organisms. Here we present the biochemical reconstitution and characterization of the budding yeast Mtw1 complex. Direct visualization by electron microscopy revealed an elongated bilobed structure with a 25-nm-long axis. The complex can be assembled from two stable heterodimers consisting of Mtw1p–Nnf1p and Dsn1p–Nsl1p, and it interacts directly with the microtubule-binding Ndc80 kinetochore complex via the centromere-proximal Spc24/Spc25 head domain. In addition, we have reconstituted a partial Ctf19 complex and show that it directly associates with the Mtw1 complex in vitro. Ndc80 and Ctf19 complexes do not compete for binding to the Mtw1 complex, suggesting that Mtw1 can bridge the microtubule-binding components of the kinetochore to the inner centromere.
+http://www.sciencedirect.com/science/article/pii/S002228361001226X
+00222836

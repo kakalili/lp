@@ -1,0 +1,6 @@
+Modulation of transcription reveals a new mechanism of triplet repeat instability in Escherichia coli11Edited by M. Yaniv
+7006003808,6507944050,7005174286
+Escherichia coli,expansions,transcription,instability,triplet repeats
+Many human hereditary disease genes are associated with the expansion of triplet repeat sequences. In Escherichia coli (CTG/CAG) triplet repeat sequences are unstable and we have developed a plasmid-based assay enabling us to observe and quantify both expansions and deletions. In this work, we have investigated the role of transcription on the instability of a (CTG/CAG) insert containing 64 repeats. Using this assay, we show that induction of transcription results in a significant increase in the frequency of long deletions and a reduction in the frequency of long expansions. On the other hand, overproduction of transcription repressor molecules leads to an increase in both expansions and deletions. In this latter case, we propose that the increased instability is due to the arrest of replication progression by the interaction of the repressor molecule with its cognate operator and subsequent generations of DNA strand breaks.
+http://www.sciencedirect.com/science/article/pii/S0022283600944899
+00222836

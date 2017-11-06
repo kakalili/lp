@@ -1,0 +1,6 @@
+Human Transcriptional Coactivator PC4 Stimulates DNA End Joining and Activates DSB Repair Activity
+15062370600,7005986509,7006797794,57152239700
+end joining,DSB repair,PC4,atomic force microscopy,NHEJ
+Human transcriptional coactivator PC4 is a highly abundant nuclear protein that is involved in diverse cellular processes ranging from transcription to chromatin organization. Earlier, we have shown that PC4, a positive activator of p53, overexpresses upon genotoxic insult in a p53-dependent manner. In the present study, we show that PC4 stimulates ligase-mediated DNA end joining irrespective of the source of DNA ligase. Pull-down assays reveal that PC4 helps in the association of DNA ends through its C-terminal domain. In vitro nonhomologous end-joining assays with cell-free extracts show that PC4 enhances the joining of noncomplementary DNA ends. Interestingly, we found that PC4 activates double-strand break (DSB) repair activity through stimulation of DSB rejoining in vivo. Together, these findings demonstrate PC4 as an activator of nonhomologous end joining and DSB repair activity.
+http://www.sciencedirect.com/science/article/pii/S0022283608014137
+00222836

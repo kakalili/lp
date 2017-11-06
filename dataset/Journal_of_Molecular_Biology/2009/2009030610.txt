@@ -1,0 +1,6 @@
+A Structural Rationale for Selective Stabilization of Anti-tumor Interactions of 14-3-3 proteins by Cotylenin A
+35264572500,7004815854,7007024706,55471598700,35433584300,7102891721,6602129709
+protein–protein stabilization,X-ray,natural compound,differentiation therapy
+Cotylenin A, a fungal metabolite originally described as a cytokinin-like bioactive substance against plants shows differentiation-inducing and anti-tumor activity in certain human cancers. Here, we present the crystal structure of cotylenin A acting on a 14-3-3 regulatory protein complex. By comparison with the closely related, but non-anticancer agent fusicoccin A, a rationale for the activity of cotylenin A in human cancers is presented. This class of fusicoccane diterpenoids are possible general modulators of 14-3-3 protein–protein interactions. In this regard, specificities for individual 14-3-3/target protein complexes might be achieved by varying the substituent pattern of the diterpene ring system. As the different activities of fusicoccin A and cotylenin A in human cancers suggest, hydroxylation of C12 might be a sufficient determinant of structural specificity.
+http://www.sciencedirect.com/science/article/pii/S0022283609000254
+00222836

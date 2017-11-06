@@ -1,0 +1,6 @@
+Mechanical Unfoldons as Building Blocks of Maltose-binding Protein
+21933881800,7003666748
+single-molecule force spectroscopy,protein folding,energy landscape,unfolding intermediate,atomic force microscopy
+Identifying independently folding cores or substructures is important for understanding and assaying the structure, function and assembly of large proteins. Here, we suggest mechanical stability as a criterion to identify building blocks of the 366 amino acid maltose-binding protein (MBP). We find that MBP, when pulled at its termini, unfolds via three (meta-) stable unfolding intermediates. Consequently, the MBP structure consists of four structural blocks (unfoldons) that detach sequentially from the folded structure upon force application. We used cysteine cross-link mutations to characterize the four unfoldons structurally. We showed that many MBP constructs composed of those building blocks indeed form stably folded structures in solution. Mechanical unfoldons may provide a new tool for a systematic search for stable substructures of large proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283608002106
+00222836

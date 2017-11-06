@@ -1,0 +1,6 @@
+Towards an Understanding of Channelrhodopsin Function: Simulations Lead to Novel Insights of the Channel Mechanism
+55624475459,24479798700,23470519400,26643089900,7004554960
+optogenetics,channelrhodopsin,microbial rhodopsin,molecular dynamics,QM/MM simulation
+Channelrhodopsins (ChRs) are light-gated cation channels that mediate ion transport across membranes in microalgae (vectorial catalysis). ChRs gain increasing attention as useful tools for the analysis of neural networks in tissues and living animals (optogenetics). In fact, various mutagenesis approaches have realized practical applications with high reliability by enhancement of the expression level, channel kinetics control, and color tuning. Furthermore, the recently published x-ray structure has provided valuable information for further atomistic studies and engineering ChRs for a wider application. The present study is a computational attempt to describe the functional mechanism at the atomic level based on the x-ray structure. We present several structural characteristics that are highly involved in ion channel gating and ion transport, including (1) water distribution, (2) cation binding sites, (3) intrahelical hydrogen bond, (4) DC gate, and (5) active site.
+http://www.sciencedirect.com/science/article/pii/S0022283613000648
+00222836

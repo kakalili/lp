@@ -1,0 +1,6 @@
+Functional Monomerization of a ClC-Type Fluoride Transporter
+57191101345,7406258602
+membrane protein,protein oligomerization,antiporter,transmembrane interactions
+Anion channels and antiporters of the ClC superfamily have been found to be exclusively dimeric in nature, even though each individual monomer contains the complete transport pathway. Here, we describe the destabilization through mutagenesis of the dimer interface of a bacterial F−/H+ antiporter, ClCF-eca. Several mutations that produce monomer/dimer equilibrium of the normally dimeric transporter were found, simply by shortening a hydrophobic side chain in some cases. One mutation, L376W, leads to a wholly monomeric variant that shows full activity. Furthermore, we discovered a naturally destabilized homologue, ClCF-rla, which undergoes partial monomerization in detergent without additional mutations. These results, in combination with the previous functional monomerization of the distant relative ClC-ec1, demonstrate that the monomer alone is the functional unit for several clades of the ClC superfamily.
+http://www.sciencedirect.com/science/article/pii/S0022283615005501
+00222836

@@ -1,0 +1,6 @@
+Thermostability Gradient in the Collagen Triple Helix Reveals its Multi-domain Structure
+6602921489,6602413273,8716302400,8716302200,8117106900,55474172800,54388946100,7101709941,7102380051,7004524704
+recombinant collagen,protein engineering,extracellular matrix,thermostability,collagen mutations
+A triple-helical conformation and stability at physiological temperature are critical for the mechanical and biological functions of the fibril-forming collagens. Here, we characterized the role of consecutive domains of collagen II in stabilizing the triple helix. Analysis of melting temperatures of genetically engineered collagen-like proteins consisting of tandem repeats of the D1, D2, D3 or D4 collagen II periods revealed the presence of a gradient of thermostability along the collagen molecule with thermolabile N-terminal domains and thermostable C-terminal domains. These results imply a multi-domain character of the collagen triple helix. Assays of thermostabilities of the Arg75Cys and Arg789Cys collagen II mutants suggest that, in contrast to the thermostable domains, the thermolabile domains are able to accommodate amino acid substitutions without altering the thermostability of the entire collagen molecule.
+http://www.sciencedirect.com/science/article/pii/S0022283604003110
+00222836

@@ -1,0 +1,6 @@
+Switching from an Induced-Fit to a Lock-and-Key Mechanism in an Aminoacyl-tRNA Synthetase with Modified Specificity
+7202435663,14066701300,17136411500,6602327936,35496173400,7003469423
+aminoacyl-tRNA synthetase,methionine,azidonorleucine,induced fit,X-ray crystallography
+Methionyl-tRNA synthetase (MetRS) specifically binds its methionine substrate in an induced-fit mechanism, with methionine binding causing large rearrangements. Mutated MetRS able to efficiently aminoacylate the methionine (Met) analog azidonorleucine (Anl) have been identified by saturation mutagenesis combined with in vivo screening procedures. Here, the crystal structure of such a mutated MetRS was determined in the apo form as well as complexed with Met or Anl (1.4 to 1.7 Å resolution) to reveal the structural basis for the altered specificity. The mutations result in both the loss of important contacts with Met and the creation of new contacts with Anl, thereby explaining the specificity shift. Surprisingly, the conformation induced by Met binding in wild-type MetRS already occurs in the apo form of the mutant enzyme. Therefore, the mutations cause the enzyme to switch from an induced-fit mechanism to a lock-and-key one, thereby enhancing its catalytic efficiency.
+http://www.sciencedirect.com/science/article/pii/S0022283609012443
+00222836

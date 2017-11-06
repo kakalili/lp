@@ -1,0 +1,6 @@
+Crystal Structures of Inhibitor Complexes of Human T-Cell Leukemia Virus (HTLV-1) Protease
+7403584149,7405263686,12782960700,7102479421,35551686600,7102207781
+retrovirus,protease,leukemia,inhibitors,drug design
+Human T-cell leukemia virus type 1 (HTLV-1) is a retrovirus associated with several serious diseases, such as adult T-cell leukemia and tropical spastic paraparesis/myelopathy. For a number of years, the protease (PR) encoded by HTLV-1 has been a target for designing antiviral drugs, but that effort was hampered by limited available structural information. We report a high-resolution crystal structure of HTLV-1 PR complexed with a statine-containing inhibitor, a significant improvement over the previously available moderate-resolution structure. We also report crystal structures of the complexes of HTLV-1 PR with five different inhibitors that are more compact and more potent. A detailed study of structure–activity relationships was performed to interpret in detail the influence of the polar and hydrophobic interactions between the inhibitors and the protease.
+http://www.sciencedirect.com/science/article/pii/S0022283610006959
+00222836

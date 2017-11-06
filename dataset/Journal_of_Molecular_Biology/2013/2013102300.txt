@@ -1,0 +1,6 @@
+Crystal Structure of the Cmr2–Cmr3 Subcomplex in the CRISPR–Cas RNA Silencing Effector Complex
+36721835900,6508009584,7102545039
+CRISPR,Cas protein,crRNA,RNA interference,X-ray crystallography
+Clustered, regularly interspaced, short palindromic repeat (CRISPR) loci found in prokaryotes are transcribed to produce CRISPR RNAs (crRNAs) that, together with CRISPR-associated (Cas) proteins, target and degrade invading genetic materials. Cmr proteins (Cmr1–6) and crRNA form a sequence-specific RNA silencing effector complex. Here, we report the crystal structures of the Pyrococcus furiosus Cmr2–Cmr3 subcomplex bound with nucleotides (3′-AMP or ATP). The association of Cmr2 and Cmr3 forms an idiosyncratic crevasse, which binds the nucleotides. Cmr3 shares structural similarity with Cas6, which cleaves precursor crRNA for maturation, suggesting the divergent evolution of these proteins. Due to the structural resemblance, the properties of the RNA binding surface observed in Cas6 are well conserved in Cmr3, indicating the RNA binding ability of Cmr3. This surface of Cmr3 constitutes the crevasse observed in the Cmr2–Cmr3 complex. Our findings suggest that the Cmr2–Cmr3 complex uses the crevasse to bind crRNA and/or substrate RNA during the reaction.
+http://www.sciencedirect.com/science/article/pii/S0022283613002106
+00222836

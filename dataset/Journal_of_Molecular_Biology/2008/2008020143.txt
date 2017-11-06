@@ -1,0 +1,6 @@
+A New Twist in TCR Diversity Revealed by a Forbidden αβ TCR
+57188728836,7801334541,8404184200,7004456136,55463548900,6701529948,7004435772,7103163921
+
+We report crystal structures of a negatively selected T cell receptor (TCR) that recognizes two I-Au-restricted myelin basic protein peptides and one of its peptide/major histocompatibility complex (pMHC) ligands. Unusual complementarity-determining region (CDR) structural features revealed by our analyses identify a previously unrecognized mechanism by which the highly variable CDR3 regions define ligand specificity. In addition to the pMHC contact residues contributed by CDR3, the CDR3 residues buried deep within the Vα/Vβ interface exert indirect effects on recognition by influencing the Vα/Vβ interdomain angle. This phenomenon represents an additional mechanism for increasing the potential diversity of the TCR repertoire. Both the direct and indirect effects exerted by CDR residues can impact global TCR/MHC docking. Analysis of the available TCR structures in light of these results highlights the significance of the Vα/Vβ interdomain angle in determining specificity and indicates that TCR/pMHC interface features do not distinguish autoimmune from non-autoimmune class II-restricted TCRs.
+http://www.sciencedirect.com/science/article/pii/S0022283607014805
+00222836

@@ -1,0 +1,6 @@
+Atomic (0.94 Å) resolution structure of an inverting glycosidase in complex with substrate11Edited by R. Huber
+7007054517,6603020045,7003744147,6603858580,7005759231,7004815865,7005120824
+inverting glycosidase,X-ray crystallography,atomic resolution,protein-carbohydrate interactions,reaction mechanism
+The crystal structure of Clostridium thermocellum endoglucanase CelA in complex with cellopentaose has been determined at 0.94 Å resolution. The oligosaccharide occupies six d-glucosyl-binding subsites, three on either side of the scissile glycosidic linkage. The substrate and product of the reaction occupy different positions at the reducing end of the cleft, where an extended array of hydrogen-bonding interactions with water molecules fosters the departure of the leaving group. Severe torsional strain upon the bound substrate forces a distorted boat2,5 B conformation for the glucosyl residue bound at subsite −1, which facilitates the formation of an oxocarbenium ion intermediate and might favor the breakage of the sugar ring concomitant with catalysis.
+http://www.sciencedirect.com/science/article/pii/S002228360195404X
+00222836

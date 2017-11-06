@@ -1,0 +1,6 @@
+Different Genome Maintenance Strategies in Human and Tobacco Cells
+6603309204,6507114616,7003910093
+strand break repair,human,tobacco
+In this work, genome maintenance strategies of organisms belonging to different kingdoms (animals versus plants) but of similar genome size were investigated using a novel, universal double-strand break (DSB) repair assay. Different plasmids linearised with KpnI, Acc65I or EcoRV yielding either 3′ or 5′ protruding or blunt DNA termini, respectively, were transfected into HeLa cells and Nicotiana plumbaginifolia protoplasts and assayed for the efficiency and fidelity of DSB repair. We show that the mechanism of break sealing is similar but that drastic differences are seen in the fidelity of repair: in HeLa cells, 50–55% DSBs were repaired precisely, compared to as little as 15–30% in tobacco cells. Moreover, the DSB repair in plants resulted in 30–40% longer deletions and significantly shorter insertions. Combined, these led to more than twofold larger net DNA loss in tobacco cells. Our observations point to possible differences in the strategies of DSB repair and genome maintenance in plants and animals.
+http://www.sciencedirect.com/science/article/pii/S0022283603008398
+00222836

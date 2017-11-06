@@ -1,0 +1,6 @@
+Crystal Structure of a Prostate Kallikrein Isolated from Stallion Seminal Plasma: A Homologue of Human PSA
+56757648900,7005418464,6603720681,7202648809,26643263500,7004694870
+prostate-specific antigen,kallikrein,specificity pocket,serine protease,prostate cancer
+Prostate-specific kallikrein, a member of the gene family of serine proteases, was initially discovered in semen and is the most useful serum marker for prostate cancer diagnosis and prognosis. We report the crystal structure at 1.42Å resolution of horse prostate kallikrein (HPK). This is the first structure of a serine protease purified from seminal plasma. HPK shares extensive sequence homology with human prostate-specific antigen (PSA), including a predicted chymotrypsin-like specificity, as suggested by the presence of a serine residue at position S1 of the specificity pocket. In contrast to other kallikreins, HPK shows a structurally distinct specificity pocket. Its entrance is blocked by the kallikrein loop, suggesting a possible protective or substrate-selective role for this loop. The HPK structure seems to be in an inactivated state and further processing might be required to allow the binding of substrate molecules. Crystal soaking experiments revealed a binding site for Zn2+ and Hg2+, two known PSA inhibitors.
+http://www.sciencedirect.com/science/article/pii/S0022283602007052
+00222836

@@ -1,0 +1,6 @@
+The mitochondrial import receptor Tom70: identification of a 25 kda core domain with a specific binding site for preproteins11Edited by M. Yaniv
+6603881522,7101958691,6603619768,7004556901,35480103800,7102395155
+import receptor,mitochondria,protein sorting,Saccharomyces cerevisiae,Tom70
+The mitochondrial import receptor of 70 kDa, Tom70, preferentially recognizes precursors of membrane proteins with internal targeting signals. We report the identification of a stably folded 25 kDa core domain located in the middle portion of Tom70 that contains two of the seven tetratricopeptide repeat motifs of the receptor. The core domain binds non-cleavable and cleavable preproteins carrying internal targeting signals with a specificity indistinguishable from the full-length receptor. Competition studies indicate that both types of preproteins interact with overlapping binding sites of the core domain and that at least one additional interaction site is present in the full-length receptor. We suggest a model of Tom70 function in import of membrane proteins whereby a hydrophobic preprotein concomitantly interacts with several binding sites of the receptor.
+http://www.sciencedirect.com/science/article/pii/S0022283600941202
+00222836

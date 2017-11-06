@@ -1,0 +1,6 @@
+Interactions of the natural product kendomycin and the 20S proteasome
+54881653700,6602543348,56305404000,6507855412,24788343100,7102645092
+kendomycin,proteasome,natural product,X-ray crystallography,sodium dodecyl sulfate
+Natural products are a valuable source for novel lead structures in drug discovery, but for the majority of isolated bioactive compounds, the cellular targets are unknown. The structurally unique ansa-polyketide kendomycin (KM) was reported to exert its potent cytotoxic effects via impairment of the ubiquitin proteasome system, but the exact mode of action remained unclear. Here, we present a systematic biochemical characterization of KM–proteasome interactions in vitro and in vivo, including complex structures of wild type and mutant yeast 20S proteasome with KM. Our results provide evidence for a polypharmacological mode of action for KM's cytotoxic effect on cancer cells.
+http://www.sciencedirect.com/science/article/pii/S0022283614003350
+00222836

@@ -1,0 +1,6 @@
+Movement of the Decoding Region of the 16S Ribosomal RNA Accompanies tRNA Translocation
+6701314164,35496633400,6603367981,8263734400,55423416200,25223218700
+ribosome,elongation factor,decoding site,translation,translocation
+The ribosome undergoes pronounced periodic conformational changes during protein synthesis. Of particular importance are those occurring around the decoding site, the region of the 16S rRNA interacting with the mRNA-(tRNA)2 complex. We have incorporated structural information from X-ray crystallography and nuclear magnetic resonance into cryo-electron microscopic maps of ribosomal complexes designed to capture structural changes at the translocation step of the polypeptide elongation cycle. The A-site region of the decoding site actively participates in the translocation of the tRNA from the A to the P-site upon GTP hydrolysis by elongation factor G, shifting approximately 8Å toward the P-site. This implies that elongation factor G actively pushes both the decoding site and the mRNA/tRNA complex during translocation.
+http://www.sciencedirect.com/science/article/pii/S002228360094213X
+00222836

@@ -1,0 +1,6 @@
+Structure of West Nile Virus NS3 Protease: Ligand Stabilization of the Catalytic Conformation
+15048482400,6701373183,7003679097,55256597300,7402037908,7007085404,56137417200
+West Nile virus,NS3 protease,trypsin-like serine protease,protease inhibitor,crystal structure
+Over the last decade, West Nile virus has spread rapidly via mosquito transmission from infected migratory birds to humans. One potential therapeutic approach to treating infection is to inhibit the virally encoded serine protease that is essential for viral replication. Here we report the crystal structure of the viral NS3 protease tethered to its essential NS2B cofactor and bound to a potent substrate-based tripeptide inhibitor, 2-naphthoyl-Lys-Lys-Arg-H (Ki=41 nM), capped at the N-terminus by 2-naphthoyl and capped at the C-terminus by aldehyde. An important and unexpected feature of this structure is the presence of two conformations of the catalytic histidine suggesting a role for ligand stabilization of the catalytically competent His conformation. Analysis of other West Nile virus NS3 protease structures and related serine proteases supports this hypothesis, suggesting that the common catalytic mechanism involves an induced-fit mechanism.
+http://www.sciencedirect.com/science/article/pii/S0022283608014630
+00222836

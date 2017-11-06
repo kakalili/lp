@@ -1,0 +1,6 @@
+The Mechanism of Nucleic Acid Melting by a CspA Family Protein
+7004130247,35395704500,7005509332
+CspE,E.coli,nucleic acid melting,RNA chaperone,cold-shock
+Cold-shock proteins of the CspA family help bacterial cells to acclimate to low temperatures. Some Csps bind single-stranded nucleic acids and destabilize nucleic acid secondary structures in vitro, and act as transcription antiterminators in vivo and in vitro. Nucleic acid melting by Escherichia coli CspE is critical for its ability to support low-temperature survival of the cell. Here, we explore the molecular mechanism of nucleic acid melting using CspE mutants harboring substitutions in surface-exposed residues critical for this function. Analysis of the mutants identifies two intermediates of the melting pathway and shows that CspE Phe17 and Phe30 act at the earliest stages of melting, while His32 acts later and is necessary for the propagation of melting. The results allow us to orient a CspE molecule relative to the melting substrate and to put forward a mechanistic model of nucleic acid melting by Csps.
+http://www.sciencedirect.com/science/article/pii/S0022283604000816
+00222836

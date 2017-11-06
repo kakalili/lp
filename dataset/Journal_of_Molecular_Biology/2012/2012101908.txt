@@ -1,0 +1,6 @@
+Ensemble Structure of the Modular and Flexible Full-Length Vesicular Stomatitis Virus Phosphoprotein
+57062621600,55449211500,22958226200,52264939200,55317507200,22634096700,35579443800,7004672634,7003999017,7003725116
+phosphoprotein,intrinsically disordered regions,vesicular stomatitis virus,NMR,SAXS
+The phosphoprotein (P) is an essential component of the viral replication machinery of non-segmented negative‐strand RNA viruses, connecting the viral polymerase to its nucleoprotein–RNA template and acting as a chaperone of the nucleoprotein by preventing nonspecific encapsidation of cellular RNAs. The phosphoprotein of vesicular stomatitis virus (VSV) forms homodimers and possesses a modular organization comprising two stable, well-structured domains concatenated with two intrinsically disordered regions. Here, we used a combination of nuclear magnetic resonance spectroscopy and small-angle X-ray scattering to depict VSV P as an ensemble of continuously exchanging conformers that captures the dynamic character of this protein. We discuss the implications of the dynamics and the large conformational space sampled by VSV P in the assembly and functioning of the viral transcription/replication machinery.
+http://www.sciencedirect.com/science/article/pii/S0022283612005505
+00222836

@@ -1,0 +1,6 @@
+Structural Bases for 16 S rRNA Methylation Catalyzed by ArmA and RmtB Methyltransferases
+7202435663,7003585381,6602327936,8101881400,7003469423
+methyltransferase,aminoglycoside resistance,X-ray,ribosome,S-adenosyl-methionine
+Aminoglycosides are used extensively for the treatment of severe infections due to Gram-negative bacteria. However, certain species have become highly resistant after acquisition of genes for methyltransferases which catalyze post-transcriptional methylation of N7-G1405 in 16 S rRNA of 30 S ribosomal subunits. Inactivation of this enzymatic activity is therefore an important challenge for development of an effective therapy. The present work describes the crystallographic structures of methyltransferases RmtB and ArmA from clinical isolates. Together with biochemical experiments, the 3D structures indicate that the N-terminal domain specific for this family of methyltransferases is required for enzymatic activity. Site-directed mutagenesis has enabled important residues for catalysis and RNA binding to be identified. These high-resolution structures should underpin the design of potential inhibitors of these enzymes, which could be used to restore the activity of aminoglycosides against resistant pathogens.
+http://www.sciencedirect.com/science/article/pii/S0022283609003283
+00222836

@@ -1,0 +1,6 @@
+Folding of circular permutants with decreased contact order: general trend balanced by protein stability11Edited by A. R. Fersht
+54908797200,6506182002,7004094833,35594627700,56586587700,55958959700
+protein folding,rate constants,two-state proteins,topology,protein stability
+To examine the influence of contact order and stability on the refolding rate constant for two-state proteins, we have analysed the folding kinetics of the small β-α-β protein S6 and two of its circular permutants with relative contact orders of 0.19, 0.15 and 0.12. Data reveal a small but significant increase of the refolding rate constant (log kf) with decreasing contact order. At the same time, the decreased contact order is correlated to losses in global stability and alterations of the folding nucleus. When the differences in stability are accounted for by addition of Na2SO4 or by comparison of the folding kinetics at the transition mid-point, the dependence between log kf and contact order becomes stronger and follows the general correlation for two-state proteins. The observation emphasizes the combined action of topology and stability in controlling the rate constant of protein folding.
+http://www.sciencedirect.com/science/article/pii/S0022283601951861
+00222836

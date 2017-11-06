@@ -1,0 +1,6 @@
+Blocking Transcription Through a Nucleosome with Synthetic DNA Ligands
+7005507844,6506298744,6603138400,7202753682,7004826653
+nucleosome,transcription,pyrrole-imidazole polyamide
+Pyrrole-imidazole (Py-Im) polyamides are synthetic ligands that bind in the minor groove of DNA. Previous studies have established that sites on nucleosomal DNA facing away from the histone octamer, or even partially facing the histone octamer, are fully accessible for molecular recognition by Py-Im polyamides, and that nucleosomes remain fully folded upon ligand binding. Two polyamides that bind within the sea urchin 5S gene nucleosome positioning sequence inhibit both heat-induced nucleosome sliding and transcription by bacteriophage T7 RNA polymerase from the nucleosomal template, but not from histone-free DNA. These polyamides prevent repositioning of the histone octamer by RNA polymerase, and thereby inhibit passage of the elongating polymerase through nucleosomal DNA. These results establish unambiguously the requirement for octamer mobility for transcription of nucleosomal templates by T7 RNA polymerase.
+http://www.sciencedirect.com/science/article/pii/S0022283602005983
+00222836

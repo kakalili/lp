@@ -1,0 +1,6 @@
+A Dual-nuclease Mechanism for DNA Break Processing by AddAB-type Helicase-nucleases
+16744909500,7004056630
+DNA recombination,DNA repair,DNA helicase,RecBCD,AddAB
+Nature has devised many strategies for repairing DNA breaks. In homology-dependent pathways, the break is first processed to a 3′-ssDNA overhang that serves as a substrate for DNA strand exchange. Here, we demonstrate a distinct biochemical mechanism for DNA break processing employed by the AddAB class of helicase-nuclease. We show that this enzyme complex contains two active nuclease domains, each of which is dedicated to cleavage of one specific DNA strand. The nuclease activity responsible for cleavage in the 3′→5′ direction is attenuated when the enzyme encounters a recombination hotspot sequence, whereas cleavage in the 5′→3′ direction is unaffected, resulting in the production of recombinogenic 3′-terminated ssDNA tails. Finally, we show that the molecular events that underlie the recognition and response to recombination hotspots can be uncoupled: mutant proteins that are unable to cleave at recombination hotspots retain the ability to form stable complexes with the hotspot sequence.
+http://www.sciencedirect.com/science/article/pii/S0022283607007000
+00222836

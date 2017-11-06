@@ -1,0 +1,6 @@
+What is the Minimum Number of Letters Required to Fold a Protein?
+7202978388,36072896000
+sequence complexity,reduced amino acid alphabet,protein folding,protein design,protein evolution
+Experimental studies have shown that the full sequence complexity of naturally occurring proteins is not required to generate rapidly folding and functional proteins, i.e. proteins can be designed with fewer than 20 letters. This raises the question of what is the minimum number of amino acid types required to encode complex protein folds? Here, we investigate this issue from three aspects. First, we study the minimum sequence complexity that can reserve the necessary structural information for detection of distantly related homologues. Second, we compare the ability of designing foldable model sequences over a wide range of reduced amino acid alphabets, which find the minimum number of letters that have the similar design ability as 20. Finally, we survey the lower bound of alphabet size of globular proteins in a non-redundant protein database. These different approaches give a remarkably consistent view, that the minimum number of letters required to fold a protein is around ten.
+http://www.sciencedirect.com/science/article/pii/S0022283603003243
+00222836

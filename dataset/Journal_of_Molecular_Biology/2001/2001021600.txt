@@ -1,0 +1,6 @@
+Modulation of Sp1 activity by a cyclin A/CDK complex11Edited by M. Yaniv
+6507043100,8334524100,6602889283
+cyclin dependent kinase,phosphorylation,transcription factor,protein-protein interaction,Sp1
+Transcription factors of the Sp1 family are targets of several regulatory pathways and can induce or inhibit gene expression. Here we show that Sp1 is associated with a histone 1 kinase activity. This activity is growth regulated and correlates with the expression of cyclin A. Co-immunoprecipitation experiments demonstrate, that Sp1 interacts with cyclin A and can be phosphorylated by a cyclin A associated kinase. The interaction is direct and requires the zinc-finger region of Sp1 and the amino-terminal domain of cyclin A. Over-expression of cyclin A enhances the expression of a reporter gene controlled by an Sp1 responsive promoter. Addition of olomoucine, a specific inhibitor of CDK2 and CDC2 activity on the other hand reduces the expression of the reporter. Electrophoretic mobility shift assays suggest that this is due to a reduction of the DNA-binding ability of Sp1 family members. Our results indicate that phosphorylation of Sp1 and other members of the family by a cyclin A/CDK complex may play a role in the growth and cell cycle regulation of its transcriptional activity.
+http://www.sciencedirect.com/science/article/pii/S0022283600944061
+00222836

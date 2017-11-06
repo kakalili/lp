@@ -1,0 +1,6 @@
+X-ray structures of small ligand-FKBP complexes provide an estimate for hydrophobic interaction energies11Edited by R. Huber
+56185222000,55459928100,7005817000
+immunophilins,FKBP,protein X-ray structure,ligand binding
+A new crystal form of native FK506 binding protein (FKBP) has been obtained which has proved useful in ligand binding studies. Three different small molecule ligand complexes and the native enzyme have been determined at higher resolution than 2.0 Å. Dissociation constants of the related small molecule ligands vary from 20 mM for dimethylsulphoxide to 200 μM for tetrahydrothiophene 1-oxide. Comparison of the four available crystal structures shows that the protein structures are identical to within experimental error, but there are differences in the water structure in the active site. Analysis of the calculated buried surface areas of these related ligands provides an estimated van der Waals contribution to the binding energy of −0.5 kJ/ Å2 for non-polar interactions between ligand and protein.
+http://www.sciencedirect.com/science/article/pii/S0022283699934113
+00222836

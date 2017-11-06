@@ -1,0 +1,6 @@
+The 1.9 Å Structure of Human α-N-Acetylgalactosaminidase: The Molecular Basis of Schindler and Kanzaki Diseases
+35092042600,7003484184
+lysosomal storage disease,glycoside hydrolase,glycoprotein structure,human NAGA gene,x-ray crystallography
+α-N-acetylgalactosaminidase (α-NAGAL; E.C. 3.2.1.49) is a lysosomal exoglycosidase that cleaves terminal α-N-acetylgalactosamine residues from glycopeptides and glycolipids. In humans, a deficiency of α-NAGAL activity results in the lysosomal storage disorders Schindler disease and Kanzaki disease. To better understand the molecular defects in the diseases, we determined the crystal structure of human α-NAGAL after expressing wild-type and glycosylation-deficient glycoproteins in recombinant insect cell expression systems. We measured the enzymatic parameters of our purified wild-type and mutant enzymes, establishing their enzymatic equivalence. To investigate the binding specificity and catalytic mechanism of the human α-NAGAL enzyme, we determined three crystallographic complexes with different catalytic products bound in the active site of the enzyme. To better understand how individual defects in the α-NAGAL glycoprotein lead to Schindler disease, we analyzed the effect of disease-causing mutations on the three-dimensional structure.
+http://www.sciencedirect.com/science/article/pii/S0022283609009875
+00222836

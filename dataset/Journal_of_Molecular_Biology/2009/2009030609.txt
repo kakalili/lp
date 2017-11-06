@@ -1,0 +1,6 @@
+Fas Apoptosis Inhibitory Molecule Contains a Novel β-Sandwich in Contact with a Partially Ordered Domain
+24168422400,35082513300,55480070200
+FAIM,apoptosis,Fas,NMR structure,β-sandwich
+Fas apoptosis inhibitory molecule (FAIM) is a soluble cytosolic protein inhibitor of programmed cell death and is found in organisms throughout the animal kingdom. A short isoform of FAIM is expressed in all tissue types, while an alternatively spliced long isoform is specifically expressed in the brain. Here, the short isoform is shown to consist of two independently folding domains in contact with each other. The NMR solution structure of the C-terminal domain of murine FAIM is solved in isolation and revealed to be a novel protein fold, a noninterleaved seven-stranded β-sandwich. The structure and sequence reveal several residues that are likely to be involved in functionally significant interactions with the N-terminal domain or other binding partners. Chemical shift perturbation is used to elucidate contacts made between the N-terminal domain and the C-terminal domain.
+http://www.sciencedirect.com/science/article/pii/S0022283609000242
+00222836

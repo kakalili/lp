@@ -1,0 +1,6 @@
+The EM Structure of a Type I Interferon–Receptor Complex Reveals a Novel Mechanism for Cytokine Signaling
+23485995500,57193414152,8605871200,7006489988,7005465519
+interferon-α2,single particle electron microscopy,type I interferon receptor,cytokine signaling,receptor–ligand complex
+Type I interferons (IFNs) have pleiotropic effects, including antiviral, antiproliferative, and immunomodulatory responses. All type I IFNs bind to a shared receptor consisting of the two transmembrane proteins ifnar1 and ifnar2. We used negative stain electron microscopy to calculate a three-dimensional reconstruction of the ternary complex formed by a triple mutant IFN α2 with the ectodomains of ifnar1 and ifnar2. We present a model of the complex obtained by placing atomic models of subunits into the density map of the complex. The complex of IFN α2 with its receptor (a class II cytokine receptor) shows structural similarities to the complexes formed by growth hormone and erythropoietin with their receptors (members of the class I cytokine receptor family). Despite different assembly mechanisms, class I and class II cytokine receptors thus appear to initiate signaling through similar arrangements of the receptors induced by the binding of their respective ligands.
+http://www.sciencedirect.com/science/article/pii/S0022283607016117
+00222836

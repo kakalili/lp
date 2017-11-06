@@ -1,0 +1,6 @@
+Bubble Nucleation and Cooperativity in DNA Melting
+55239538400,6508082451,55254301100
+DNA melting,intermediate states,denaturation bubble,cooperativity,quenching
+Bubbles in DNA are related to fundamental processes such as duplication and transcription. Using a new ensemble technique to trap intermediate states, we present direct measurements of the average length of the denaturation bubble and the statistical weights of the bubble states in the temperature-driven melting of DNA oligomers. For a bubble flanked by double-stranded regions, we find a nucleation size of ∼20 bases, and a broad distribution of bubble sizes. However, for bubbles opening at the ends of the molecule there is no nucleation threshold. The measured statistical weights of different conformations agree with the predictions of the thermodynamic models in the case of unzipping from the ends; however, internal bubble states are not completely described by the models. The measurements further show that, due to end effects, the melting transition becomes a two-state process only in the limit of a molecule length L∼1bp.
+http://www.sciencedirect.com/science/article/pii/S0022283604002839
+00222836

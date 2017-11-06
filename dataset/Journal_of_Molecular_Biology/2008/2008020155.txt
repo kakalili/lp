@@ -1,0 +1,6 @@
+Structure of the PPX/GPPA Phosphatase from Aquifex aeolicus in Complex with the Alarmone ppGpp
+7005596469,15751649000,7003568806
+stringent response,exopolyphosphatase,guanosine pentaphosphate,Aquifex aeolicus
+The crystal structure of the prototype exopolyphosphatase/guanosine pentaphosphate phosphohydrolase protein family member from Aquifex aeolicus in complex with the intracellular second messenger guanosine tetraphosphate was determined at 2.7-Å resolution. The hydrolytic base is identified as E119. The dual specificity established for the Escherichia coli homolog is shown to be compatible with a common active site for guanosine pentaphosphate and polyphosphate hydrolysis. Distinct and different degrees of closure between the two domains of the enzyme are associated with substrate binding. The arginines R22 and R267, residing in different domains, are crucial for guanosine pentaphosphate specificity as they interact with the unique 3′-ribose phosphorylation.
+http://www.sciencedirect.com/science/article/pii/S0022283607015720
+00222836

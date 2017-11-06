@@ -1,0 +1,6 @@
+Amyloidogenicity at a Distance: How Distal Protein Regions Modulate Aggregation in Disease
+56798509300,57193933910,8635938300,6507265627
+amyloid,misfolding,α-synuclein,polyglutamine,β2-microglobulin
+The misfolding of proteins to form amyloid is a key pathological feature of several progressive, and currently incurable, diseases. A mechanistic understanding of the pathway from soluble, native protein to insoluble amyloid is crucial for therapeutic design, and recent efforts have helped to elucidate the key molecular events that trigger protein misfolding. Generally, either global or local structural perturbations occur early in amyloidogenesis to expose aggregation-prone regions of the protein that can then self-associate to form toxic oligomers. Surprisingly, these initiating structural changes are often caused or influenced by protein regions distal to the classically amyloidogenic sequences. Understanding the importance of these distal regions in the pathogenic process has highlighted many remaining knowledge gaps regarding the precise molecular events that occur in classic aggregation pathways. In this review, we discuss how these distal regions can influence aggregation in disease and the recent technical and conceptual advances that have allowed this insight.
+http://www.sciencedirect.com/science/article/pii/S0022283617301250
+00222836

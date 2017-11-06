@@ -1,0 +1,6 @@
+Structural and Biochemical Characterization of the Interaction between LGN and Frmpd1
+55467967400,37038446200,55443715200,55851931200,54781044600,55536052300,55344993800,9742361700
+asymmetric cell division,LGN,TPR motif,Frmpd1
+The tetratricopeptide repeat (TPR) motif-containing protein LGN binds multiple targets and regulates their subcellular localizations and functions during both asymmetric and symmetric cell divisions. Here, we characterized the interaction between LGN-TPR motifs and FERM and PDZ domain containing 1 (Frmpd1) and reported the crystal structure of the complex at 2.4Å resolution. A highly conserved fragment at the center of Frmpd1 of ~20 residues was found to be necessary and sufficient to bind to LGN-TPR. This Frmpd1 fragment forms an extended structure and runs along the concave channel of the TPR superhelix in an antiparallel manner in the complex. Structural comparisons and biochemical studies of LGN/Frmpd1 and other known LGN/target interactions demonstrate that the LGN-TPR motifs are versatile and capable of recognizing multiple targets via diverse binding modes. Nevertheless, a conserved “E/QxEx4-5E/D/Qx1-2K/R” motif in LGN/Pins (partner of inscuteable) TPR binding proteins has been identified.
+http://www.sciencedirect.com/science/article/pii/S0022283613000065
+00222836

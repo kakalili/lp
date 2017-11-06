@@ -1,0 +1,6 @@
+A Comprehensive Model for the Recognition of Human Telomeres by TRF1
+55751639200,7005668861
+telomeric,simulation,dynamics,interaction,map
+Eukaryotic chromosomes are capped by telomeres, nucleoprotein complexes that prevent chromosome end-to-end fusions and control cell ageing. Two proteins in this complex, telomere repeat binding factors (TRF1 and TRF2), specifically recognise the double-stranded TTAGGG tandem repeat sequence. TRF1 is a homodimer with roles governing DNA architecture and negatively regulating telomere length. We explore the conformational space of this protein–DNA complex using molecular dynamics and, for the first time, generate a complete model of TRF1–DNA recognition that has not been possible on the basis of crystallographic and NMR data alone. The results reconcile previous conflicting experimental models for the sequence selectivity of the recognition process, by confirming many of the findings while identifying important new interactions and behaviour. This improved characterisation also reveals extensive indirect readout, which suggests that recognition will be affected by changes to DNA helical parameters such as bending.
+http://www.sciencedirect.com/science/article/pii/S0022283613003045
+00222836

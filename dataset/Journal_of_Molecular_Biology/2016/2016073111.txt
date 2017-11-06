@@ -1,0 +1,6 @@
+Tuning the Catalytic Activity of Subcellular Nanoreactors
+56862156000,57190430325,56624572700,57189305589,55535877300,12803860000
+Salmonella,bacterial microcompartments,synthetic biology,subcellular organelles,1,2-propanediol utilization
+Bacterial microcompartments are naturally occurring subcellular organelles of bacteria and serve as a promising scaffold for the organization of heterologous biosynthetic pathways. A critical element in the design of custom biosynthetic organelles is quantitative control over the loading of heterologous enzymes to the interior of the organelles. We demonstrate that the loading of heterologous proteins to the 1,2-propanediol utilization microcompartment of Salmonella enterica can be controlled using two strategies: by modulating the transcriptional activation of the microcompartment container and by coordinating the expression of the microcompartment container and the heterologous cargo. These strategies allow general control over the loading of heterologous proteins localized by two different N-terminal targeting peptides and represent an important step toward tuning the catalytic activity of bacterial microcompartments for increased biosynthetic productivity.
+http://www.sciencedirect.com/science/article/pii/S0022283616302510
+00222836

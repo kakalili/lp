@@ -1,0 +1,6 @@
+Crystal Structure of Human General Transcription Factor TFIIE at Atomic Resolution
+57191541344,57190424257,6603093499,56501730900,57191536502,7103201316
+TFIIEα/β,RNA polymerase II,transcription,yeast,pre-initiation complex
+In eukaryotes, RNA polymerase II requires general transcription factors to initiate mRNA transcription. TFIIE subunits α and β form a heterodimer and recruit TFIIH to complete the assembly of the pre-initiation complex. Here, we have determined the crystal structure of human TFIIE at atomic resolution. The N-terminal half of TFIIEα forms an extended winged helix (WH) domain with an additional helix, followed by a zinc-finger domain. TFIIEβ contains the WH2 domain, followed by two coiled-coil helices intertwining with TFIIEα. We also showed that TFIIEα binds to TFIIEβ with nanomolar affinity using isothermal titration calorimetry. In addition, mutations on the residues involved in the interactions resulted in severe growth defects in yeast. Lack of the C-terminal region of yeast TFIIEβ causes a mild growth defect in vivo. These findings provide a structural basis for understanding the functional mechanisms of TFIIE in the context of pre-initiation complex formation and transcription initiation.
+http://www.sciencedirect.com/science/article/pii/S0022283616303722
+00222836

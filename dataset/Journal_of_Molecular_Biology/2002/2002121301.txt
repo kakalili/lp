@@ -1,0 +1,6 @@
+The equilibrium unfolding pathway of a (β/α)8 barrel
+7202639154,6603830741
+native-state exchange,triosephosphate isomerase,β/α barrel,MPAX,protein folding
+The (β/α)8 barrel is the most commonly occurring fold among enzymes. A key step towards rationally engineering (β/α)8 barrel proteins is to understand their underlying structural organization and folding energetics. Using misincorporation proton–alkyl exchange (MPAX), a new tool for solution structural studies of large proteins, we have performed a native-state exchange analysis of the prototypical (β/α)8 barrel triosephosphate isomerase. Three cooperatively unfolding subdomains within the structure are identified, as well as two partially unfolded forms of the protein. The C-terminal domain coincides with domains reported to exist in four other (β/α)8 barrels, but the two N-terminal domains have not been observed previously. These partially unfolded forms may represent sequential intermediates on the folding pathway of triosephosphate isomerase. The methods reported here should be applicable to a variety of other biological problems involving protein conformational changes.
+http://www.sciencedirect.com/science/article/pii/S0022283602011002
+00222836

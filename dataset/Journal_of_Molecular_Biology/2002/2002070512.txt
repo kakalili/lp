@@ -1,0 +1,6 @@
+The Cytochrome c Folding Landscape Revealed by Electron-transfer Kinetics
+7601462187,7201742476,36047602600,7202100636
+protein folding,cytochrome c,electron transfer,burst intermediate
+We have investigated the folding energy landscape of cytochrome c by exploiting the widely different electron-transfer (ET) reactivities of buried and exposed Zn(II)-substituted hemes. An electronically excited Zn-porphyrin in guanidine hydrochloride denatured Zn-substituted cytochrome c (Zn-cyt c) reduces ruthenium(III) hexaammine about ten times faster than when embedded in the fully folded protein. Measurements of ET kinetics during Zn-cyt c folding reveal a burst intermediate in which one-third of the ensemble has a protected Zn-porphyrin and slow ET kinetics; the remaining fraction exhibits fast ET characteristic of a solvent-exposed redox cofactor. The ET data show that, under solvent conditions favoring the folded protein, collapsed non-native structures are not substantially more stable than extended conformations, and that the two populations interchange rapidly. Most of the folding free energy, then, is released when compact structures evolve into the native fold.
+http://www.sciencedirect.com/science/article/pii/S0022283602004667
+00222836

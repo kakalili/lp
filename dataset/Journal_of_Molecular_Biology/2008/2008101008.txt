@@ -1,0 +1,6 @@
+Structural and Kinetic Properties of a β-Hydroxyacid Dehydrogenase Involved in Nicotinate Fermentation
+24537226600,14119532400,7003674651,6603787921
+2-(hydroxymethyl)glutarate dehydrogenase,Eubacterium barkeri,X-ray crystallography,domain rearrangement,enzymology
+2-(Hydroxymethyl)glutarate dehydrogenase, the fourth enzyme of the anaerobic nicotinate fermentation pathway of Eubacterium barkeri, catalyzes the NADH-dependent conversion between (S)-2-formylglutarate and (S)-2-(hydroxymethyl)glutarate. As shown by its 2.3-Å crystal structure, this enzyme is a novel member of the β-hydroxyacid dehydrogenase family and adopts a tetrameric architecture with monomers interacting via their C-terminal catalytic domains. The NAD-binding domains protrude heterogeneously from the central, tetrameric core with domain rotation angles differing up to 12°. Kinetic properties of the enzyme, including NADH inhibition constants, were determined. A strong NADH binding in contrast to weaker NAD+ binding of the protein was inferred from fluorometrically determined binding constants for the dinucleotide cofactor. The data support either an Iso Ordered Bi Bi mechanism or a more common Ordered Bi Bi mechanism as found in other dehydrogenases.
+http://www.sciencedirect.com/science/article/pii/S0022283608009042
+00222836

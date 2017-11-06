@@ -1,0 +1,6 @@
+Zebrafish Mib and Mib2 Are Mutual E3 Ubiquitin Ligases with Common and Specific Delta Substrates
+23975208800,36067406200,7404833442
+Mib homologs,Delta,Notch,E3 ligase,endocytosis
+It was already known that both mind bomb (mib) and mind bomb-2 (mib2) encode E3 ubiquitin ligases that target Delta in Notch activation. Here we further demonstrated that zebrafish Mib and Mib2, similar to their mouse orthologs, have a C-terminal-most RING finger-dependent E3 ubiquitin ligase activity. Mib and Mib2 are reciprocal E3 ubiquitin ligases and substrates. They function similarly in Notch signaling by using DeltaC as a common substrate. However, Mib2 behaves differently from Mib in DeltaD internalization. In addition, Mib and Mib2 bind differently to extracellular and intracellular parts of DeltaA and DeltaC. Finally, mutant Mibs, Mibta52b with a missense mutation in the C-terminal-most RING finger (M1013R) and Mibm132 with a premature stop codon that leads to a deletion of three RING fingers (C785stop), act dominant-negatively and compete with Mib2 in DeltaC ubiquitylation and internalization, suggesting a molecular basis for the antimorphic phenotypes (stronger than the null phenotypes) observed in zebrafish mibta52b and mibm132 alleles.
+http://www.sciencedirect.com/science/article/pii/S0022283606016548
+00222836

@@ -1,0 +1,6 @@
+A DNA-binding domain swap converts the invertase gin into a resolvase11Edited by M. Yaniv
+35622531400,6505922736,6604059790,7004117939
+DNA invertase,resolvase,nucleoprotein structures,FIS,invertasome
+DNA resolvases and invertases are closely related, yet catalyze recombination within two distinct nucleoprotein structures termed synaptosomes and invertasomes, respectively. Different protein-protein and protein-DNA interactions guide the assembly of each type of recombinogenic complex, as well as the subsequent activation of DNA strand exchange. Here we show that invertase Gin catalyzes factor for inversion stimulation dependent inversion on isolated copies of sites I from ISXc5 res, which is typically utilized by the corresponding resolvase. The concomitant binding of Gin to sites I and III in res, however, inhibits recombination. A chimeric recombinase, composed of the catalytic domain of Gin and the DNA-binding domain of ISXc5 resolvase, recombines two res with high efficiency. Gin must therefore contain residues proficient for both synaptosome formation and activation of strand exchange. Surprisingly, this chimera is unable to assemble a productive invertasome; a result which implies a role for the C-terminal domain in invertasome formation that goes beyond DNA binding.
+http://www.sciencedirect.com/science/article/pii/S0022283699934125
+00222836

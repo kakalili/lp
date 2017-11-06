@@ -1,0 +1,6 @@
+The Solution Structure of the Bacteriophage λ Head–Tail Joining Protein, gpFII
+7005540123,7102354255,7006642154,7402444100,7402001557
+bacteriophage λ,bacteriophage morphogenesis,NMR solution structure,head–tail joining,unstructured regions
+The bacteriophage λ FII protein (gpFII) is a 117 residue structural protein found in the phage particle that is required for the joining of phage heads and tails at the last step of morphogenesis. We have performed biophysical experiments to show that gpFII is stable, monomeric, and reversibly folded. We have also determined the atomic resolution structure of gpFII using NMR spectroscopy. gpFII is shown to possess a novel fold consisting of seven β-strands and a short α-helix. It also displays two large unstructured regions at the N terminus (residues 1–24) and in a large loop near the middle of the protein (residues 46–62). We speculate that these unstructured regions become structured when gpFII assembles into the phage particle, and that these conformational changes play an important role in regulating the assembly pathway. Alignment of the gpFII sequence with those of homologues from other lambdoid phages has allowed us to putatively identify distinct surfaces on the gpFII structure that mediate binding to the phage head and tail.
+http://www.sciencedirect.com/science/article/pii/S0022283602002760
+00222836

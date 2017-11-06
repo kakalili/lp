@@ -1,0 +1,6 @@
+Modeling the cAMP-induced Allosteric Transition Using the Crystal Structure of CAP-cAMP at 2.1Å Resolution
+6603267599,7201742045,7102949800
+catabolite activator protein (CAP),cAMP receptor protein (CRP),transcription,allostery,X-ray crystallography
+After an allosteric transition produced by the binding of cyclic AMP (cAMP), the Escherichia coli catabolite gene activator protein (CAP) binds DNA specifically and activates transcription. The three-dimensional crystal structure of the CAP-cAMP complex has been refined at 2.1Å resolution, thus enabling a better evaluation of the structural basis for CAP phenotypes, the interactions of cAMP with CAP and the roles played by water structure. A review of mutational analysis of CAP together with the additional structural information presented here suggests a possible mechanism for the cAMP-induced allostery required for DNA binding and transcriptional activation. We hypothesize that cAMP binding may reorient the coiled-coil C-helices, which provide most of the dimer interface, thereby altering the relative positions of the DNA-binding domains of the CAP dimer. Additionally, cAMP binding may cause a further rearrangement of the DNA-binding and cAMP-binding domains of CAP via a flap consisting of β-strands 4 and 5 which lies over the cAMP.
+http://www.sciencedirect.com/science/article/pii/S0022283600942311
+00222836

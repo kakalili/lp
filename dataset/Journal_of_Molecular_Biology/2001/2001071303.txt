@@ -1,0 +1,6 @@
+Construction of an Escherichia coli knockout strain for functional analysis of tRNAAsp11Edited by J. Karn
+7004945283,7006623674
+multiple knockout,plasmid switch,tRNA,two-plasmid system,aminoacylation
+The specific aminoacylation of tRNA is critical for translation of the genetic code. A molecular description of aminoacylation requires knowledge of the relevant three-dimensional structures, biochemical parameters and the structure-function relationship of the synthetase and its substrate tRNA. Extensive structural and biochemical data are available on the aspartic acid system of Escherichia coli, but there is a paucity of cellular functional data. We have developed a system to overcome this deficiency by engineering an E. coli knockout tRNAAsp strain, thereby allowing a penetrating analysis of tRNAAsp structure and function under conditions that prevail in the cell.
+http://www.sciencedirect.com/science/article/pii/S0022283601947850
+00222836

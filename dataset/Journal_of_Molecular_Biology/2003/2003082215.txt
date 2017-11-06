@@ -1,0 +1,6 @@
+Structure of the Pyrimidine-rich Internal Loop in the Poliovirus 3′-UTR: The Importance of Maintaining Pseudo-2-fold Symmetry in RNA Helices Containing Two Adjacent Non-canonical Base-pairs
+6603983766,7004007845,7004255109,7005763178,35460391900,7003334239
+RNA,RNA structure,RNA folding,NMR,poliovirus
+Formation of non-canonical base-pairs in RNA often plays a very important functional role. In addition they frequently serve as factors in stabilizing the secondary structure elements that provide the frame of large compact RNA structures. Here we describe the structure of an internal loop containing a 5′CU3′/5′UU3′ non-canonical tandem base-pair motif, which is conserved within the 3′-UTR of poliovirus-like enteroviruses. Structural details reveal striking regularities of the local helix geometry, resulting from alternating geometrical adjustments, which are important for understanding and predicting stabilities and configurations of tandem non-canonical base-pairs. The C-U and U-U base-pairs severely contract the minor groove of the sugar-phosphate backbone, which might be important for protein recognition or binding to other RNA elements.
+http://www.sciencedirect.com/science/article/pii/S0022283603007873
+00222836

@@ -1,0 +1,6 @@
+Crystal structure of an isolated Vα domain of the 2C T-cell receptor 11Edited by D. Rees
+7102832714,8963151000,7005251090,7401743864
+T-cell receptor variable domain,complementarity-determining regions,antibody engineering,protein crystallization,immunoglobulin fold
+The T-cell receptor (TCR) is a heterodimeric cell-surface protein consisting of two chains, α and β, each of which is composed of a variable (V) and a constant (C) domain. Crystals of the isolated Vα domain of the murine TCR 2C were grown by serendipity from a solution containing the extracellular domains of the intact TCR 2C and CD3 γϵ-chains. The Vα crystal structure shows how crystal packing can substitute for another Vα domain in a different fashion from that observed in Vα/Vα homodimer and Vα/Vβ heterodimer structures. Significant conformational changes occur in the CDR3 and β3β4 loops that normally form part of the dimer interface. The monomeric Vα domain provides the unique opportunity to study the effect of dimerization on the conformation of the unliganded complementarity-determining regions (CDR) of a TCR. This structure of an individual Vα module has implications for stability and bioengineering of isolated antibody and immunoglobulin domains.
+http://www.sciencedirect.com/science/article/pii/S0022283601951137
+00222836

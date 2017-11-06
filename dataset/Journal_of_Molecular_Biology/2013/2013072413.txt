@@ -1,0 +1,6 @@
+Tubulin Tyrosine Ligase and Stathmin Compete for Tubulin Binding InVitro
+6701563670,35510693900,6506959001
+tubulin,microtubule dynamics,polymerization,tubulin tyrosine ligase,stathmin
+Tubulin partition between soluble and polymeric forms is tightly regulated in cells. Stathmin and tubulin tyrosine ligase (TTL) each form stable complexes with tubulin and inhibit tubulin polymerization. Here we explore the mutual relationship between these proteins in vitro and demonstrate that full-length stathmin and TTL compete for binding to tubulin and fail to make a stable tubulin:stathmin:TTL triple complex in solution. Moreover, stathmin depresses TTL tubulin tyrosination activity in vitro. These results suggest either that TTL and stathmin have a partially overlapping footprint on the tubulin dimer or that stathmin induces a tubulin conformation incompatible with stable TTL binding.
+http://www.sciencedirect.com/science/article/pii/S0022283613002659
+00222836

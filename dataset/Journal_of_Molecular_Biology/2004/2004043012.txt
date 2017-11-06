@@ -1,0 +1,6 @@
+The PDZ2 Domain of Syntenin at Ultra-high Resolution: Bridging the Gap Between Macromolecular and Small Molecule Crystallography
+35082104200,6701546840,7003408761,7006520222
+PDZ,syntenin,ultra-high resolution,crystallography
+The crystal structure of the second PDZ domain of the scaffolding protein syntenin was solved using data extending to 0.73Å resolution. The crystallographic model, including the hydrogen atoms and the anisotropic displacement parameters, was refined to a conventional R-factor of 7.5% and Rfree of 8.7%, making it the most precise crystallographic model of a protein molecule to date. The model reveals discrete disorder in several places in the molecule, and significant plasticity of the peptide bond, with some ω angles deviating by nearly 20° from planarity. Most hydrogen atoms are easily identifiable in the electron density and weak hydrogen bonds of the C–H⋯O type are clearly visible between the β-strands. The study sets a new standard for high-resolution protein crystallography.
+http://www.sciencedirect.com/science/article/pii/S0022283604002517
+00222836

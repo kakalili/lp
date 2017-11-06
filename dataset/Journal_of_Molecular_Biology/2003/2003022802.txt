@@ -1,0 +1,6 @@
+Substrate Complexes of Hepatitis C Virus RNA Polymerase (HC-J4): Structural Evidence for Nucleotide Import and De-novo Initiation
+6603879413,7004154042,7103109103,7103078184
+hepatitis C virus replication,RNA polymerase,de-novo priming,crystal structure,substrate complexes
+Several crystal structures of the hepatitis C virus NS5B protein (genotype-1b, strain J4) complexed with metal ions, single-stranded RNA or nucleoside-triphosphates have been determined. These complexes illustrate how conserved amino acid side-chains, together with essential structural features within the active site, control nucleotide binding and likely mediate de-novo initiation. The incoming nucleotide interacts with several basic residues from an extension on the NS5B fingers domain, a β-hairpin from the NS5B thumb domain and the C-terminal arm. The modular, bi-partite fingers domain carries a long binding groove which guides the template towards the catalytic site. The apo-polymerase structure provides unprecedented insights into potential non-nucleoside inhibitor binding sites located between palm and thumb near motif E, which is unique to RNA polymerases and reverse transcriptases.
+http://www.sciencedirect.com/science/article/pii/S0022283602014390
+00222836

@@ -1,0 +1,6 @@
+Directional Loading and Stimulation of PcrA Helicase by the Replication Initiator Protein RepD
+7409432041,7004056630,7404413970,7403050343,35474276800,6701834586
+atomic force microscopy,helicase,helicase loading,replication initiation,rolling circle plasmid replication
+The replication initiator protein RepD recruits the Bacillus PcrA helicase directly onto the (−) strand of the plasmid replication origin oriD. The 5′-phosphate group at the nick is essential for loading, suggesting that it is the RepD covalently linked to the 5′-phosphate group at the nick that loads the helicase onto the oriD. The products of the unwinding reaction were visualised by atomic force microscopy (AFM) and monitored in real time by fluorescence spectroscopy. RepD remains associated with PcrA and stimulates processive directional unwinding of the plasmid at ∼60 bp s−1. In the absence of RepD, PcrA retains the ability to bind to a pre-nicked oriD, but engages the 3′ end of the nick and translocates 3′-5′ along the (+) strand in a poorly processive fashion. Our data provide a unique insight into the recruitment of PcrA-like helicases to DNA-nick sites and the processive translocation of the PcrA motor as a component of the plasmid replication apparatus.
+http://www.sciencedirect.com/science/article/pii/S0022283607006973
+00222836

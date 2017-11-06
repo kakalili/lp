@@ -1,0 +1,6 @@
+Protein packing: dependence on protein size, secondary structure and amino acid composition11Edited by F. E. Cohen
+7201957008,35395957000
+occluded surface,protein packing,homologous proteins,Voronoi volume,atom density
+We have used the occluded surface algorithm to estimate the packing of both buried and exposed amino acid residues in protein structures. This method works equally well for buried residues and solvent-exposed residues in contrast to the commonly used Voronoi method that works directly only on buried residues. The atomic packing of individual globular proteins may vary significantly from the average packing of a large data set of globular proteins. Here, we demonstrate that these variations in protein packing are due to a complex combination of protein size, secondary structure composition and amino acid composition. Differences in protein packing are conserved in protein families of similar structure despite significant sequence differences. This conclusion indicates that quality assessments of packing in protein structures should include a consideration of various parameters including the packing of known homologous proteins. Also, modeling of protein structures based on homologous templates should take into account the packing of the template protein structure.
+http://www.sciencedirect.com/science/article/pii/S0022283600937501
+00222836

@@ -1,0 +1,6 @@
+From a Ratchet Mechanism to Random Fluctuations Evolution of Hsp90's Mechanochemical Cycle
+26030122300,55210144600,7402464877,6602711040
+chaperone,FRET,Hsp90,HtpG,single molecule
+The 90‐kDa heat shock proteins [heat shock protein 90 (Hsp90)] are a highly conserved ATP-dependent protein family, which can be found from prokaryotic to eukaryotic organisms. In general, Hsp90s are elongated dimers with N- and C-terminal dimerization sites. In a series of publications, we have recently shown that no successive mechanochemical cycle exists for yeast Hsp90 (yHsp90) in the absence of clients or cochaperones. Here, we resolve the mechanochemical cycle of the bacterial homologue HtpG by means of two‐ and three‐color single‐molecule FRET (Förster resonance energy transfer). Unlike yHsp90, the N-terminal dynamics of HtpG is strongly influenced by nucleotide binding and turnover—its reaction cycle is driven by a mechanical ratchet mechanism. However, the C-terminal dimerization site is mainly closed and not influenced by nucleotides. The direct comparison of both proteins shows that the Hsp90 machinery has developed to a more flexible and less nucleotide-controlled system during evolution.
+http://www.sciencedirect.com/science/article/pii/S0022283612006274
+00222836

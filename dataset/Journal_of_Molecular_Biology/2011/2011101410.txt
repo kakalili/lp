@@ -1,0 +1,6 @@
+The Interaction of Cofilin with the Actin Filament
+35338484200,6701722672
+ADF/cofilin,cytoskeleton,molecular docking,mutagenesis
+Cofilin is a key actin-binding protein that is critical for controlling the assembly of actin within the cell. Here, we present the results of molecular docking and dynamics studies using a muscle actin filament and human cofilin I. Guided by extensive mutagenesis results and other biophysical and structural studies, we arrive at a model for cofilin bound to the actin filament. This predicted structure agrees very well with electron microscopy results for cofilin-decorated filaments, provides molecular insight into how the known F- and G-actin sites on cofilin interact with the filament, and also suggests new interaction sites that may play a role in cofilin binding. The resulting atomic-scale model also helps us understand the molecular function and regulation of cofilin and provides testable data for future experimental and simulation work.
+http://www.sciencedirect.com/science/article/pii/S0022283611009375
+00222836

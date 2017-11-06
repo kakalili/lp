@@ -1,0 +1,6 @@
+The Crystal Structure of Murine CMP-5-N-acetylneuraminic Acid Synthetase
+16506799900,55666260600,7402184874,34975087600,56015574300,56265868700,7003549752
+CMP-5-N-acetylneuraminic acid synthetase,CMP-Neu5Ac,sialic acid,glycosylation,lipopolysaccharide biosynthesis
+Sialic acids are activated by CMP-5-N-acetylneuraminic acid synthetase prior to their transfer onto oligo- or polysaccharides. Here, we present the crystal structure of the N-terminal catalytically active domain of the murine 5-N-acetylneuraminic acid synthetase in complex with the reaction product. In contrast to the previously solved structure of 5-N-acetylneuraminic acid synthetase from Neisseria meningitidis and the related CMP–KDO-synthetase of Escherichia coli, the murine enzyme is a tetramer, which was observed with the active sites closed. In this conformation a loop is shifted by 6Å towards the active site and thus an essential arginine residue can participate in catalysis. Furthermore, a network of intermolecular salt-bridges and hydrogen bonds in the dimer as well as hydrophobic interfaces between two dimers indicate a cooperative behaviour of the enzyme. In addition, a complex regulation of the enzyme activity is proposed that includes phosphorylation and dephosphorylation.
+http://www.sciencedirect.com/science/article/pii/S0022283603012075
+00222836

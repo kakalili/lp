@@ -1,0 +1,6 @@
+The crystal structure of Δ3-Δ2-enoyl-CoA isomerase11Edited by I. Wilson
+6508204102,7004711938,35263979500,7006316503
+coenzyme A,isomerase,oxyanion hole,peroxisome,yeast
+The active-site geometry of the first crystal structure of a Δ3-Δ2-enoyl-coenzyme A (CoA) isomerase (the peroxisomal enzyme from the yeast Saccharomyces cerevisiae) shows that only one catalytic base, Glu158, is involved in shuttling the proton from the C2 carbon atom of the substrate, Δ3-enoyl-CoA, to the C4 atom of the product, Δ2-enoyl-CoA. Site-directed mutagenesis has been performed to confirm that this glutamate residue is essential for catalysis. This Δ3-Δ2-enoyl-CoA isomerase is a hexameric enzyme, consisting of six identical subunits. It belongs to the hydratase/isomerase superfamily of enzymes which catalyze a wide range of CoA-dependent reactions. The members of the hydratase/ isomerase superfamily have only a low level of sequence identity. Comparison of the crystal structure of the Δ3-Δ2-enoyl-CoA isomerase with the other structures of this superfamily shows only one region of large structural variability, which is in the second turn of the spiral fold and which is involved in defining the shape of the binding pocket.
+http://www.sciencedirect.com/science/article/pii/S0022283601946716
+00222836

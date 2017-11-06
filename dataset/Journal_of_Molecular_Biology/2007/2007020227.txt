@@ -1,0 +1,6 @@
+Towards Elucidation of the Mechanism of UV1C, a Deoxyribozyme with Photolyase Activity
+55879288600,7202365161
+ribozyme,DNAzyme,photolyase,thymine dimers
+Among the unexpected chemistries that can be catalyzed by nucleic acid enzymes is photochemistry. We have reported the in vitro selection of a small, cofactor-independent deoxyribozyme, UV1C, capable of repairing thymine dimers in a DNA substrate, most optimally with light at a wavelength of &gt;300 nm. We hypothesized that a guanine quadruplex functioned both as a light antenna and an electron source for the repair of the substrate within the enzyme–substrate complex. Here, we report structural and mechanistic investigations of that hypothesis. Contact-crosslinking and guanosine to inosine mutational studies reveal that the thymine dimer and the guanine quadruplex are positioned close to each other in the deoxyribozyme–substrate complex, and permit us to refine the structure and topology of the folded deoxyribozyme. In exploring the substrate utilization capabilities of UV1C, we find it to be able to repair uracil dimers as well as thymine dimers, as long as they are present in an overall deoxyribonucleotide milieu. Some surprising similarities with bacterial CPD photolyase enzymes are noted.
+http://www.sciencedirect.com/science/article/pii/S0022283606014422
+00222836

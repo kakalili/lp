@@ -1,0 +1,6 @@
+Trichoderma reesei α-1,2-mannosidase: structural basis for the cleavage of four consecutive mannose residues11Edited by I. A. Wilson
+35235330500,7003761647,7202407035,35331414000
+crystallography,glycosylation,mannosidase,specificity,structure
+The process of N-glycosylation of eukaryotic proteins involves a range of host enzymes that delete or add saccharide monomers. While endoplasmic reticulum (E.R.) mannosidases cleave only one mannose to produce the Man8B isomer, an α-1,2-mannosidase from Trichoderma reesei can sequentially cleave all four 1,2-linked mannose sugars from a Man9GlcNAc2 oligosaccharide, a feature reminiscent of the activity of Golgi mannosidases. We now report the structure of the T. reesei enzyme at 2.37 Å resolution. The enzyme folds as an (αα)7 barrel. The substrate-binding site of the T. reesei mannosidase differs appreciably from the Saccharomyces cerevisiae enzyme. In the former, shorter loops at the surface allow substrate protein to come closer to the catalytic site. There is more internal space available, so that different oligosaccharide conformations are sterically allowed in the T. reesei α-1,2-mannosidase.
+http://www.sciencedirect.com/science/article/pii/S0022283601949460
+00222836

@@ -1,0 +1,6 @@
+Solution structure and interaction surface of the C-terminal domain from p47: A major p97-cofactor involved in SNARE disassembly11Edited by M. F. Summers
+7402202719,7402249357,36071948600,7402357025,7005553169,35502381100,7201477517
+p47,p97,UBX,SNARE disassembly,NMR
+p47 is the major protein identified in complex with the cytosolic AAA ATPase p97. It functions as an essential cofactor of p97-regulated membrane fusion, which has been suggested to disassemble t-t-SNARE complexes and prepare them for further rounds of membrane fusion. Here, we report the high-resolution NMR structure of the C-terminal domain from p47. It comprises a UBX domain and a 13 residue long structured N-terminal extension. The UBX domain adopts a characteristic ubiquitin fold with a ββαββαβ secondary structure arrangement. Three hydrophobic residues from the N-terminal extension pack closely against a cleft in the UBX domain. We also identify, for the first time, the p97 interaction surface using NMR chemical shift perturbation studies.
+http://www.sciencedirect.com/science/article/pii/S0022283601948648
+00222836

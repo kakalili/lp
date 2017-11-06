@@ -1,0 +1,6 @@
+The structure of the HIV-1 RRE high affinity rev binding site at 1.6 Å resolution11Edited by I. Tinoco
+57195269518,7102949800
+HIV-1,RRE,RNA structure,X-ray,purine-purine base-pair
+The crystal structure of a 28 nt RNA fragment containing the human immunodeficiency virus type 1 (HIV-1) Rev response element high affinity binding site for Rev protein has been solved at 1.6 Å resolution. The overall structure of the RRE helix is greatly distorted from A-form geometry by the presence of two purine-purine base-pairs and two single nucleotide bulges. G48 and G71 form a Hoogsteen-type asymmetric base-pair with G71 adopting a syn conformation. The non-canonical regions in the unliganded Rev response element molecule narrow the major groove width with respect to standard A-RNA. The Rev response element structure observed here represents a closed form of the Rev binding site and differs from conformations of the RNA observed previously by solution NMR studies.
+http://www.sciencedirect.com/science/article/pii/S0022283699934058
+00222836

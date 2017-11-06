@@ -1,0 +1,6 @@
+Use of RNA Tertiary Interaction Modules for the Crystallisation of the Spliceosomal snRNP Core Domain
+27168981200,55855433800,36673180400,7003540668,6504003856,7403606156
+RNA,ribonucleoprotein particle,crystallisation,crystallography,tertiary interaction
+RNA is known to perform diverse roles in the cell, often as ribonucleoprotein (RNP) particles. While the crystal structure of these RNP particles could provide crucial insights into their functions, crystallographic work on RNP complexes is often hampered by difficulties in obtaining well-diffracting crystals. The small nuclear ribonucleoprotein (snRNP) core domain, acting as an assembly nucleus for the maturation of snRNPs, plays a crucial role in the biogenesis of four of the spliceosomal snRNPs. We have succeeded in crystallising the human U4 snRNP core domain containing seven Sm proteins and a truncated U4 snRNA variant. The most critical factor in our success in the crystallisation was the introduction of various tertiary interaction modules into the RNA that could promote crystal packing without altering the core structure. Here, we describe various strategies employed in our crystallisation effort that could be applied to crystallisation of other RNP particles.
+http://www.sciencedirect.com/science/article/pii/S0022283610007709
+00222836

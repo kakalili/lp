@@ -1,0 +1,6 @@
+Isolation of Proteins that Interact with the Signal Transduction Molecule Dof and Identification of a Functional Domain Conserved between Dof and Vertebrate BCAP
+15829315000,6603855916,7004672813,7501532078
+Dof,adapter,FGF,signalling,receptor tyrosine kinase
+Dof is a large molecule essential for signal transduction by the two FGF receptors in Drosophila. It contains two ankyrin repeats and a coiled-coil region, but has no other recognisable structural motif. Dof shares these features with its closest vertebrate relatives, the B-cell signalling molecules BCAP and BANK. In addition, this family of proteins shares a region of homology upstream of the ankyrin repeats, which we call the Dof/BCAP/BANK (DBB) motif. We have identified 44 proteins that interact with Dof in a yeast two-hybrid screen. These include the Drosophila FGF-receptor Heartless and Dof itself. We show that the integrity of the DBB motif is required both for Dof and for BCAP to form dimers. Analysis of the interactions between a set of deletion constructs of Dof and the panel of interactors suggests that Dof may adopt different conformations, with a folded conformation stabilized by interactions between the DBB motif and the C-terminal part of the protein.
+http://www.sciencedirect.com/science/article/pii/S0022283603004893
+00222836

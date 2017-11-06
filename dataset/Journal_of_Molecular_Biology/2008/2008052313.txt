@@ -1,0 +1,6 @@
+Zinc Binding Catalytic Domain of Human Tankyrase 1
+6507478836,7005220379,23007327700,7003389656,26648267200,23033879700,7006238184,7003335291,23008719200,8946707700
+tankyrase,poly(ADP-ribose) polymerase,inhibitor design,zinc
+Tankyrases are recently discovered proteins implicated in many important functions in the cell including telomere homeostasis and mitosis. Tankyrase modulates the activity of target proteins through poly(ADP-ribosyl)ation, and here we report the structure of the catalytic poly(ADP-ribose) polymerase (PARP) domain of human tankyrase 1. This is the first structure of a PARP domain from the tankyrase subfamily. The present structure reveals that tankyrases contain a short zinc-binding motif, which has not been predicted. Tankyrase activity contributes to telomere elongation observed in various cancer cells and tankyrase inhibition has been suggested as a potential route for cancer therapy. In comparison with other PARPs, significant structural differences are observed in the regions lining the substrate-binding site of tankyrase 1. These findings will be of great value to facilitate structure-based design of selective PARP inhibitors, in general, and tankyrase inhibitors, in particular.
+http://www.sciencedirect.com/science/article/pii/S0022283608003896
+00222836

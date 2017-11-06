@@ -1,0 +1,6 @@
+Extended Sugar Slide Function for the Periplasmic Coiled Coil Domain of ScrY
+35740270800,7202570334,6604067727,57055771100,7007141347,7007015918
+ScrY,periplasmic domain,coiled coil,outer membrane protein,sugar transport
+Several bacterial outer membrane proteins have a periplasmic extension whose structure and function remain elusive. Here, the structure/function relationship of the N-terminal periplasmic domain of the sucrose-specific outer membrane channel ScrY was investigated. Circular dichroism and analytical centrifugation demonstrated that the N-terminal domain formed a parallel, three-stranded coiled coil. When this domain was fused to the maltose-specific channel LamB, permeation of maltooligosaccharides in liposomes increased with increasing sugar chain length whereas wild-type LamB showed the opposite effect. Current fluctuation analysis demonstrated increased off-rates for sugar transport through the fusion protein. Moreover, equilibrium dialysis showed an affinity of sucrose for the isolated N-terminal peptide. Together these results demonstrate a novel function for coiled coil domains, operating as an extended sugar slide.
+http://www.sciencedirect.com/science/article/pii/S002228360093897X
+00222836

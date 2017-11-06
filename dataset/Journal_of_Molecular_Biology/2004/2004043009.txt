@@ -1,0 +1,6 @@
+Modified Nucleotides in tRNALys and tRNAVal are Important for Translocation
+7006407329,6701563895,7006079172,7202289995
+ribosome,translocation,tRNA,wobble,decoding
+Ribosomes translate genetic information encoded by messenger RNAs (mRNAs) into proteins. Accurate decoding by the ribosome depends on the proper interaction between the mRNA codon and the anticodon of transfer RNA (tRNA). tRNAs from all kingdoms of life are enzymatically modified at distinct sites, particularly in and near the anticodon. Yet, the role of these naturally occurring tRNA modifications in translation is not fully understood. Here we show that modified nucleosides at the first, or wobble, position of the anticodon and 3′-adjacent to the anticodon are important for translocation of tRNA from the ribosome's aminoacyl site (A site) to the peptidyl site (P site). Thus, naturally occurring modifications in tRNA contribute functional groups and conformational dynamics that are critical for accurate decoding of mRNA and for translocation to the P site during protein synthesis.
+http://www.sciencedirect.com/science/article/pii/S0022283604002803
+00222836

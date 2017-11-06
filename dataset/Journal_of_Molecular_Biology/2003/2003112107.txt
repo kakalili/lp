@@ -1,0 +1,6 @@
+Role of the Non-template Strand of the Elongation Bubble in Intrinsic Transcription Termination
+35880974500,7410324118
+transcription,termination,non-template strand: bubble
+Intrinsic transcription terminators of Escherichia coli and other bacteria, consisting primarily of an RNA hairpin preceding a terminal uridine-rich RNA segment, suffice to dissociate the otherwise stable elongation complex of core RNA polymerase. The essential functions of the hairpin and U-rich segments have been established, although the precise mechanism of termination is unknown. We identify another element of the terminator, namely the non-template DNA strand in the region of the terminal transcription bubble. Failure of the terminal bubble to rewind through complementary base-pairing strongly reduces the efficiency of terminator function, suggesting that the natural pathway of termination consists of coupled rewinding of the DNA template and unwinding of the RNA/DNA hybrid at the site of release.
+http://www.sciencedirect.com/science/article/pii/S0022283603011896
+00222836

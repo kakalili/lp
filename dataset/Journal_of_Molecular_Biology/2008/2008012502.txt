@@ -1,0 +1,6 @@
+A Deoxyribozyme with a Novel Guanine Quartet-Helix Pseudoknot Structure
+8244076800,8082236600
+deoxyribozyme,DNA phosphorylation,guanine quadruplex,pseudoknot,in vitro selection
+Here we report a deoxyribozyme with a unique structure that contains a two-tiered guanine quadruplex interlinked to a Watson–Crick duplex. Through in vitro selection, sequence mutation, and methylation interference, we show the presence of both the two-tiered guanine-quadruplex and two helical regions contained in the active structure of this self-phosphorylating deoxyribozyme. Interestingly, one GG element of the quadruplex is part of a hairpin loop within one of the identified helical regions. Circular dichroism analysis showed that antiparallel quadruplex formation was dependent on this helix. To our knowledge, this is the first report of a pseudoknot nucleic acid structure that involves a guanine quadruplex. Our findings indicate that guanine quadruplexes can be part of complex structural arrangements, increasing the likelihood of finding more complex guanine quadruplex arrangements in biological systems.
+http://www.sciencedirect.com/science/article/pii/S0022283607014398
+00222836

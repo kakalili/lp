@@ -1,0 +1,6 @@
+The Prototypical H+/Galactose Symporter GalP Assembles into Functional Trimers
+35084669400,6506102795,7006376184,7003594124
+two-dimensional crystals (2D crystals),electron crystallography,galactose permease (GalP),H+/galactose symport,glucose transporter (GLUT)
+Glucose is a primary source of energy for human cells. Glucose transporters form specialized membrane channels for the transport of sugars into and out of cells. Galactose permease (GalP) is the closest bacterial homolog of human facilitated glucose transporters. Here, we report the functional reconstitution and 2D crystallization of GalP. Single particle electron microscopy analysis of purified GalP shows that the protein assembles as an oligomer with three distinct densities. Reconstitution assays yield 2D GalP crystals that exhibit a hexagonal array having p3 symmetry. The projection structure of GalP at 18 Å resolution shows that the protein is trimeric. Each monomer in the trimer forms its own channel, but an additional cavity (10∼15 Å in diameter) is apparent at the 3-fold axis of the oligomer. We show that the crystalline GalP is able to selectively bind substrate, suggesting that the trimeric form is biologically active.
+http://www.sciencedirect.com/science/article/pii/S0022283609014806
+00222836

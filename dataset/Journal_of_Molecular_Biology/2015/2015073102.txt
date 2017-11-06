@@ -1,0 +1,6 @@
+Exon Skipping Is Correlated with Exon Circularization
+56354256100,57189294274,56564735600,23670608000
+circRNA,cotranscriptional,alternative splicing,turnover
+Circular RNAs are found in a wide range of organisms and it has been proposed that they perform disparate functions. However, how RNA circularization is connected to alternative splicing remains largely unexplored. Here, we stimulated primary human endothelial cells with tumor necrosis factor α or tumor growth factor β, purified RNA, generated &gt;2.4 billion RNA-seq reads, and used a custom pipeline to characterize circular RNAs derived from coding exons. We find that circularization of exons is widespread and correlates with exon skipping, a feature that adds considerably to the regulatory complexity of the human transcriptome.
+http://www.sciencedirect.com/science/article/pii/S0022283615001126
+00222836

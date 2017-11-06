@@ -1,0 +1,6 @@
+Modulation of the ATPase Cycle of BiP by Peptides and Proteins
+35500241800,7003426456,7005734918
+molecular chaperone,Hsp70,antibody folding,MAK33,nucleotide binding
+BiP, the Hsp70 homologue of the endoplasmic reticulum, interacts with its non-native substrate proteins in an ATP-dependent manner. This interaction is coupled to the ATPase cycle of the chaperone. Binding of short, synthetic peptides stimulate the ATPase activity of BiP. In previous work, we showed that a stably unfolded antibody domain forms a binary complex with BiP. In this study we made use of this complex to analyse the effect of substrate proteins on the ATPase cycle of BiP. Kinetic constants of the partial reactions of the ATPase cycle were determined without substrate, in the presence of a short binding peptide and in the presence of the antibody domain. We show that, in contrast to smaller peptides, the non-native protein domain decelerates the rate limiting hydrolysis step of the ATPase cycle.
+http://www.sciencedirect.com/science/article/pii/S0022283603005564
+00222836

@@ -1,0 +1,6 @@
+Modeling of substrate specificity of the Alzheimer’s disease amyloid precursor protein β-secretase11Edited by F. E. Cohen
+6602574746,8642191800,7003392559
+BACE,APP,Alzheimer’s disease,aspartic protease,homology modeling
+The enzyme BACE (β-site APP-cleaving enzyme) has recently been identified as the β-secretase that cleaves the amyloid precursor protein (APP) to produce the N terminus of the Aβ peptide found in plaques in the brains of Alzheimer’s disease patients. BACE is an aspartic protease similar to pepsin and renin. Comparative modeling of the three-dimensional structure of BACE in complex with its substrate shows that several residues confer specificity of the enzyme for APP. In particular, Arg296 forms a salt-bridge with the P1′ Asp of the APP substrate, explaining the unusual preference of BACE among aspartic proteases for a P1′ residue that is negatively charged. Several hydrophobic residues in the enzyme form a pocket for the P1 hydrophobic residue (Met in wild-type APP and Leu in APP with the ’’Swedish mutation” associated with early-onset of Alzheimer’s disease). Inhibitors that can bind to the BACE active site may prove useful for drugs to treat and prevent Alzheimer’s disease.
+http://www.sciencedirect.com/science/article/pii/S0022283600938609
+00222836

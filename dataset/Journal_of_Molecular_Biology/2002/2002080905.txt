@@ -1,0 +1,6 @@
+Solution Structure of the DFF-C Domain of DFF45/ICAD. A Structural Basis for the Regulation of Apoptotic DNA Fragmentation
+7402494750,7102953676,7004306579,7007036677,7403011987,36037012700
+NMR,chaperone-like activity,stable domain,apoptosis,DREP-1
+DFF45/ICAD has dual functions in the final stage of apoptosis, by acting as both a folding chaperone and a DNase inhibitor of DFF40/CAD. Here, we present the solution structure of the C-terminal domain of DFF45, which is essential for its chaperone-like activity. The structure of this domain (DFF-C) consists of four α helices, which are folded in a novel helix-packing arrangement. The 3D structure reveals a large cluster of negatively charged residues on the molecular surface of DFF-C. This observation suggests that charge complementation plays an important role in the interaction of DFF-C with the positively charged catalytic domain of DFF40, and thus for the chaperone activity of DFF45. The structure of DFF-C also provides a rationale for the loss of the chaperone activity in DFF35, a short isoform of DFF45. Indeed, in DFF35, the amino acid sequence is truncated in the middle of the second α helix constituting the structure of DFF-C, and thus both the hydrophobic core and the cluster of negative charges are disrupted.
+http://www.sciencedirect.com/science/article/pii/S0022283602005880
+00222836

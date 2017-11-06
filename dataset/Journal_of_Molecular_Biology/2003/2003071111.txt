@@ -1,0 +1,6 @@
+Integration Host Factor: Putting a Twist on Protein–DNA Recognition
+7203058227,7004403953,7003936163,7403051631,7202478164
+indirect readout,X-ray crystallography,gel-shift assay,mutants,protein–DNA interactions
+Integration host factor (IHF) is a DNA–bending protein that recognizes its cognate sites through indirect readout. Previous studies have shown that binding of wild-type (WT)-IHF is disrupted by a T to A mutation at the center position of a conserved TTR motif in its binding site, and that substitution of βGlu44 with Ala prevented IHF from discriminating between A and T at this position. We have determined the crystal structures and relative binding affinities for all combinations of WT-IHF and IHF-βGlu44Ala bound to the WT and mutant DNAs. Comparison of these structures reveals that DNA twist plays a major role in DNA recognition by IHF, and that this geometric parameter is dependent on the dinucleotide step and not on the bound IHF variant.
+http://www.sciencedirect.com/science/article/pii/S0022283603005291
+00222836

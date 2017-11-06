@@ -1,0 +1,6 @@
+Genome-Scale Acetylation-Dependent Histone Eviction during Spermatogenesis
+55650620100,55650086500,7004603042,26643421700
+BET bromodomain,acetylation,Brdt,histone variants,histone eviction
+A genome-wide histone hyperacetylation is known to occur in the absence of transcription in haploid male germ cells, spermatids, before and during the global histone eviction and their replacement by non-histone DNA-packaging proteins. Although the occurrence of this histone hyperacetylation has been correlated with histone removal for a long time, the underlying mechanisms have remained largely obscure. Important recent discoveries have not only shed light on how histone acetylation could drive a subsequent transformation in genome organization but also revealed that the associated nucleosome dismantlement is a multi-step process, requiring the contribution of histone variants, critical destabilizing histone modifications and chromatin readers, including Brdt, working together to achieve the full packaging of the male genome, indispensable for the propagation of life.
+http://www.sciencedirect.com/science/article/pii/S0022283614001223
+00222836

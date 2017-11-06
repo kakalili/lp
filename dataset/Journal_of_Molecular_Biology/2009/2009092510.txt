@@ -1,0 +1,6 @@
+Crystal Structure of a Periplasmic Substrate-Binding Protein in Complex with Calcium Lactate
+35096122800,55463639700,7201964345
+periplasmic substrate-binding protein,calcium,lactate,TRAP transporter,crystal structure
+Lactate is utilized in many biological processes, and its transport across biological membranes is mediated with various types of transporters. Here, we report the crystal structures of a lactate-binding protein of a TRAP (tripartite ATP-independent periplasmic) secondary transporter from Thermus thermophilus HB8. The folding of the protein is typical for a type II periplasmic solute-binding protein and forms a dimer in a back-to-back manner. One molecule of l-lactate is clearly identified in a cleft of the protein as a complex with a calcium ion. Detailed crystallographic and biochemical analyses revealed that the calcium ion can be removed from the protein and replaced with other divalent cations. This characterization of the structure of a protein binding with calcium lactate makes a significant contribution to our understanding of the mechanisms by which calcium and lactate are accommodated in cells.
+http://www.sciencedirect.com/science/article/pii/S0022283609008821
+00222836

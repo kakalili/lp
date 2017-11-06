@@ -1,0 +1,6 @@
+Folding of the Repeat Domain of Tau Upon Binding to Lipid Surfaces
+36974210100,7006311896
+tau,Alzheimer's,protein folding,protein aggregation,microtubule associated proteins
+The microtubule-associated protein tau is impacted in neurodegeneration and dementia through its deposition in the form of paired helical filaments in Alzheimer's disease neurofibrillary tangles and through mutations linking it to the autosomal dominant disorder frontotemporal dementia with Parkinsonism. When isolated in solution tau is intrinsically unstructured and does not fold, while the conformation of the protein in the microtubule-bound state remains uncharacterized. Here we show that the repeat region of tau, which has been reported both to mediate tau microtubule interactions and to constitute the proteolysis-resistant core of disease-associated tau aggregates, associates with lipid micelles and vesicles and folds into an ordered structure upon doing so. In addition to providing the first structural insights into a folded state of tau, our results support a role for lipid membranes in mediating tau function and tau pathology.
+http://www.sciencedirect.com/science/article/pii/S0022283606008709
+00222836

@@ -1,0 +1,6 @@
+Conformational Selection in Substrate Recognition by Hsp70 Chaperones
+24781006100,55535019100,55534970200,54893182400,55534844900,24463989800,8292171500,35932102100,6603174446,7005734918
+antibody,BiP,Hsp70,molecular chaperone,substrate conformation
+Hsp70s are molecular chaperones involved in the folding and assembly of proteins. They recognize hydrophobic amino acid stretches in their substrate binding groove. However, a detailed understanding of substrate specificity is still missing. Here, we use the endoplasmic reticulum-resident Hsp70 BiP to identify binding sites in a natural client protein. Two sites are mutually recognized and form stable Hsp70–substrate complexes. In silico and in vitro analyses revealed an extended substrate conformation as a crucial factor for interaction and show an unexpected plasticity of the substrate binding groove. The basic binding mechanism is conserved among different Hsp70s.
+http://www.sciencedirect.com/science/article/pii/S0022283612009023
+00222836

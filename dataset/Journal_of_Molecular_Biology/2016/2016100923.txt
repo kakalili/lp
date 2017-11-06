@@ -1,0 +1,6 @@
+Membrane Targeting and Insertion of the C-Tail Protein SciP
+23502147800,57191346621,55959828800,15757426300,35366429400
+membrane insertase YidC,signal recognition particle (SRP),protein localization,protein targeting,fluorescence microscopy
+C-tailed membrane proteins insert into the bilayer post-translationally because the hydrophobic anchor segment leaves the ribosome at the end of translation. Nevertheless, we find here evidence that the targeting of SciP to the membrane of Escherichia coli occurs co-translationally since signal elements in the N-terminal part of the SciP protein sequence are present. Two short hydrophobic sequences were identified that targeted a green fluorescent protein-SciP fusion protein to the membrane involving the signal recognition particle. After targeting, the membrane insertion of SciP is catalyzed by YidC independent of the SecYEG translocase. However, when the C-terminal tail of SciP was extended to 21 aa residues, we found that SecYEG becomes involved and makes its membrane insertion more efficient.
+http://www.sciencedirect.com/science/article/pii/S0022283616303631
+00222836

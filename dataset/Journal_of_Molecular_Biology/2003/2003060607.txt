@@ -1,0 +1,6 @@
+Folding Rates and Low-entropy-loss Routes of Two-state Proteins
+6603886985,35561132800
+protein folding kinetics,native state topology,effective contact order,loop-closure entropy,folding mechanism
+We develop a simple model for computing the rates and routes of folding of two-state proteins from the contact maps of their native structures. The model is based on the graph-theoretical concept of effective contact order (ECO). The model predicts that proteins fold by “zipping up” in a sequence of small-loop-closure events, depending on the native chain fold. Using a simple equation, with a few physical rate parameters, we obtain a good correlation with the folding rates of 24 two-state folding proteins. The model rationalizes data from Φ-value analysis that have been interpreted in terms of delocalized or polarized transition states. This model indicates how much of protein folding may take place in parallel, not along a single reaction coordinate or with a single transition state.
+http://www.sciencedirect.com/science/article/pii/S0022283603004364
+00222836

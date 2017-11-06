@@ -1,0 +1,6 @@
+A Molecular Clock Operates During Chick Autopod Proximal-distal Outgrowth
+8532016700,35618864100,6701609623,7003575592,35973698900,6602158172,6603305227
+hairy2,molecular clock,limb development,cycling genes,vertebrate embryo
+Temporal control can be considered the fourth dimension in embryonic development. The identification of the somitogenesis molecular clock provided new insight into how embryonic cells measure time. We provide the first evidence of a molecular clock operating during chick fore-limb autopod outgrowth and patterning, by showing that the expression of the somitogenesis clock component hairy2 cycles in autopod chondrogenic precursor cells with a 6 h periodicity. We determined the length of time required to form an autopod skeletal limb element, and established a correlation between the latter and the periodicity of cyclic hairy2 gene expression. We suggest that temporal control exerted by cyclic gene expression can be a widespread mechanism providing cellular temporal information during vertebrate embryonic development.
+http://www.sciencedirect.com/science/article/pii/S0022283607001751
+00222836

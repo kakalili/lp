@@ -1,0 +1,6 @@
+Heparin Activates PKR by Inducing Dimerization
+7402008838,53364184100,26636052800,7004638374,56305942100
+analytical ultracentrifugation,drug discovery,innate immunity,protein kinase R
+Protein kinase R (PKR) is an interferon-induced kinase that plays a pivotal role in the innate immunity pathway. PKR is activated to undergo autophosphorylation upon binding to double-stranded RNAs or RNAs that contain duplex regions. Activated PKR phosphorylates the α subunit of eukaryotic initiation factor 2, thereby inhibiting protein synthesis. PKR is also activated by heparin, a highly sulfated glycosaminoglycan. We have used biophysical methods to define the mechanism of PKR activation by heparin. Heparins as short as hexasaccharide bind strongly to PKR and activate autophosphorylation. In contrast to double-stranded RNA, heparin activates PKR by binding to the kinase domain. Analytical ultracentrifugation measurements support a thermodynamic linkage model where heparin binding allosterically enhances PKR dimerization, thereby activating the kinase. These results indicate that PKR can be activated by small molecules and represents a viable target for the development of novel antiviral agents.
+http://www.sciencedirect.com/science/article/pii/S002228361101031X
+00222836

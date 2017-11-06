@@ -1,0 +1,6 @@
+Solution Structure of the BHRF1 Protein From Epstein-Barr Virus, a Homolog of Human Bcl-2
+55467455900,7005557703,7005957775,7103359639,7003490320
+BHRF1,Bcl-2,Epstein-Barr virus,NMR spectroscopy,structure determination
+The three-dimensional structure of BHRF1, the Bcl-2 homolog from Epstein-Barr virus (EBV), has been determined by NMR spectroscopy. Although the overall structure is similar to other Bcl-2 family members, there are important structural differences. Unlike some of the other Bcl-2 family members, BHRF1 does not contain the prominent hydrophobic groove that mediates binding to pro-apoptotic family members. In addition, in contrast to the anti-apoptotic Bcl-2 proteins, BHRF1 does not bind tightly to peptides derived from the pro-apoptotic proteins Bak, Bax, Bik, and Bad. The lack of an exposed, pre-formed binding groove in BHRF1 and the lack of significant binding to peptides derived from pro-apoptotic family members that bind to other anti-apoptotic family members, suggest that the mechanism of the BHRF1 anti-apoptotic activity does not parallel that of cellular Bcl-xL or Bcl-2.
+http://www.sciencedirect.com/science/article/pii/S0022283603010234
+00222836

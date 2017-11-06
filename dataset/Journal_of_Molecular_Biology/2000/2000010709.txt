@@ -1,0 +1,6 @@
+Investigating the binding specificity of U1A-RNA by computational mutagenesis11Edited by I. Tinoco
+7101898763,36044775300
+U1A,RNA-protein recognition,continuum solvent,MM/PBSA,computational mutagenesis
+The mammalian spliceosomal protein U1A binds a hairpin RNA with picomolar affinity. To examine the origin of this binding specificity, we carried out computational mutagenesis on protein and RNA residues in the U1A-RNA binding interface. Our computational mutagenesis methods calculate the relative binding affinity between mutant and wild-type as the sum of molecular mechanical energies and solvation free energies estimated with a continuum solvent model. We obtained good agreement with experimental studies and we verified mutations that abolish and improve binding. Therefore, we offer these methods as computationally inexpensive tools for investigating and predicting the effects of site-specific mutagenesis.
+http://www.sciencedirect.com/science/article/pii/S0022283699933193
+00222836

@@ -1,0 +1,6 @@
+NMR spectroscopic Evidence for Mn2+(Mg2+) Binding to a precursor-tRNA Microhelix Near the Potential RNase P Cleavage Site
+6508195752,7201739353,7004764469,7003411800
+RNase P, cleavage, precursor-tRNA, divalent metal ion, NMR
+The binding of Mg2+/Mn2+ to acceptor stem microhelices as minimal models for precursor-tRNAGly is demonstrated by NMR spectroscopy. From the evaluation of COSY and NOESY spectra, binding sites for Mg2+/Mn2+ can be inferred. In particular, one binding site exists near the ribose moiety of nucleotide −1 at the position of cleavage by RNase P. From comparison with a variant possessing a deoxynucleotide at this position, it is concluded that the 2′-OH group of this nucleotide is indispensable for coordinating the divalent metal ion. Hence, this catalytically important metal ion is “pre-bound” to the precursor-tRNA before complexation with RNase P.
+http://www.sciencedirect.com/science/article/pii/S0022283600942992
+00222836

@@ -1,0 +1,6 @@
+A Highly Unusual Palindromic Transmembrane Helical Hairpin Formed by SARS Coronavirus E Protein
+6506565778,6603362038,56040075500,24466197800,7005581709,7003858738
+membrane proteins,SARS coronavirus,transmembrane helices,viral budding
+The agent responsible for the recent severe acute respiratory syndrome (SARS) outbreak is a previously unidentified coronavirus. While there is a wealth of epidemiological studies, little if any molecular characterization of SARS coronavirus (SCoV) proteins has been carried out. Here we describe the molecular characterization of SCoV E protein, a critical component of the virus responsible for virion envelope morphogenesis. We conclusively show that SCoV E protein contains an unusually short, palindromic transmembrane helical hairpin around a previously unidentified pseudo-center of symmetry, a structural feature which seems to be unique to SCoV. The hairpin deforms lipid bilayers by way of increasing their curvature, providing for the first time a molecular explanation of E protein's pivotal role in viral budding. The molecular understanding of this critical component of SCoV may represent the beginning of a concerted effort aimed at inhibiting its function, and consequently, viral infectivity.
+http://www.sciencedirect.com/science/article/pii/S0022283604006953
+00222836

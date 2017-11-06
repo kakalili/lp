@@ -1,0 +1,6 @@
+Regulation, Signaling, and Physiological Functions of G-Proteins
+15758653100,53063308800,57191107672,55741395000
+G-protein,cellular signaling,GPCR
+Heterotrimeric guanine-nucleotide-binding regulatory proteins (G-proteins) mainly relay the information from G-protein-coupled receptors (GPCRs) on the plasma membrane to the inside of cells to regulate various biochemical functions. Depending on the targeted cell types, tissues, and organs, these signals modulate diverse physiological functions. The basic schemes of heterotrimeric G-proteins have been outlined. In this review, we briefly summarize what is known about the regulation, signaling, and physiological functions of G-proteins. We then focus on a few less explored areas such as the regulation of G-proteins by non-GPCRs and the physiological functions of G-proteins that cannot be easily explained by the known G-protein signaling pathways. There are new signaling pathways and physiological functions for G-proteins to be discovered and further interrogated. With the advancements in structural and computational biological techniques, we are closer to having a better understanding of how G-proteins are regulated and of the specificity of G-protein interactions with their regulators.
+http://www.sciencedirect.com/science/article/pii/S0022283616302935
+00222836

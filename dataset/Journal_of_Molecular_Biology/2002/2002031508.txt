@@ -1,0 +1,6 @@
+Structure of POIA1, a homologous protein to the propeptide of subtilisin: implication for protein foldability and the function as an intramolecular chaperone11Edited by R. Huber
+6701843342,40562017400,35508211400,7202195483
+protein structure,protein folding,propeptide,intramolecular chaperone,NMR
+Solution structure of POIA1 (Pleurotus ostreatus proteinase A inhibitor 1), which functions as an intramolecular chaperone and as an inhibitor to subtilisin, was determined. By making use of the fact that POIA1 is the only structured protein that shows homology to the propeptide of subtilisin, which is unstructured by itself, foldability of this protein was elucidated. It became clear that the evolutionarily conserved residues play two important roles, one for the maintenance of its own structure, and the other for the interaction with subtilisin. Structural softness and mutational tolerance contained in the POIA1 structure makes it an ideal material for designing a foldable protein.
+http://www.sciencedirect.com/science/article/pii/S0022283602954124
+00222836

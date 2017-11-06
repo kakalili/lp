@@ -1,0 +1,6 @@
+Membrane-integration Characteristics of Two ABC Transporters, CFTR and P-glycoprotein
+26321448500,26321552300,26321373100,37014272000,26321515000,26321593900,26321896600,7401761658,7102118731,7202797059
+cystic fibrosis transmembrane conductance regulator (CFTR),cystic fibrosis (CF),P-glycoprotein (P-gp),membrane protein,topology
+To what extent do corresponding transmembrane helices in related integral membrane proteins have different membrane-insertion characteristics? Here, we compare, side-by-side, the membrane insertion characteristics of the 12 transmembrane helices in the adenosine triphosphate-binding cassette (ABC) transporters, P-glycoprotein (P-gp) and the cystic fibrosis transmembrane conductance regulator (CFTR). Our results show that 10 of the 12 CFTR transmembrane segments can insert independently into the ER membrane. In contrast, only three of the P-gp transmembrane segments are independently stable in the membrane, while the majority depend on the presence of neighboring loops and/or transmembrane segments for efficient insertion. Membrane-insertion characteristics can thus vary widely between related proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283609002058
+00222836

@@ -1,0 +1,6 @@
+Solution structure and dynamics of the DNA-binding domain of the adipocyte-transcription factor FREAC-1111Edited by P. E. Wright
+7006928761,7003824594,7102980513,7003316999,7102367797
+FREAC,forkhead,winged helix,NMR structure,dynamics
+Transcription factors of the forkhead type share a highly conserved DNA-binding domain of about 100 amino acid residues. FREAC-11, expressed in adipocytes, belongs to this class. Here, we report on NMR studies that established the three-dimensional structure of the FREAC-11, DNA-binding domain. Although apparent similarities to the structures of other members within the forkhead family are observed, the structure also reveals some remarkable differences. Along with the complementary dynamics, the data provide insight into the fundamentals of sequence specificity within a highly conserved motif.
+http://www.sciencedirect.com/science/article/pii/S0022283699934769
+00222836

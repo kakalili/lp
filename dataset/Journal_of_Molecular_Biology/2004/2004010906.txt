@@ -1,0 +1,6 @@
+Inhibition of a Mitotic Motor Protein: Where, How, and Conformational Consequences
+55239606400,7005650285,36011148200,6603038106,6701913915,7004680051,6701421038,7103295345,7202337129,7101601989
+kinesin,mitotic arrest,X-ray structure,induced-fit,allosteric inhibition
+We report here the first inhibitor-bound structure of a mitotic motor protein. The 1.9Å resolution structure of the motor domain of KSP, bound with the small molecule monastrol and Mg2+·ADP, reveals that monastrol confers inhibition by “induced-fitting” onto the protein some 12Å away from the catalytic center of the enzyme, resulting in the creation of a previously non-existing binding pocket. The structure provides new insights into the biochemical and mechanical mechanisms of the mitotic motor domain. Inhibition of KSP provides a novel mechanism to arrest mitotic spindle formation, a target of several approved and investigative anti-cancer agents. The structural information gleaned from this novel pocket offers a new angle for the design of anti-mitotic agents.
+http://www.sciencedirect.com/science/article/pii/S0022283603013536
+00222836

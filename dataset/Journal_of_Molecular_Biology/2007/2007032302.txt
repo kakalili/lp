@@ -1,0 +1,6 @@
+Structural Insights into Fibronectin Type III Domain-mediated Signaling
+6602616474,7201920267,36784722300,6504135941,7004761664,8407282700,7003417622
+fibronectin,EIIIB,neovascularization,structure
+The alternatively spliced type III extradomain B (EIIIB) of fibronectin (FN) is expressed only during embryogenesis, wound healing and tumorigenesis. The biological function of this domain is unclear. We describe here the first crystal structure of the interface between alternatively spliced EIIIB and its adjacent FN type III domain 8 (FN B-8). The opened CC′ loop of EIIIB, and the rotation and tilt of EIIIB allow good access to the FG loop of FN-8, which is normally hindered by the CC′ loop of FN-7. In addition, the AGEGIP sequence of the CC′′ loop of EIIIB replaces the NGQQGN sequence of the CC′ loop of FN-7. Finally, the CC′′ loop of EIIIB forms an acidic groove with FN-8. These structural findings warrant future studies directed at identifying potential binding partners for FN B-8 interface, linking EIIIB to skeletal and cartilaginous development, wound healing, and tumorigenesis, respectively.
+http://www.sciencedirect.com/science/article/pii/S0022283606013568
+00222836

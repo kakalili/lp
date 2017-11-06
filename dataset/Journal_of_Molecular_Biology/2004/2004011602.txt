@@ -1,0 +1,6 @@
+The Solution Structure of Ribosomal Protein L18 from Bacillus stearothermophilus
+8162790200,7403684759
+Bacillus stearothermophilus,L18,NMR,50S subunit,ribosomal protein
+A medium resolution solution structure has been obtained for L18 from Bacillus stearothermophilus (BstL18), a ribosomal protein that stabilizes the tertiary structure of 5S rRNA and mediates its interaction with the rest of the large subunit. The N-terminal 22 amino acid residues of BstL18 are unstructured in solution. Its remaining 98 residues form a globular domain that has the same topology as the globular domains of other L18s, but the orientation of helices is different. This conformational peculiarity should not prevent BstL18 from functioning in the ribosome the same way as other L18s.
+http://www.sciencedirect.com/science/article/pii/S0022283603014153
+00222836

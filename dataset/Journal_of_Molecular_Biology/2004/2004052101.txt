@@ -1,0 +1,6 @@
+Structural Studies of the Nudix Hydrolase DR1025 From Deinococcus radiodurans and its Ligand Complexes
+6507335558,7202000994,7801484016,6701719256,6701562650,7404428515,7005669139,7201660226,7004637895
+Nudix hydrolase,MutT-like,Deinococcus radiodurans,X-ray crystallography
+We have determined the crystal structure, at 1.4Å, of the Nudix hydrolase DR1025 from the extremely radiation resistant bacterium Deinococcus radiodurans. The protein forms an intertwined homodimer by exchanging N-terminal segments between chains. We have identified additional conserved elements of the Nudix fold, including the metal-binding motif, a kinked β-strand characterized by a proline two positions upstream of the Nudix consensus sequence, and participation of the N-terminal extension in the formation of the substrate-binding pocket. Crystal structures were also solved of DR1025 crystallized in the presence of magnesium and either a GTP analog or Ap4A (both at 1.6Å resolution). In the Ap4A co-crystal, the electron density indicated that the product of asymmetric hydrolysis, ATP, was bound to the enzyme. The GTP analog bound structure showed that GTP was bound almost identically as ATP. Neither nucleoside triphosphate was further cleaved.
+http://www.sciencedirect.com/science/article/pii/S0022283604003067
+00222836

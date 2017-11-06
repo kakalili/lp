@@ -1,0 +1,6 @@
+Structure-Based Annotation of a Novel Sugar Isomerase from the Pathogenic E. coli O157:H7
+23006658500,34973170600,35239043200,26530762700,7203001715,7202237255
+cupin,sugar isomerase,d-lyxose,d-mannose,crystal structure
+Prokaryotes can use a variety of sugars as carbon sources in order to provide a selective survival advantage. The gene z5688 found in the pathogenic Escherichia coli O157:H7 encodes a “hypothetical” protein of unknown function. Sequence analysis identified the gene product as a putative member of the cupin superfamily of proteins, but no other functional information was known. We have determined the crystal structure of the Z5688 protein at 1.6 Å resolution and identified the protein as a novel E. coli sugar isomerase (EcSI) through overall fold analysis and secondary-structure matching. Extensive substrate screening revealed that EcSI is capable of acting on d-lyxose and d-mannose. The complex structure of EcSI with fructose allowed the identification of key active-site residues, and mutagenesis confirmed their importance. The structure of EcSI also suggested a novel mechanism for substrate binding and product release in a cupin sugar isomerase. Supplementation of a nonpathogenic E. coli strain with EcSI enabled cell growth on the rare pentose d-lyxose.
+http://www.sciencedirect.com/science/article/pii/S0022283610007205
+00222836

@@ -1,0 +1,6 @@
+Cryo-Electron Microscopy Structure of a Yeast Mitochondrial Preprotein Translocase
+6603302195,35380273900,7006010107
+electron cryo-microscopy,mitochondria,Saccharomyces cerevisiae,protein transport
+The translocase of the outer mitochondrial membrane (TOM) complex is the main entry gate for proteins imported into mitochondria. We determined the structure of the native, unstained ∼550-kDa core–Tom20 complex from Saccharomyces cerevisiae by cryo-electron microscopy at 18-Å resolution. The complex is triangular, measuring 145 Å on edge, and has near-3-fold symmetry. Its bulk is made up of three globular ∼50-Å domains. Three elliptical pores on the c-face merge into one central ∼70-Å cavity with a cage-like assembly on the opposite t-face. Nitrilotriacetic acid–gold labeling indicates that three Tom22 subunits in the TOM complex are located at the perimeter of the complex near the interface of the globular domains. We assign Tom22, which controls complex assembly, to three peripheral protrusions on the c-face, while the Tom20 subunit is tentatively assigned to the central protrusion on this surface. Based on our three-dimensional map, we propose a model of transient interactions and functional dynamics of the TOM assembly.
+http://www.sciencedirect.com/science/article/pii/S0022283608009674
+00222836

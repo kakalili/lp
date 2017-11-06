@@ -1,0 +1,6 @@
+Molecular Basis for Immune Complex Recognition: A Comparison of Fc-Receptor Structures
+6701705149,7402184874,7003549752
+Fc-receptor,IgG,Fc-fragment,refolding,crystal structure
+Once antigen is opsonised by IgG it is removed from the circulation by Fcγ-receptor expressing cells. Fcγ-receptors are type I transmembrane molecules that carry extracellular parts consisting of two or three immunoglobulin domains. Previously solved structures of Fc-receptors reveal that the N-terminal two Ig-like domains are arranged in a steep angle forming a heart-shaped structure. The crystal structure of the FcγRIII/hIgG1-Fc-fragment demonstrated that the Fc-fragment is recognised through loops of the C-terminal receptor domain of the FcγRIII. As the overall structure of the FcRs and their Ig ligands are very similar we modelled the Ig complexes with FcγRI, FcγRII and FcϵRIα based on the FcγRIII/hIgG1-Fc-fragment structure. The obtained models are consistent with the observed biochemical data and may explain the observed specificity and affinities.
+http://www.sciencedirect.com/science/article/pii/S0022283601946704
+00222836

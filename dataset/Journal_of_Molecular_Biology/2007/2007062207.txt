@@ -1,0 +1,6 @@
+Structure of Calcineurin in Complex with PVIVIT Peptide: Portrait of a Low-affinity Signalling Interaction
+37085840900,55851850700,7404473866,7402648087,56810634900
+calcineurin,NFAT,VIVIT peptide,crystal structure,docking site
+The protein phosphatase calcineurin recognizes a wide assortment of substrates and controls diverse developmental and physiological pathways in eukaryotic cells. Dephosphorylation of the transcription factor NFAT and certain other calcineurin substrates depends on docking of calcineurin at a PxIxIT consensus site. We describe here the structural basis for recognition of the PxIxIT sequence by calcineurin. We demonstrate that the high-affinity peptide ligand PVIVIT adds as a β-strand to the edge of a β-sheet of calcineurin; that short peptide segments containing the PxIxIT consensus sequence suffice for calcineurin-substrate docking; and that sequence variations within the PxIxIT core modulate the Kd of the interaction within the physiological range 1 μM to 1 mM. Calcineurin can adapt to a wide variety of substrates, because recognition requires only a PxIxIT sequence and because variation within the core PxIxIT sequence can fine-tune the affinity to match the physiological signalling requirements of individual substrates.
+http://www.sciencedirect.com/science/article/pii/S0022283607004901
+00222836

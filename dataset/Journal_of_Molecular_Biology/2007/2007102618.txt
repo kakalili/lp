@@ -1,0 +1,6 @@
+A Conserved Small RNA Promotes Discoordinate Expression of the glmUS Operon mRNA to Activate GlmS Synthesis
+8928534400,15071276700,7201560600,55273641200,15074184800
+small non-coding RNA,glmS,discoordinate operon expression,Sigma 54
+Many bacterial genes of related function are organized in operons and transcribed as polycistronic mRNAs to ensure the coordinate expression of the individual cistrons. Post-transcriptional modulation of such mRNAs can alter the expression of downstream cistrons, resulting in discoordinate protein synthesis from an operon mRNA. Several factors, including small non-coding RNAs (sRNAs), have been described that act collectively as repressors within polycistronic mRNAs. We describe the first case of discoordinated operon expression in which a downstream cistron is activated at the post-transcriptional level. We report that GlmY sRNA activates GlmS synthesis from the Escherichia coli glmUS mRNA without altering GlmU expression. The sRNA is shown to be structurally and functionally conserved in diverse enterobacteria; its transcription may be controlled by the alternative sigma factor, σ54. Our data suggest that Gram-negative bacteria evolved a mechanism of glmS riboregulation that is distinct from the glmS riboswitch mechanism of Gram-positive bacteria.
+http://www.sciencedirect.com/science/article/pii/S002228360700962X
+00222836

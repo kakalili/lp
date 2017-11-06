@@ -1,0 +1,6 @@
+Lateral recognition of a dye hapten by a llama VHH domain11Edited by I. Wilson
+7005124414,56211778600,7004599532,15746037500,7006765066
+llama VHH,camelid immunoglobulin,crystal structure,azo-dye,complex
+Camelids, camels and llamas, have a unique immune system able to produce heavy-chain only antibodies. Their VH domains (VHHs) are the smallest binding units produced by immune systems, and therefore suitable for biotechnological applications through heterologous expression. The recognition of protein antigens by these VHHs is rather well documented, while less is known about the VHH/hapten interactions. The recently reported X-ray structure of a VHH in complex with a copper-containing azo-dye settled the ability of VHH to recognize haptens by forming a cavity between the three complementarity-determining regions (CDR). Here we report the structures of a VHH (VHH A52) free or complexed with an azo-dye, RR1, without metal ion. The structure of the complex illustrates the involvement of CDR2, CDR3 and a framework residue in a lateral interaction with the hapten. Such a lateral combining site is comparable to that found in classical antibodies, although in the absence of the VL.
+http://www.sciencedirect.com/science/article/pii/S0022283601948569
+00222836

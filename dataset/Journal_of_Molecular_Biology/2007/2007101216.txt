@@ -1,0 +1,6 @@
+Structure and Action of the N-oxygenase AurF from Streptomyces thioluteus
+8502758500,35239343000,7004071612,35480103800
+anomalous X-ray diffraction,antibiotics,biosynthesis of nitro groups,crystal structure,metal ion identification
+Nitro groups are found in a number of bioactive compounds. Most of them arise by a stepwise mono-oxygenation of amino groups. One of the involved enzymes is AurF participating in the biosynthesis of aureothin. Its structure was established at 2.1 Å resolution showing a homodimer with a binuclear manganese cluster. The enzyme preparation, which yielded the analyzed crystals, showed activity using in vitro and in vivo assays. Chain fold and cluster are homologous with ribonucleotide reductase subunit R2 and related enzymes. The two manganese ions and an iron content of about 15% were established by anomalous X-ray diffraction. A comparison of the cluster with more common di-iron clusters suggested an additional histidine in the coordination sphere to cause the preference for manganese over iron. There is no oxo-bridge. The substrate p-amino-benzoate was modeled into the active center. The model is supported by mutant activity measurements. It shows the geometry of the reaction and explains the established substrate spectrum.
+http://www.sciencedirect.com/science/article/pii/S0022283607007954
+00222836

@@ -1,0 +1,6 @@
+Structure and Activity of Human Mitochondrial Peptide Deformylase, a Novel Cancer Target
+15020477400,6505898127,56169087400,6506629249,36548525900,7005567905
+human deformylase,peptide deformylase,crystal structure
+Peptide deformylase proteins (PDFs) participate in the N-terminal methionine excision pathway of newly synthesized peptides. We show that the human PDF (HsPDF) can deformylate its putative substrates derived from mitochondrial DNA-encoded proteins. The first structural model of a mammalian PDF (1.7 Å), HsPDF, shows a dimer with conserved topology of the catalytic residues and fold as non-mammalian PDFs. The HsPDF C-terminus topology and the presence of a helical loop (H2 and H3), however, shape a characteristic active site entrance. The structure of HsPDF bound to the peptidomimetic inhibitor actinonin (1.7 Å) identified the substrate-binding site. A defined S1′ pocket, but no S2′ or S3′ substrate-binding pockets, exists. A conservation of PDF–actinonin interaction across PDFs was observed. Despite the lack of true S2′ and S3′ binding pockets, confirmed through peptide binding modeling, enzyme kinetics suggest a combined contribution from P2′and P3′ positions of a formylated peptide substrate to turnover.
+http://www.sciencedirect.com/science/article/pii/S0022283609001703
+00222836

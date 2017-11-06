@@ -1,0 +1,6 @@
+A novel functional co-operation between MyoD, MEF2 and TRα1 is sufficient for the induction of GLUT4 gene transcription11Edited by M. Yaniv
+6603361879,7004906793,55837572700,36041927900,7006762434,7005302863
+GLUT4,MyoD,MEF2,TRα1,synergy
+We report tripartite co-operation between MyoD, myocyte enhancer factor-2 (MEF2) and the thyroid hormone receptor (TRα1) that takes place in the context of an 82-bp muscle-specific enhancer in the rat insulin-responsive glucose transporter (GLUT4) gene that is active in both cardiac and skeletal muscle. In the L6E9 skeletal muscle cell line and in 10T1/2 fibroblasts, a powerful synergistic activation of the GLUT4 enhancer relied on the over-expression of MyoD, MEF2 and TRα1 and the integrity of their respective binding sites, and occurred when linked to either a heterologous promoter or in the context of the native GLUT4 promoter. In cardiac myocytes, enhancer activity was dependent on the binding sites for MEF2 and TRα1. Furthermore, we show that in 10T1/2 fibroblasts, the forced expression of MyoD, MEF2 and TRα1 induced the expression of the endogenous, otherwise silent, GLUT4 gene. In all, our results indicate a novel functional co-operation between these three factors which is required for full activation of GLUT4 transcription.
+http://www.sciencedirect.com/science/article/pii/S0022283601950910
+00222836

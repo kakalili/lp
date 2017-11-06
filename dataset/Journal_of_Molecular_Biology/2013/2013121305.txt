@@ -1,0 +1,6 @@
+Insect Antiviral Innate Immunity: Pathways, Effectors, and Connections
+55486784400,55639943500,7202091604
+arbovirus,RNAi,Jak-STAT,Nf-κB,autophagy,autophagy
+Insects are infected by a wide array of viruses some of which are insect restricted and pathogenic, and some of which are transmitted by biting insects to vertebrates. The medical and economic importance of these viruses heightens the need to understand the interaction between the infecting pathogen and the insect immune system in order to develop transmission interventions. The interaction of the virus with the insect host innate immune system plays a critical role in the outcome of infection. The major mechanism of antiviral defense is the small, interfering RNA pathway that responds through the detection of virus-derived double-stranded RNA to suppress virus replication. However, other innate antimicrobial pathways such as Imd, Toll, and Jak-STAT and the autophagy pathway have also been shown to play important roles in antiviral immunity. In this review, we provide an overview of the current understanding of the main insect antiviral pathways and examine recent findings that further our understanding of the roles of these pathways in facilitating a systemic and specific response to infecting viruses.
+http://www.sciencedirect.com/science/article/pii/S0022283613006323
+00222836

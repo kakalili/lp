@@ -1,0 +1,6 @@
+The Brace for a Growing Scaffold: Mss116 Protein Promotes RNA Folding by Stabilizing an Early Assembly Intermediate
+55636320635,35602549900
+ribozyme,RNA folding,DEAD-box protein,NAIM
+The ai5γ group II intron requires a protein cofactor to facilitate native folding in the cell. Yeast protein Mss116 greatly accelerates intron folding under near-physiological conditions both in vivo and in vitro. Although the effect of Mss116 on the kinetics of ai5γ ribozyme folding and catalysis has been extensively studied, the precise structural role and interaction sites of Mss116 have been elusive. Using Nucleotide Analog Interference Mapping to study the folding of splicing precursor constructs, we have identified specific intron functional groups that participate in Mss116-facilitated folding and we have determined their role in the folding mechanism. The data indicate that Mss116 stabilizes an early, obligate folding intermediate within intron domain 1, thereby laying the foundation for productive folding to the native state. In addition, the data reveal an important role for the IBS2 exon sequence and for the terminus of domain 6, during the folding of self-splicing group IIB intron constructs.
+http://www.sciencedirect.com/science/article/pii/S0022283612004354
+00222836

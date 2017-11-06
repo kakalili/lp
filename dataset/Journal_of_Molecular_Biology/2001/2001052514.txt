@@ -1,0 +1,6 @@
+FokI requires two specific DNA sites for cleavage11Edited by T. Richmond
+9742485100,6701622288,56247514700
+restriction-modification system,DNA recognition and cleavage,specific and non-specific DNA,synaptic complex
+FokI is a bipartite restriction endonuclease that recognizes a non-palindromic DNA sequence, and then makes double-stranded cuts outside of that sequence to leave a 5′ overhang. Earlier kinetic and crystallographic studies suggested that FokI might function as a dimer. Here, we show, using dynamic light-scattering, gel-filtration and analytical ultracentrifugation, that FokI dimerizes only in the presence of divalent metal ions. Furthermore, analysis of the DNA-bound complex reveals that two copies of the recognition sequence are incorporated into the dimeric complex and that formation of this complex is essential for full activation of cleavage. These results have broad implications for the mechanism by which monomeric type II endonucleases achieve high fidelity.
+http://www.sciencedirect.com/science/article/pii/S0022283601946352
+00222836

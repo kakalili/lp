@@ -1,0 +1,6 @@
+Mapping Intramolecular Interactions between Domains in HMGB1 using a Tail-truncation Approach
+56277140000,7003858482,7406570031
+HMG box,NMR spectroscopy,acidic tail,chemical-shift perturbation
+The mechanism underlying negative regulation of HMGB1-DNA interaction by the acidic C-terminal tail is ill defined. To address this issue, we have devised a novel NMR chemical-shift perturbation mapping strategy to elucidate interactions between the tail, which consists solely of aspartic acid and glutamic acid residues, and the two well characterized HMG-box DNA-binding domains. A series of HMGB1 tail-truncation mutants differing from each other by five residues was generated. Chemical-shift perturbation mapping using these mutants shows that tails of different lengths bind with different affinities. Nevertheless, the truncated tails bind along the same path on the HMG boxes as the full-length tail, differences in length being manifested in differences in the “reach”. The tail makes extensive contacts with the DNA-binding surfaces of both HMG boxes, thus explaining the basis of negative regulation of HMGB1–DNA interaction by the tail.
+http://www.sciencedirect.com/science/article/pii/S0022283607012879
+00222836

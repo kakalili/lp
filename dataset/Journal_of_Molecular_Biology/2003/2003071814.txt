@@ -1,0 +1,6 @@
+NMR and Temperature-jump Measurements of de Novo Designed Proteins Demonstrate Rapid Folding in the Absence of Explicit Selection for Kinetics
+7006132012,7005231521,7403285310,7401823079,7202532156,7006470104,7003642375
+evolution,two-state,NMR lineshape
+We address the importance of natural selection in the origin and maintenance of rapid protein folding by experimentally characterizing the folding kinetics of two de novo designed proteins, NC3-NCAP and ENH-FSM1. These 51 residue proteins, which adopt the helix-turn-helix homeodomain fold, share as few as 12 residues in common with their most closely related natural analog. Despite the replacement of up to 3/4 of their residues by a computer algorithm optimizing only thermodynamic properties, the designed proteins fold as fast or faster than the 35,000 s−1 observed for the closest natural analog. Thus these de novo designed proteins, which were produced in the complete absence of selective pressures or design constraints explicitly aimed at ensuring rapid folding, are among the most rapidly folding proteins reported to date.
+http://www.sciencedirect.com/science/article/pii/S0022283603006168
+00222836

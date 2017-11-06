@@ -1,0 +1,6 @@
+The Transition-Like State and Pi Entrance into the Catalytic A Subunit of the Biological Engine A-ATP Synthase
+24481778400,56054013900,8885182100,26643247300
+ATPases,ATP synthases,archaea,nucleotide binding,transition state
+Archaeal A-ATP synthases catalyze the formation of the energy currency ATP. The chemical mechanisms of ATP synthesis in A-ATP synthases are unknown. We have determined the crystal structure of a transition-like state of the vanadate-bound form of catalytic subunit A (AVi) of the A-ATP synthase from Pyrococcus horikoshii OT3. Two orthovanadate molecules were observed in the AVi structure, one of which interacts with the phosphate binding loop through residue S238. The second vanadate is positioned in the transient binding site, implicating for the first time the pathway for phosphate entry to the catalytic site. Moreover, since residues K240 and T241 are proposed to be essential for catalysis, the mutant structures of K240A and T241A were also determined. The results demonstrate the importance of these two residues for transition-state stabilization. The structures presented shed light on the diversity of catalytic mechanisms used by the biological motors A- and F-ATP synthases and eukaryotic V-ATPases.
+http://www.sciencedirect.com/science/article/pii/S0022283611002634
+00222836

@@ -1,0 +1,6 @@
+Mutations in the glucocorticoid receptor DNA-binding domain mimic an allosteric effect of DNA11Edited by P. E. Wright
+6602899681,6506763583,6602440332,7003878991,7006238724,7406854908,56250591600
+glucocorticoid receptor,DNA-binding domain,mutant,allosteric
+Two previously isolated mutations in the glucocorticoid receptor DNA-binding domain (DBD), S459A and P493R, have been postulated to mimic DNA-induced conformational changes in the glucocorticoid receptor DBD, thereby constitutively triggering an allosteric mechanism in which binding of specific DNA normally induces the exposure of otherwise silent glucocorticoid receptor transcriptional activation surfaces. Here we report the three-dimensional structure of the free S459A and P493R mutant DBDs as determined by NMR spectroscopy. The free S459A and P493R structures both display the conformational changes in the DBD dimerization interface that are characteristic of the DNA-bound wild-type DBD, confirming that these mutations mimic an allosteric effect of DNA. A transition between two packing arrangements of the DBD hydrophobic core provides a mechanism for long-range transmission of conformational changes, induced either by the mutations or by DNA binding, to protein-protein contact surfaces.
+http://www.sciencedirect.com/science/article/pii/S0022283600940014
+00222836

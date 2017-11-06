@@ -1,0 +1,6 @@
+The 9.8 kDa Subunit of Complex I, Related to Bacterial Na+-translocating NADH Dehydrogenases, is Required for Enzyme Assembly and Function in Neurospora crassa
+26638335200,7103065589,7007130726
+mitochondria,NADH dehydrogenases,repeat-induced point-mutations,sodium translocation,Neurospora crassa
+A nuclear gene encoding a 9.8 kDa subunit of complex I, the homologue of mammalian MWFE protein, was identified in the genome of Neurospora crassa. The gene was cloned and inactivated in vivo by the generation of repeat-induced point mutations. Fungal mutant strains lacking the 9.8 kDa polypeptide were subsequently isolated. Analyses of mitochondrial proteins from mutant nuo9.8 indicate that the membrane and peripheral arms of complex I fail to assemble. Respiration of mutant mitochondria on matrix NADH is rotenone-insensitive, confirming that the 9.8 kDa protein is required for the assembly and activity of complex I. We found a similarity between the MWFE homologues and the C-terminal part of the nqrA subunit of bacterial Na+-translocating NADH:quinone oxidoreductases (Na+-NQR), suggesting a link between proton-pumping and sodium-pumping NADH dehydrogenases.
+http://www.sciencedirect.com/science/article/pii/S0022283603004431
+00222836

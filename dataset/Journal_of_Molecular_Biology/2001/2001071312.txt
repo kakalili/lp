@@ -1,0 +1,6 @@
+Plasmid systems to study RNA function in Escherichia coli11Edited by J. Karn
+7006623674,7004945283
+knockout,pBAD,plasmid switch,tRNAAsp,two-plasmid system
+Determining the functional activity of an essential RNA in vivo presents special challenges. We have devised an in vivo analysis of alternative forms of an essential tRNA gene in Escherichia coli knockout cells using either a plasmid switch or a regulated two-plasmid system. The model system is presented together with a description of the new plasmids and procedures necessary to effect these analyses. The system is readily adaptable to non-essential RNAs.
+http://www.sciencedirect.com/science/article/pii/S0022283601947862
+00222836

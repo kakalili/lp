@@ -1,0 +1,6 @@
+Identification of the RecA protein-loading domain of RecBCD enzyme11Edited by M. Gottesman
+7005366785,14833033100
+RecBCD enzyme,RecA protein,Chi sequence,recombination,helicase
+Genetic recombination in Escherichia coli is stimulated by the recombination hotspot Chi (χ), a regulatory element that modifies the activities of the RecBCD enzyme and leads to loading of the DNA strand exchange protein, RecA, onto the χ-containing DNA strand. The RecBC enzyme, which lacks the RecD subunit, loads RecA protein constitutively, in a manner that is independent of χ. Using a truncated RecBC enzyme lacking the 30 kDa C-terminal domain of the RecB subunit, we show that this domain is necessary for RecA protein-loading. We propose that this domain harbors a site that interacts with RecA protein, recruiting it to single-stranded DNA during unwinding. This ability of a translocating enzyme to deliver material (RecA protein) to a specific target site (the χ sequence) parallels that of other cellular motor proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283600935903
+00222836

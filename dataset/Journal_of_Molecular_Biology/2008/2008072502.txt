@@ -1,0 +1,6 @@
+Overexpression of Phage HK022 Nun Protein Is Toxic for Escherichia coli
+6504639076,6603572721,55469598600,7202589454
+phage HK022 Nun,transcription termination,E. coli stationary-phase toxicity,fis,indole
+The Nun protein of coliphage HK022 excludes superinfecting λ phage. Nun recognizes and binds to the N utilization (nut) sites on phage λ nascent RNA and induces transcription termination. Overexpression of Nun from a high-copy plasmid is toxic for Escherichia coli, despite the fact that nut sites are not encoded in the E. coli genome. Cells expressing Nun cannot exit stationary phase. Toxicity is related to transcription termination, since host and nun mutations that block termination also suppress cell killing. Nun inhibits expression of wild-type lacZ, but not lacZ expressed from the Crp/cAMP-independent lacUV5 promoter. Microarray and proteomic analyses show that Nun down-regulates crp and tnaA. Crp overexpression and high indole concentrations partially reverse Nun-mediated toxicity and restore lacZ expression.
+http://www.sciencedirect.com/science/article/pii/S0022283608005858
+00222836

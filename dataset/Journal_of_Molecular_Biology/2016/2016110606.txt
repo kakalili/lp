@@ -1,0 +1,6 @@
+Nucleobases Undergo Dynamic Rearrangements during RNA Tertiary Folding
+55655452900,7402946611
+GTPase center RNA,2-aminopurine fluorescence,RNA folding kinetics,stopped-flow fluorescence
+The tertiary structure of the GTPase center (GAC) of 23S ribosomal RNA (rRNA) as seen in cocrystals is extremely compact. It is stabilized by long-range hydrogen bonds and nucleobase stacking and by a triloop that forms within its three-way junction. Its folding pathway from secondary structure to tertiary structure has not been previously observed, but it was shown to require Mg2+ ions in equilibrium experiments. The fluorescent nucleotide 2-aminopurine was substituted at selected sites within the 60-nt GAC. Fluorescence intensity changes upon addition of MgCl2 were monitored over a time-course from 1ms to 100s as the RNA folds. The folding pathway is revealed here to be hierarchical through several intermediates. Observation of the nucleobases during folding provides a new perspective on the process and the pathway, revealing the dynamics of nucleobase conformational exchange during the folding transitions.
+http://www.sciencedirect.com/science/article/pii/S0022283616303928
+00222836

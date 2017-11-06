@@ -1,0 +1,6 @@
+Role of γ-Subunit N- and C-Termini in Assembly of the Mitochondrial ATP Synthase in Yeast
+9240827400,22939225200,16635696000,23468008600,7005799429,6603945102,7005144613,36845557000
+yeast,mitochondria,ATP synthase,gamma subunit,assembly
+The γ-subunit is required for the assembly of ATP synthases and plays a crucial role in their catalytic activity. We stepwise shortened the N-terminus and the C-terminus of the γ-subunit in the mitochondrial ATP synthase of yeast and investigated the relevance of these segments in the assembly of the enzyme and in the growth of the cells. We found that a deletion of 9 residues at the N-terminus or 20 residues at the C-terminus still allowed efficient import of the subunit into mitochondria; however, the assembly of both monomeric and dimeric holoenzymes was partially impaired. γ-Subunits lacking 13 N-terminal residues or 30 C-terminal residues were not assembled. Yeast strains expressing either of the truncated γ-subunits did not grow on non-fermentable carbon sources, indicating that non-assembled parts of the ATP synthase accumulated and impaired essential mitochondrial functions.
+http://www.sciencedirect.com/science/article/pii/S0022283608001654
+00222836

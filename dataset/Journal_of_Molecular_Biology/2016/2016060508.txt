@@ -1,0 +1,6 @@
+Arginine Patch Predicts the RNA Annealing Activity of Hfq from Gram-Negative and Gram-Positive Bacteria
+57189364916,15765976800,7006553529
+Hfq,small non-coding RNA,RNA chaperone,Sm protein,molecular beacon
+The Sm-protein Hfq facilitates interactions between small non-coding RNA (sRNA) and target mRNAs. In enteric Gram-negative bacteria, Hfq is required for sRNA regulation, and hfq deletion results in stress intolerance and reduced virulence. By contrast, the role of Hfq in Gram-positive is less established and varies among species. The RNA binding and RNA annealing activity of Hfq from Escherichia coli, Pseudomonas aeruginosa, Listeria monocytogenes, Bacillus subtilis, and Staphylococcus aureus were compared using minimal RNAs and fluorescence spectroscopy. The results show that RNA annealing activity increases with the number of arginines in a semi-conserved patch on the rim of the Hfq hexamer and correlates with the previously reported requirement for Hfq in sRNA regulation. Thus, the amino acid sequence of the arginine patch can predict the chaperone function of Hfq in sRNA regulation in different organisms.
+http://www.sciencedirect.com/science/article/pii/S0022283616300201
+00222836

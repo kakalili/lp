@@ -1,0 +1,6 @@
+Structurally Constrained Residues Outside the Binding Motif Are Essential in the Interaction of 14-3-3 and Phosphorylated Partner
+24072541900,7101952363,7004287764
+14-3-3 proteins,protein–protein interaction,protein phosphorylation,disordered proteins
+14-3-3 proteins participate in many key cellular processes after binding to disordered phospho-partners. Usually, the phosphorylated state is an essential target for the binding. Here, we show for the first time residues other than those in the 14-3-3 binding motif that are essential for the binding between 14-3-3 and a phosphorylated partner. Results support that phosphorylation, although necessary, is not sufficient for 14-3-3′s complex formation, as structurally constrained anchor residues play a critical function in stabilizing the protein–protein interaction.
+http://www.sciencedirect.com/science/article/pii/S0022283611000027
+00222836

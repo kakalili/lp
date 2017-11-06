@@ -1,0 +1,6 @@
+Synapsis of Tn3 Recombination Sites: Unpaired Sites Destabilize Synapses by a Partner Exchange Mechanism
+7404984735,6602638141,7402866445,7004495148,55665546300
+Tn3 resolvase,Tn21,site-specific recombination,synapsis,looping
+Catalysis of site-specific recombination is preceded by the formation of a synapse comprising two DNA sites and multiple subunits of the recombinase, together with other “accessory” proteins in some cases. We investigated the stability of synapses of Tn3 resolvase-bound res recombination sites, in plasmids containing either two or three res sites. Although synapses are long-lived in plasmids with just two res sites, persisting for tens of minutes, a synapse of any two sites is relatively short-lived in plasmids with three res sites. The three alternative pairwise synapses that can be formed in three-res plasmids re-assort rapidly relative to the rate of recombination. We propose a “partner exchange” mechanism for this re-assortment, involving direct attack on a synapse by an unpaired res site. This mechanism reconciles studies on selective synapsis in multi-res substrates, which imply rapid interchange of synaptic pairings, with studies indicating that synapses of two Tn3 res sites are stable.
+http://www.sciencedirect.com/science/article/pii/S0022283602003108
+00222836

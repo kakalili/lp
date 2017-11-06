@@ -1,0 +1,6 @@
+Split Pleckstrin Homology Domain-Mediated Cytoplasmic–Nuclear Localization of PI3-Kinase Enhancer GTPase
+55265561300,9742361700,7403540334,55536052300
+split PH domain,protein structure,lipid binding,PI3-kinase enhancer,cytoplasmic–nuclear shuttling
+Cytoplasm–nucleus shuttling of phosphoinositol 3-kinase enhancer (PIKE) is known to correlate directly with its cellular functions. However, the molecular mechanism governing this shuttling is not known. In this work, we demonstrate that PIKE is a new member of split pleckstrin homology (PH) domain-containing proteins. The structure solved in this work reveals that the PIKE PH domain is split into halves by a positively charged nuclear localization sequence. The PIKE PH domain binds to the head groups of di- and triphosphoinositides with similar affinities. Lipid membrane binding of the PIKE PH domain is further enhanced by the positively charged nuclear localization sequence, which is juxtaposed to the phosphoinositide head group-binding pocket of the domain. We demonstrate that the cytoplasmic–nuclear shuttling of PIKE is dynamically regulated by the balancing actions of the lipid-binding property of both the split PH domain and the nuclear targeting function of its nuclear localization sequence.
+http://www.sciencedirect.com/science/article/pii/S0022283608002519
+00222836

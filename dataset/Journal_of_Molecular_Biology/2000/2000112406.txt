@@ -1,0 +1,6 @@
+Polypyrimidine tract-binding protein inhibits translation of bip mRNA11Edited by K. Nagai
+36067973600,56251208400,55469339900
+translation,Bip,IRES,PTB
+Translation initiation of human Bip mRNA is directed by an internal ribosomal entry site (IRES) located in the 5′ non-translated region. No trans-acting factor possibly involved in this process has as of yet been identified. For the encephalomyocarditis virus and other picornaviruses, polypyrimidine tract-binding protein (PTB) has been found to enhance the translation through IRES elements, probably by interaction with the IRES structure. Here, we report that PTB specifically binds to the central region (nt 50–117) of the Bip 5′ non-translated region. Addition of purified PTB to rabbit reticulocyte lysate and overexpression of PTB in Cos-7 cells selectively inhibited Bip IRES-dependent translation. On the other hand, depletion of endogenous PTB or addition of an RNA interacting with PTB enhanced the translational initiation directed by Bip IRES. These suggest that PTB can either enhance or inhibit IRES-dependent translation depending on mRNAs.
+http://www.sciencedirect.com/science/article/pii/S0022283600941792
+00222836

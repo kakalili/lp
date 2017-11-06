@@ -1,0 +1,6 @@
+Assembly of a 20-nm Protein Cage by Escherichia coli 2-Hydroxypentadienoic Acid Hydratase
+7102101095,8442382500,7202126752,7401448110
+nanoparticle,protein,structure,encapsulation,pentamer
+The pentameric Escherichia coli enzyme 2-hydroxypentadienoic acid hydratase assembles to form a 20-nm-diameter particle comprising 60 protein subunits, arranged with 532 symmetry when crystallised at low pH in the presence of phosphate or sulphate ions. The particles form rapidly and are stable in solution during gel filtration at low pH. They are probably formed through trimers of pentamers, which are stabilised by the interaction of two phosphate ions with residues of the N-terminal domains of subunits at the 3-fold axis. Once the particles are formed at high concentrations of phosphate (or sulphate), they remain stable in solution at 20-fold lower concentrations of the anion. Guest molecules can be trapped within the hollow protein shell during assembly. The C-termini of the subunits are freely accessible on the surface of the protein cage and thus are ideal sites for addition of affinity tags or other modifications. These particles offer a convenient model system for studying the assembly of large symmetrical structures and a novel protein nanoparticle for encapsulation and cargo delivery.
+http://www.sciencedirect.com/science/article/pii/S0022283609015630
+00222836

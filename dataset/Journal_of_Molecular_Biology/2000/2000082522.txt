@@ -1,0 +1,6 @@
+A ribozyme derived from the catalytic subunit of RNase P from Escherichia coli is highly effective in inhibiting replication of herpes simplex virus 111Edited by J. Doudna
+6602577117,6701704233,7601368482,55717161700
+ribozyme,gene targeting,RNase P,herpes simplex virus,antiviral
+A sequence-specific ribozyme (M1GS RNA) derived from the catalytic RNA subunit of RNase P from Escherichia coli was used to target the mRNA encoding human herpes simplex virus 1 (HSV-1) major transcription activator, ICP4. A reduction of more than 80 % in the expression level of ICP4 and a reduction of about 1000-fold in viral growth were observed in cells that stably expressed the ribozyme. In contrast, a reduction of less than 10 % in ICP4 expression and viral growth was observed in cells that either did not express the ribozyme or produced a catalytically inactive ribozyme mutant. Thus, M1GS ribozyme is highly effective in inhibiting HSV-1 growth and can be used as a general gene-targeting agent for anti-HSV applications.
+http://www.sciencedirect.com/science/article/pii/S0022283600940221
+00222836

@@ -1,0 +1,6 @@
+Appropriate initiation of the strand exchange reaction promoted by RecA protein requires ATP hydrolysis11Edited by M. Gotesman
+55721773700,36800322900,36875026200,8710629000
+RecA,homologous recombination,ATPase activity,homology recognition
+The DNA-dependent ATPase activity of the Escherichia coli RecA protein has been recognized for more than two decades. Yet, the role of ATP hydrolysis in the RecA-promoted strand exchange reaction remains unclear. Here, we demonstrate that ATP hydrolysis is required as part of a proofreading process during homology recognition. It enables the RecA-ssDNA complex, after determining that the strand-exchanged duplex is mismatched, to dissociate from the synaptic complex, which allows it to re-initiate the search for a “true” homologous region. Furthermore, the results suggest that when non-homologous sequences are present at the proximal end, ATP hydrolysis is required to allow ssDNA-RecA to reinitiate the strand exchange from an internal homologous region.
+http://www.sciencedirect.com/science/article/pii/S0022283601947539
+00222836

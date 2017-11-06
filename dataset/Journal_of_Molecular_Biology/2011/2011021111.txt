@@ -1,0 +1,6 @@
+RNase III Participates in GadY-Dependent Cleavage of the gadX-gadW mRNA
+6602609700,6506328509,6603085304,7007164170
+antisense RNA,acid response,ribonuclease,OOP RNA
+The adjacent gadX and gadW genes encode transcription regulators that are part of a complex regulatory circuit controlling the Escherichia coli response to acid stress. We previously showed that the small RNA GadY positively regulates gadX mRNA levels. The gadY gene is located directly downstream of the gadX coding sequence on the opposite strand of the chromosome. We now report that gadX is transcribed in an operon with gadW, although this full-length mRNA does not accumulate. Base pairing of the GadY small RNA with the intergenic region of the gadX-gadW mRNA results in directed processing events within the region of complementarity. The resulting two halves of the cleaved mRNA accumulate to much higher levels than the unprocessed mRNA. We examined the ribonucleases required for this processing, and found that multiple enzymes are involved in the GadY-directed cleavage including the double-strand RNA-specific endoribonuclease RNase III.
+http://www.sciencedirect.com/science/article/pii/S0022283610012994
+00222836

@@ -1,0 +1,6 @@
+Single-cell Analysis of λ Immunity Regulation
+37461079000,8300941800,7102270675,7003686449,12786909400
+bacteriophage lambda,repressor,GFP,single-cell analyses
+We have examined expression of the λcI operon in single cells via a rex∷gfp substitution. Although average fluorescence agreed with expectations for expression of λ-repressor, fluorescence fluctuated greatly from cell-to-cell. Fluctuations in repressor concentration are not predicted by previous models and are tolerated in part by a regulatory response to DNA damage.
+http://www.sciencedirect.com/science/article/pii/S0022283603011859
+00222836

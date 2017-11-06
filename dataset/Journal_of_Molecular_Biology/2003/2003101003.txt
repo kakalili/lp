@@ -1,0 +1,6 @@
+A Protein Contortionist: Core Mutations of GB1 that Induce Dimerization and Domain Swapping
+7003720868,7202523747,35355628400
+GB1,core mutants,NMR structure,domain-swapping,oligomerization
+Immunoglobulin-binding domain B1 of streptococcal protein G (GB1), a small (56 residues), stable, single-domain protein, is one of the most extensively used model systems in the area of protein folding and design. Recently, NMR and X-ray structures of a quintuple GB1 core mutant (L5V/A26F/F30V/Y33F/A34F) that showed an unexpected, intertwined tetrameric architecture were determined. Here, we report the NMR structure of another mutant, derived from the tetramer by reverting the single amino acid position F26 back to the wild-type sequence A26. The structure reveals a domain-swapped dimer that involves exchange of the second β-hairpin. The resulting overall structure comprises an eight-stranded β-sheet whose concave side is covered by two α helices. The dimer dissociates into a partially folded, monomeric species with a dissociation constant of 93(±10)μM.
+http://www.sciencedirect.com/science/article/pii/S0022283603009288
+00222836

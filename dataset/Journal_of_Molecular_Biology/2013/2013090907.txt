@@ -1,0 +1,6 @@
+Phosphorylation of the Cyclin CaPcl5 Modulates Both Cyclin Stability and Specific Recognition of the Substrate
+25641719600,24331651600,6603958882
+Pho85,Candida albicans,cyclin-dependent kinase,SCF ubiquitin ligase,CDC4
+The Candida albicans cyclin CaPcl5 activates the cyclin-dependent kinase Pho85 and induces phosphorylation of the transcription factor CaGcn4, leading to its degradation. The high substrate specificity of the CaPcl5/Pho85 complex provides the opportunity to study the determinants of substrate selectivity of cyclins. Mutational analysis of CaPcl5 suggests that residues in a predicted α-helix at the N-terminal end of the cyclin box, as well as in helix I of the cyclin box, play a role in specific substrate recognition. Similar to Saccharomyces cerevisiae Pcl5, we show here that CaPcl5 induces its own phosphorylation at two adjacent sites in the N-terminal region of the protein and that this phosphorylation causes degradation of the cyclin in vivo via the SCFCDC4 ubiquitin ligase. Remarkably, however, in vitro studies reveal that this phosphorylation also results in a loss of specific substrate recognition, thereby providing an additional novel mechanism for limiting cyclin activity.
+http://www.sciencedirect.com/science/article/pii/S0022283613003641
+00222836

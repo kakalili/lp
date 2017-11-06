@@ -1,0 +1,6 @@
+Two Alternative Conformations of a Voltage-Gated Sodium Channel
+13806661900,7202320323,35781864000,6602697491,35782579300,17343778400,7401953860,6603807411,7005794374,56191388700
+voltage-gated sodium channel,electron crystallography,cryo-electron microscopy
+Activation and inactivation of voltage-gated sodium channels (Navs) are well studied, yet the molecular mechanisms governing channel gating in the membrane remain unknown. We present two conformations of a Nav from Caldalkalibacillus thermarum reconstituted into lipid bilayers in one crystal at 9Å resolution based on electron crystallography. Despite a voltage sensor arrangement identical with that in the activated form, we observed two distinct pore domain structures: a prominent form with a relatively open inner gate and a closed inner-gate conformation similar to the first prokaryotic Nav structure. Structural differences, together with mutational and electrophysiological analyses, indicated that widening of the inner gate was dependent on interactions among the S4–S5 linker, the N-terminal part of S5 and its adjoining part in S6, and on interhelical repulsion by a negatively charged C-terminal region subsequent to S6. Our findings suggest that these specific interactions result in two conformational structures.
+http://www.sciencedirect.com/science/article/pii/S0022283613004312
+00222836

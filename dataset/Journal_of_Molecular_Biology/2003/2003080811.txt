@@ -1,0 +1,6 @@
+Yeast Aspartyl-tRNA Synthetase Binds Specifically its Own mRNA
+6603015885,7102688210
+aspartyl-tRNA synthetase,messenger RNA,regulation of expression,yeast
+Dimeric class II aspartyl-tRNA synthetase (AspRS) from yeast has a modular architecture and includes an N-terminal appendix of 70 amino acid residues that protrudes from the anticodon-binding module. This extension, of predicted helical structure, is not essential for aminoacylation but contains an RNA-binding motif that promotes non-specific interactions with tRNAs. As shown here, this protein extension can also interact with the 5′ end of the AspRS mRNA. In vitro, optimal binding occurs on an mRNA domain comprising part of the 87 nucleotide long 5′UTR and the sequence encoding the N-terminal appendix. At the protein side, only the appendix and the anticodon-binding module participate in the interaction between AspRS and the mRNA domain. Binding is specific, since only tRNAAsp can dissociate the complex. In vivo, AspRS also binds specifically this mRNA domain and in doing so triggers a reduced translation of a fused GFP mRNA. From that, a mechanism for the regulation of this eukaryotic aminoacyl-tRNA synthetase is proposed. Implications for aspartylation accuracy in yeast are given.
+http://www.sciencedirect.com/science/article/pii/S0022283603007678
+00222836

@@ -1,0 +1,6 @@
+Replication Dynamics: Biases and Robustness of DNA Fiber Analysis
+55649222600,6603364282,55648587700,55648688700,6506099550,7005547376,7003634947,18536297600
+DNA combing,replication fork speed,inter-origin distance,inter-termination distance,fork asymmetry
+The factors that govern replication programs are still poorly identified in metazoans, especially in mammalian cells. Thanks to molecular combing, the dynamics of DNA replication can be assessed at the genome-scale level from the cumulative analysis of single DNA fibers. This technique notably enables measurement of replication fork speed and fork asymmetry and that of distances separating either initiation or termination events. The results presented here aim to evaluate requirements critical to accurate measurement of replication parameters by molecular combing. We show that sample size, fiber length and DNA counterstaining are crucial to gain robust information concerning replication dynamics. Our results thus provide a methodological frame to investigate the DNA replication program through molecular combing analyses.
+http://www.sciencedirect.com/science/article/pii/S0022283613002076
+00222836

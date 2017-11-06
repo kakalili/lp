@@ -1,0 +1,6 @@
+Site of Functional Interaction of Release Factor 1 with the Ribosome
+6602126081,7004507440
+ribosomal protein L11,nonsense suppression,translation termination/RF1
+Ribosomal protein L11 consists of a C-terminal and an N-terminal domain. To determine the importance of each domain for interaction with release factor 1, which works specifically at the UAG termination codon, we constructed Escherichia coli strains lacking either the entire L11 protein or just the N-terminal portion. Strains lacking L11 exhibited UAG suppression, defective growth, and high-temperature lethality, phenotypes that were reversed by expression of L11 protein from a plasmid. Strains lacking only the N-terminal portion of L11 grew well at physiological temperatures and survived at high temperature, but they were defective in UAG-dependent termination. Our results show for the first time that it is precisely the N-terminal part of ribosomal protein L11 that is required for the functional interaction of release factor 1 with the ribosome in the cell.
+http://www.sciencedirect.com/science/article/pii/S0022283603005370
+00222836

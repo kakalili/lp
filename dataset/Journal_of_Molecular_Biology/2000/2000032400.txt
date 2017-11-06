@@ -1,0 +1,6 @@
+High resolution crystal structure of bovine mitochondrial EF-tu in complex with GDP11Edited by K. Nagai
+7202552686,6603804729,7005621662,7004812188
+protein biosynthesis,elongation factors,mitochondrial proteins,X-ray crystallography,protein structure
+The crystal structure of bovine mitochondrial elongation factor Tu (EF-Tu) in complex with GDP has been determined at a resolution of 1.94 Å. The structure is similar to that of EF-Tu:GDP from Escherichia coli and Thermus aquaticus, but the orientation of the GDP-binding domain 1 is changed relative to domains 2 and 3. Sixteen conserved water molecules common to EF-Tu and other G-proteins in the GDP-binding site are described. These water molecules create a network linking separated parts of the binding pocket. Mitochondrial EF-Tu binds nucleotides less tightly than prokaryotic EF-Tu possibly due to an increased mobility in regions close to the GDP-binding site. The C-terminal extension of mitochondrial EF-Tu has structural similarities with DNA recognising zinc fingers suggesting that the extension may be involved in recognition of RNA.
+http://www.sciencedirect.com/science/article/pii/S0022283600935642
+00222836

@@ -1,0 +1,6 @@
+Functional Fingerprints of Folds: Evidence for Correlated Structure–Function Evolution
+6507770379,7004230696,7006634549,35600851100
+protein evolution,protein function,structure–function relationship
+Using structural similarity clustering of protein domains: protein domain universe graph (PDUG), and a hierarchical functional annotation: gene ontology (GO) as two evolutionary lenses, we find that each structural cluster (domain fold) exhibits a distribution of functions that is unique to it. These functional distributions are functional fingerprints that are specific to characteristic structural clusters and vary from cluster to cluster. Furthermore, as structural similarity threshold for domain clustering in the PDUG is relaxed we observe an influx of earlier-diverged domains into clusters. These domains join clusters without destroying the functional fingerprint. These results can be understood in light of a divergent evolution scenario that posits correlated divergence of structural and functional traits in protein domains from one or few progenitors.
+http://www.sciencedirect.com/science/article/pii/S0022283602013621
+00222836

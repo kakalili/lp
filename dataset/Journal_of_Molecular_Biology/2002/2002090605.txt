@@ -1,0 +1,6 @@
+Acetylation and Accessibility of rDNA Chromatin in Saccharomyces cerevisiae in Δtop1 and Δsir2 Mutants
+6701425509,6506518636,6604000307
+chromatin,acetylation,DNA topoisomerase I,SIR2,rDNA
+The insertion of reporter genes in the ribosomal DNA (rDNA) locus of Saccharomyces cerevisiae causes their transcriptional repression. This kind of transcriptional silencing depends on proteins such as Sir2p and Top1p, and has been shown to be mediated by chromatin. While Sir2p modifies nucleosomes directly through its histone deacetylase activity, little is known about changes in the chromatin structure that occur at the rDNA locus when TOP1 is deleted. Here, we show that the absence of Top1p causes increased histone acetylation at the rDNA locus. Moreover, rDNA chromatin becomes more accessible in a similar manner in both top1 and sir2 mutant strains.
+http://www.sciencedirect.com/science/article/pii/S0022283602007490
+00222836

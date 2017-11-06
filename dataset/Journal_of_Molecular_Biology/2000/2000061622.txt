@@ -1,0 +1,6 @@
+Extensive methylation of a part of the CpG island located 3.0–4.5 kbp upstream to the chicken alpha-globin gene cluster may contribute to silencing the globin genes in non-erythroid cells11Edited by M. Yaniv
+24374782900,6602182863,56229033700
+globin genes,CpG methylation,alpha D gene promoter
+Here, we show that in the chicken genome, the domain of α-globin genes is preceded by a CpG island of which the downstream part (∼0.65 kbp) is heavily methylated in lymphoid cells; it is either non-methylated or undermethylated in erythroid cells. Recombinant plasmids were constructed with the corresponding DNA fragment (called “uCpG”) placed upstream to a reporter CAT gene expressed from the promoter of the αD chicken globin gene. Selective methylation of CpG dinucleotides within the uCpG fragment suppressed fivefold the expression of the CAT gene, when neither this gene itself nor the αD promoter were methylated. Methylation of CpG dinucleotides within the αD gene promoter did not modify the suppression effect exerted by methylated uCpG. We interpret these results within the frame of the hypothesis postulating, that methylation of the upstream CpG island of the chicken α-globin gene domain may play an essential role in silencing the α-globin genes in non-erythroid cells.
+http://www.sciencedirect.com/science/article/pii/S0022283600937756
+00222836

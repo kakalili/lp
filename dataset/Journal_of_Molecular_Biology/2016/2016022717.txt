@@ -1,0 +1,6 @@
+Encapsulation as a Strategy for the Design of Biological Compartmentalization
+54414104100,7103402516
+encapsulation,bacterial microcompartments,viral capsids,ferritins,membrane compartments
+Compartmentalization is one of the defining features of life. Through intracellular spatial control, cells are able to organize and regulate their metabolism. One of the most broadly used organizational principles in nature is encapsulation. Cellular processes can be encapsulated within either membrane-bound organelles or proteinaceous compartments that create distinct microenvironments optimized for a given task. Further challenges addressed through intracellular compartmentalization are toxic or volatile pathway intermediates, slow turnover rates and competing side reactions. This review highlights a selection of naturally occurring membrane- and protein-based encapsulation systems in microbes and their recent applications and emerging opportunities in synthetic biology. We focus on examples that use engineered cellular organization to control metabolic pathway flux for the production of useful compounds and materials.
+http://www.sciencedirect.com/science/article/pii/S0022283615005203
+00222836

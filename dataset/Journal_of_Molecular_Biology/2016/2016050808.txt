@@ -1,0 +1,6 @@
+Mechanisms of Selective Autophagy
+57004888400,22934831500
+autophagy,autophagosome,cargo receptor,isolation membrane,Atg8
+Selective autophagy contributes to intracellular homeostasis by mediating the degradation of cytoplasmic material such as aggregated proteins, damaged or over-abundant organelles, and invading pathogens. The molecular machinery for selective autophagy must ensure efficient recognition and sequestration of the cargo within autophagosomes. Cargo specificity can be mediated by autophagic cargo receptors that specifically bind the cargo material and the autophagosomal membrane. Here we review the recent insights into the mechanisms that enable cargo receptors to confer selectivity and exclusivity to the autophagic process. We also discuss their different roles during starvation-induced and selective autophagy. We propose to classify autophagic events into cargo-independent and cargo-induced autophagosome formation events.
+http://www.sciencedirect.com/science/article/pii/S0022283616001091
+00222836

@@ -1,0 +1,6 @@
+Crystal Structure of RS21-C6, Involved in Nucleoside Triphosphate Pyrophosphohydrolysis
+7403590654,54179291500,36072218200,35785928200,36077347000,6701775559,7409646480,7102549060
+RS21-C6,dUTPase,pyrophosphohydrolase,crystal structure,kinetic activity
+RS21-C6, which is highly expressed in all vertebrate genomes and green plants, is proposed to have nucleoside triphosphate pyrophosphohydrolase activity. Here, we report the crystal structures of the core fragment of RS21-C6, named RSCUT, and the complex with the substrate 5-methyl dCTP. The refined structure of RSCUT consists mainly of α-helices and shows formation of a tightly associated tetramer. On the basis of the structure of the RSCUT–m5dCTP complex and the results of pyrophosphatase activity assays, several key residues involved in the substrate binding of RS21-C6 have been identified. Tetramer formation is shown to be required for substrate binding.
+http://www.sciencedirect.com/science/article/pii/S002228360700109X
+00222836

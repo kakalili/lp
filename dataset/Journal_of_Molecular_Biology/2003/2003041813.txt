@@ -1,0 +1,6 @@
+Hyper-recombinogenic RecA Protein from Pseudomonas aeruginosa with Enhanced Activity of its Primary DNA Binding Site
+35584984800,16475267600,7004032170
+P.aeruginosa,SSB protein,RecA protein,recombinogenic activity,DNA binding sites
+According to one prominent model, each protomer in the activated nucleoprotein filament of homologous recombinase RecA possesses two DNA-binding sites. The primary site binds (1) single-stranded DNA (ssDNA) to form presynaptic complex and (2) the newly formed double-stranded (ds) DNA whereas the secondary site binds (1) dsDNA of a partner to initiate strand exchange and (2) the displaced ssDNA following the strand exchange. RecA protein from Pseudomonas aeruginosa (RecAPa) promotes in Escherichia coli hyper-recombination in an SOS-independent manner. Earlier we revealed that RecAPa rapidly displaces E.coli SSB protein (SSB-Ec) from ssDNA to form presynaptic complex. Here we show that this property (1) is based on increased affinity of ssDNA for the RecAPa primary DNA binding site while the affinity for the secondary site remains similar to that for E.coli RecA, (2) is not specific for SSB-Ec but is also observed for SSB protein from P.aeruginosa that, in turn, predicts a possibility of enhanced recombination repair in this pathogenic bacterium.
+http://www.sciencedirect.com/science/article/pii/S0022283603002420
+00222836

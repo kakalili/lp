@@ -1,0 +1,6 @@
+Does the Location of a Mutation Determine the Ability to Form Amyloid Fibrils?
+6603439246,35565271400
+protein stability,amyloid formation,β-sheet,cross-seeding,protein G B1 domain
+We have previously reported studies of fibril formation by a set of protein G B1 domain (β1) variants, with mutations located around the central parallel β-strands. In this study, we designed multiple mutations in the edge strands of β1 to create proteins with a stability range comparable to that of the set of central mutants. All the edge variants are able to form amyloid fibrils when they are incubated at their melting temperatures. This result suggests that overall protein stability is the key determinant for amyloid formation and not the specific location of destabilizing mutations. The edge strand and variants cross-seed with each other and with members of the central variant family. Interesting fibrillar morphology was observed in some cross-seeding cases and its implications for a better understanding of nucleation and elongation events are discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283602008409
+00222836

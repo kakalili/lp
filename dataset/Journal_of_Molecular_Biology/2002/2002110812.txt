@@ -1,0 +1,6 @@
+Crystal Structure of a Thermostable Lipase from Bacillus stearothermophilus P1
+6603843301,6602433956,7003725275,55459928100,7005817000
+Bacillus stearothermophilus P1,bacterial thermostable lipase,lipase closed conformation,metal ion stabilisation,zinc-binding site
+We describe the first lipase structure from a thermophilic organism. It shares less than 20% amino acid sequence identity with other lipases for which there are crystal structures, and shows significant insertions compared with the typical α/β hydrolase canonical fold. The structure contains a zinc-binding site which is unique among all lipases with known structures, and which may play a role in enhancing thermal stability. Zinc binding is mediated by two histidine and two aspartic acid residues. These residues are present in comparable positions in the sequences of certain lipases for which there is as yet no crystal structural information, such as those from Staphylococcal species and Arabidopsis thaliana. The structure of Bacillus stearothermophilus P1 lipase provides a template for other thermostable lipases, and offers insight into mechanisms used to enhance thermal stability which may be of commercial value in engineering lipases for industrial uses.
+http://www.sciencedirect.com/science/article/pii/S0022283602010045
+00222836

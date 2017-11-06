@@ -1,0 +1,6 @@
+DNA Polymerase Switching on Homotrimeric PCNA at the Replication Fork of the Euryarchaea Pyrococcus abyssi
+23010258900,6603424968,7003507953,55941646700,24446481900
+Archaea,DNA replication,DNA polymerase switching,PCNA loading,RF-C
+DNA replication in Archaea, as in other organisms, involves large protein complexes called replisomes. In the Euryarchaeota subdomain, only two putative replicases have been identified, and their roles in leading and lagging strand DNA synthesis are still poorly understood. In this study, we focused on the coupling of proliferating cell nuclear antigen (PCNA)-loading mechanisms with DNA polymerase function in the Euryarchaea Pyrococcus abyssi. PCNA spontaneously loaded onto primed DNA, and replication factor C dramatically increased this loading. Surprisingly, the family B DNA polymerase (Pol B) also increased PCNA loading, probably by stabilizing the clamp on primed DNA via an essential motif. In contrast, on an RNA-primed DNA template, the PCNA/Pol B complex was destabilized in the presence of dNTPs, allowing the family D DNA polymerase (Pol D) to perform RNA-primed DNA synthesis. Then, Pol D is displaced by Pol B to perform processive DNA synthesis, at least on the leading strand.
+http://www.sciencedirect.com/science/article/pii/S0022283607004081
+00222836

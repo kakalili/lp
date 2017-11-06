@@ -1,0 +1,6 @@
+Molecular Dynamics Simulation of the SH3 Domain Aggregation Suggests a Generic Amyloidogenesis Mechanism
+36672590200,7004230696,35396328400,35375959000,35600851100
+amyloidogenesis,discrete molecular dynamics,dimerization,amyloid fibril,aggregation
+We use molecular dynamics simulation to study the aggregation of Src SH3 domain proteins. For the case of two proteins, we observe two possible aggregation conformations: the closed form dimer and the open aggregation state. The closed dimer is formed by “domain swapping”—the two proteins exchange their RT-loops. All the hydrophobic residues are buried inside the dimer so proteins cannot further aggregate into elongated amyloid fibrils. We find that the open structure—stabilized by backbone hydrogen bond interactions—packs the RT-loops together by swapping the two strands of the RT-loop. The packed RT-loops form a β-sheet structure and expose the backbone to promote further aggregation. We also simulate more than two proteins, and find that the aggregate adopts a fibrillar double β-sheet structure, which is formed by packing the RT-loops from different proteins. Our simulations are consistent with a possible generic amyloidogenesis scenario.
+http://www.sciencedirect.com/science/article/pii/S0022283602011129
+00222836

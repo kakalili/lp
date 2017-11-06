@@ -1,0 +1,6 @@
+Sequence Alignments and Pair Hidden Markov Models Using Evolutionary History
+7004937723,7402577551
+evolution,pair hidden Markov models,statistical alignment,insertion and deletion models
+This work presents a novel pairwise statistical alignment method based on an explicit evolutionary model of insertions and deletions (indels). Indel events of any length are possible according to a geometric distribution. The geometric distribution parameter, the indel rate, and the evolutionary time are all maximum likelihood estimated from the sequences being aligned. Probability calculations are done using a pair hidden Markov model (HMM) with transition probabilities calculated from the indel parameters. Equations for the transition probabilities make the pair HMM closely approximate the specified indel model. The method provides an optimal alignment, its likelihood, the likelihood of all possible alignments, and the reliability of individual alignment regions. Human α and β-hemoglobin sequences are aligned, as an illustration of the potential utility of this pair HMM approach.
+http://www.sciencedirect.com/science/article/pii/S0022283603009987
+00222836

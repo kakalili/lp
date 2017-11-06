@@ -1,0 +1,6 @@
+A Regulated, Ubiquitin-Independent Degron in IκBα
+56732945700,56732271100,56461507800,8344192600,56732391600
+protein half-life control,degron,ubiquitin-independent degradation,NFκB,IκBα
+Whereas ubiquitin-dependent degrons have been characterized in some detail, how proteins may be targeted to ubiquitin-independent proteasomal degradation remains unclear. Here we show that IκBα contains an ubiquitin-independent degron whose activity is portable to heterologous proteins such as the globular protein GFP (green fluorescent protein) via a proteasome-dependent, ubiquitin-independent, non-lysosomal pathway. The ubiquitin-independent degradation signal resides in an 11-amino-acid sequence, which is not only sufficient but also required for IκBα's short half-life. Finally, we show that this degron's activity is regulated by the interaction with NFκB, which controls its solvent exposure, and we demonstrate that this regulation of the degron's activity is critical for IκBα's signaling functions.
+http://www.sciencedirect.com/science/article/pii/S0022283615003897
+00222836

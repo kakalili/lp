@@ -1,0 +1,6 @@
+Dimeric Core Structure of Modular Stator Subunit E of Archaeal H+-ATPase
+6603945192,36641578700,6506103191,55454982600,6701375517
+A-ATPase,crystal structure,subunit E,stator,V-ATPase
+Archaeal H+-ATPase (A-ATPase) is composed of an A1 region that hydrolyzes ATP and an integral membrane part Ao that conducts protons. Subunit E is a component of peripheral stator(s) that physically links A1 and Ao parts of the A-ATPase. Here we report the first crystal structure of subunit E of A-ATPase from Pyrococcus horikoshii OT3 at 1.85 Å resolution. The protomer structure of subunit E represents a novel fold. The quaternary structure of subunit E is a homodimer, which may constitute the core part of the stator. To investigate the relationship with other stator subunit H, the complex of subunits EH was prepared and characterized using electrophoresis, mass spectrometry, N-terminal sequencing and circular dichroism spectroscopy, which revealed the polymeric and highly helical nature of the EH complex with equimolar stoichiometry of both the subunits. On the basis of the modular architecture of stator subunits, it is suggested that both cytoplasm and membrane sides of the EH complex may interact with other subunits to link A1 and Ao parts.
+http://www.sciencedirect.com/science/article/pii/S0022283606016470
+00222836

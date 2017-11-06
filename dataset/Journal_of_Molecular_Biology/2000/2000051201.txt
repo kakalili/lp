@@ -1,0 +1,6 @@
+Altering molecular recognition of RNA aptamers by allosteric selection11Edited by D. E. Draper
+6603869560,6507454085,7005783093
+aptamer,ribozyme,hammerhead,self-cleavage,molecular switch
+In a continuing effort to explore structural and functional dynamics in RNA catalysis, we have created a series of allosteric hammerhead ribozymes that are activated by theophylline. Representative ribozymes exhibit greater than 3000-fold activation upon effector-binding and cleave with maximum rate constants that are equivalent to the unmodified hammerhead ribozyme. In addition, we have evolved a variant allosteric ribozyme that exhibits an effector specificity change from theophylline to 3-methylxanthine. Molecular discrimination between the two effectors appears to be mediated by subtle conformational differences that originate from displacement of the phosphodiester backbone near the effector binding pocket. These findings reveal the importance of abstruse aspects of molecular recognition by nucleic acids that are likely to be unapproachable by current methods of rational design.
+http://www.sciencedirect.com/science/article/pii/S0022283600937045
+00222836

@@ -1,0 +1,6 @@
+A New Cryo-EM Single-Particle Ab Initio Reconstruction Method Visualizes Secondary Structure Elements in an ATP-Fueled AAA+ Motor
+14038755400,35622163600,6701332711,56350219900,7005646932,14822230700
+electron microscopy,cryo-EM,single particle,reconstruction,alignment
+The generation of ab initio three-dimensional (3D) models is a bottleneck in the studies of large macromolecular assemblies by single-particle cryo-electron microscopy. We describe here a novel method, in which established methods for two-dimensional image processing are combined with newly developed programs for joint rotational 3D alignment of a large number of class averages (RAD) and calculation of 3D volumes from aligned projections (VolRec). We demonstrate the power of the method by reconstructing an ∼660-kDa ATP-fueled AAA+ motor to 7.5 Å resolution, with secondary structure elements identified throughout the structure. We propose the method as a generally applicable automated strategy to obtain 3D reconstructions from unstained single particles imaged in vitreous ice.
+http://www.sciencedirect.com/science/article/pii/S0022283607014994
+00222836

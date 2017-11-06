@@ -1,0 +1,6 @@
+Structural Insights of WHAMM's Interaction with Microtubules by Cryo-EM
+57193904539,57193909323,57193904309,56937272100,56720753200,54785435900
+microtubule,microtubule-binding motif,WHAMM,cryo-EM,membrane trafficking
+WASP homolog associated with actin, membranes, and microtubules (WHAMM) is a vertebrate protein functioning in membrane tubulation for intracellular membrane trafficking and specific organelle formation. Composed of multiple domains, WHAMM can bind to membrane and microtubule (MT) and promote actin polymerization nucleation. Previous work revealed that WHAMM's activity to promote actin nucleation is repressed upon binding to MTs. Here, we discovered that WHAMM interacts with αβ-tubulin through a small peptide motif within its MT-binding domain. We reconstructed a high-resolution structure of WHAMM's MT-binding motif (MBM) assembling around MTs using cryo-electron microscopy and verified it with chemical cross-linking and mass spectrometry analysis. We also detected a conformational switch of this motif between the non-MT-bound state and the MT-bound state. These discoveries provide new insights into the mechanism by which WHAMM coordinates actin and MT networks, the two major cytoskeletal systems involved in membrane trafficking and membrane remodeling.
+http://www.sciencedirect.com/science/article/pii/S0022283617301389
+00222836

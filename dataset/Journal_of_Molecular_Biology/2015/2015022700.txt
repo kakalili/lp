@@ -1,0 +1,6 @@
+A Novel Open-Barrel Structure of Octameric Translin Reveals a Potential RNA Entryway
+36139255500,37031567800,7005660853,36776426400
+translin,open barrel,octamer,RNA,TRAX
+The single-stranded DNA (ssDNA)/RNA binding protein translin was suggested to be involved in chromosomal translocations, telomere metabolism, and mRNA transport and translation. Oligonucleotide binding surfaces map within a closed cavity of translin octameric barrels, raising the question as to how DNA/RNA gain access to this inner cavity, particularly given that, to date, none of the barrel structures reported hint to an entryway. Here, we argue against a mechanism by which translin octamers may “dissociate and reassemble” upon RNA binding and report a novel “open”-barrel structure of human translin revealing a feasible DNA/RNA entryway into the cavity. Additionally, we report that translin not only is confined to binding of ssDNA oligonucleotides, or single-stranded extensions of double-stranded DNA (dsDNA), but also can bind single-stranded sequences internally embedded in dsDNA molecules.
+http://www.sciencedirect.com/science/article/pii/S0022283614006093
+00222836

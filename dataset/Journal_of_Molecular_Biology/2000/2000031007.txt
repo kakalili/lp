@@ -1,0 +1,6 @@
+Energetic and structural interactions between δ-dendrotoxin and a voltage-gated potassium channel11Edited by G. von Heijne
+6603088423,7004688477
+Dendroaspis angusticeps,snake dendrotoxin,Shaker,Kv1.1,KcsA
+Dendrotoxin proteins isolated from Mamba snake venom block potassium channels with a high degree of specificity and selectivity. Using site-directed mutagenesis we have identified residues that constitute the functional interaction surfaces of δ-dendrotoxin and its voltage-gated potassium channel receptor. δ-Dendrotoxin uses a triangular patch formed by seven side-chains (Lys3, Tyr4, Lys6, Leu7, Pro8, Arg10, Lys26) to block K+ currents carried by a Shaker potassium channel variant. The inhibitory surface of the toxin interacts with channel residues at Shaker positions 423, 425, 427, 431, and 449 near the pore. Amino acid mutations that interact across the toxin-channel interface were identified by mutant cycle analysis. These results constrain the possible orientation of dendrotoxin with respect to the K+ channel structure. We propose that dendrotoxin binds near the pore entryway but does not act as a physical plug.
+http://www.sciencedirect.com/science/article/pii/S0022283600935228
+00222836

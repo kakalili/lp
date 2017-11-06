@@ -1,0 +1,6 @@
+Structural Enzymology of Li+-sensitive/Mg2+-dependent Phosphatases
+56016337000,7003275877,36042209300,7202794992
+inositol,3′-phosphoadenosine-5′-phosphate,lithium therapy,protein crystallography
+Li+-sensitive/Mg2+-dependent phosphatases have attracted considerable attention since they have been proposed as targets for lithium therapy in the treatment of manic-depressive patients. The members of this enzyme superfamily display low levels of sequence identity while possessing a common fold and active site. Extensive structural and biochemical data demonstrate the direct involvement of two metal ions in catalysis, and show that lithium exerts its inhibitory action by blocking the products at the active site. By exploiting the different inhibitory properties of magnesium and calcium, we have been able to solve the X-ray structures of the Li+-sensitive/Mg2+-dependent 3′-phosphoadenosine-5′-phosphatase in complex with its substrate and with its products. The structural comparison of these complexes provides a 3D picture of the different stages of the catalytic cycle. This gives new insights into the understanding of the biological function of this group of enzymes and their lithium inhibition, and should assist in the design of improved inhibitors of therapeutic value.
+http://www.sciencedirect.com/science/article/pii/S0022283602005648
+00222836

@@ -1,0 +1,6 @@
+Chromatin Fibers, One-at-a-time
+7006356967,55398667300
+chromatin fibers,nucleosome unraveling,chromatin fiber assembly,single-molecule approaches,force spectroscopy
+Eukaryotic DNA is presented to the enzymatic machineries that use DNA as a template in the form of chromatin fibers. At the first level of organization, DNA is wrapped around histone octamers to form nucleosomal particles that are connected with stretches of linker DNA; this beads-on-a-string structure folds further to reach a very compact state in the nucleus. Chromatin structure is in constant flux, changing dynamically to accommodate the needs of the cell to replicate, transcribe, and repair the DNA, and to regulate all these processes in time and space. The more conventional biochemical and biophysical techniques used to study chromatin structure and dynamics have been recently complemented by an array of single-molecule approaches, in which chromatin fibers are investigated one-at-a-time. Here we describe single-molecule efforts to see nucleosomes, touch them, put them together, and then take them apart, one-at-a-time. The beginning is exciting and promising, but much more effort will be needed to take advantage of the huge potential that the new physics-based techniques offer.
+http://www.sciencedirect.com/science/article/pii/S0022283603006910
+00222836

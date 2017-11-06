@@ -1,0 +1,6 @@
+Foundations and Emerging Paradigms for Computing in Living Cells
+57143469700,35332950700,7402684461
+synthetic biology,digital logic,analog logic,systems biology,metabolic engineering,memory
+Genetic circuits, composed of complex networks of interacting molecular machines, enable living systems to sense their dynamic environments, perform computation on the inputs, and formulate appropriate outputs. By rewiring and expanding these circuits with novel parts and modules, synthetic biologists have adapted living systems into vibrant substrates for engineering. Diverse paradigms have emerged for designing, modeling, constructing, and characterizing such artificial genetic systems. In this paper, we first provide an overview of recent advances in the development of genetic parts and highlight key engineering approaches. We then review the assembly of these parts into synthetic circuits from the perspectives of digital and analog logic, systems biology, and metabolic engineering, three areas of particular theoretical and practical interest. Finally, we discuss notable challenges that the field of synthetic biology still faces in achieving reliable and predictable forward-engineering of artificial biological circuits.
+http://www.sciencedirect.com/science/article/pii/S0022283616001340
+00222836

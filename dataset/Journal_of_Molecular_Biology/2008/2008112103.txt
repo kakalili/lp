@@ -1,0 +1,6 @@
+Architecture and Flexibility of the Yeast Ndc80 Kinetochore Complex
+8294618800,8957043900,8845982500,6603893656,7005173383,7202142354,7004084109
+Nuf2,Spc24,Spc25,Hec1,electron microscopy
+Kinetochores mediate microtubule–chromosome attachment and ensure accurate segregation of sister chromatids. The highly conserved Ndc80 kinetochore complex makes direct contacts with the microtubule and is essential for spindle checkpoint signaling. It contains a long coiled-coil region with globular domains at each end involved in kinetochore localization and microtubule binding, respectively. We have directly visualized the architecture of the yeast Ndc80 complex and found a dramatic kink within the 560-Å coiled-coil rod located about 160 Å from the larger globular head. Comparison of our electron microscopy images to the structure of the human Ndc80 complex allowed us to position the kink proximal to the microtubule-binding end and to define the conformational range of the complex. The position of the kink coincides with a coiled-coil breaking region conserved across eukaryotes. We hypothesize that the kink in Ndc80 is essential for correct kinetochore geometry and could be part of a tension-sensing mechanism at the kinetochore.
+http://www.sciencedirect.com/science/article/pii/S0022283608011017
+00222836

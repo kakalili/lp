@@ -1,0 +1,6 @@
+Secondary Structure of the HIV Reverse Transcription Initiation Complex by NMR
+35512870900,7007185376
+HIV,reverse transcriptase,initiation complex,RNA,NMR
+Initiation of reverse transcription of genomic RNA is a key early step in replication of the human immunodeficiency virus (HIV) upon infection of a host cell. Viral reverse transcriptase initiates from a specific RNA–RNA complex formed between a host transfer RNA (tRNALys3) and a region at the 5′ end of genomic RNA; the 3′ end of the tRNA acts as a primer for reverse transcription of genomic RNA. We report here the secondary structure of the HIV genomic RNA–human tRNALys3 initiation complex using heteronuclear nuclear magnetic resonance methods. We show that both RNAs undergo large-scale conformational changes upon complex formation. Formation of the 18-bp primer helix with the 3′ end of tRNALys3 drives large conformational rearrangements of the tRNA at the 5′ end while maintaining the anticodon loop for potential loop–loop interactions. HIV RNA forms an intramolecular helix adjacent to the intermolecular primer helix. This helix, which must be broken by reverse transcription, likely acts as a kinetic block to reverse transcription.
+http://www.sciencedirect.com/science/article/pii/S0022283611004396
+00222836

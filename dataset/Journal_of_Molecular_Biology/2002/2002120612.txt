@@ -1,0 +1,6 @@
+Genetic Perturbations of RNA Reveal Structure-based Recognition in Protein–RNA Interaction
+7404339193,35578651900,55465892100,7004945283
+protein–RNA recognition,knockout cell,RNA identity,tRNA,synthetase
+Protein–RNA recognition is an essential foundation of cellular processes, yet much remains unknown about these important interactions. The recognition between aminoacyl-tRNA synthetases and their cognate tRNA substrates is highly specific and essential for cell viability, due to the necessity for accurate translation of the genetic code into protein sequences. We selected an active tRNA that is highly mutated in the recognition nucleotides of the acceptor stem region in the alanine system. The functional properties of this mutant and its secondary derivatives demonstrate that recognition cannot be reduced to isolated structural elements, but rather the amino acid acceptor stem is being recognized as a unit.
+http://www.sciencedirect.com/science/article/pii/S0022283602010987
+00222836

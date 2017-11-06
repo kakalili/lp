@@ -1,0 +1,6 @@
+The Ordering of Corneal Collagen Fibrils with Increasing Ionic Strength
+6506658605,24735159300,7005424576
+cornea,chloride,fibrillar order
+The fixed stromal charge of bovine corneas, osmotically clamped at physiological hydration, was altered by regulating the amount of chloride ions bound to the matrix. We measured the local fibrillar collagen order using X-ray diffraction methods. As the bound anions increased up to physiological values, the local fibrillar order increased to an optimal value. The coherence distance (t) approximately doubles to a maximum value (409 nm) from 10 mM NaCl to 154 mM NaCl. This then slowly decreased as the bathing solution increased to 1000 mM. In contrast the diameter of the collagen fibrils were minimal at physiological NaCl.
+http://www.sciencedirect.com/science/article/pii/S0022283603014773
+00222836

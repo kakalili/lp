@@ -1,0 +1,6 @@
+Compositional Structure of Repetitive Elements is Quantitatively Related to Co-expression of Gene Pairs
+57188826715,7404463062
+repetitive elements,Alu elements,transcriptional regulation,sequence similarity metric,TP53 response elements
+A sequence similarity metric operating on 10 kb upstream regions of gene pairs quantitatively predicts a portion of co-variation of expression of gene pairs in large-scale gene expression studies in human tumors and tumor-derived cell lines. The signal on which the metric depends most strongly originates in the compositional structure of repetitive genomic sequences (particularly Alu elements) present in these upstream regions. This effect is completely separable from effects of isochore composition on gene expression. The results implicate repetitive elements with some functional role in transcriptional regulation of the specific genes in whose promoter regions they reside and lend credence to suggestions that the general phenomenon of repetitive element insertions may be a fundamental evolutionary mechanism for modulating gene transcription.
+http://www.sciencedirect.com/science/article/pii/S0022283603009264
+00222836

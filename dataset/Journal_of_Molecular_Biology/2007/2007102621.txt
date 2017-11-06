@@ -1,0 +1,6 @@
+Structural Studies of the Final Enzyme in the α-Aminoadipate Pathway-Saccharopine Dehydrogenase from Saccharomyces cerevisiae
+7004925631,50261878200,22034689100,6602617065,6603445509,6701733986,7004618550
+enzyme mechanism,drug design,lysine biosynthesis,antifungals,proton shuttle
+The 1.64 Å structure of the apoenzyme form of saccharopine dehydrogenase (SDH) from Saccharomyces cerevisiae shows the enzyme to be composed of two domains with similar dinucleotide binding folds with a deep cleft at the interface. The structure reveals homology to alanine dehydrogense, despite low primary sequence similarity. A model of the ternary complex of SDH, NAD, and saccharopine identifies residues Lys77 and Glu122 as potentially important for substrate binding and/or catalysis, consistent with a proton shuttle mechanism. Furthermore, the model suggests that a conformational change is required for catalysis and that residues Lys99 and Asp281 may be instrumental in mediating this change. Analysis of the crystal structure in the context of other homologous enzymes from pathogenic fungi and human sources sheds light into the suitability of SDH as a target for antimicrobial drug development.
+http://www.sciencedirect.com/science/article/pii/S0022283607011151
+00222836

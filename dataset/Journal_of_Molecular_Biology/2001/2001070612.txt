@@ -1,0 +1,6 @@
+The crystal structure of Escherichia coli MoeA, a protein from the molybdopterin synthesis pathway11Edited by D. Rees
+7006987453,55709644200,57195339837,55574239277,6701660059,7003921094,7003853364,7007177781
+MoeA,molybdopterin,cofactor,crystallography,structure
+MoeA is involved in synthesis of the molybdopterin cofactor, although its function is not yet clearly defined. The three-dimensional structure of the Escherichia coli protein was solved at 2.2 Å resolution. The locations of highly conserved residues among the prokaryotic and eukaryotic MoeA homologs identifies a cleft in the dimer interface as the likely functional site. Of the four domains of MoeA, domain 2 displays a novel fold and domains 1 and 4 each have only one known structural homolog. Domain 3, in contrast, is structurally similar to many other proteins. The protein that resembles domain 3 most closely is MogA, another protein required for molybdopterin cofactor synthesis. The overall similarity between MoeA and MogA, and the similarities in a constellation of residues that are strongly conserved in MoeA, suggests that these proteins bind similar ligands or substrates and may have similar functions.
+http://www.sciencedirect.com/science/article/pii/S0022283601947710
+00222836

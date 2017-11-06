@@ -1,0 +1,6 @@
+Statistical Mechanics of Monod–Wyman–Changeux (MWC) Models
+55637739600,8577414200,7404241637
+Monod–Wyman–Changeux model,allostery,chromatin structure,bacterial chemotaxis,information theory
+The 50th anniversary of the classic Monod–Wyman–Changeux (MWC) model provides an opportunity to survey the broader conceptual and quantitative implications of this quintessential biophysical model. With the use of statistical mechanics, the mathematical implementation of the MWC concept links problems that seem otherwise to have no ostensible biological connection including ligand–receptor binding, ligand-gated ion channels, chemotaxis, chromatin structure and gene regulation. Hence, a thorough mathematical analysis of the MWC model can illuminate the performance limits of a number of unrelated biological systems in one stroke. The goal of our review is twofold. First, we describe in detail the general physical principles that are used to derive the activity of MWC molecules as a function of their regulatory ligands. Second, we illustrate the power of ideas from information theory and dynamical systems for quantifying how well the output of MWC molecules tracks their sensory input, giving a sense of the “design” constraints faced by these receptors.
+http://www.sciencedirect.com/science/article/pii/S0022283613001617
+00222836

@@ -1,0 +1,6 @@
+Folding Optimization In Vivo Uncovers New Chaperones
+26534556100,36646955200,56656375700,56656429600,56656579800,56656390600,56656153700,7005833607
+chaperone discovery,protein folding,folding sensor,periplasm,proteostasis
+By employing a genetic selection that forces the cell to fold an unstable, aggregation-prone test protein in order to survive, we have generated bacterial strains with enhanced periplasmic folding capacity. These strains enhance the soluble steady-state level of the test protein. Most of the bacterial variants we isolated were found to overexpress one or more periplasmic proteins including OsmY, Ivy, DppA, OppA, and HdeB. Of these proteins, only HdeB has convincingly been previously shown to function as chaperone in vivo. By giving bacteria the stark choice between death and stabilizing a poorly folded protein, we have now generated designer bacteria selected for their ability to stabilize specific proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283615002971
+00222836

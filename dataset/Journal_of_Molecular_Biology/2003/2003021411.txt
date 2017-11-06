@@ -1,0 +1,6 @@
+Crystal Structures of Nucleosome Core Particles in Complex with Minor Groove DNA-binding Ligands
+6701707122,6507516491,7404153702,6603138400,7005507844,7202753682,7004826653
+nucleosome core particle,chromatin remodeling,pyrrole-imidazole polyamide,histone,DNA
+We determined the crystal structures of three nucleosome core particles in complex with site-specific DNA-binding ligands, the pyrrole-imidazole polyamides. While the structure of the histone octamer and its interaction with the DNA remain unaffected by ligand binding, nucleosomal DNA undergoes significant structural changes at the ligand-binding sites and in adjacent regions to accommodate the ligands. Our findings suggest that twist diffusion occurs over long distances through tightly bound nucleosomal DNA. This may be relevant to the mechanism of ATP-dependent and spontaneous nucleosome translocation, and to the effect of bound factors on nucleosome dynamics.
+http://www.sciencedirect.com/science/article/pii/S0022283602014079
+00222836

@@ -1,0 +1,6 @@
+Gatekeepers in the Ribosomal Protein S6: Thermodynamics, Kinetics, and Folding Pathways Revealed by a Minimalist Protein Model
+57193413640,36861599500,35602445700
+protein folding,gatekeepers,S6,computer simulations
+We investigate the effect of structural gatekeepers on the folding of the ribosomal protein S6. Folding thermodynamics and early refolding kinetics are studied for this system utilizing computer simulations of a minimalist protein model. When gatekeepers are eliminated, the thermodynamic signature of a folding intermediate emerges, and a marked decrease in folding efficiency is observed. We explain the prerequisites that determine the “strength” of a given gatekeeper. The investigated gatekeepers are found to have distinct functions, and to guide the folding and time-dependent packing of non-overlapping secondary structure elements in the protein. Gatekeepers avoid kinetic traps during folding by favoring the formation of “productive topologies” on the way to the native state. The trends in folding rates in the presence/absence of gatekeepers observed for our minimalist model of S6 are in very good agreement with experimental data on this protein.
+http://www.sciencedirect.com/science/article/pii/S0022283604005200
+00222836

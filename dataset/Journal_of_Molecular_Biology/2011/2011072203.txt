@@ -1,0 +1,6 @@
+Flexible Nature and Specific Functions of the HIV-1 Nucleocapsid Protein
+7005950900,35740356200,8070197400,16184650000,6701696691,7005572890
+HIV-1,nucleocapsid protein,zinc fingers,intrinsic disorder,virus replication
+One salient feature of reverse transcription in retroviruses, notably in the human immunodeficiency virus type 1, is that it requires the homologous nucleocapsid (NC) protein acting as a chaperoning partner of the genomic RNA template and the reverse transcriptase, from the initiation to the completion of viral DNA synthesis. This short review on the NC protein of human immunodeficiency virus type 1 aims at briefly presenting the flexible nature of NC protein, how it interacts with nucleic acids via its invariant zinc fingers and flanking basic residues, and the possible mechanisms that account for its multiple functions in the early steps of virus replication, notably in the obligatory strand transfer reactions during viral DNA synthesis by the reverse transcriptase enzyme.
+http://www.sciencedirect.com/science/article/pii/S0022283611003135
+00222836

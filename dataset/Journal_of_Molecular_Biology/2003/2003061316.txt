@@ -1,0 +1,6 @@
+Role of E.coli Transcription-Repair Coupling Factor Mfd in Nun-mediated Transcription Termination
+7006083834,12241287900,7202589454
+transcription-repair coupling factor,Mfd,Nun protein,transcription termination
+Phage HK022 Nun protein excludes phage λ by binding nascent λ-nut RNA and inducing termination and transcript release. In contrast, in a purified in vitro system, Nun arrests transcription on λDNA templates without dissociation of the transcription elongation complex (TEC). Our evidence indicates that transcription-repair coupling factor (Mfd) frees Nun-arrested RNA polymerase. The activity of Nun is enhanced in an mfd-null mutant, consistent with prolonged association of Nun with the TEC. Furthermore, expression of λ nut RNA in the mfd mutant titrates Nun, allowing superinfecting λ to form plaques. Finally, addition of Mfd releases a Nun-arrested transcription complex in vitro.
+http://www.sciencedirect.com/science/article/pii/S0022283603004650
+00222836

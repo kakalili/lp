@@ -1,0 +1,6 @@
+Real-time NMR Kinetic Studies Provide Global and Residue-specific Information on the Non-cooperative Unfolding of the β-Trefoil Protein, Interleukin-1β
+7402902448,7202926101
+β-trefoil,cytokine,interleukin-1β,unfolding kinetics,solvent-backbone interactions
+The interleukin-1β (IL-1β) structural motif is a β-trefoil super fold created by six two-stranded β-hairpins. Turns are thus particularly important in creating the topology and the arrangement of β-strands in this structural motif. In contrast to the signals observed in optical studies, real-time NMR kinetic investigations of the denaturant-induced unfolding of interleukin-1β provide direct, global, and residue-specific information on the structural nature of the unfolding reaction. Heterogeneity in the individual amino acid residue kinetics reveals a rugged unfolding landscape. The relative kinetic stability of native-like turns supports low temperature molecular dynamics predictions of turn-controlled unfolding.
+http://www.sciencedirect.com/science/article/pii/S0022283603003401
+00222836

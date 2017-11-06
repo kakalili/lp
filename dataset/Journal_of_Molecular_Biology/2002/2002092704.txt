@@ -1,0 +1,6 @@
+Atomic Resolution Structure of a Succinimide Intermediate in E.coli CheY
+7003837148,7005533478
+succinimide,crystal structure,CheY,post-translational modification
+Isomerization of aspartate to isoaspartate occurs spontaneously in proteins, causes changes in protein structures, and correlates positively with the aging processes of many organisms, including Alzheimer disease in humans. Aspartate isomerization proceeds through an unstable cyclic succinimide intermediate. There are few protein structure determinations that have characterized the intermediates and products of this isomerization reaction. Here we report the discovery of an unusually stabilized succinimide ring in the 1.1Å structure of the Escherichia coli CheY protein, as determined from a crystal eight years old. The ring is formed by the side-chain of aspartate 75 and the backbone nitrogen of glycine 76 in an exposed loop of the molecule. Stabilization of the succinimide is through interaction of a sulfate ion oxygen atom with the imide nitrogen atom. Formation of the ring caused conformational changes in the loop, but did not alter the overall structure of the protein.
+http://www.sciencedirect.com/science/article/pii/S0022283602008215
+00222836

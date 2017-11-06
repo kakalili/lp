@@ -1,0 +1,6 @@
+Yeast Mpd1p Reveals the Structural Diversity of the Protein Disulfide Isomerase Family
+11738953700,11738815100,6701434155,6508331373,12777909000,7006157351
+disulfide bonds,oxidoreductase,protein disulfide isomerase,thioredoxin fold,endoplasmic reticulum
+Oxidoreductases belonging to the protein disulfide isomerase (PDI) family promote proper disulfide bond formation in substrate proteins in the endoplasmic reticulum. In plants and metazoans, new family members continue to be identified and assigned to various functional niches. PDI-like proteins typically contain tandem thioredoxin-fold domains. The limited information available suggested that the relative orientations of these domains may be quite uniform across the family, and structural models based on this assumption are appearing. However, the X-ray crystal structure of the yeast PDI family protein Mpd1p, described here, demonstrates the radically different domain orientations and surface properties achievable with multiple copies of the thioredoxin fold. A comparison of Mpd1p with yeast Pdi1p expands our perspective on the contexts in which redox-active motifs are presented in the PDI family.
+http://www.sciencedirect.com/science/article/pii/S0022283608011984
+00222836

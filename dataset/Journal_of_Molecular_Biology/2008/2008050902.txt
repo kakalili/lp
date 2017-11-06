@@ -1,0 +1,6 @@
+Crystal Structure of Ca2+-Free S100A2 at 1.6-Å Resolution
+57188689234,15051792900,7102517435
+S100A2,EF hand,X-ray structure,calcium,sodium
+S100A2 is an EF hand-containing Ca2+-binding protein of the family of S100 proteins. The protein is localized exclusively in the nucleus and is involved in cell cycle regulation. It attracted most interest by its function as a tumor suppressor via p53 interaction. We determined the crystal structure of homodimeric S100A2 in the Ca2+-free state at 1.6-Å resolution. The structure revealed structural differences between subunits A and B, especially in the conformation of a loop that connects the N- and C-terminal EF hands and represents a part of the target-binding site in S100 proteins. Analysis of the hydrogen bonding network and molecular dynamics calculations indicate that one of the two observed conformations is more stable. The structure revealed Na+ bound to each N-terminal EF hand of both subunits coordinated by oxygen atoms of the backbone carbonyl and water molecules. Comparison with the structures of Ca2+-free S100A3 and S100A6 suggests that Na+ might occupy the S100-specific EF hand in the Ca2+-free state.
+http://www.sciencedirect.com/science/article/pii/S0022283608003306
+00222836

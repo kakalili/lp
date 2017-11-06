@@ -1,0 +1,6 @@
+Solution Structure of the THAP Domain from Caenorhabditis elegans C-terminal Binding Protein (CtBP)
+55663835900,7103108409,7201377458,8770327400
+CtBP,zinc finger,THAP domain,NMR structure,Caenorhabditis elegans
+The THAP (Thanatos-associated protein) domain is a recently discovered zinc-binding domain found in proteins involved in transcriptional regulation, cell-cycle control, apoptosis and chromatin modification. It contains a single zinc atom ligated by cysteine and histidine residues within a Cys-X2-4-Cys-X35-53-Cys-X2-His consensus. We have determined the NMR solution structure of the THAP domain from Caenorhabditis elegans C-terminal binding protein (CtBP) and show that it adopts a fold containing a treble clef motif, bearing similarity to the zinc finger-associated domain (ZAD) from Drosophila Grauzone. The CtBP THAP domain contains a large, positively charged surface patch and we demonstrate that this domain can bind to double-stranded DNA in an electrophoretic mobility-shift assay. These data, together with existing reports, indicate that THAP domains might exhibit a functional diversity similar to that observed for classical and GATA-type zinc fingers.
+http://www.sciencedirect.com/science/article/pii/S0022283606015981
+00222836

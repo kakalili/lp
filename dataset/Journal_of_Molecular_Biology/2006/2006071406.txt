@@ -1,0 +1,6 @@
+A Cytotoxic Ribonuclease Variant with a Discontinuous Nuclear Localization Signal Constituted by Basic Residues Scattered Over Three Areas of the Molecule
+7404259458,7103210697,14030736600,24069941100,7006988462,7003955149,56212079400
+human pancreatic ribonuclease,NLS,importin α,molecular recognition,protein–protein interactions
+Nuclear import of proteins is determined by specific signals that allow them to bind to receptors that mediate their energy-dependent transport through the nuclear pore. These signals are termed nuclear localization signals and do not constitute a specific consensus sequence. Among them, the most characterized correspond to monopartite and bipartite nuclear localization signals, which interact with the importin α/β heterodimer. We previously described a cytotoxic variant of human pancreatic-ribonuclease that is actively transported into the nucleus. Here, we show that this protein interacts with importin α through different basic residues, including Lys1 and the arginine clusters 31–33 and 89–91. Although these residues are scattered along the sequence, they are close in the three-dimensional structure of the protein and their topological disposition strongly resembles that of a classical bipartite nuclear localization signal.
+http://www.sciencedirect.com/science/article/pii/S0022283606006486
+00222836

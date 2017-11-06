@@ -1,0 +1,6 @@
+α-Synuclein Selectively Binds to Anionic Phospholipids Embedded in Liquid-Disordered Domains
+23037035800,55420099300,7004017730,7202170940
+lipid domains,α-synuclein,mutants,giant unilamellar vesicles,fluorescence microscopy
+Previous studies indicate that binding of α-synuclein to membranes is critical for its physiological function and the development of Parkinson's disease (PD). Here, we have investigated the association of fluorescence-labeled α-synuclein variants with different types of giant unilamellar vesicles using confocal microscopy. We found that α-synuclein binds with high affinity to anionic phospholipids, when they are embedded in a liquid-disordered as opposed to a liquid-ordered environment. This indicates that not only electrostatic forces but also lipid packing and hydrophobic interactions are critical for the association of α-synuclein with membranes in vitro. When compared to wild-type α-synuclein, the disease-causing α-synuclein variant A30P bound less efficiently to anionic phospholipids, while the variant E46K showed enhanced binding. This suggests that the natural association of α-synuclein with membranes is altered in the inherited forms of Parkinson's disease.
+http://www.sciencedirect.com/science/article/pii/S0022283607015355
+00222836

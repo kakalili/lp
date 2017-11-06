@@ -1,0 +1,6 @@
+Structure of Bacteriocin AS-48: From Soluble State to Membrane Bound State
+7801555695,7003275877,7004383302,7006644980,7003729150,7004720856,7202794992
+bacteriocin,cyclic peptide,cationic antibacterial peptides,protein crystallography,protein–membrane interaction
+The bacteriocin AS-48 is a membrane-interacting peptide, which displays a broad anti-microbial spectrum against Gram-positive and Gram-negative bacteria. The NMR structure of AS-48 at pH 3 has been solved. The analysis of this structure suggests that the mechanism of AS-48 anti-bacterial activity involves the accumulation of positively charged molecules at the membrane surface leading to a disruption of the membrane potential. Here, we report the high-resolution crystal structure of AS-48 and sedimentation equilibrium experiments showing that this bacteriocin is able to adopt different oligomeric structures according to the physicochemical environment. The analysis of these structures suggests a mechanism for molecular function of AS-48 involving a transition from a water-soluble form to a membrane-bound state upon membrane binding.
+http://www.sciencedirect.com/science/article/pii/S0022283603012257
+00222836

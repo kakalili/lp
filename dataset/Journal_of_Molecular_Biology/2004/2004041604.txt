@@ -1,0 +1,6 @@
+Crystallographic Study of Inhibitors of tRNA-guanine Transglycosylase Suggests a New Structure-based Pharmacophore for Virtual Screening
+6506155026,7401539003,7006349647,7102615721,7202755191,35517983900,26643128700
+TGT,crystallography,inhibitors,ligands
+The enzyme tRNA-guanine transglycosylase (TGT) is involved in the pathogenicity of Shigellae. As the crystal structure of this protein is known, it is a putative target for the structure-based design of inhibitors. Here we report a crystallographic study of several new ligands exhibiting a 2,6-diamino-3H-quinazolin-4-one scaffold, which has been shown recently to be a promising template for TGT-inhibitors. Crystal structure analysis of these complexes has revealed an unexpected movement of the side-chain of Asp102. A detailed analysis of the water network disrupted by this rotation has lead to the derivation of a new composite pharmacophore. A virtual screening has been performed based on this pharmacophore hypothesis and several new inhibitors of micromolar binding affinity with new skeletons have been discovered.
+http://www.sciencedirect.com/science/article/pii/S0022283604001767
+00222836

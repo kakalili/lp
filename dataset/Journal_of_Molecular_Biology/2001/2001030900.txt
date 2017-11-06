@@ -1,0 +1,6 @@
+Multi-site phosphorylation of pho4 by the cyclin-CDK pho80-pho85 is semi-processive with site preference11Edited by S. Reed
+7005091292,7103099984,7404430518,7006394538
+cyclin-dependent kinase,kinetic analysis,semi-processive,computer modeling,signal transduction
+As part of a nutrient-responsive signaling pathway, the budding yeast cyclin-CDK complex Pho80-Pho85 phosphorylates the transcription factor Pho4 on five sites and inactivates it. Here, we describe the kinetic reaction between Pho80-Pho85 and Pho4. Through experimentation and computer modeling we have determined that Pho80-Pho85 phosphorylates Pho4 in a semi-processive fashion that results from a balance between kcat and koff. In addition, we show that Pho80-Pho85 phosphorylates certain sites preferentially. Phosphorylation of the site with the highest preference inhibits the transcriptional activity of Pho4 when it is in the nucleus, while phosphorylation of the lowest-preference sites is required for export of Pho4 from the nucleus. This method of phosphorylation may allow Pho80-Pho85 to quickly inactivate Pho4 in the nucleus and efficiently phosphorylate Pho4 to completion.
+http://www.sciencedirect.com/science/article/pii/S0022283600944176
+00222836

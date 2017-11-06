@@ -1,0 +1,6 @@
+Context-Dependent Remodeling of Structure in Two Large Protein Fragments
+12142213300,14720387000,55476652400,24833324000,6701738323,7005704416
+protein folding,PRP8
+Protein folding involves the formation of secondary structural elements from the primary sequence and their association with tertiary assemblies. The relation of this primary sequence to a specific folded protein structure remains a central question in structural biology. An increasing body of evidence suggests that variations in homologous sequence ranging from point mutations to substantial insertions or deletions can yield stable proteins with markedly different folds. Here we report the structural characterization of domain IV (D4) and ΔD4 (polypeptides with 222 and 160 amino acids, respectively) that differ by virtue of an N-terminal deletion of 62 amino acids (28% of the overall D4 sequence). The high-resolution crystal structures of the monomeric D4 and the dimeric ΔD4 reveal substantially different folds despite an overall conservation of secondary structure. These structures show that the formation of tertiary structures, even in extended polypeptide sequences, can be highly context dependent, and they serve as a model for structural plasticity in protein isoforms.
+http://www.sciencedirect.com/science/article/pii/S002228361000882X
+00222836

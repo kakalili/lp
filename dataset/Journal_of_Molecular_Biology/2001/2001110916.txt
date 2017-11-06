@@ -1,0 +1,6 @@
+Functional equivalence of the uridine turn and the hairpin as building blocks of tertiary structure in the Neurospora VS ribozyme11Edited by D. Draper
+7005891194,7403351065
+ribozyme,multi-stem junction,uridine turn,hairpin,tertiary structure
+Mutational, kinetic, and chemical modification experiments show that one of the three-way helical junctions in the Neurospora VS ribozyme contains a uridine turn that is important for organizing the functional three-dimensional structure of this junction. Disruption of the uridine turn disrupts the structure of the junction and decreases the self-cleavage activity of the ribozyme; however, substitution of the uridine turn with a variety of different hairpins, thereby transforming the three-way junction into a four-way junction, maintains catalytic activity. Chemical modification structure probing reveals that both the native junction and the hairpin-containing junction support the same tertiary interactions required elsewhere in the ribozyme for catalysis. These observations show that functionally equivalent three-dimensional RNA structures can be built from different secondary structure elements.
+http://www.sciencedirect.com/science/article/pii/S0022283601951198
+00222836

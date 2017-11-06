@@ -1,0 +1,6 @@
+Alternative conformations of a nucleic acid four-way junction11Edited by J. Doudna
+7006788116,8082805000,7102760401,7102508901
+crossover isomerization,four-way junction,Holliday junction,nucleic acid structure,recombination
+A crystal structure of a 108 nucleotide RNA-DNA complex containing a four-way junction was solved at 3.1 Å resolution. The structure of the junction differs substantially from the “stacked-X” conformation observed previously, due to a 135° rotation of the branches. Comparison of the two conformers provides insight into the factors contributing to the flexibility of four-way junctions. The stacked-X conformation maximizes base-stacking but causes unfavorable repulsion between phosphate groups, whereas the 135°-rotated “crossed” conformation minimizes electrostatic clashes at the expense of reduced base-stacking. Despite the large rotation of the branches, both junction structures exhibit an antiparallel arrangement of the continuous strands and opposite polarity of the crossover strands.
+http://www.sciencedirect.com/science/article/pii/S0022283600938269
+00222836

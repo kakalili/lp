@@ -1,0 +1,6 @@
+The antibiotic microcin B17 is a DNA gyrase poison: characterisation of the mode of inhibition11Edited by J. Karn
+7005373220,6507763285,6602972251,16315948600,7407279939,6602987655,35377910100,7101974168
+topoisomerase,supercoiling,quinolone,CcdB,gyrase inhibitor
+Microcin B17 is a 3.1-kDa bactericidal peptide; the putative target of this antibiotic is DNA gyrase. Microcin B17 has no detectable effect on gyrase-catalysed DNA supercoiling or relaxation activities in vitro and is unable to stabilise DNA cleavage in the absence of nucleotides. However, in the presence of ATP, or the non-hydrolysable analogue 5′-adenylyl β,γ-imidodiphosphate, microcin B17 stabilises a gyrase-dependent DNA cleavage complex in a manner reminiscent of quinolones, Ca2+, or the bacterial toxin CcdB. The pattern of DNA cleavage produced by gyrase in the presence of microcin B17 is different from that produced by quinolones and more closely resembles Ca2+-mediated cleavage. Several gyrase mutants, including well-known quinolone-resistant mutants, are cross resistant to microcin-induced DNA cleavage. We suggest that microcin exerts its effects through a mechanism that has similarities to those of both the bacterial toxin CcdB and the quinolone antibacterial agents.
+http://www.sciencedirect.com/science/article/pii/S0022283601945620
+00222836

@@ -1,0 +1,6 @@
+Multiple Interactions within the Hepatitis C Virus RNA Polymerase Repress Primer-dependent RNA Synthesis
+6603111373,6602118358,7004140391,13606625100
+NS5B,de novo synthesis,suppression of primer-extension,GTP,RNA-dependent RNA synthesis
+The hepatitis C virus (HCV) RNA-dependent RNA polymerase (RdRp) initiates RNA synthesis in vivo by a de novo mechanism. In vitro, however, the HCV RdRp can initiate de novo or extend from a primed template. A novel β-loop near the RdRp active site was previously found to prevent the use of primed templates. We found that, in addition to the β-loop, the C-terminal tail of the HCV RdRp and the de novo initiation GTP are required to exclude the use of primed-templates. GTP binding to the NTPi site of the HCV RdRp orchestrates the participation of other structures. The interactions of the β-loop, C-terminal tail, and GTP provide an elegant solution to ensure de novo initiation of HCV RNA synthesis.
+http://www.sciencedirect.com/science/article/pii/S0022283603006132
+00222836

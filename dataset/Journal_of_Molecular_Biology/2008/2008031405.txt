@@ -1,0 +1,6 @@
+RecA-Dependent Cleavage of LexA Dimers
+7005668623,6701650908,7402509010
+LexA,RecA,dimer,SOS,specific cleavage
+A critical step in the SOS response of Escherichia coli is the specific proteolytic cleavage of the LexA repressor. This reaction is catalyzed by an activated form of RecA, acting as a co-protease to stimulate the self-cleavage activity of LexA. This process has been reexamined in light of evidence that LexA is dimeric at physiological concentrations. We found that RecA-dependent cleavage was robust under conditions in which LexA is largely dimeric and conclude that LexA dimers are cleavable. We also found that LexA dimers dissociate slowly. Furthermore, our evidence suggests that interactions between the two subunits of a LexA dimer can influence the rate of cleavage. Finally, our evidence suggests that RecA stimulates the transition of LexA from its noncleavable to its cleavable conformation and therefore operates, at least in part, by an allosteric mechanism.
+http://www.sciencedirect.com/science/article/pii/S0022283607016300
+00222836

@@ -1,0 +1,6 @@
+Analysis of shuffled gene libraries11Edited by P. E. Wright
+6506780905,7003744659,7202489032
+directed evolution,recombination,family shuffling,StEP,random chimeragenesis
+In vitro recombination of homologous genes (family shuffling) has been proposed as an effective search strategy for laboratory evolution of genes and proteins. Few data are available, however, on the composition of shuffled gene libraries, from which one could assess the efficiency of recombination and optimize protocols. Here, probe hybridization is used in a macroarray format to analyze chimeric DNA libraries created by DNA shuffling. Characterization of hundreds of shuffled genes encoding dioxygenases has elucidated important biases in the shuffling reaction. As expected, crossovers are favored in regions of high sequence identity. A sequence-based model of homologous recombination that captures this observed bias was formulated using the experimental results. The chimeric genes were found to show biases in the incorporation of sequences from certain parents, even before selection. Statistically different patterns of parental incorporation in genes expressing functional proteins can help to identify key sequence-function relationships.
+http://www.sciencedirect.com/science/article/pii/S0022283601953495
+00222836

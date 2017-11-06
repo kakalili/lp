@@ -1,0 +1,6 @@
+Electron Microscopic Visualization of the Filament Binding Mode of Actin-Binding Proteins
+55471135700,15056024800,8360292500,16642555700,41661188000,55741921300,14064943300,35579616900,7405514879,24348048800,7006980393
+actin filament,end-binding proteins,transmission electron microscopy,gold nanoparticle,image analysis
+A large number of actin-binding proteins (ABPs) regulate various kinds of cellular events in which the superstructure of the actin cytoskeleton is dynamically changed. Thus, to understand the actin dynamics in the cell, the mechanisms of actin regulation by ABPs must be elucidated. Moreover, it is particularly important to identify the side, barbed-end or pointed-end ABP binding sites on the actin filament. However, a simple, reliable method to determine the ABP binding sites on the actin filament is missing. Here, a novel electron microscopic method for determining the ABP binding sites is presented. This approach uses a gold nanoparticle that recognizes a histidine tag on an ABP and an image analysis procedure that can determine the polarity of the actin filament. This method will facilitate future study of ABPs.
+http://www.sciencedirect.com/science/article/pii/S0022283611001100
+00222836

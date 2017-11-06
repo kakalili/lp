@@ -1,0 +1,6 @@
+Conserved Intermediates on the Assembly Pathway of Double-stranded RNA Bacteriophages
+6603247521,7101782199,55589242300,56228937500
+assembly in vitro,double-stranded RNA virus,molecular machine,packaging,replication
+Double-stranded RNA (dsRNA) viruses are complex RNA processing machines that sequentially perform packaging, replication and transcription of their genomes. In order to characterize the assembly intermediates of such a machine we have developed an efficient in vitro assembly system for the procapsid of bacteriophage φ8. The major structural protein P1 is a stable and soluble tetramer. Three tetramers associate with a P2 monomer (RNA-dependent RNA polymerase) to form the nucleation complex. This complex is further stabilized by a P4 hexamer (packaging motor). Further assembly proceeds via rapid addition of individual building blocks. The incorporation of the packaging and replication machinery is under kinetic control. The in vitro assembled procapsids perform packaging, replication and transcription of viral RNA. Comparison with another dsRNA phage, φ6, indicates conservation of key assembly intermediates in the absence of sequence homology and suggests that a general assembly mechanism for the dsRNA virus lineage may exist.
+http://www.sciencedirect.com/science/article/pii/S002228360300322X
+00222836

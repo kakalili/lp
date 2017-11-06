@@ -1,0 +1,6 @@
+A Base-flipping Mechanism for the T4 Phage β-Glucosyltransferase and Identification of a Transition-state Analog
+6701629439,7004507491
+glucosyltransferase,ternary complex,DNA-binding site,X-ray crystallography,T-phage
+T4 phage β-glucosyltransferase (BGT) modifies T4 DNA. We crystallized BGT with UDP-glucose and a 13mer DNA fragment containing an abasic site. We obtained two crystal structures of a ternary complex BGT–UDP–DNA at 1.8Å and 2.5Å resolution, one with a Tris molecule and the other with a metal ion at the active site. Both structures reveal a large distortion in the bound DNA. BGT flips the deoxyribose moiety at the abasic site to an extra-helical position and induces a 40° bend in the DNA with a marked widening of the major groove. The Tris molecule mimics the glucose moiety in its transition state. The base-flipping mechanism, which has so far been observed only for glycosylases, methyltransferases and endonucleases, is now reported for a glucosyltransferase. BGT is unique in binding and inserting a loop into the DNA duplex through the major groove only. Furthermore, BGT compresses the backbone DNA one base further than the target base on the 3′-side.
+http://www.sciencedirect.com/science/article/pii/S0022283602010914
+00222836

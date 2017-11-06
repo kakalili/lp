@@ -1,0 +1,6 @@
+Shape Variation in Protein Binding Pockets and their Ligands
+56238980900,35450593500,7007150966,7402781853
+shape,ligand,binding pocket,molecular recognition,conformational diversity
+A common assumption about the shape of protein binding pockets is that they are related to the shape of the small ligand molecules that can bind there. But to what extent is that assumption true? Here we use a recently developed shape matching method to compare the shapes of protein binding pockets to the shapes of their ligands. We find that pockets binding the same ligand show greater variation in their shapes than can be accounted for by the conformational variability of the ligand. This suggests that geometrical complementarity in general is not sufficient to drive molecular recognition. Nevertheless, we show when considering only shape and size that a significant proportion of the recognition power of a binding pocket for its ligand resides in its shape. Additionally, we observe a “buffer zone” or a region of free space between the ligand and protein, which results in binding pockets being on average three times larger than the ligand that they bind.
+http://www.sciencedirect.com/science/article/pii/S0022283607001647
+00222836

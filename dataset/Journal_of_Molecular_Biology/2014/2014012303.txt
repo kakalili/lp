@@ -1,0 +1,6 @@
+Binding of MgtR, a Salmonella Transmembrane Regulatory Peptide, to MgtC, a Mycobacterium tuberculosis Virulence Factor: A Structural Study
+22953463900,55745726400,57192368697,8727743800,13106213600,7003869207,8579590300,7404742853,7102665795
+solid-state nuclear magnetic resonance,electron spin resonance,restrained molecular dynamics,orientational restraints,distance restraints
+MgtR, a highly hydrophobic peptide expressed in Salmonella enterica serovar Typhimurium, inhibits growth in macrophages through binding to the membrane protein MgtC that has been identified as essential for replication in macrophages. While the Mycobacterium tuberculosis MgtC is highly homologous to its S. Typhi analogue, there does not appear to be an Mtb homologue for MgtR, raising significant pharmacological interest in this system. Here, solid-state NMR and EPR spectroscopy in lipid bilayer preparations were used to demonstrate the formation of a heterodimer between S. Typhi MgtR and the transmembrane helix 4 of Mtb MgtC. Based on the experimental restraints, a structural model of this heterodimer was developed using computational techniques. The result is that MgtR appears to be ideally situated in the membrane to influence the functionality of MgtC.
+http://www.sciencedirect.com/science/article/pii/S002228361300658X
+00222836

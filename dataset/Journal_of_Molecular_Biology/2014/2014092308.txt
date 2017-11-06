@@ -1,0 +1,6 @@
+A Similar In Vitro and In Cell Lysate Folding Intermediate for the FF Domain
+8930393000,7202300513
+protein folding,CPMG relaxation dispersion,methyl side-chain,in cell-like NMR
+Understanding the mechanisms by which proteins fold into their three-dimensional structures, including a description of the intermediates that are formed during the folding process, remains a goal of protein science. Most studies are performed under carefully controlled conditions in which the folding reaction is monitored in a buffer solution that is far from the natural milieu of the cell. Here, we have used 13C and 1H relaxation dispersion NMR spectroscopy to study folding of the FF domain in both Escherichia coli and Saccharomyces cerevisiae cellular lysates. We find that a conformationally excited state is populated in both lysates, which is very similar in structure to a folding intermediate observed in previous studies in buffer, with the kinetics and thermodynamics of the interconversion between native and intermediate conformers somewhat changed. The results point to the importance of extending folding studies beyond the test tube yet emphasize that insights can be obtained through careful experiments recorded in controlled buffer solutions.
+http://www.sciencedirect.com/science/article/pii/S0022283614003672
+00222836

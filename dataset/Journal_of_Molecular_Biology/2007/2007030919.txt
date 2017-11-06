@@ -1,0 +1,6 @@
+The Coiled-coil Domain Structure of the Sin Nombre Virus Nucleocapsid Protein
+6602954212,7202460038,35493082200
+crystal structure,Sin Nombre virus,hantavirus,antiparallel coiled coil,mini-fibritin
+Hantaviruses can cause hemorrhagic fever with a renal syndrome and hantavirus pulmonary syndrome when transmitted to humans. The nucleocapsid protein of hantaviruses encapsidates viral genomic RNA and associates with transcription and replication complexes. Both the amino and carboxy termini of the nucleocapsid protein had been predicted to form trimers prior to the formation of the ribonucleoprotein. Crystal structures of amino-terminal fragments of the nucleocapsid protein showed the formation of intramolecular antiparallel coiled coils, but not intermolecular trimers. Thus, the amino-terminal part of the nucleocapsid protein is probably insufficient to initiate the trimerization of the full-length molecule.
+http://www.sciencedirect.com/science/article/pii/S0022283606017232
+00222836

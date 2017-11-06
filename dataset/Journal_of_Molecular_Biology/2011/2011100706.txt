@@ -1,0 +1,6 @@
+Mechanism of Bacterial Transcription Initiation: RNA Polymerase - Promoter Binding, Isomerization to Initiation-Competent Open Complexes, and Initiation of RNA Synthesis
+6602611784,7102956357,55665809500
+RNA polymerase,Promoter,Sigma factor,Transcription initiation,Intermediate complexes
+Initiation of RNA synthesis from DNA templates by RNA polymerase (RNAP) is a multi-step process, in which initial recognition of promoter DNA by RNAP triggers a series of conformational changes in both RNAP and promoter DNA. The bacterial RNAP functions as a molecular isomerization machine, using binding free energy to remodel the initial recognition complex, placing downstream duplex DNA in the active site cleft and then separating the nontemplate and template strands in the region surrounding the start site of RNA synthesis. In this initial unstable “open” complex the template strand appears correctly positioned in the active site. Subsequently, the nontemplate strand is repositioned and a clamp is assembled on duplex DNA downstream of the open region to form the highly stable open complex, RPo. The transcription initiation factor, σ70, plays critical roles in promoter recognition and RPo formation as well as in early steps of RNA synthesis.
+http://www.sciencedirect.com/science/article/pii/S0022283611000350
+00222836

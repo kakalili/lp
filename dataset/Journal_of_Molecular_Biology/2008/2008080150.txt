@@ -1,0 +1,6 @@
+Crystal Structure of the C-Terminal Domain of a Flagellar Hook-Capping Protein from Xanthomonas campestris
+24402742100,7202995596,15519949800,55513813500,7401538437
+FlgD,hook capping,Xanthomonas campestris,Ig-like domain,Tudor-like domain
+The crystal structure of the C-terminal domain of a hook-capping protein FlgD from the plant pathogen Xanthomonas campestris (Xc) has been determined to a resolution of ca 2.5 Å using X-ray crystallography. The monomer of whole FlgD comprises 221 amino acids with a molecular mass of 22.7 kDa, but the flexible N-terminus is cleaved for up to 75 residues during crystallization. The final structure of the C-terminal domain reveals a novel hybrid comprising a tudor-like domain interdigitated with a fibronectin type III domain. The C-terminal domain of XcFlgD forms three types of dimers in the crystal. In agreement with this, analytical ultracentrifugation and gel filtration experiments reveal that they form a stable dimer in solution. From these results, we propose that the Xc flagellar hook cap protein FlgD comprises two individual domains, a flexible N-terminal domain that cannot be detected in the current study and a stable C-terminal domain that forms a stable dimer.
+http://www.sciencedirect.com/science/article/pii/S0022283608006761
+00222836

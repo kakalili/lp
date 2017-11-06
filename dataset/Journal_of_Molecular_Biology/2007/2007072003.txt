@@ -1,0 +1,6 @@
+Non-homologous Recombination of Deoxyribonucleoside Kinases from Human and Drosophila melanogaster Yields Human-like Enzymes with Novel Activities
+15834675000,8949727300
+enzyme engineering,kinase,nucleoside analog
+In antiviral and cancer therapy, deoxyribonucleoside kinases (dNKs) are often the rate-limiting step in activating nucleoside analog (NA) prodrugs into their cytotoxic, phosphorylated forms. We have constructed libraries of hybrid enzymes by non-homologous recombination of the pyrimidine-specific human thymidine kinase 2 and the broad-specificity dNK from Drosophila melanogaster; their low sequence identity has precluded engineering by conventional, homology-dependent shuffling techniques. From these libraries, we identified chimeras that phosphorylate nucleoside analogs with higher activity than either parental enzyme, and that possess new activity towards the anti-HIV prodrug 2′,3′-didehydro-3′-deoxythymidine (d4T). These results demonstrate the potential of non-homologous recombination within the dNK family for creating enzymes with new and improved activities towards nucleoside analogs. In addition, our results exposed a previously unknown role for the C-terminal regions of these dNKs in determining substrate selectivity.
+http://www.sciencedirect.com/science/article/pii/S0022283607006146
+00222836

@@ -1,0 +1,6 @@
+A Highly Conserved Interspecies VH in the Human Genome
+7202718274,8576552900,6503860552,9237471300,7103237250,7004055373,7102056649
+phage display,humanization,anti-IgE,idiotype conservation,human antibodies
+Idiotype conservation between human and mouse antibodies has been observed in association with various infectious and autoimmune diseases. We have isolated a human anti-idiotypic antibody to a mouse monoclonal anti-IgE antibody (BSW17) suggesting a conserved interspecies idiotype associated with an anti-IgE response. To find the homologue of BSW17 in the human genome we applied the guided selection strategy. Combining VH of BSW17 with a human VL repertoire resulted in three light chains. The three VL chains were then combined with a human VH repertoire resulting in three clones specific for human IgE. Surprisingly, one clone, Hu41, had the same epitope specificity and functional in vitro activity as BSW17 and VH complementarity-determining regions identical with that of BSW17. Real-time PCR analysis confirmed the presence of the Hu41 VH sequence in the human genome. These data document the first example of the isolation of a human antibody where high sequence similarity to the original murine VH sequence is associated with common antigen and epitope specificity.
+http://www.sciencedirect.com/science/article/pii/S0022283604006758
+00222836

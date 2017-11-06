@@ -1,0 +1,6 @@
+The Capsid of the Small RNA Phage PRR1 Is Stabilized by Metal Ions
+57192147601,35518184300,35516155600
+phage PRR1,calcium ion,X-ray crystallography,molecular replacement,coat protein
+Many nonenveloped virus particles are stabilized by calcium ions bound in the interfaces between the protein subunits. These ions may have a role in the disassembly process. The small RNA phages of the Leviviridae family have T=3 quasi-symmetry and are unique among simple viruses in that they have a coat protein with a translational repressor activity and a fold that has not been observed in other viruses. The crystal structure of phage PRR1 has been determined to 3.5 Å resolution. The structure shows a tentative binding site for a calcium ion close to the quasi-3-fold axis. The RNA-binding surface used for repressor activity is mostly conserved. The structure does not show any significant differences between quasi-equivalent subunits, which suggests that the assembly is not controlled by conformational switches as in many other simple viruses.
+http://www.sciencedirect.com/science/article/pii/S0022283608010541
+00222836

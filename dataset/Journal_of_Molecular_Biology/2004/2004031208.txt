@@ -1,0 +1,6 @@
+Folding Barrier in Horse Cytochrome c: Support for a Classical Folding Pathway
+8579719700,55707347700,6603733981
+protein folding,cytochrome c,folding barrier,topology search model,folding pathway
+Native-state structures and conformations of ferrocytochrome c, nitrosylcytochrome c, and carbonmonoxycytochrome c are very similar. They are, however, immensely different from each other in terms of thermodynamic stability. The dramatic destabilization of ferrocytochrome c to the extent of 12kcalmol−1 produces no effect on the folding rate, and this is so in spite of the fact that all three test-tube variants fold in an apparent two-state manner. For all three proteins the folding barrier is early in time, sizable in energy, and is of the same magnitude (∼6.5kcalmol−1). These results raise some challenges to the “new view” of protein folding. An early transition state, the search for which consumes most of the observed folding time, is suggested.
+http://www.sciencedirect.com/science/article/pii/S0022283604000622
+00222836

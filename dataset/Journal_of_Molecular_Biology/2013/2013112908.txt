@@ -1,0 +1,6 @@
+The Replication Domain Model: Regulating Replicon Firing in the Context of Large-Scale Chromosome Architecture
+36126828700,7401956034
+replicon,origin,replication timing,chromosome domain
+The “Replicon Theory” of Jacob, Brenner, and Cuzin has reliably served as the paradigm for regulating the sites where individual replicons initiate replication. Concurrent with the replicon model was Taylor's demonstration that plant and animal chromosomes replicate segmentally in a defined temporal sequence, via cytologically defined units too large to be accounted for by a single replicon. Instead, there seemed to be a program to choreograph when chromosome units replicate during S phase, executed by inititation at clusters of individual replicons within each segment. Here, we summarize recent molecular evidence for the existence of such units, now known as “replication domains”, and discuss how the organization of large chromosomes into structural units has added additional layers of regulation to the original replicon model.
+http://www.sciencedirect.com/science/article/pii/S0022283613002453
+00222836

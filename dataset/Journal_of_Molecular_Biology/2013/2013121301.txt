@@ -1,0 +1,6 @@
+IFITMs Restrict the Replication of Multiple Pathogenic Viruses
+55796302800,54402629100,36946174700,23566352600
+interferon effector genes,restriction factor,host virus interactions,IFITM,CD225 family
+The interferon-inducible transmembrane protein (IFITM) family inhibits a growing number of pathogenic viruses, among them influenza A virus, dengue virus, hepatitis C virus, and Ebola virus. This review covers recent developments in our understanding of the IFITM's molecular determinants, potential mechanisms of action, and impact on pathogenesis.
+http://www.sciencedirect.com/science/article/pii/S0022283613006086
+00222836

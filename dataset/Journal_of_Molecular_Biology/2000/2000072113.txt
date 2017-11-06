@@ -1,0 +1,6 @@
+Use of a New Label, 13C18O, in the Determination of a Structural Model of Phospholamban in a Lipid Bilayer. Spatial Restraints Resolve the Ambiguity Arising from Interpretations of Mutagenesis Data
+7402798449,56438865800,7003858738
+phospholamban,ion channel,infrared spectroscopy,molecular dynamics
+A structural model of pentameric phospholamban (Plb) in a lipid bilayer has been derived using a combination of experimental data, obtained from ATR-FTIR site-directed dichroism, and the implementation of the resulting restraints during a molecular dynamics simulation. Plb (residues 24-52) has been synthesised incorporating a new label, 1-13C18O, at residues 42 and 43. We have not only determined the tilt of the helices, 10(±6)°, but also the relative orientation of the transmembrane segments, with an ω angle of −32(±10)° for L42. This angle is taken as zero in the direction of the helix tilt. Plb is a simple test case where site-directed dichroism has been applied to resolve the indeterminacy arising from the mutagenesis data available. The results presented point specifically to a single structural model for Plb.
+http://www.sciencedirect.com/science/article/pii/S0022283600938853
+00222836

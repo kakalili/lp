@@ -1,0 +1,6 @@
+What Drives Proteins into the Major or Minor Grooves of DNA?
+35497622700,7003565564,7005971784,7007176597,6602239518,7006089241
+DNA binding,DNA grooves,hydration,thermodynamics,electrostatics
+The energetic profiles of a significant number of protein–DNA systems at 20 °C reveal that, despite comparable Gibbs free energies, association with the major groove is primarily an enthalpy-driven process, whereas binding to the minor groove is characterized by an unfavorable enthalpy that is compensated by favorable entropic contributions. These distinct energetic signatures for major versus minor groove binding are irrespective of the magnitude of DNA bending and/or the extent of binding-induced protein refolding. The primary determinants of their different energetic profiles appear to be the distinct hydration properties of the major and minor grooves; namely, that the water in the A+T-rich minor groove is in a highly ordered state and its removal results in a substantial positive contribution to the binding entropy. Since the entropic forces driving protein binding into the minor groove are a consequence of displacing water ordered by the regular arrangement of polar contacts, they cannot be regarded as hydrophobic.
+http://www.sciencedirect.com/science/article/pii/S0022283606012848
+00222836

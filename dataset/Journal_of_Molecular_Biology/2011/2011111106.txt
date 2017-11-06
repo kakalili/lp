@@ -1,0 +1,6 @@
+Novel Structural Insights into Rotavirus Recognition of Ganglioside Glycan Receptors
+7404115107,7004538950,9842396000,6506756876,7005568103,56257195200
+viral lectin,VP8⁎,carbohydrates,sialic acid
+Rotaviruses ubiquitously infect children under the age of 5, being responsible for more than half a million diarrhoeal deaths each year worldwide. Host cell oligosaccharides containing sialic acid(s) are critical for attachment by rotaviruses. However, to date, no detailed three-dimensional atomic model showing the exact rotavirus interactions with these glycoconjugate receptors has been reported. Here, we present the first crystallographic structures of the rotavirus carbohydrate-recognizing protein VP8⁎ in complex with ganglioside GM3 glycans. In combination with assessment of the inhibition of rotavirus infectivity by N-acetyl and N-glycolyl forms of this ganglioside, our results reveal key details of rotavirus–ganglioside GM3 glycan recognition. In addition, they show a direct correlation between the carbohydrate specificities exhibited by VP8⁎ from porcine and by monkey rotaviruses and the respective infectious virus particles. These novel results also indicate the potential binding interactions of rotavirus VP8⁎ with other sialic acid-containing gangliosides.
+http://www.sciencedirect.com/science/article/pii/S0022283611009958
+00222836

@@ -1,0 +1,6 @@
+MSH-MLH complexes formed at a DNA mismatch are disrupted by the PCNA sliding clamp11Edited by M. Gottesman
+7402759887,7102073122,55437052200,7005188332,7003433702
+MSH2-MSH6,MLH1-PMS1,PCNA,ATP
+In the yeast Saccharomyces cerevisiae, mismatch repair (MMR) is initiated by the binding of heterodimeric MutS homolog (MSH) complexes to mismatches that include single nucleotide and loop insertion/deletion mispairs. In in vitro experiments, the mismatch binding specificity of the MSH2-MSH6 heterodimer is eliminated if ATP is present. However, addition of the MutL homolog complex MLH1-PMS1 to binding reactions containing MSH2-MSH6, ATP, and mismatched substrate results in the formation of a stable ternary complex. The stability of this complex suggests that it represents an intermediate in MMR that is subsequently acted upon by other MMR factors. In support of this idea, we found that the replication processivity factor proliferating cell nuclear antigen (PCNA), which plays a critical role in MMR at step(s) prior to DNA resynthesis, disrupted preformed ternary complexes. These observations, in conjunction with experiments performed with streptavidin end-blocked mismatch substrates, suggested that PCNA interacts with an MSH-MLH complex formed on DNA mispairs.
+http://www.sciencedirect.com/science/article/pii/S0022283601944675
+00222836

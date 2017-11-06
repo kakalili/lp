@@ -1,0 +1,6 @@
+Unveiling the Timescale of the R–T Transition in Human Hemoglobin
+9241112900,6602361981,36790451300,7003846911
+hemoglobin,allostery,protein dynamics
+Time-resolved wide-angle X-ray scattering, a recently developed technique allowing to probe global structural changes of proteins in solution, was used to investigate the kinetics of R–T quaternary transition in human hemoglobin and to systematically compare it to that obtained with time-resolved optical spectroscopy under nearly identical experimental conditions. Our data reveal that the main structural rearrangement associated with the R–T transition takes place ∼2 μs after the photolysis of hemoglobin at room temperature and neutral pH. This finding suggests that the 20-μs step observed with time-resolved optical spectroscopy corresponds to a small and localized structural change.
+http://www.sciencedirect.com/science/article/pii/S0022283610005619
+00222836

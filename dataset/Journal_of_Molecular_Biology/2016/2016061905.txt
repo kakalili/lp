@@ -1,0 +1,6 @@
+Coupling of RNA Polymerase II Transcription Elongation with Pre-mRNA Splicing
+6508047632,55987964200,56915378400,33067463400
+RNA polymerase II,CTD,transcription elongation,alternative splicing,kinetic coupling
+Pre-mRNA maturation frequently occurs at the same time and place as transcription by RNA polymerase II. The co-transcriptionality of mRNA processing has permitted the evolution of mechanisms that functionally couple transcription elongation with diverse events that occur on the nascent RNA. This review summarizes the current understanding of the relationship between transcriptional elongation through a chromatin template and co-transcriptional splicing including alternative splicing decisions that affect the expression of most human genes.
+http://www.sciencedirect.com/science/article/pii/S0022283616300766
+00222836

@@ -1,0 +1,6 @@
+Effects of histone acetylation on the equilibrium accessibility of nucleosomal DNA target sites11Edited by R. Ebright
+56137320000,6602126811,7006676536
+nucleosome,chromatin,gene regulation,transcription,site exposure
+Posttranslational acetylation of the conserved core histone N-terminal tail domains is linked to gene activation, but the molecular mechanisms involved are not known. In an earlier study we showed that removing the tail domains altogether by trypsin proteolysis (which leaves nucleosomes nevertheless intact) leads to 1.5 to 14-fold increases in the dynamic equilibrium accessibility of nucleosomal DNA target sites. These observations suggested that, by modestly increasing the equilibrium accessibility of buried DNA target sites, histone acetylation could result in an increased occupancy by regulatory proteins, ultimately increasing the probability of transcription initiation. Here, we extend these observations to a more natural system involving intact but hyperacetylated nucleosomes. We find that histone hyperacetylation leads to 1.1 to 1.8-fold increases in position-dependent equilibrium constants for exposure of nucleosomal DNA target sites, with an average increase of 1.4(±0.1)-fold. The mechanistic and biological implications of these results are discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283601945280
+00222836

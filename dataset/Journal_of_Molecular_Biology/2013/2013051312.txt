@@ -1,0 +1,6 @@
+A Footnote on Allostery
+55300116700,55634520200
+allostery,equivalent monomer,allosteric range
+A manuscript on allostery signed by Francis Crick and Jeffries Wyman was sent by Crick to Jacques Monod in 1965. Monod transmitted a copy of the manuscript, upon which he had written several comments, to Jean-Pierre Changeux, then a post-doctoral fellow at the University of California Berkeley in the laboratory of Howard Schachman. Changeux provided a copy to Stuart Edelstein, a graduate student in the same laboratory. The manuscript was never submitted for publication, but Edelstein retained his copy since that time and has edited it for publication in the special issue on allostery. The text emphasized the interpretation of the properties of an allosteric oligomer by characterizing its equivalent monomer. The text also developed the concept of the allosteric range and included a simple equation for calculation of the Hill coefficient from the parameters of the Monod-Wyman-Changeux model.
+http://www.sciencedirect.com/science/article/pii/S0022283613001605
+00222836

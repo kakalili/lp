@@ -1,0 +1,6 @@
+Crystal Structure of the Cytoplasmic N-Terminal Domain of Subunit I, a Homolog of Subunit a, of V-ATPase
+15765951900,7006725868,56979442100,35499249800
+A/V-type ATPase,EM fit,membrane fusion/secretion,protein structure,proton pumping
+Subunit “a” is associated with the membrane-bound (VO) complex of eukaryotic vacuolar H+-ATPase acidification machinery. It has also been shown recently to be involved in diverse membrane fusion/secretory functions independent of acidification. Here, we report the crystal structure of the N-terminal cytosolic domain from the Meiothermus ruber subunit “I” homolog of subunit a. The structure is composed of a curved long central α-helix bundle capped on both ends by two lobes with similar α/β architecture. Based on the structure, a reasonable model of its eukaryotic subunit a counterpart was obtained. The crystal structure and model fit well into reconstructions from electron microscopy of prokaryotic and eukaryotic vacuolar H+-ATPases, respectively, clarifying their orientations and interactions and revealing features that could enable subunit a to play a role in membrane fusion/secretion.
+http://www.sciencedirect.com/science/article/pii/S0022283611007686
+00222836

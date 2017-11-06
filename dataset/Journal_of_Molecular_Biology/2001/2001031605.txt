@@ -1,0 +1,6 @@
+Differential melting of the transcription start site associated with changes in RNA polymerase-promoter contacts in initiating transcription complexes11Edited by M. Yaniv
+6602629589,7003344526
+RNA polymerase,formaldehyde cross-linking,kinetics,promoter melting
+Formaldehyde cross-linking was used in a kinetic analysis of RNA polymerase-lac UV5 promoter interactions in open complexes (RPo). RPo quenched from 37°C to 14°C isomerised to a closed, competitor resistant, complex (RPLT). We observed that contacts of the β′ and σ subunits with the positions −3, −5 of the non-template DNA strand disappeared very quickly during the first 30 seconds after the temperature downshift. The re-annealing of the DNA downstream of the transcription start site takes place in the same time scale. However re-annealing of the upstream part of the transcription bubble was slower and completed within five minutes. The results support a two-step model of promoter melting and suggest that conformational changes in the RNA polymerase occur concurrently with the melting around the transcription start site.
+http://www.sciencedirect.com/science/article/pii/S0022283600944838
+00222836

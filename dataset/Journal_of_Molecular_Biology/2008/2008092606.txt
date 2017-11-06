@@ -1,0 +1,6 @@
+Visualization of the eEF2–80S Ribosome Transition-State Complex by Cryo-Electron Microscopy
+7103058682,8353692300,6603116027,55890638800,7006593640,55423416200
+AlF4−,GDP,GTPase,ribosome,translocation
+In an attempt to understand ribosome-induced GTP hydrolysis on eEF2, we determined a 12.6-Å cryo-electron microscopy reconstruction of the eEF2-bound 80S ribosome in the presence of aluminum tetrafluoride and GDP, with aluminum tetrafluoride mimicking the γ-phosphate during hydrolysis. This is the first visualization of a structure representing a transition-state complex on the ribosome. Tight interactions are observed between the factor's G domain and the large ribosomal subunit, as well as between domain IV and an intersubunit bridge. In contrast, some of the domains of eEF2 implicated in small subunit binding display a large degree of flexibility. Furthermore, we find support for a transition-state model conformation of the switch I region in this complex where the reoriented switch I region interacts with a conserved rRNA region of the 40S subunit formed by loops of the 18S RNA helices 8 and 14. This complex is structurally distinct from the eEF2-bound 80S ribosome complexes previously reported, and analysis of this map sheds light on the GTPase-coupled translocation mechanism.
+http://www.sciencedirect.com/science/article/pii/S0022283608008346
+00222836

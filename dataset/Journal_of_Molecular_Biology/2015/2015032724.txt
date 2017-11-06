@@ -1,0 +1,6 @@
+Structure of Salmonella FlhE, Conserved Member of a Flagellar Type III Secretion Operon
+55173179400,6701476394,6506151762,7004535039
+flagellar motility,proton motive force,proton leak
+The bacterial flagellum is assembled by a multicomponent transport apparatus categorized as a type III secretion system. The secretion of proteins that assemble into the flagellum is driven by the proton motive force. The periplasmic protein FlhE is a member of the flhBAE operon in the majority of bacteria where FlhE is found. FlhA and FlhB are established components of the flagellar type III secretion system. The absence of FlhE results in a proton leak through the flagellar system, inappropriate secretion patterns, and cell death, indicating that FlhE regulates an important aspect of proper flagellar biosynthesis. We isolated FlhE from the periplasm of Salmonella and solved its structure to 1.5Å resolution. The structure reveals a β-sandwich fold, with no close structural homologs. Possible roles of FlhE, including that of a chaperone, are discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283614006470
+00222836

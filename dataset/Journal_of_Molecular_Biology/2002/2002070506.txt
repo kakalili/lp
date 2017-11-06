@@ -1,0 +1,6 @@
+The ATP-operated Clamp of Human DNA Topoisomerase IIα: Hyperstimulation of ATPase by “Piggy-back” Binding
+7403000722,7101974168
+DNA gyrase,supercoiling,anti-tumour drugs,DNA–protein interactions
+We have constructed a series of clones encoding N-terminal fragments of human DNA topoisomerase IIα. All fragments exhibit DNA-dependent ATPase activity. Fragment 1–420 shows hyperbolic dependence of ATPase on DNA concentration, whereas fragment 1–453 shows hyperstimulation at low ratios of DNA to enzyme, a phenomenon found previously with the full-length enzyme. The minimum length of DNA found to stimulate the ATPase activity was ∼10bp; fragments ≥32bp manifest the hyperstimulation phenomenon. Molecular mass studies show that fragment 1–453 is a monomer in the absence of nucleotides and a dimer in the presence of nucleotide triphosphate. The results are consistent with the role of the N-terminal domain of topoisomerase II as an ATP-operated clamp that dimerises in the presence of ATP. The hyperstimulation effect can be interpreted in terms of a “piggy-back binding” model for protein–DNA interaction.
+http://www.sciencedirect.com/science/article/pii/S0022283602004618
+00222836

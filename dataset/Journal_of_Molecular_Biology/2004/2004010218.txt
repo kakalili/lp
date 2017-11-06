@@ -1,0 +1,6 @@
+Crystal Structure of the Catalytic Domain of Human ADAM33
+7003338179,7006093580,37091991300,6603316560,6506234850,7202011641,7102835423,36619895200,7003290109,34574384400,7005373233,6603326625,7202645685,7004849618
+ADAM33,metalloprotease,asthma,X-ray structure
+Adam33 is a putative asthma susceptibility gene encoding for a membrane-anchored metalloprotease belonging to the ADAM family. The ADAMs (a disintegrin and metalloprotease) are a family of glycoproteins implicated in cell-cell interactions, cell fusion, and cell signaling. We have determined the crystal structure of the Adam33 catalytic domain in complex with the inhibitor marimastat and the inhibitor-free form. The structures reveal the polypeptide fold and active site environment resembling that of other metalloproteases. The substrate-binding site contains unique features that allow the structure-based design of specific inhibitors of this enzyme.
+http://www.sciencedirect.com/science/article/pii/S0022283603013135
+00222836

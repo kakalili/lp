@@ -1,0 +1,6 @@
+Bicelle crystallization: a new method for crystallizing membrane proteins yields a monomeric bacteriorhodopsin structure11Edited by D. Rees
+6602838521,7102792896
+membrane protein,crystals,crystallization,lipid cubic phase,detergent
+Obtaining crystals of membrane proteins that diffract to high resolution remains a major stumbling block in structure determination. Here we present a new method for crystallizing membrane proteins from a bicelle forming lipid/detergent mixture. The method is flexible and simple to use. As a test case, bacteriorhodopsin (bR) from Halobacterium salinarum was crystallized from a bicellar solution, yielding a new bR crystal form. The crystals belong to space group P21 with unit cell dimensions of a = 45.0 Å, b = 108.9 Å, c = 55.9 Å, β = 113.58° and a dimeric asymmetric unit. The structure was solved by molecular replacement and refined at 2.0 Å resolution. In all previous bR structures the protein is organized as a parallel trimer, but in the crystals grown from bicelles, the individual bR subunits are arranged in an antiparallel fashion.
+http://www.sciencedirect.com/science/article/pii/S0022283601952957
+00222836

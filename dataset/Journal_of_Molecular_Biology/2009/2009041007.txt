@@ -1,0 +1,6 @@
+Solid-State NMR Evidence for Inequivalent GvpA Subunits in Gas Vesicles
+6602777526,12645557000,7006692372,7401911138,7005436497
+gas vesicles,protein structure,macromolecular assembly,solid-state NMR,asymmetric dimer
+Gas vesicles are organelles that provide buoyancy to the aquatic microorganisms that harbor them. The gas vesicle shell consists almost exclusively of the hydrophobic 70-residue gas vesicle protein A, arranged in an ordered array. Solid-state NMR spectra of intact collapsed gas vesicles from the cyanobacterium Anabaena flos-aquae show duplication of certain gas vesicle protein A resonances, indicating that specific sites experience at least two different local environments. Interpretation of these results in terms of an asymmetric dimer repeat unit can reconcile otherwise conflicting features of the primary, secondary, tertiary, and quaternary structures of the gas vesicle protein. In particular, the asymmetric dimer can explain how the hydrogen bonds in the β-sheet portion of the molecule can be oriented optimally for strength while promoting stabilizing aromatic and electrostatic side-chain interactions among highly conserved residues and creating a large hydrophobic surface suitable for preventing water condensation inside the vesicle.
+http://www.sciencedirect.com/science/article/pii/S0022283609001727
+00222836

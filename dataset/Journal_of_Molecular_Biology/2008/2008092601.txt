@@ -1,0 +1,6 @@
+Ribosome Collisions and Translation Efficiency: Optimization by Codon Usage and mRNA Destabilization
+6603020908,7003686449,16157755100
+modelling,ribosome collisions,codon usage,translation efficiency
+Individual mRNAs are translated by multiple ribosomes that initiate translation with an interval of a few seconds. The ribosome speed is codon dependent, and ribosome queuing has been suggested to explain specific data for translation of some mRNAs in vivo. By modeling the stochastic translation process as a traffic problem, we here analyze conditions and consequences of collisions and queuing. The model allowed us to determine the on-rate (0.8 to 1.1 initiations/s) and the time (1 s) the preceding ribosome occludes initiation for Escherichia coli lacZ mRNA in vivo. We find that ribosome collisions and queues are inevitable consequences of a stochastic translation mechanism that reduce the translation efficiency substantially on natural mRNAs. The cells minimize collisions by having its mRNAs being unstable and by a highly selected codon usage in the start of the mRNA. The cost of mRNA breakdown is offset by the concomitant increase in translation efficiency.
+http://www.sciencedirect.com/science/article/pii/S002228360800795X
+00222836

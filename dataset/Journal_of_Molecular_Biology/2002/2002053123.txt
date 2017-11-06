@@ -1,0 +1,6 @@
+Recognition of DNA by p53 Core Domain and Location of Intermolecular Contacts of Cooperative Binding
+6507276477,55637847000,6601969686,36043863300
+NMR,p53,promoter,recognition
+We present an analysis by NMR of a 58kDa complex of the core domain of the tumour suppressor p53 with DNA that complements and extends the crystal structure analysis. Binding of specific DNA caused significant chemical shifts of residues on the DNA-binding interface that translated into the β-sheet of the protein. Binding of non-specific DNA caused weak but qualitatively the same shifts, corresponding to weaker binding interactions. The observed chemical shift differences correlate with frequency of cancer-inducing mutations, suggesting that the affected residues contribute to the stability of p53 core domain–DNA complex. We also identified two affected regions on the surface of the protein: helix 1 (residues V173–C182) plus G244 and residues L114–T118, which may represent a dimerisation interface.
+http://www.sciencedirect.com/science/article/pii/S0022283602003261
+00222836

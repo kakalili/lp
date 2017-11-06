@@ -1,0 +1,6 @@
+Macromolecular Crowding Stabilizes the Molten Globule Form of Apomyoglobin with Respect to Both Cold and Heat Unfolding
+7005814649,7402910019,7007091186
+protein stability,molecular crowding,molten globule,excluded volume,cold denaturation
+At pH 2 apomyoglobin is extensively unfolded. Addition of increasing concentration of salts has been shown to convert the protein into molten globule form(s), which can undergo both heat-induced and cold-induced unfolding. Increasing concentrations of an inert polymer, dextran, lead to increased formation of molten globule and stabilizes the protein with respect to both heat-induced and cold-induced denaturation. The transitions were studied by circular dichroism. Two-state analysis of the data shows that the effects of salt and polymer are additive, and that stabilization by the polymer is independent of temperature, as predicted by excluded volume theory.
+http://www.sciencedirect.com/science/article/pii/S0022283606006942
+00222836

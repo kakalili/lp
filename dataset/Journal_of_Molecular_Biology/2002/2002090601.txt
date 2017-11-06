@@ -1,0 +1,6 @@
+DNA-induced Partial Unfolding of Prion Protein Leads to its Polymerisation to Amyloid
+7006014551,7003802231,8060681400,7406844171
+prion protein,nucleic acid interaction,protein conformation,polymerisation,amyloid
+The full-length mouse recombinant prion protein (23–231 amino acid residues) contains all of its structural elements viz. three α-helices and a short two-stranded antiparallel β-sheet in its C-terminal fragment comprising 121–231 amino acid residues. The incubated mixture of this prion protein fragment and nucleic acid results in the formation of amyloid fibres evidenced from electron microscopy, birefringence and fluorescence of the fibre bound Congo Red and Thioflavin T dyes, respectively. The secondary structure of the amyloid formed in nucleic acid solution is similar to the in vivo isolated prion protein 27-30 amyloid but unlike in it, a hydrophobic milieu is absent in the 121-231 amyloid. Thermal denaturation study demonstrates a partial unfolding of the protein fragment in nucleic acid solution. We propose that nucleic acid catalyses unfolding of prion protein helix 1 followed by a nucleation-dependent polymerisation of the protein to amyloid.
+http://www.sciencedirect.com/science/article/pii/S0022283602007507
+00222836

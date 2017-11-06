@@ -1,0 +1,6 @@
+A Genome-wide Ras-Effector Interaction Network
+55991930400,57193727190,16480523000,23494578700,7101901077
+Ras proteins,Ras binding domains,homology modelling,protein interactions,FoldX
+Here using structural information and protein design tools we have drawn the network of interactions between 20 Ras subfamily proteins with 50 putative Ras binding domains. To validate this network we have cloned six poorly characterized Ras binding domains (RBD) and two Ras proteins (RERG, DiRas1). These, together with previously described RBD domains, Ras and Rap proteins have been analyzed in 70 pull-down experiments. Comparing our interaction network with these and previous pull-down experiments (total of 150 cases) shows a very high accuracy for distinguishing between binders and non-binders (∼0.80). Bioinformatics information was integrated to distinguish those in vitro interactions that are more likely to be relevant in vivo. We proposed several new interactions between Ras family members and effector domains that are of relevance in understanding the physiological role of these proteins. More broadly our results demonstrate that (domain–domain) interaction specificities between members of protein families can be accurately predicted using structural information.
+http://www.sciencedirect.com/science/article/pii/S0022283607006237
+00222836

@@ -1,0 +1,6 @@
+Apparent two-state tendamistat folding is a sequential process along a defined route11Edited by A. R. Fersht
+7103093654,56249762100
+protein folding,folding intermediates,folding pathways,transition state,tendamistat
+The small all-β-sheet protein tendamistat folds and unfolds rapidly in apparent two-state reactions. Kinetic measurements of two tendamistat variants under various solvent conditions reveal, however, that folding occurs in at least two sequential steps through a metastable obligatory intermediate. Depending on the solvent conditions either step can become rate limiting. The activation parameters indicate that the first step represents an enthalpic barrier whereas the second step is an entropic barrier at 25 °C. Our results suggest that initial non-specific collapse precedes formation of native secondary and tertiary structure in tendamistat folding. This points at a distinct route in tendamistat folding and indicates that partially folded metastable intermediates might play an important role in the mechanism of apparent two-state folding.
+http://www.sciencedirect.com/science/article/pii/S0022283600943997
+00222836

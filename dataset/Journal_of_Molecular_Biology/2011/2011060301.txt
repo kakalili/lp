@@ -1,0 +1,6 @@
+Structural Analysis of a Novel Class of R–M Controller Proteins: C.Csp231I from Citrobacter sp. RFL231
+7102001719,6603255446,24537982000,55741178900,8711521400,35589052800
+restriction–modification,helix–turn–helix,X-ray crystallography,small-angle X-ray scattering,analytical ultracentrifugation
+Controller proteins play a key role in the temporal regulation of gene expression in bacterial restriction–modification (R–M) systems and are important mediators of horizontal gene transfer. They form the basis of a highly cooperative, concentration-dependent genetic switch involved in both activation and repression of R–M genes. Here we present biophysical, biochemical, and high-resolution structural analysis of a novel class of controller proteins, exemplified by C.Csp231I. In contrast to all previously solved C-protein structures, each protein subunit has two extra helices at the C-terminus, which play a large part in maintaining the dimer interface. The DNA binding site of the protein is also novel, having largely AAAA tracts between the palindromic recognition half-sites, suggesting tight bending of the DNA. The protein structure shows an unusual positively charged surface that could form the basis for wrapping the DNA completely around the C-protein dimer.
+http://www.sciencedirect.com/science/article/pii/S0022283611003093
+00222836

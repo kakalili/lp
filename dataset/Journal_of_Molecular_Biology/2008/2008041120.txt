@@ -1,0 +1,6 @@
+Crystal Structure of Human Epidermal Kallikrein 7 (hK7) Synthesized Directly in its Native State in E. coli: Insights into the Atomic Basis of its Inhibition by LEKTI Domain 6 (LD6)
+55127281100,6701764032,6701767426,35513264100,7004984855,7202648809
+serine proteases,human tissue kallikreins,LEKTI domain 6,inhibition kinetics,X-ray crystal structure
+Human kallikrein 7, a major protease of human skin, has been synthesized directly in its native conformation in Escherichia coli by forcing the secretion of the newly synthesized polypeptide into the bacterial periplasm. The procedure yields a stable kallikrein 7 with highly specific activity that is inhibited efficiently by its specific inhibitor LEKTI domain 6. The protein was crystallized, and its three-dimensional structure was solved in the absence of protease inhibitors. The structure obtained agrees with that reported recently for human tissue kallikrein 7 crystallized in the presence of protease inhibitors from a preparation obtained in a baculovirus protein expression system. A model of the interaction between the protease and its inhibitor is proposed on the basis of both the three-dimensional structure of human tissue kallikrein 7 reported here and that of the LEKTI domain 6 solved previously by NMR.
+http://www.sciencedirect.com/science/article/pii/S0022283608001605
+00222836

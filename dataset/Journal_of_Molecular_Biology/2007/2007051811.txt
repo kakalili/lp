@@ -1,0 +1,6 @@
+The Critical Role of a Hydrogen Bond between Gln63 and Trp104 in the Blue-Light Sensing BLUF Domain That Controls AppA Activity
+36803607400,35075218400,57066120300,7006366882
+AppA,BLUF,flavin,photoreceptor,purple bacteria
+AppA is a novel blue-light receptor that controls photosynthetic gene expression in the purple bacterium Rhodobacter sphaeroides. The photocycle reaction of the light-sensing domain, BLUF, is unique in the sense that a few hydrogen bond rearrangements are accompanied by only slight structural changes of the bound chromophore. However, the exact features of the hydrogen bond network around the active site are still the subject of some controversy. Here we present biochemical and genetic evidence showing that either Gln63 or Trp104 in the active site of the BLUF domain is crucial for light sensing, which in turn controls the antirepressor activity of AppA. Specifically, the Q63L and W104A mutants of AppA are insensitive to blue light in vivo and in vitro, and their activity is similar to that of the light-adapted wild-type AppA. Based on spectroscopic and structural information described previously, we conclude that light-dependent formation and breakage of the hydrogen bond between Gln63 and Trp104 are critical for the light-sensing mechanism of AppA.
+http://www.sciencedirect.com/science/article/pii/S0022283607002999
+00222836

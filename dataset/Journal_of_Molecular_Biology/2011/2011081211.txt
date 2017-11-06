@@ -1,0 +1,6 @@
+Nascent Peptide Side Chains Induce Rearrangements in Distinct Locations of the Ribosomal Tunnel
+56142162300,37124224100,6603204944,7102639587
+cysteine accessibility,ribosome–nascent peptide interactions,translation,allosteric rearrangements,solvent-accessible volumes
+Although we have numerous structures of ribosomes, none disclose side-chain rearrangements of the nascent peptide during chain elongation. This study reports for the first time that rearrangement of the peptide and/or tunnel occurs in distinct regions of the tunnel and is directed by the unique primary sequence of each nascent peptide. In the tunnel mid-region, the accessibility of an introduced cysteine to a series of novel hydrophilic maleimide reagents increases with increasing volume of the adjacent chain residue, a sensitivity not manifest at the constriction and exit port. This surprising result reveals molecular movements not yet resolvable from structural studies. These findings map solvent-accessible volumes along the tunnel and provide novel insights critical to our understanding of allosteric communication within the ribosomal tunnel, translational arrest, chaperone interaction, folding, and rates of elongation.
+http://www.sciencedirect.com/science/article/pii/S0022283611006012
+00222836

@@ -1,0 +1,6 @@
+Electrostatics in the Ribosomal Tunnel Modulate Chain Elongation Rates
+56142162300,7102639587
+electrostatics,translation,nascent peptide,peptide elongation,S4 transmembrane segment
+Electrostatic potentials along the ribosomal exit tunnel are nonuniform and negative. The significance of electrostatics in the tunnel remains relatively uninvestigated, yet they are likely to play a role in translation and secondary folding of nascent peptides. To probe the role of nascent peptide charges in ribosome function, we used a molecular tape measure that was engineered to contain different numbers of charged amino acids localized to known regions of the tunnel and measured chain elongation rates. Positively charged arginine or lysine sequences produce transient arrest (pausing) before the nascent peptide is fully elongated. The rate of conversion from transiently arrested to full-length nascent peptide is faster for peptides containing neutral or negatively charged residues than for those containing positively charged residues. We provide experimental evidence that extraribosomal mechanisms do not account for this charge-specific pausing. We conclude that pausing is due to charge-specific interactions between the tunnel and the nascent peptide.
+http://www.sciencedirect.com/science/article/pii/S0022283608010991
+00222836

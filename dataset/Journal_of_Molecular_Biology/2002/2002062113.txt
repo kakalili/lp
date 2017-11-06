@@ -1,0 +1,6 @@
+Structural Properties of a Collagenous Heterotrimer that Mimics the Collagenase Cleavage Site of Collagen Type I
+7006589644,6603192724,7103123802
+collagenase substrate,collagenous heterotrimers,conformation,NMR,proton exchange
+Collagens contain sequence- and conformation-dependent epitopes responsible for their digestion by collagenases at specific loci. A synthetic heterotrimer construct containing the collagenase cleavage site of collagen type I was found to mimic perfectly native collagen in terms of selectivity and mode of enzymatic degradation. The NMR conformational analysis of this molecule clearly revealed the presence of two structural domains, i.e. a triple helix spanning the Gly-Pro-Hyp repeats and a less ordered portion corresponding to the collagenase cleavage site where the three chains are aligned in extended conformation with loose interchain contacts. These structural properties allow for additional insights into the very particular mechanism of collagen digestion by collagenases.
+http://www.sciencedirect.com/science/article/pii/S0022283602003650
+00222836

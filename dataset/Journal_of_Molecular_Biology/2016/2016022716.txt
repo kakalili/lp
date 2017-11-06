@@ -1,0 +1,6 @@
+Synthetic Ecology of Microbes: Mathematical Models and Applications
+35106394400,7005643974
+Microbial communities,Synthetic Biology,Systems Biology,Metabolic network modeling,Metabolic engineering
+As the indispensable role of natural microbial communities in many aspects of life on Earth is uncovered, the bottom-up engineering of synthetic microbial consortia with novel functions is becoming an attractive alternative to engineering single-species systems. Here, we summarize recent work on synthetic microbial communities with a particular emphasis on open challenges and opportunities in environmental sustainability and human health. We next provide a critical overview of mathematical approaches, ranging from phenomenological to mechanistic, to decipher the principles that govern the function, dynamics and evolution of microbial ecosystems. Finally, we present our outlook on key aspects of microbial ecosystems and synthetic ecology that require further developments, including the need for more efficient computational algorithms, a better integration of empirical methods and model-driven analysis, the importance of improving gene function annotation, and the value of a standardized library of well-characterized organisms to be used as building blocks of synthetic communities.
+http://www.sciencedirect.com/science/article/pii/S0022283615006129
+00222836

@@ -1,0 +1,6 @@
+A Splice Variant of the Human CCA-adding Enzyme with Modified Activity
+15834963000,15835478600,55796630090,7101702542,7006122661
+tRNA nucleotidyltransferase,CCA-adding enzyme,CC-adding enzyme,alternative splicing
+The human CCA-adding enzyme (tRNA nucleotidyltransferase) is an essential enzyme that catalyzes the addition of the CCA terminus to the 3′ end of tRNA precursors, a reaction which is a fundamental prerequisite for mature tRNAs to become aminoacylated and to participate in protein biosynthesis. To date only one form of this enzyme has been identified in humans. Here, we describe the sequence and activity of a splice variant of the human CCA-adding enzyme identified in public cDNA databases. The in silico analyses performed on this splice variant indicate that there is conservation of the alternative splice donor site among species and indicate that it seems to be used in vivo. Moreover, the recombinantly expressed protein is active in vitro and accepts tRNA transcripts as substrates incorporating the dinucleotide sequence CC to their 3′ end, in contrast to the activity of the full length enzyme. These findings strongly suggest that the splice variant of the human CCA-adding enzyme is expressed in the cell although the in vivo function remains unclear.
+http://www.sciencedirect.com/science/article/pii/S0022283606016755
+00222836

@@ -1,0 +1,6 @@
+Allosteric Regulation of the Transcription Factor NFAT1 by Multiple Phosphorylation Sites: A Mathematical Analysis
+56228852500,7006417468
+signal transduction,calcineurin,kinases,conformational switch,nuclear transport
+NFAT transcription factors are activated through dephosphorylation by the phosphatase calcineurin. Experimental data show that 13 conserved phosphorylation sites conspire to control the transition between an inactive and an active conformation. We propose a quantitative model of the underlying molecular mechanisms that may generally apply to highly phosphorylated proteins. Mathematical analysis shows that multiple phosphorylation sites result in a threshold for protein activation. Its sharpness increases with the number of sites, thus providing a rationale for the involvement of the large number of serine residues in NFAT activation. The model predicts that nuclear kinases exert a larger control on the activation threshold than cytoplasmic kinases, and that the NFAT activation kinetics can discriminate between input signals of different amplitude.
+http://www.sciencedirect.com/science/article/pii/S0022283603000858
+00222836

@@ -1,0 +1,6 @@
+Dynamics and cooperativity of microtubule decoration by the motor protein kinesin11Edited by W. Baumeister
+6602515272,7103012792,7004228754,19136519700,13308411100,55412049000
+molecular motors,tubulin,nucleation,annealing
+We describe a theoretical and experimental analysis of the interaction between microtubules and dimeric motor proteins (kinesin, NCD), with special emphasis on the stoichiometry of the interaction, cooperative effects, and their consequences for the interpretation of biochemical and image reconstruction results. Monomeric motors can bind equivalently to microtubules without interference, at a stoichiometry of one motor head per tubulin subunit (αβ-heterodimer). By contrast, dimeric motors can interact with stoichiometries ranging between one and two heads per tubulin subunit, depending on binding constants of the first head and the subsequent binding of the second head, and the concentration of dimers in solution. Further, we show that an attractive interaction between the bound motor molecules can explain the higher periodicities observed in decorated microtubules (e.g. 16 nm periodicity), and the non-uniform decoration of a population of microtubules and give an estimate of the strength of this interaction.
+http://www.sciencedirect.com/science/article/pii/S002228360195020X
+00222836

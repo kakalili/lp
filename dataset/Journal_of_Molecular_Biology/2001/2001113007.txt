@@ -1,0 +1,6 @@
+NMR studies of the interactions of SpoIIAA with its partner proteins that regulate sporulation in Bacillus subtilis11Edited by P. E. Wright
+7102852995,7401749391,7005000433
+sporulation,anti-anti-sigma factor,protein binding site,chemical shift perturbation,SpoIIAA
+SpoIIAA is a key component in the network of interactions that regulate the first sporulation-specific transcription factor, σF, in Bacillus subtilis. In its unphosphorylated form SpoIIAA is either phosphorylated by or forms a non-covalent complex with SpoIIAB, whereas in its phosphorylated form it is dephosphorylated by SpoIIE. In this work we present NMR studies of the SpoIIAA2.SpoIIAB complex and of mutant proteins that are deficient in their ability to interact with SpoIIAB or SpoIIE. The NMR studies of the SpoIIAA2.SpoIIAB complex allowed us to define a contiguous patch that is perturbed upon complex formation. By examining the chemical shift perturbations in the mutant proteins we have identified more specific areas that contain residues critical for the SpoIIAB and SpoIIE interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283601951423
+00222836

@@ -1,0 +1,6 @@
+The Crystal Structures of TrkA and TrkB Suggest Key Regions for Achieving Selective Inhibition
+6602074202,8520608000,55705957000,55728956600,35565332300,57191470974,7404122231,57189363953,55343333700,26029312900,7201851006
+tropomyosin-related kinase,TrkA,TrkB,X-ray structure,kinase insert domain
+The Trk family of neurotrophin receptors, which includes the three highly homologous proteins TrkA, TrkB and TrkC, is strongly associated with central and peripheral nervous system processes. Trk proteins are also of interest in oncology, since Trk activation has been observed in several cancer types. While Trk kinases are attractive oncology targets, selectivity might be more of an issue than for other kinases due to potential CNS side effects if several Trk kinases are simultaneously targeted. In order to address this issue, we present here the first structures of human TrkA and TrkB kinase domains and three complexes between TrkB and Trk inhibitors. These structures reveal different conformations of the kinase domain and suggest new regions of selectivity among the Trk family.
+http://www.sciencedirect.com/science/article/pii/S0022283612006456
+00222836

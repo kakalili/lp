@@ -1,0 +1,6 @@
+C-terminal regions of Hsp90 are important for trapping the nucleotide during the ATPase cycle11Edited by R. Huber
+6603886986,6506621291,57016126300,6602142990,7003426456,7005734918
+chaperone,MutL,MABA-ATP,kinetic analysis,mutagenesis
+Hsp90 is an abundant molecular chaperone that functions in an ATP-dependent manner in vivo. The ATP-binding site is located in the N-terminal domain of Hsp90. Here, we dissect the ATPase cycle of Hsp90 kinetically. We find that Hsp90 binds ATP with a two-step mechanism. The rate-limiting step of the ATPase cycle is the hydrolysis of ATP. Importantly, ATP becomes trapped and committed to hydrolyze during the cycle. In the isolated ATP-binding domain of Hsp90, however, the bound ATP was not committed and the turnover numbers were markedly reduced. Analysis of a series of truncation mutants of Hsp90 showed that C-terminal regions far apart in sequence from the ATP-binding domain are essential for trapping the bound ATP and for maximum hydrolysis rates. Our results suggest that ATP binding and hydrolysis drive conformational changes that involve the entire molecule and lead to repositioning of the N and C-terminal domains of Hsp90.
+http://www.sciencedirect.com/science/article/pii/S0022283600941573
+00222836

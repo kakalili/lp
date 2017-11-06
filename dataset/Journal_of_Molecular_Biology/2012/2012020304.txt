@@ -1,0 +1,6 @@
+The Formation of a Potential Spring in the Ribosome
+36672914600,13805909100,54880662800,7202970668
+assembly,16S rRNA,helix 11,S17,S20
+Time-dependent chemical modification and cleavage results have provided intriguing insights into structural changes that occur in the distal loop of helix 11 in 16S ribosomal RNA (rRNA). Located distant from the decoding region, between proteins S17 and S20, the results of this study suggest that this region of rRNA may act as a buffer or a spring between these two proteins during protein biosynthesis. During the assembly process, protein S17 apparently produces the major structural deformations in this region, causing it to be folded in a spring-like structure. Base C264 in this region shows erratic behavior during assembly and also shows time-dependent enhancement when elongation factor G with GTP is added to 70S ribosomes. Evidence is presented to suggest that this region of rRNA may be used to allow relative motion to occur between proteins S17 and S20 during translocation.
+http://www.sciencedirect.com/science/article/pii/S0022283611012915
+00222836

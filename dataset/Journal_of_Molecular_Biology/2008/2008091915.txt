@@ -1,0 +1,6 @@
+Rapid Kinetic Analysis of Transcription Elongation by Escherichia coli RNA Polymerase
+7407016618,24475970900,55197831200,7004386267
+transcription,RNA polymerase,translocation,stopped-flow kinetics and quench-flow kinetics,pyrophosphate release
+Nucleotide incorporation during transcription by RNA polymerase is accompanied by pyrophosphate formation. Rapid release of pyrophosphate from the elongation complex at a rate consistent with productive transcription elongation occurs only in the presence of the correct next nucleotide for incorporation into the transcript.
+http://www.sciencedirect.com/science/article/pii/S0022283608008279
+00222836

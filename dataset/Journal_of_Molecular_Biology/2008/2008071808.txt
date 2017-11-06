@@ -1,0 +1,6 @@
+Concerted Release of Substrate Domains from GroEL by ATP Is Demonstrated with FRET
+6602394755,16028846700,7003296167,7007064036
+chaperonins,protein folding,cooperativity,allosteric mechanisms,FRET
+The chaperonin GroEL assists protein folding by undergoing ATP-induced conformational changes that are concerted within each of its two back-to-back stacked rings. Here we examined whether concerted allosteric switching gives rise to all-or-none release and folding of domains in a chimeric fluorescent protein substrate, CyPet–YPet. Using this substrate, it was possible to determine the folding yield of each domain from its intrinsic fluorescence and that of the entire chimera by measuring Förster resonance energy transfer between the two domains. Hence, it was possible to determine whether release of one domain is accompanied by release of the other domain (concerted mechanism), or whether their release is not coupled. Our results show that the chimera's release tends to be concerted when folding is assisted by a wild-type GroEL variant, but not when assisted by the F44W/D155A mutant that undergoes a sequential allosteric switch. A connection between the allosteric mechanism of this molecular machine and its biological function in assisting folding is thus established.
+http://www.sciencedirect.com/science/article/pii/S0022283608005755
+00222836

@@ -1,0 +1,6 @@
+Molecular Evolution of a MicroRNA Cluster
+55883113200,7102702401
+microRNA,mir-17,polycistronic,vertebrate evolution
+Many of the known microRNAs are encoded in polycistronic transcripts. Here, we reconstruct the evolutionary history of the mir17 microRNA clusters which consist of miR-17, miR-18, miR-19a, miR-19b, miR-20, miR-25, miR-92, miR-93, miR-106a, and miR-106b. The history of this cluster is governed by an initial phase of local (tandem) duplications, a series of duplications of entire clusters and subsequent loss of individual microRNAs from the resulting paralogous clusters. The complex history of the mir17 microRNA family appears to be closely linked to the early evolution of the vertebrate lineage.
+http://www.sciencedirect.com/science/article/pii/S0022283604003833
+00222836

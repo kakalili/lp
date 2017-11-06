@@ -1,0 +1,6 @@
+The Human Specialized DNA Polymerases and Non-B DNA: Vital Relationships to Preserve Genome Integrity
+55756952000,55751427200,7003736468,14015731500
+specialized DNA polymerases,DNA replication,non-B DNA,genetic instability
+In addition to the canonical right-handed double helix, DNA molecule can adopt several other non-B DNA structures. Readily formed in the genome at specific DNA repetitive sequences, these secondary conformations present a distinctive challenge for progression of DNA replication forks. Impeding normal DNA synthesis, cruciforms, hairpins, H DNA, Z DNA and G4 DNA considerably impact the genome stability and in some instances play a causal role in disease development. Along with previously discovered dedicated DNA helicases, the specialized DNA polymerases emerge as major actors performing DNA synthesis through these distorted impediments. In their new role, they are facilitating DNA synthesis on replication stalling sites formed by non-B DNA structures and thereby helping the completion of DNA replication, a process otherwise crucial for preserving genome integrity and concluding normal cell division. This review summarizes the evidence gathered describing the function of specialized DNA polymerases in replicating DNA through non-B DNA structures.
+http://www.sciencedirect.com/science/article/pii/S0022283613006062
+00222836

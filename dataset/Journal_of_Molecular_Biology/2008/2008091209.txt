@@ -1,0 +1,6 @@
+Molecular Evolution of the HBII-52 snoRNA Cluster
+13607204900,15729584000,6508245288,7005637143
+SNRPN,SNORD119,imprinting,SmN,SmB
+HBII-52 is a human brain-specific C/D box snoRNA that potentially regulates the editing and/or alternative splicing of the serotonin receptor. Forty-two nearly identical copies of the HBII-52 gene are located immediately downstream of the SNRPN protein-coding gene in an imprinted locus associated with Prader–Willi syndrome. Other eutherian mammals, with genomic assemblies covering the corresponding locus, also have multiple orthologous copies of HBII-52. The SNRPB gene, which is known to have given rise to SNRPN through gene duplication, expresses a C/D box snoRNA, SNORD119, from its fifth intron. Here we show that, despite the fact that they lie in different positions relative to the orthologous SNRPB/SNRPN coding sequences, there are significant sequence similarities between SNORD119 and HBII-52, including the antisense element and the stem-forming regions. By analysing these snoRNAs in marsupial and eutherian mammal genomes, we reconstruct the likely evolutionary history of the HBII-52 cluster and SNORD119 and suggest that they have evolved from a common ancestor.
+http://www.sciencedirect.com/science/article/pii/S0022283608007730
+00222836

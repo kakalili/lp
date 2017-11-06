@@ -1,0 +1,6 @@
+Orientation of Internal Signal-Anchor Sequences at the Sec61 Translocon
+36466715900,6602215227,7005876504
+hydrophobicity,membrane insertion,membrane protein,topology
+Translocation and insertion of secretory and membrane proteins at the endoplasmic reticulum are mediated by the Sec61 translocon. Evidence from in vivo as well as in vitro experiments indicates that N-terminal signal-anchor sequences initially insert N-first before they invert their orientation to translocate the C-terminus. Inversion is driven by flanking charges according to the positive-inside rule and inhibited by increased signal hydrophobicity. Here, we show that upon extending the N-terminal hydrophilic domain preceding the signal core to more than ~20 residues, the insertion behavior changes. Apparent signal inversion and the effect of hydrophobicity are largely lost, suggesting that N-first insertion is limited to N-terminal signal anchors. Extended N-domains sterically hinder N-translocation in a length-dependent manner also for reverse signal anchors with inverted flanking charges. The results indicate a mechanistic difference in the insertion process of N-terminal and internal signal sequences.
+http://www.sciencedirect.com/science/article/pii/S0022283612008285
+00222836

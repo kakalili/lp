@@ -1,0 +1,6 @@
+Van der Waals locks: Loop-n-lock structure of globular proteins11Edited by J. Thornton
+7003302633,7005529119
+protein structure,closed loops,van der Waals locks,major folds,protein folding
+In a globular protein the polypeptide chain returns to itself many times, making numerous chain-to-chain contacts. The stability of these contacts is maintained primarily by van der Waals interactions. In this work we isolated and analysed van der Waals contacts that stabilise spatial structures of nine major folds. We suggest a specific way to identify the tightest contacts of prime importance for the stability of a given crystallized protein and introduce the notion of the van der Waals lock. The loops closed by the van der Waals interactions provide a basically novel view of protein globule organization: the loop-n-lock structure. This opens a new perspective in understanding protein folding as well: the consecutive looping of the polypeptide chain and the locking of the loop ends by tight van der Waals interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283601945541
+00222836

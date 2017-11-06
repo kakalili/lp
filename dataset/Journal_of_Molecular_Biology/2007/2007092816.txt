@@ -1,0 +1,6 @@
+prlF and yhaV Encode a New Toxin–Antitoxin System in Escherichia coli
+7201467767,56755169700,6701528674,7005684355,26657483800,7006037307,8578363900
+mRNA decay,RelE superfamily ribonuclease,stress response,swapped-hairpin barrel,toxin–antitoxin system
+Toxin–antitoxin systems consist of a stable toxin, frequently with endonuclease activity, and a small, labile antitoxin, which sequesters the toxin into an inactive complex. Under unfavorable conditions, the antitoxin is degraded, leading to activation of the toxin and resulting in growth arrest, possibly also in bacterial programmed cell death. Correspondingly, these systems are generally viewed as agents of the stress response in prokaryotes. Here we show that prlF and yhaV encode a novel toxin–antitoxin system in Escherichia coli. YhaV, a ribonuclease of the RelE superfamily, causes reversible bacteriostasis that is counteracted by PrlF, a swapped-hairpin transcription factor homologous to MazE. The two proteins form a tight, hexameric complex, which binds with high specificity to a conserved sequence in the promoter region of the prlF-yhaV operon. As homologs of MazE and RelE, respectively, PrlF and YhaV provide an evolutionary connection between the two best-characterized toxin–antitoxin systems in E. coli, mazEF and relEB.
+http://www.sciencedirect.com/science/article/pii/S0022283607009448
+00222836

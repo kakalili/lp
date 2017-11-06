@@ -1,0 +1,6 @@
+Refolding SDS-Denatured Proteins by the Addition of Amphipathic Cosolvents
+7004524906,6506663999,7003473707
+protein folding,SDS denaturation,cosolvents,membrane proteins,soluble proteins
+Sodium dodecyl sulfate (SDS) is a highly effective and widely used protein denaturant. We show that certain amphipathic cosolvents such as 2-methyl-2,4-pentanediol (MPD) can protect proteins from SDS denaturation, and in several cases can refold proteins from the SDS-denatured state. This cosolvent effect is observed with integral membrane proteins and soluble proteins from either the α-helical or the β-sheet structural classes. The SDS/MPD system can be used to study processes involving native protein states, and we demonstrate the reversible thermal denaturation of the outer membrane protein PagP in an SDS/MPD buffer. MPD and related cosolvents can modulate the denaturing properties of SDS, and we describe a simple and effective method to recover refolded, active protein from the SDS-denatured state.
+http://www.sciencedirect.com/science/article/pii/S0022283607014970
+00222836

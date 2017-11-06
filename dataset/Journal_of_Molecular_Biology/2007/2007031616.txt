@@ -1,0 +1,6 @@
+Crystal Structure of the N-terminal Domain of the TyrR Transcription Factor Responsible for Gene Regulation of Aromatic Amino Acid Biosynthesis and Transport in Escherichia coli K12
+6604039945,7201427823,8779294900,7007028795
+TyrR protein,transcription regulation,repressor,activator,X-ray structure
+The X-ray structure of the N-terminal domain of TyrR has been solved to a resolution of 2.3 Å. It reveals a modular protein containing an ACT domain, a connecting helix, a PAS domain and a C-terminal helix. Two dimers are present in the asymmetric unit with one monomer of each pair exhibiting a large rigid-body movement that results in a hinging around residue 74 of ∼50°. The structure of the dimer is discussed with reference to other transcription regulator proteins. Putative binding sites are identified for the aromatic amino acid cofactors.
+http://www.sciencedirect.com/science/article/pii/S0022283606016779
+00222836

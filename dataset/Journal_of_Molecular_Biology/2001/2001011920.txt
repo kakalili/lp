@@ -1,0 +1,6 @@
+Characterization of two hydrophobic methyl clusters in HIV-1 protease by NMR spin relaxation in solution11Edited by P. E. Wright
+7004829524,7202523747,7005763131
+retroviral protease,internal motion,protein,conformational change
+Nearly 50 % of the amino acid residues of HIV-1 protease contain methyl side-chains, most of which appear to be organized into two clusters: the inner cluster that nearly surrounds the active site and the outer cluster that contains the hydrophobic core which stabilizes the inhibitor-free protease structure. NMR relaxation experiments sensitive to motions of methyl groups on the sub-nanosecond and the milli-microsecond time-scales revealed flexible methyl groups in residues that link the two clusters, the methyl groups of L10, L23, V75, and L76. We hypothesize that flexibility at the junctions of these clusters allows the protease to minimize conformational changes upon drug-binding. The two-methyl cluster motif appears to be a common structural feature among retroviral proteases and may play a similar role throughout this family of enzymes.
+http://www.sciencedirect.com/science/article/pii/S0022283600943213
+00222836

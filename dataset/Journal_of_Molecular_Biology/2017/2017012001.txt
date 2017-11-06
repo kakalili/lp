@@ -1,0 +1,6 @@
+The C-Box Region of MAF1 Regulates Transcriptional Activity and Protein Stability
+56720847900,57192897260,55210247300,7103220958
+MAF1,RNA polymerase III,lipid metabolism,Caenorhabditis elegans,mTOR
+MAF1 is a conserved negative regulator of RNA polymerase (pol) III and intracellular lipid homeostasis across species. Here, we show that the MAF1 C-box region negatively regulates its activity. Mutations in Caenorhabditis elegans mafr-1 that truncate the C-box retain the ability to inhibit the transcription of RNA pol III targets, reduce lipid biogenesis, and lower reproductive output. In human cells, C-box deletion of MAF1 leads to increased MAF1 nuclear localization and enhanced repression of ACC1 and FASN, but with impaired repression of RNA pol III targets. Surprisingly, C-box mutations render MAF1 insensitive to rapamycin, further defining a regulatory role for this region. Two MAF1 species, MAF1L and MAF1S, are regulated by the C-box YSY motif, which, when mutated, alters species stoichiometry and proteasome-dependent turnover of nuclear MAF1. Our results reveal a role for the C-box region as a critical determinant of MAF1 stability, activity, and response to cellular stress.
+http://www.sciencedirect.com/science/article/pii/S0022283616305411
+00222836

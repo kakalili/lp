@@ -1,0 +1,6 @@
+Projection Map of Aquaporin-9 at 7 Å Resolution
+6603289844,7003594124,7005465519
+two-dimensional crystal,aquaporin-9,electron crystallography,membrane protein,projection structure
+Aquaporin-9, an aquaglyceroporin present in diverse tissues, is unique among aquaporins because it is not only permeable to water, urea and glycerol, but also allows passage of larger uncharged solutes. Single particle analysis of negatively stained recombinant rat aquaporin-9 revealed a particle size characteristic of the tetrameric organization of all members of the aquaporin family. Reconstitution of aquaporin-9 into two-dimensional crystals enabled us to calculate a projection map at 7 Å resolution. The projection structure indicates a tetrameric structure, similar to GlpF, with each square-like monomer forming a pore. A comparison of the pore-lining residues between the crystal structure of GlpF and a homology model of aquaporin-9 locates substitutions in these residues predominantly to the hydrophobic edge of the tripathic pore of GlpF, providing first insights into the structural basis for the broader substrate specificity of aquaporin-9.
+http://www.sciencedirect.com/science/article/pii/S0022283606017177
+00222836

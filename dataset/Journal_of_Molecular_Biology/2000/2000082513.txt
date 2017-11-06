@@ -1,0 +1,6 @@
+Cytochrome c553, a small heme protein that lacks misligation in its unfolded state, folds with rapid two-state kinetics11Edited by C. R. Matthews
+7003994610,7005808951
+cytochrome,heme,protein folding,stopped-flow,kinetics
+Cytochrome c553 (cyt c553) from Desulfovibrio vulgaris is a small helical heme protein that displays apparent two-state equilibrium-unfolding behavior. The covalently attached heme is low-spin, ligated by Met and His residues, in the native state but becomes high-spin upon unfolding at pH 7. Here, we show that in contrast to other c-type heme proteins, where misligations in the unfolded states are prominent, cyt c553 refolding kinetics at pH 7 proceeds rapidly without detectable intermediates. The extrapolated folding rate constant in water for oxidized cyt c553 matches exactly that predicted from the cyt c553 native-state topology: 5300 s−1(experimental) versus 5020 s−1 (predicted). We therefore conclude that the presence of the oxidized cofactor does not affect the intrinsic formation speed of the cyt c553 structural motif.
+http://www.sciencedirect.com/science/article/pii/S0022283600939937
+00222836

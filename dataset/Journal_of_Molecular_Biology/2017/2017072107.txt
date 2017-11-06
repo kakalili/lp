@@ -1,0 +1,6 @@
+Cell Cycle Control by PTEN
+12801197900,57190495495,57193485711
+PTEN,genetic transmission,cell cycle,quiescence,senescence
+Continuous and error-free chromosome inheritance through the cell cycle is essential for genomic stability and tumor suppression. However, accumulation of aberrant genetic materials often causes the cell cycle to go awry, leading to malignant transformation. In response to genotoxic stress, cells employ diverse adaptive mechanisms to halt or exit the cell cycle temporarily or permanently. The intrinsic machinery of cycling, resting, and exiting shapes the cellular response to extrinsic stimuli, whereas prevalent disruption of the cell cycle machinery in tumor cells often confers resistance to anticancer therapy. Phosphatase and tensin homolog (PTEN) is a tumor suppressor and a guardian of the genome that is frequently mutated or deleted in human cancer. Moreover, it is increasingly evident that PTEN deficiency disrupts the fundamental processes of genetic transmission. Cells lacking PTEN exhibit cell cycle deregulation and cell fate reprogramming. Here, we review the role of PTEN in regulating the key processes in and out of cell cycle to optimize genomic integrity.
+http://www.sciencedirect.com/science/article/pii/S0022283617302905
+00222836

@@ -1,0 +1,6 @@
+Sensor Domain of the Mycobacterium tuberculosis Receptor Ser/Thr Protein Kinase, PknD, forms a Highly Symmetric β Propeller
+10045887300,7102719274,7403038078,7401619312,7006488558
+bacterial Ser/Thr protein kinases,NHL repeat,YVTD β propeller,protein evolution,receptor recognition
+Diverse pathogenic bacteria produce transmembrane receptor Ser/Thr protein kinases (STPKs), but little is known about the signals mediated by these “eukaryotic-like” proteins. To explore the basis for signaling in the bacterial STPK receptor family, we determined the structure of the sensor domain of Mycobacterium tuberculosis PknD. In two crystal forms, the PknD sensor domain forms a rigid, six-bladed β-propeller with a flexible tether to the transmembrane domain. The PknD sensor domain is the most symmetric β-propeller structure described. All residues that vary most among the blade subdomains cluster in the large “cup” motif, analogous to the ligand-binding surface in many β-propeller proteins. These results suggest that PknD binds a multivalent ligand that signals by changing the quaternary structure of the intracellular kinase domain.
+http://www.sciencedirect.com/science/article/pii/S0022283604003808
+00222836

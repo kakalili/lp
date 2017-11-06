@@ -1,0 +1,6 @@
+Ion Channel Engineering: Perspectives and Strategies
+35173774500,6602713859
+ion channel,structure–function,ion channel modulation
+Ion channels facilitate the passive movement of ions down an electrochemical gradient and across lipid bilayers in cells. This phenomenon is essential for life and underlies many critical homeostatic processes in cells. Ion channels are diverse and differ with respect to how they open and close (gating) and to their ionic conductance/selectivity (permeation). Fundamental understanding of ion channel structure–function mechanisms, their physiological roles, how their dysfunction leads to disease, their utility as biosensors, and development of novel molecules to modulate their activity are important and active research frontiers. In this review, we focus on ion channel engineering approaches that have been applied to investigate these aspects of ion channel function, with a major emphasis on voltage-gated ion channels.
+http://www.sciencedirect.com/science/article/pii/S0022283614004719
+00222836

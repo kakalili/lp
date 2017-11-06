@@ -1,0 +1,6 @@
+High-resolution structure of HLA-A∗0201 in complex with a tumour-specific antigenic peptide encoded by the MAGE-A4 gene11Edited by R. Huber
+6603659101,7007081700,6701420313,35448456500,24828815600,6602238176
+MAGE-A4-derived peptides,cancer immunotherapy,tumour-associated antigen,MHC class I,HLA-A∗0201
+The heterotrimeric complex of the human major histocompatibity complex (MHC) molecule HLA-A∗0201, β2-microglobulin and the decameric peptide GVYDGREHTV derived from the melanoma antigen (MAGE-A4 protein has been determined by X-ray crystallography at 1.4 Å resolution. MAGE-A4 belongs to a family of genes that are specifically expressed in a variety of tumours. MAGE-A4-derived peptides are presented by MHC molecules at the cell surface to cytotoxic T-lymphocytes. As the HLA-A∗0201:MAGE-A4 complex occurs only on tumour cells, it is considered to be an appropriate target for immunotherapy. The structure presented here reveals potential epitopes specific to the complex and indicates which peptide residues could be recognised by T-cell receptors. In addition, as the structure could be refined anisotropically, it was possible to describe the movements of the bound peptide in more detail.
+http://www.sciencedirect.com/science/article/pii/S0022283601948168
+00222836

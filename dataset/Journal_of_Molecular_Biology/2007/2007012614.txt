@@ -1,0 +1,6 @@
+Biophysical Characterisation of the Small Ankyrin Repeat Protein Myotrophin
+8705123100,35596024200
+ankyrin repeat,protein folding,protein stability
+The 118 residue protein myotrophin is composed of four ankyrin repeats that stack linearly to form an elongated, predominantly α-helical structure. The protein folds via a two-state mechanism at equilibrium. The free energy change of unfolding in water (ΔGU-NH2O) is 5.8 kcal.mol−1. The chevron plot reveals that the folding reaction has a broad energy barrier and that it conforms to a two-state mechanism. The rate of folding in water (kfH2O) of 95 s−1 is several orders of magnitude slower than the value predicted by topological calculations. Proline mutants were used to show that the minor kinetic phases observed for myotrophin arise from heterogeneity of the ground states due to cis-trans isomerisation of prolyl as well as non-prolyl peptide bonds. Myotrophin is the first example of a naturally occurring ankyrin repeat protein that conforms to an apparent two-state mechanism at equilibrium and under kinetic conditions, making it highly suitable for high resolution protein folding studies.
+http://www.sciencedirect.com/science/article/pii/S0022283606014409
+00222836

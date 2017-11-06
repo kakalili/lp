@@ -1,0 +1,6 @@
+Microsecond to minute dynamics revealed by EX1-type hydrogen exchange at nearly every backbone hydrogen bond in a native protein11Edited by P. E. Wright
+9744158200,7403044404
+ensembles,conformational motion,kinetics of solvation,hydrogen exchange,ovomucoid third domain
+A previous comprehensive analysis of the pH dependence of native-state amide hydrogen (NH) exchange in turkey ovomucoid third domain (OMTKY3) yielded apparent opening and closing rate constants (kop and kcl) at 14 NH groups involved in global conformational changes. This analysis has been extended to 18 additional slowly exchanging NH groups. Quench-flow experiments were performed to monitor NH exchange in native OMTKY3 from neutral to very alkaline pH (∼12) conditions. Above pH 10 the mechanism of exchange switched from one governed by a rapid equilibrium preceding the chemistry of exchange (i.e. EX2 exchange), to one where exchange was limited by the rate of opening (i.e. EX1 exchange). Kinetics of solvent exposure are now known for nearly all backbone NH groups in native OMTKY3, yielding rate constants that span five orders of magnitude, 0.004 to 200 s−1.
+http://www.sciencedirect.com/science/article/pii/S0022283600935368
+00222836

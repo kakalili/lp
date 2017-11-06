@@ -1,0 +1,6 @@
+Crystal Structure of the GluR2 Amino-Terminal Domain Provides Insights into the Architecture and Assembly of Ionotropic Glutamate Receptors
+35112922100,6701813220,9736375100,7202240603,7003994015,7004349047,55448333000,7801309321
+ion channel,glutamate receptor,synaptic plasticity,cell surface receptor,crystal structure
+Ionotropic glutamate receptors are functionally diverse but have a common architecture, including the 400-residue amino-terminal domain (ATD). We report a 1.8-Å resolution crystal structure of human GluR2-ATD. This dimeric structure provides a mechanism for how the ATDs can drive receptor assembly and subtype-restricted composition. Lattice contacts in a 4.1-Å resolution crystal form reveal a tetrameric (dimer–dimer) arrangement consistent with previous cellular and cryo-electron microscopic data for full-length AMPA receptors.
+http://www.sciencedirect.com/science/article/pii/S0022283609009735
+00222836

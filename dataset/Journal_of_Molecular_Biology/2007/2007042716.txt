@@ -1,0 +1,6 @@
+How the N-terminal Domain of the OSCP Subunit of Bovine F1Fo-ATP Synthase Interacts with the N-terminal Region of an Alpha Subunit
+6602997964,8871784900,56988026600,7004220133,7102101173,35513086500,7005551887
+ATP synthase,NMR spectroscopy,OSCP,peripheral stalk,α-subunit
+The peripheral stalk of ATP synthase acts as a stator holding the α3β3 catalytic subcomplex and the membrane subunit a against the torque of the rotating central stalk and attached c ring. In bovine mitochondria, the N-terminal domain of the oligomycin sensitivity conferral protein (OSCP-NT; residues 1–120) anchors one end of the peripheral stalk to the N-terminal tails of one or more α subunits of the F1 subcomplex. Here, we present an NMR characterisation of the interaction between OSCP-NT and a peptide corresponding to residues 1–25 of the α-subunit of bovine F1-ATPase. The interaction site contains adjoining hydrophobic surfaces of helices 1 and 5 of OSCP-NT binding to hydrophobic side-chains of the α-peptide.
+http://www.sciencedirect.com/science/article/pii/S0022283607002409
+00222836

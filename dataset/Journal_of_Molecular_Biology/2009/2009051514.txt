@@ -1,0 +1,6 @@
+Amyloid β (1–42) Folding Multiplicity and Single-Molecule Binding Behavior Studied with STM
+55728877800,26643573300,55454480400,35249306500,7103344609,16507682600,36078824800,7409382454,8416533100
+Aβ42,assembly structures,single-molecule binding behavior,STM
+The fine folding and assembling characteristics of amyloid β (Aβ) peptides are important to pharmaceutical studies of drug molecules and to the pathological analysis of neurodegenerative disorders such as Alzheimer's disease at the molecular level. Here we present observations of the multiple folding characteristics of amyloid peptide Aβ42 lamellae using scanning tunneling microscopy. Molecularly resolved core regions of Aβ42 hairpins and unfolded peptide assembly structures are identified. The parallel assembling characteristics of Aβ42 hairpins can be confirmed in the study. In addition, single-molecule binding characteristics of Congo red and thioflavin T have been shown to bind at the groove regions of peptide assemblies. This study demonstrates a complementary venue for studying molecular heterogeneity of peptide assemblies, as well as the binding characteristics of molecular modulators.
+http://www.sciencedirect.com/science/article/pii/S0022283609003404
+00222836

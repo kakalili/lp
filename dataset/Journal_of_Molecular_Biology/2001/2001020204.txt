@@ -1,0 +1,6 @@
+Stability engineering of antibody single-chain Fv fragments11Edited by P. Wright
+6603381024,7102515796
+protein stability,scFv fragments,recombinant antibodies,antibody engineering,protein folding
+The application of single-chain Fv fragments (scFv) in medicine and biotechnology places great demands on their stability. Only recently has attention been given to the production of highly stable scFvs, and in a number of examples it was found that such fragments indeed perform better during practical applications. The structural parameters influencing scFv stability are now beginning to be elucidated. This review summarizes progress in rational and evolutionary engineering methods, the structural implications of these results, as well as some examples where stability engineering has been successfully applied.
+http://www.sciencedirect.com/science/article/pii/S0022283600942657
+00222836

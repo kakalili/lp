@@ -1,0 +1,6 @@
+9-Ångström Structure of a Microtubule-Bound Mitotic Motor
+26424534100,35600386600,6701857441
+kinesin,microtubule,cryo-electron microscopy,mitosis,cancer
+Kinesin-5 (K5) motors are important components of the microtubule (MT)-based cell division machinery and are targets for small-molecule inhibitors currently in cancer clinical trials. However, the nature of the K5–MT interaction and the regulatory mechanisms that control it remain unclear. Using cryo-electron microscopy and image processing, we calculated the structure of a K5 motor bound to MTs at 9 Å resolution, providing insight into this important interaction. Our reconstruction reveals the K5 motor domain in an ATP-like conformation in which MT binding induces the conserved nucleotide-sensing switch I and II loops to form a compact subdomain around the bound nucleotide. Our reconstruction also reveals a novel conformation for the K5-specific drug-binding loop 5, suggesting a possible role for it in switching K5s between force generation and diffusional modes of MT binding. Our data thus shed light on regulation of the interaction between spindle components important for chromosome segregation.
+http://www.sciencedirect.com/science/article/pii/S0022283609002721
+00222836

@@ -1,0 +1,6 @@
+Canonical antigen-binding loop structures in immunoglobulins: more structures, more canonical classes?11Edited by J. Thornton
+6603037465,7005810441,7005251750
+antibody engineering,antibody structure,hypervariable loop,single-domain antibody
+Grafting the antigen-binding loops onto a human antibody scaffold is a widely used technique to humanise murine antibodies. The success of this approach depends largely on the observation that the antigen-binding loops adopt only a limited number of canonical structures. Identification of the correct canonical structure is therefore essential. Algorithms that predict the main-chain conformation of the hypervariable loops using only the amino acid sequence often provide this information. Here, we describe new canonical loop conformations for the hypervariable regions H1 and H2 as found in single-domain antibody fragments of dromedaries or llama. Although the occurrence of these new loop conformations was not predicted by the algorithms used, it seems that they could occur in human or mouse antigen-binding loops. Their discovery indicates that the currently used set of canonical structures is incomplete and that the prediction algorithms should be extended to include these new structures.
+http://www.sciencedirect.com/science/article/pii/S0022283600938397
+00222836

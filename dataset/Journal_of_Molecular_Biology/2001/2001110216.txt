@@ -1,0 +1,6 @@
+A minor capsid protein P30 is essential for bacteriophage PRD1 capsid assembly11Edited by M. Gottesman
+6507448957,7102811522,55589242300
+virus assembly,virus structure,membrane biogenesis,bacteriophage PRD1,capsid stability
+Bacteriophage PRD1 is a double-stranded DNA virus infecting Gram-negative hosts. It has a membrane component located in the interior of the isometric capsid. In addition to the major capsid protein P3, the capsid contains a 9 kDa protein P30. Protein P30 is proposed to be located between the adjacent facets of the icosahedral capsid and is required for stable capsid assembly. In its absence, an empty phage-specific membrane vesicle is formed. The major protein component of this vesicle is a phage-encoded assembly factor, protein P10, that is not present in the final structure.
+http://www.sciencedirect.com/science/article/pii/S0022283601950685
+00222836

@@ -1,0 +1,6 @@
+Specific Recognition of a DNA Immunogen by its Elicited Antibody
+6506655894,35077621400,16319294000,7006304840,7401743864,25942750500,35513093100,7004021432
+anti-DNA,structure,antibody,autoimmune,DNA binding
+DNA recognition by antibodies is a key feature of autoimmune diseases, yet model systems with structural information are very limited. The monoclonal antibody ED-10 recognizes one of the strands of the DNA duplex used in the immunogenic complex. Modifications of the 5′ end decrease the binding affinity and short oligonucleotides retain high binding affinity. We determined crystal structures for the Fab bound to a 6-mer oligonucleotide containing the specific sequence that raised the antibody and compared it with the unliganded Fab. Only the first two bases from the 5′ end (dTdC) display electron density and we observe four key hydrogen bonds at the interface. The thymine ring is stacked between TrpH50 and TrpH95, and the cytosine ring is packed against TyrL32. Upon DNA binding, TyrH97 and TrpH95 rearrange to allow subnanomolar binding affinity, five orders of magnitude higher than other reported complexes, possibly because of having gone through affinity maturation. This structure represents the first bona fide antibody DNA immunogen complex described in atomic detail.
+http://www.sciencedirect.com/science/article/pii/S0022283607005384
+00222836

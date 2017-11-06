@@ -1,0 +1,6 @@
+Concerted Structural Changes in the Peptidase and the Propeller Domains of Prolyl Oligopeptidase are Required for Substrate Binding
+6603225691,7103391908,7005112765,6602980693,7005888702,7005238274
+substrate binding,site-specific mutagenesis,disulfide bond formation,protein stability
+Prolyl oligopeptidase contains a peptidase domain and its catalytic triad is covered by the central tunnel of a seven-bladed β-propeller. This domain makes the enzyme an oligopeptidase by excluding large structured peptides from the active site. The apparently rigid crystal structure does not explain how the substrate can approach the catalytic groups. Two possibilities of substrate access were investigated: either blades 1 and 7 of the propeller domain move apart, or the peptidase and/or propeller domains move to create an entry site at the domain interface. Engineering disulfide bridges to the expected oscillating structures prevented such movements, which destroyed the catalytic activity and precluded substrate binding. This indicated that concerted movements of the propeller and the peptidase domains are essential for the enzyme action.
+http://www.sciencedirect.com/science/article/pii/S0022283604005662
+00222836

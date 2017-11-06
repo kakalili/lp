@@ -1,0 +1,6 @@
+Thermodynamic Aspects of DsbD-Mediated Electron Transport
+57111981000,7006463850
+DsbD,transmembrane electron transport,redox potential,thiol–disulfide oxidoreductase,disulfide exchange
+DsbD from Escherichia coli transports electrons from cytoplasmic thioredoxin across the inner membrane to the periplasmic substrate proteins DsbC, DsbG and CcmG. DsbD consists of three domains: a periplasmic N-terminal domain, a central transmembrane domain (tmDsbD) and a periplasmic C-terminal domain. Each domain contains two essential cysteine residues that are required for electron transport. In contrast to the quinone reductase DsbB, HPLC analysis of the methanol/hexane extracts of purified DsbD revealed no presence of quinones, suggesting that the tmDsbD interacts with thioredoxin and the periplasmic C-terminal domain exclusively via disulfide exchange. We also demonstrate that a DsbD variant containing only the redox-active cysteine pair C163 and C285 in tmDsbD, reconstituted into liposomes, has a redox potential of −0.246 V. The results show that all steps in the DsbD-mediated electron flow are thermodynamically favorable.
+http://www.sciencedirect.com/science/article/pii/S0022283608006347
+00222836

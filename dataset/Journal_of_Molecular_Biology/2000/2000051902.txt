@@ -1,0 +1,6 @@
+In-situ atomic force microscopy study of β-amyloid fibrillization11Edited by M. F. Moody
+6602395907,7201414548,55460343400,35474276800,7006271098,7401695901
+β-amyloid,Alzheimer’s disease,atomic force microscopy,fibril formation,protofibril
+We report the use of atomic force microscopy to observe the initial stages of β-amyloid fibrillization in situ. The growth of individual β-amyloid protofibrils on a mica substrate was followed over several hours. The first in situ visualization of protofibril formation from single aggregate units of β-amyloid is reported. The growth of these protofibrils through the subsequent addition of these aggregate units is also observed. Growth of the protofibrils is bi-directional and the outgrowth of protofibrils from a common amyloid/heterogeneous core is also observed. Elongation also occurred by the addition of protofibrils from solution. This data provides an exciting insight into the early stages of β-amyloid fibrillization and can be used to enhance the understanding of the mechanism(s) by which β-amyloid fibrillizes and may consequently enable inhibition of one or more stages of fibrillization as a potential therapeutic strategy.
+http://www.sciencedirect.com/science/article/pii/S0022283600937112
+00222836

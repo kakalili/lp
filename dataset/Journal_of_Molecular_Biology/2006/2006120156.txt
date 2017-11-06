@@ -1,0 +1,6 @@
+Autocatalytic Activation of Influenza Hemagglutinin
+35074354800,56228809500,6603985687
+cooperative activation,HA,hemagglutinin,influenza,autocatalysis
+Enveloped viruses contain surface proteins that mediate fusion between the viral and target cell membranes following an activating stimulus. Acidic pH induces the influenza virus fusion protein hemagglutinin (HA) via irreversible refolding of a trimeric conformational state leading to exposure of hydrophobic fusion peptides on each trimer subunit. Herein, we show that cells expressing fowl plague virus HA demonstrate discrete switching behavior with respect to the HA conformational change. Partially activated states do not exist at the scale of the cell, activation of HA leads to aggregation of cell surface trimers, and newly synthesized HA refold spontaneously in the presence of previously activated HA. These observations imply a feedback mechanism involving self-catalyzed refolding of HA and thus suggest a mechanism similar to the autocatalytic refolding and aggregation of prions.
+http://www.sciencedirect.com/science/article/pii/S0022283606012046
+00222836

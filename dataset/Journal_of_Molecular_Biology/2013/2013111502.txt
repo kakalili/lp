@@ -1,0 +1,6 @@
+A Comparison of In Vitro Nucleosome Positioning Mapped with Chicken, Frog and a Variety of Yeast Core Histones
+26643270600,14048248200,7003683341,7006117727,55195443200
+chromatin,nucleosome positioning,core histones,histone variants,Cse4
+Using high-throughput sequencing, we have mapped sequence-directed nucleosome positioning in vitro on four plasmid DNAs containing DNA fragments derived from the genomes of sheep, drosophila, human and yeast. Chromatins were prepared by reconstitution using chicken, frog and yeast core histones. We also assembled yeast chromatin in which histone H3 was replaced by the centromere-specific histone variant, Cse4. The positions occupied by recombinant frog and native chicken histones were found to be very similar. In contrast, nucleosomes containing the canonical yeast octamer or, in particular, the Cse4 octamer were assembled at distinct populations of locations, a property that was more apparent on particular genomic DNA fragments. The factors that may contribute to this variation in nucleosome positioning and the implications of the behavior are discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283613004531
+00222836

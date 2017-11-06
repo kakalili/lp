@@ -1,0 +1,6 @@
+In Situ Cryo-Electron Tomography: A Post-Reductionist Approach to Structural Biology
+50061046600,35198201900,7102753373
+cryo-EM,tomography,template matching,visual proteomics,subtomogram averaging
+Cryo-electron tomography is a powerful technique that can faithfully image the native cellular environment at nanometer resolution. Unlike many other imaging approaches, cryo-electron tomography provides a label-free method of detecting biological structures, relying on the intrinsic contrast of frozen cellular material for direct identification of macromolecules. Recent advances in sample preparation, detector technology, and phase plate imaging have enabled the structural characterization of protein complexes within intact cells. Here, we review these technical developments and outline a detailed computational workflow for in situ structural analysis. Two recent studies are described to illustrate how this workflow can be adapted to examine both known and unknown cellular complexes. The stage is now set to realize the promise of visual proteomics—a complete structural description of the cell's native molecular landscape.
+http://www.sciencedirect.com/science/article/pii/S0022283615005537
+00222836

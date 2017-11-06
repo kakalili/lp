@@ -1,0 +1,6 @@
+Globular Tetramers of β2-Microglobulin Assemble into Elaborate Amyloid Fibrils
+57194457355,7007173362,9637705300,6506813265,6602463167,7402824723,56961714600,7005041518,35492295700
+protein misfolding,amyloid,cryo-EM,3D reconstruction,STEM
+Amyloid fibrils are ordered polymers in which constituent polypeptides adopt a non-native fold. Despite their importance in degenerative human diseases, the overall structure of amyloid fibrils remains unknown. High-resolution studies of model peptide assemblies have identified residues forming cross-β-strands and have revealed some details of local β-strand packing. However, little is known about the assembly contacts that define the fibril architecture. Here we present a set of three-dimensional structures of amyloid fibrils formed from full-length β2-microglobulin, a 99-residue protein involved in clinical amyloidosis. Our cryo-electron microscopy maps reveal a hierarchical fibril structure built from tetrameric units of globular density, with at least three different subunit interfaces in this homopolymeric assembly. These findings suggest a more complex superstructure for amyloid than hitherto suspected and prompt a re-evaluation of the defining features of the amyloid fold.
+http://www.sciencedirect.com/science/article/pii/S0022283609003921
+00222836

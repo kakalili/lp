@@ -1,0 +1,6 @@
+Multivalent Interactions by the Set8 Histone Methyltransferase With Its Nucleosome Substrate
+57185450200,16646758400,7403366669
+chromatin biology,epigenetic,histone modifications,SET domain,X-ray crystallography
+Set8 is the only mammalian monomethyltransferase responsible for H4K20me1, a methyl mark critical for genomic integrity of eukaryotic cells. We present here a structural model for how Set8 uses multivalent interactions to bind and methylate the nucleosome based on crystallographic and solution studies of the Set8/nucleosome complex. Our studies indicate that Set8 employs its i-SET and c-SET domains to engage nucleosomal DNA 1 to 1.5 turns from the nucleosomal dyad and in doing so, it positions the SET domain for catalysis with H4 Lys20. Surprisingly, we find that a basic N-terminal extension to the SET domain plays an even more prominent role in nucleosome binding, possibly by making an arginine anchor interaction with the nucleosome H2A/H2B acidic patch. We further show that proliferating cell nuclear antigen and the nucleosome compete for binding to Set8 through this basic extension, suggesting a mechanism for how nucleosome binding protects Set8 from proliferating cell nuclear antigen-dependent degradation during the cell cycle.
+http://www.sciencedirect.com/science/article/pii/S0022283616001558
+00222836

@@ -1,0 +1,6 @@
+Structural and mechanistic basis of porphyrin metallation by ferrochelatase11Edited by D. C. Rees
+6508193272,15756944100,35262311900,56350219900,6701332711
+heme synthesis,porphyrin metallation,porphyrin distortion,porphyrin demethylation,ferrochelatase
+Ferrochelatase, the enzyme catalyzing metallation of protoporphyrin IX at the terminal step of heme biosynthesis, was co-crystallized with an isomer mixture of the potent inhibitor N-methylmesoporphyrin (N-MeMP). The X-ray structure revealed the active site of the enzyme, to which only one of the isomers was bound, and for the first time allowed characterization of the mode of porphyrin macrocycle distortion by ferrochelatase. Crystallization of ferrochelatase and N-MeMP in the presence of Cu2+ leads to metallation and demethylation of N-MeMP. A mechanism of porphyrin distortion is proposed, which assumes that the enzyme holds pyrrole rings B, C and D in a vice-like grip and forces a 36 ° tilt on ring A.
+http://www.sciencedirect.com/science/article/pii/S0022283600935691
+00222836

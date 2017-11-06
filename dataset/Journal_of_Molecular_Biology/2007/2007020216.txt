@@ -1,0 +1,6 @@
+Actin Filament Severing by Cofilin
+11440713100,7004844349,56523542600,6603961403,7006787741
+actin,cofilin,gelsolin,severing,flexibility
+Cofilin is essential for cell viability and for actin-based motility. Cofilin severs actin filaments, which enhances the dynamics of filament assembly. We investigated the mechanism of filament severing by cofilin with direct fluorescence microscopy observation of single actin filaments in real time. In cells, actin filaments are likely to be attached at multiple points along their length, and we found that attaching filaments in such a manner greatly increased the efficiency of filament severing by cofilin. Cofilin severing increased and then decreased with increasing concentration of cofilin. Together, these results indicate that cofilin severs the actin filament by a mechanism of allosteric and cooperative destabilization. Severing is more efficient when relaxation of this cofilin-induced instability of the actin filament is inhibited by restricting the flexibility of the filament. These conclusions have particular relevance to cofilin function during actin-based motility in cells and in synthetic systems.
+http://www.sciencedirect.com/science/article/pii/S0022283606015233
+00222836

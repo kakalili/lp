@@ -1,0 +1,6 @@
+Robust Mechanosensing and Tension Generation by Myosin VI
+26656504200,35601298800,7201720426
+single-molecule biophysics,optical tweezers,molecular motors,mechanical force,cytoskeleton
+Myosin VI is a molecular motor that is thought to function both as a transporter and as a cytoskeletal anchor in vivo. Here we use optical tweezers to examine force generation by single molecules of myosin VI under physiological nucleotide concentrations. We find that myosin VI is an efficient transporter at loads of up to ∼2 pN but acts as a cytoskeletal anchor at higher loads. Our data and the resulting model are consistent with an indirect coupling of global structural motions to nucleotide binding and release. The model provides a mechanism by which load may regulate the dual functions of myosin VI in vivo. Our results suggest that myosin VI kinetics are tuned such that the motor maintains a consistent level of mechanical tension within the cell, a property potentially shared by other mechanosensitive proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283610011071
+00222836

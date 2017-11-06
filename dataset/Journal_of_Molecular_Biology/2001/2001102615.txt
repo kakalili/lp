@@ -1,0 +1,6 @@
+Degenerate interfaces in antigen-antibody complexes11Edited by J. Thornton
+6603037465,6603231628,6602069524,26643416700,7005810441,7005251750
+immunoglobulin,heavy chain antibody,VHH,interface,antigen binding
+In most of the work dealing with the analysis of protein-protein interfaces, a single X-ray structure is available or selected, and implicitly it is assumed that this structure corresponds to the optimal complex for this pair of proteins. However, we have found a degenerate interface in a high-affinity antibody-antigen complex: the two independent complexes of the camel variable domain antibody fragment cAb-Lys3 and its antigen hen egg white lysozyme present in the asymmetric unit of our crystals show a difference in relative orientation between antibody and antigen, leading to important differences at the protein-protein interface. A third cAb-Lys3-hen lysozyme complex in a different crystal form adopts yet another relative orientation. Our results show that protein-protein interface characteristics can vary significantly between different specimens of the same high-affinity antibody-protein antigen complex. Consideration should be given to this type of observation when trying to establish general protein-protein interface characteristics.
+http://www.sciencedirect.com/science/article/pii/S0022283601950752
+00222836

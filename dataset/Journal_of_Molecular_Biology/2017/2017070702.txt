@@ -1,0 +1,6 @@
+Intracellular Domain Contacts Contribute to Ecadherin Constitutive Dimerization in the Plasma Membrane
+36060311000,56870808600,16053538000,6604083257
+membrane protein,dimerization,Ecadherin
+Epithelial cadherin (Ecadherin) is responsible for the intercellular cohesion of epithelial tissues. It forms lateral clusters within adherens cell–cell junctions, but its association state outside these clusters is unknown. Here, we use a quantitative Forster resonance energy transfer (FRET) approach to show that Ecadherin forms constitutive dimers and that these dimers exist independently of the actin cytoskeleton or cytoplasmic proteins. The dimers are stabilized by intermolecular contacts that occur along the entire length of Ecadherin, with the intracellular domains having a surprisingly strong favorable contribution. We further show that Ecadherin mutations and calcium depletion induce structural alterations that propagate from the N terminus all the way to the C terminus, without destabilizing the dimeric state. These findings provide context for the interpretation of Ecadherin adhesion experiments. They also suggest that early events of adherens junction assembly involve interactions between from preformed Ecadherin dimers.
+http://www.sciencedirect.com/science/article/pii/S0022283617302498
+00222836

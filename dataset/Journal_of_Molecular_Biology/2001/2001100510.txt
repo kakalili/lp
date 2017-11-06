@@ -1,0 +1,6 @@
+Crystal structure of rat GTP cyclohydrolase I feedback regulatory protein, GFRP11Edited by I. Wilson
+7102726124,7005388467,19134741300,55504093500,6603767215,56362341700,6507249499,7102875119,34975087600,6602965446
+GTP cyclohydrolase I,tetrahydrobiopterin,biosynthesis,regulation,X-ray structure
+Tetrahydrobiopterin, the cofactor required for hydroxylation of aromatic amino acids regulates its own synthesis in mammals through feedback inhibition of GTP cyclohydrolase I. This mechanism is mediated by a regulatory subunit called GTP cyclohydrolase I feedback regulatory protein (GFRP). The 2.6 Å resolution crystal structure of rat GFRP shows that the protein forms a pentamer. This indicates a model for the interaction of mammalian GTP cyclohydrolase I with its regulator, GFRP. Kinetic investigations of human GTP cyclohydrolase I in complex with rat and human GFRP showed similar regulatory effects of both GFRP proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283601950119
+00222836

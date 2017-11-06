@@ -1,0 +1,6 @@
+Regional Discrimination and Propagation of Local Rearrangements along the Ribosomal Exit Tunnel
+56142162300,7102639587
+photocrosslinking,cysteine accessibility,ribosomal nascent peptide interactions,translation,allosteric rearrangements
+All proteins, from bacteria to man, are made in the ribosome and are elongated, one residue at a time, at the peptidyl transferase center. This growing peptide chain wends its way through the ribosomal tunnel to the exit port, ~100Å from the peptidyl transferase center. We have identified locations in the tunnel that sense and respond to single side chains of the nascent peptide to induce local conformational changes. Moreover, side-chain sterics and rearrangements deep in the tunnel influence the disposition of residues 45Å away at the exit port and are consistent with side-chain-induced axial retraction of the peptide backbone. These coupled responses are neither haphazard nor uniform along the tunnel. Rather, they are confined to discriminating zones in the tunnel and are sequence specific. Such discerning communication may contribute to folding events and mechanisms governing sequence-specific signaling between different regions of the tunnel during translation.
+http://www.sciencedirect.com/science/article/pii/S0022283614005300
+00222836

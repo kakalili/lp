@@ -1,0 +1,6 @@
+Novel Interaction between the Major Bacterial Heat Shock Chaperone (GroESL) and an RNA Chaperone (CspC)
+54418864000,7103272504
+chaperones,GroESL,Hsp60,CspC,cold shock proteins
+The heat shock response is one of the main global regulatory networks in all organisms and involves an increased cellular level of chaperones and proteases to enable correct protein folding and balanced growth. One of the major heat shock chaperones in Escherichia coli is GroESL, composed of GroES and GroEL (the bacterial Hsp10 and Hsp60 homologues), which is essential for refolding of misfolded proteins. GroESL was previously shown to play a role in the regulation of the heat shock response by promoting the proteolysis of the regulatory protein—sigma32 (RpoH), the heat shock transcription activator. Here we show the involvement of GroESL in another proteolytic process, this of the major RNA chaperone—CspC—that specifically stabilizes the transcripts of several stress-related genes. Evidence is provided for an interaction between GroESL and CspC that results in enhanced, temperature-dependent proteolysis of the latter. This interaction is of regulatory importance, as reduction in the cellular levels of CspC leads to a decrease in stability of the major heat shock gene transcripts.
+http://www.sciencedirect.com/science/article/pii/S0022283613006633
+00222836

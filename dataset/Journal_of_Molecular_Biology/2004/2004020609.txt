@@ -1,0 +1,6 @@
+Binding of p53-derived Ligands to MDM2 Induces a Variety of Long Range Conformational Changes
+57190147990,6603739256,55637847000,36043863300
+p53,MDM2,NMR,peptide,cancer
+We have used NMR to study the effects of peptide binding on the N-terminal p53-binding domain of human MDM2 (residues 25–109). There were changes in HSQC-chemical shifts throughout the domain on binding four different p53-derived peptide ligands that were significantly large to be indicative of global conformational changes. Large changes in chemical shift were observed in two main regions: the peptide-binding cleft that directly binds the p53 ligands; and the hinge regions connecting the β-sheet and α-helical structures that form the binding cleft. These conformational changes reflect the adaptation of the cleft on binding peptide ligands that differ in length and amino acid composition. Different ligands may induce different conformational transitions in MDM2 that could be responsible for its function. The dynamic nature of MDM2 might be important in the design of anti-cancer drugs that are targeted to its p53-binding site.
+http://www.sciencedirect.com/science/article/pii/S0022283603014712
+00222836

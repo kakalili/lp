@@ -1,0 +1,6 @@
+Bacterial Transcription Terminators: The RNA 3′-End Chronicles
+25937406100,53865699100,55760633800
+RNA polymerase,intrinsic termination,Rho-dependent termination,polarity,NusG
+The process of transcription termination is essential to proper expression of bacterial genes and, in many cases, to the regulation of bacterial gene expression. Two types of bacterial transcriptional terminators are known to control gene expression. Intrinsic terminators dissociate transcription complexes without the assistance of auxiliary factors. Rho-dependent terminators are sites of dissociation mediated by an RNA helicase called Rho. Despite decades of study, the molecular mechanisms of both intrinsic and Rho-dependent termination remain uncertain in key details. Most knowledge is based on the study of a small number of model terminators. The extent of sequence diversity among functional terminators and the extent of mechanistic variation as a function of sequence diversity are largely unknown. In this review, we consider the current state of knowledge about bacterial termination mechanisms and the relationship between terminator sequence and steps in the termination mechanism.
+http://www.sciencedirect.com/science/article/pii/S0022283611003123
+00222836

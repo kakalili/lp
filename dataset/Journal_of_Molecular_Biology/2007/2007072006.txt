@@ -1,0 +1,6 @@
+c-Abl-binding Protein Interacts with p21-activated Kinase 2 (PAK-2) to Regulate PDGF-induced Membrane Ruffles
+6505895841,24467537000,7801581919,7006260007
+PAK,Abi-1,PDGF,membrane dorsal ruffling,cytoskeleton
+p21-activated kinases (PAKs) are serine/threonine kinases involved in multiple cellular functions including cytoskeleton regulation, proliferation and apoptosis. We performed a screen for proteins interacting with PAK-2, a ubiquitously expressed kinase involved in apoptotic signaling. Among the PAK-2 interacting proteins were different members of the Abl-binding protein family. Abl-binding proteins bound to a proline-rich region of PAK-2 located in the regulatory N terminus. Moreover, active PAK-2 phosphorylated Abl-binding proteins in vitro. Interestingly, we show that PAK-2 also interacted with c-Abl but via a different domain than with the Abl-binding proteins. PAK-2 and Abi-1 co-localized in the cytoplasm and to membrane dorsal ruffles induced by PDGF treatment. Expression of mutant PAK-2 deficient in binding to Abl-binding proteins or silencing of PAK-2 expression prevented the formation of membrane dorsal ruffles in response to PDGF. Our findings define a new class of PAK-interacting proteins, which play an important role in actin cytoskeletal reorganization.
+http://www.sciencedirect.com/science/article/pii/S0022283607005803
+00222836

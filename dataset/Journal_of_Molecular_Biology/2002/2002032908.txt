@@ -1,0 +1,6 @@
+20 S proteasomes are imported as precursor complexes into the nucleus of yeast11Edited by R. Huber
+35100458100,6602461129,56275141200,7006296319,6602340556
+20 S proteasome biogenesis,nuclear import,yeast
+The mechanism by which yeast 20 S proteasomes are imported into the nucleus is still unresolved. Here, we provide the first evidence that 20 S proteasomes are imported as precursor complexes into the nucleus. By using the srp1-49 mutant which is deficient in nuclear import of cargos with classical nuclear localization sequences (cNLS), we show that proteasome precursor complexes associate with importin/karyopherin αβ, the cNLS receptor, and that they accumulate inside the cytoplasm. Reconstitution assays revealed that only precursor complexes are targeted to the nuclear envelope (NE) by karyopherin αβ. In support, the green fluorescent protein (GFP)-labelled maturation factor Ump1, marking precursor complexes, mainly localizes to the nucleus and around the NE. Our data suggest that nuclear 20 S proteasomes are finally matured inside the nucleus.
+http://www.sciencedirect.com/science/article/pii/S0022283602954434
+00222836

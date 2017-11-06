@@ -1,0 +1,6 @@
+Crystal Structure of Hypusine-Containing Translation Factor eIF5A Bound to a Rotated Eukaryotic Ribosome
+54785922400,56695094700,55382185500,55089973000,6701626479,7004161325,7006891872,6701803646
+structure,crystallography,ribosome,eIF5A,hypusine
+Eukaryotic translation initiation factor eIF5A promotes protein synthesis by resolving polyproline-induced ribosomal stalling. Here, we report a 3.25-Å resolution crystal structure of eIF5A bound to the yeast 80S ribosome. The structure reveals a previously unseen conformation of an eIF5A–ribosome complex and highlights a possible functional link between conformational changes of the ribosome during protein synthesis and the eIF5A–ribosome association.
+http://www.sciencedirect.com/science/article/pii/S0022283616301541
+00222836

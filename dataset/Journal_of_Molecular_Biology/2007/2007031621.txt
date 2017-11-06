@@ -1,0 +1,6 @@
+The RGG Domain of Npl3p Recruits Sky1p Through Docking Interactions
+15849156200,6602279848,7404782351,35552191200
+X-ray crystallography,Sky1p,Np13p,docking groove,RGG domain
+The SR protein kinase in yeast, Sky1p, phosphorylates yeast SR-like protein, Npl3p, at a single serine residue located at its C terminus. We report here the X-ray crystal structure of Sky1p bound to a substrate peptide and ADP. Surprisingly, an Npl3p-derived substrate peptide occupies a groove 20 Å away from the kinase active site. In vitro studies support the substrate-docking role of this groove. Mutagenesis and binding studies reveal that multiple degenerate short peptide motifs located within the RGG domain of Npl3p serve as the substrate docking motifs. However, a single docking motif is sufficient for its stable interaction with the kinase. Methylation of the docking motifs abolishes kinase binding and phosphorylation of Npl3p. Remarkably, removal of the docking groove in the kinase or the docking motifs of the substrate does not reduce the overall catalytic efficiency of the phosphorylation reaction in any significant manner. We suggest that docking interaction between Sky1p and Npl3p is essential for substrate recruitment and binding specificity.
+http://www.sciencedirect.com/science/article/pii/S0022283606017062
+00222836

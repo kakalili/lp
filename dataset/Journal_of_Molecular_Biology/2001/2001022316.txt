@@ -1,0 +1,6 @@
+Solution structure of Grb2 reveals extensive flexibility necessary for target recognition11Edited by P. E. Wright
+6604022142,7004012829,7102157731,7401552665,8203914000,7403691319,6701547145,35412863100,55619318870
+NMR,SAXS,Grb2,flexibility,solution structure
+Grb2 is an adaptor protein composed of a single SH2 domain flanked by two SH3 domains. Grb2 functions as an important evolutionary conserved link between a variety of cell membrane receptors and the Ras/MAP kinase-signaling cascade. Here, we describe the solution structure of Grb2 as revealed by NMR and small angle X-ray scattering measurements. We demonstrate that Grb2 is a flexible protein in which the C-terminal SH3 domain is connected to the SH2 domain via a flexible linker. This is in contrast to the previously described Grb2 crystal structure, which showed a compact structure with intramolecular contact between two SH3 domains. Binding experiments on Grb2 and peptides containing two different proline-rich sequences indicate that Grb2 adapts the relative position and orientation of the two SH3 domains to bind bivalently to the target peptide sequences.
+http://www.sciencedirect.com/science/article/pii/S0022283600943961
+00222836

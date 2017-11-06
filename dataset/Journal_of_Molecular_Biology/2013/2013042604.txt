@@ -1,0 +1,6 @@
+Arranged Sevenfold: Structural Insights into the C-Terminal Oligomerization Domain of Human C4b-Binding Protein
+55565648800,26023774000,26021796200,8871901600,8590503300,9743302900,7005753807,7006521400,6701724148
+C4 binding protein,C4BP core domain
+The complement system as a major part of innate immunity is the first line of defense against invading microorganisms. Orchestrated by more than 60 proteins, its major task is to discriminate between host cells and pathogens and to initiate immune response. Additional recognition of necrotic or apoptotic cells demands a fine-tune regulation of this powerful system. C4b-binding protein (C4BP) is the major inhibitor of the classical complement and lectin pathway. The crystal structure of the human C4BP oligomerization domain in its 7α isoform and molecular simulations provide first structural insights of C4BP oligomerization. The heptameric core structure is stabilized by intermolecular disulfide bonds. In addition, thermal shift assays indicate that layers of electrostatic interactions mainly contribute to the extraordinary thermodynamic stability of the complex. These findings make C4BP a promising scaffold for multivalent ligand display with applications in immunology and biological chemistry.
+http://www.sciencedirect.com/science/article/pii/S0022283612009503
+00222836

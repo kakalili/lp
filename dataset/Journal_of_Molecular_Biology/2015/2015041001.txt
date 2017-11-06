@@ -1,0 +1,6 @@
+Lysine Deacetylases Regulate the Heat Shock Response Including the Age-Associated Impairment of HSF1
+6505826877,7202008334
+heat shock response,heat shock factor 1,lysine deacetylase,aging
+Heat shock factor 1 (HSF1) is critical for defending cells from both acute and chronic stresses. In aging cells, the DNA binding activity of HSF1 deteriorates correlating with the onset of pathological events including neurodegeneration and heart disease. We find that DNA binding by HSF1 is controlled by lysine deacetylases with HDAC7, HDAC9, and SIRT1 distinctly increasing the magnitude and length of a heat shock response (HSR). In contrast, HDAC1 inhibits HSF1 in a deacetylase-independent manner. In aging cells, the levels of HDAC1 are elevated and the HSR is impaired, yet reduction of HDAC1 in aged cells restores the HSR. Our results provide a mechanistic basis for the age-associated regulation of the HSR. Besides HSF1, the deacetylases differentially modulate the activities of unrelated DNA binding proteins. Taken together, our data further support the model that lysine deacetylases are selective regulators of DNA binding proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283615001047
+00222836

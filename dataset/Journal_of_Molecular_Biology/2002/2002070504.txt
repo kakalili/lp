@@ -1,0 +1,6 @@
+A Novel Combination of Two Classic Catalytic Schemes
+55574206728,7005455664,6603651466,7003638909,7101785156,24452156400
+Bacillus,Cel5,catalysis,catalytic triad
+The crystal structure of an alkaline Bacillus cellulase catalytic core, from glucoside hydrolase family 5, reveals a novel combination of the catalytic machinery of two classic textbook enzymes. The enzyme has the expected two glutamate residues in close proximity to one another in the active-site that are typical of retaining cellulases. However, the proton donor, glutamate 139 is also unexpectedly a member of a serine-histidine-glutamate catalytic triad, forming a novel combination of catalytic machineries. Structure and sequence analysis of glucoside hydrolase family 5 reveal that the triad is highly conserved, but with variations at the equivalent of the serine position. We speculate that the purpose of this novel catalytic triad is to control the protonation of the acid/base glutamate, facilitating the first step of the catalytic reaction, protonation of the substrate, by the proton donor glutamate. If correct, this will be a novel use for a catalytic triad.
+http://www.sciencedirect.com/science/article/pii/S002228360200387X
+00222836

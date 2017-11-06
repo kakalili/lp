@@ -1,0 +1,6 @@
+The NOXO1β PX Domain Preferentially Targets PtdIns(4,5)P2 and PtdIns(3,4,5)P3
+36695967600,7006353998,6602668207
+NMR spectroscopy,reactive oxygen species,Nox1,protein–lipid interactions,phosphatidylinositol
+NOXO1β [NOXO1 (Nox organizer 1) β] is a cytosolic protein that, in conjunction with NOXA1 (Nox activator 1), regulates generation of reactive oxygen species by the NADPH oxidase 1 (Nox1) enzyme complex. NOXO1β is targeted to membranes through an N-terminal PX (phox homology) domain. We have used NMR spectroscopy to solve the structure of the NOXO1β PX domain and surface plasmon resonance (SPR) to assess phospholipid specificity. The solution structure of the NOXO1β PX domain shows greatest similarity to that of the phosphatidylinositol 3-kinase-C2α PX domain with regard to the positions and types of residues that are predicted to interact with phosphatidylinositol phosphate (PtdInsP) head groups. SPR experiments identify PtdIns(4,5)P2 and PtdIns(3,4,5)P3 as preferred targets of NOXO1β PX. These findings contrast with previous lipid overlay experiments showing strongest binding to monophosphorylated PtdInsP and phosphatidylserine. Our data suggest that localized membrane accumulation of PtdIns(4,5)P2 or PtdIns(3,4,5)P2 may serve to recruit NOXO1β and activate Nox1.
+http://www.sciencedirect.com/science/article/pii/S0022283612001271
+00222836

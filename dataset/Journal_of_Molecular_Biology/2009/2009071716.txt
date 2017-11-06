@@ -1,0 +1,6 @@
+Switching of the Bacterial Flagellar Motor Near Zero Load
+55618120900,6602875422,7201856564
+Escherichia coli,nano-gold,torque,speed,allostery
+Flagellated bacteria, such as Escherichia coli, are able to swim up gradients of chemical attractants by modulating the direction of rotation of their flagellar motors, which spin alternately clockwise (CW) and counterclockwise (CCW). Chemotactic behavior has been studied under a variety of conditions, mostly at high loads (at large motor torques). Here, we examine motor switching at low loads. Nano-gold spheres of various sizes were attached to hooks (the flexible coupling at the base of the flagellar filament) of cells lacking flagellar filaments in media containing different concentrations of the viscous agent Ficoll. The speeds and directions of rotation of the spheres were measured. Contrary to the case at high loads, motor switching rates increased appreciably with load. Both the CW→CCW and CCW→CW switching rates increased linearly with motor torque. Evidently, the switch senses stator–rotor interactions as well as the CheY-P concentration.
+http://www.sciencedirect.com/science/article/pii/S0022283609006251
+00222836

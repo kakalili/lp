@@ -1,0 +1,6 @@
+The crystal structure of Bacillus subtili lipase: a minimal α/β hydrolase fold enzyme1†1Edited by R. Huber†This paper is dedicated to the memory of Professor Charles Colson, Louvain-la-Neuve, who initiated the molecular research on Bacillus subtilis lipase.
+6602704908,55164685200,7103288943,7102573661
+Bacillus subtilis,lipase,X-ray crystallography,α/β hydrolase fold,esterase
+The X-ray structure of the lipase LipA from Bacillus subtilis has been determined at 1.5 Å resolution. It is the first structure of a member of homology family I.4 of bacterial lipases. The lipase shows a compact minimal α/β hydrolase fold with a six-stranded parallel β-sheet flanked by five α-helices, two on one side of the sheet and three on the other side. The catalytic triad residues, Ser77, Asp133 and His156, and the residues forming the oxyanion hole (backbone amide groups of Ile12 and Met78) are in positions very similar to those of other lipases of known structure. However, no lid domain is present and the active-site nucleophile Ser77 is solvent-exposed. A model of substrate binding is proposed on the basis of a comparison with other lipases with a covalently bound tetrahedral intermediate mimic. It explains the preference of the enzyme for substrates with C8 fatty acid chains.
+http://www.sciencedirect.com/science/article/pii/S0022283601946595
+00222836

@@ -1,0 +1,6 @@
+Single Strand Binding Proteins Increase the Processivity of DNA Unwinding by the Hepatitis C Virus Helicase
+17344350000,7403903803
+HCV,unwinding,NS3,SSB,processivity
+The nonstructural NS3 protein of the hepatitis C virus is a multifunctional enzyme with an N-terminal serine protease activity and a C-terminal helicase activity. The helicase is capable of unwinding both DNA and RNA duplexes; however, the overall processivity of the helicase is fairly low. We show here that single-strand binding (SSB) proteins enhance the unwinding processivity of both the NS3 helicase domain (NS3h) and the full-length protease–helicase NS3-4A. The detailed study of the effect of SSB on the DNA unwinding activity of NS3h indicates that the SSB stabilizes the helicase at the unwinding junction and prevents its dissociation. These results suggest a potential role for either cellular or virus-encoded SSB protein in improving the processivity of the NS3 in vivo.
+http://www.sciencedirect.com/science/article/pii/S0022283607014283
+00222836

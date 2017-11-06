@@ -1,0 +1,6 @@
+77Se Enrichment of Proteins Expands the Biological NMR Toolbox
+36572479100,55724052900,55513890500,55513124200,6701311902,7102095938,6507786303
+77Se NMR,selenium NMR,selenocysteine,selenoproteins,augmenter of liver regeneration
+Sulfur, a key contributor to biological reactivity, is not amendable to investigations by biological NMR spectroscopy. To utilize selenium as a surrogate, we have developed a generally applicable 77Se isotopic enrichment method for heterologous proteins expressed in Escherichia coli. We demonstrate 77Se NMR spectroscopy of multiple selenocysteine and selenomethionine residues in the sulfhydryl oxidase augmenter of liver regeneration (ALR). The resonances of the active-site residues were assigned by comparing the NMR spectra of ALR bound to oxidized and reduced flavin adenine dinucleotide. An additional resonance appears only in the presence of the reducing agent and disappears readily upon exposure to air and subsequent reoxidation of the flavin. Hence, 77Se NMR spectroscopy can be used to report the local electronic environment of reactive and structural sulfur sites, as well as changes taking place in those locations during catalysis.
+http://www.sciencedirect.com/science/article/pii/S0022283612008832
+00222836

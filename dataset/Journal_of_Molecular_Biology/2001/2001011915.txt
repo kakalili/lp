@@ -1,0 +1,6 @@
+Crystal structure of aphrodisin, a sex pheromone from female hamster11Edited by R Huber
+7102860260,6701724241,7404383171,7005124414,57191402132,7103041183,7006765066,56211778600
+crystal structure,lipocalins,pheromone,hamster
+We have solved the crystal structure of aphrodisin, a pheromonal protein inducing a copulatory behaviour in male hamster, using MAD methods with selenium, at 1.63 Å resolution. The monomeric protein belongs to the lipocalin family, and possesses a disulfide bridge in a loop between strands 2 and 3. This disulfide bridge is characteristic of a family of lipocalins mainly identified in rodents, and is analogous to the fifth disulfide bridge of the long neurotoxins, such as alpha cobratoxin. An elongated electron density was found inside the buried cavity, which might represent a serendipitous ligand of unknown origin. The analysis of the water accessible surfaces of the side-chains bordering the cavity indicates that Phe76 may be the door for the natural ligand to access the cavity. This residue defines the entry of the cavity as belonging to the consensus for lipocalins. The face bearing Phe76 might also serve for the interaction with the receptor.
+http://www.sciencedirect.com/science/article/pii/S0022283600942414
+00222836

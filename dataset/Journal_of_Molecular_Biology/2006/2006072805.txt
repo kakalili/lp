@@ -1,0 +1,6 @@
+The UAA/GAN Internal Loop Motif: A New RNA Structural Element that Forms a Cross-strand AAA Stack and Long-range Tertiary Interactions
+7601478814,7006693029,7403934176
+RNA structural motif,long-range RNA tertiary interaction,comparative sequence analysis,base pair conformation,evolution
+Analysis of aligned RNA sequences and high-resolution crystal structures has revealed a new RNA structural element, termed the UAA/GAN motif. Found in internal loops of the 23 S rRNA, as well as in RNase P RNA and group I and II introns, this six-nucleotide motif adopts a distinctive local structure that includes two base-pairs with non-canonical conformations and three conserved adenine bases, which form a cross-strand AAA stack in the minor groove. Most importantly, the motif invariably forms long-range tertiary contacts, as the AAA stack typically forms A-minor interactions and the flipped-out N nucleotide forms additional contacts that are specific to the structural context of each loop. The widespread presence of this motif and its propensity to form long-range contacts suggest that it plays a critical role in defining the architectures of structured RNAs.
+http://www.sciencedirect.com/science/article/pii/S0022283606006838
+00222836

@@ -1,0 +1,6 @@
+Early Evolution of Cytochrome bc Complexes
+7103008259,6603250770,7004044041,35613143800,34975087600,7005618301,56273659700,6603504196,6701793321,7006760196,7403164265,7005804256
+bc complexes,bioenergetics,evolution,photosynthesis,respiration
+Primary structures, functional characteristics and phylogenetic relationships of subunits of cytochrome bc complexes from phylogenetically diverse bacterial and archaeal species were analysed. A single case of lateral gene transfer, i.e. the import of an ϵ-proteobacterial cytochrome bc1 complex into Aquificales, was identified. For the enzyme in the remainder of the species studied, the obtained phylogenies were globally in line with small subunit rRNA trees. The distribution of a few key phylogenetic markers, such as contiguousness of cytochrome b, nature of the c-type subunit or spacing between b-heme ligands, are discussed. A localised modification of previous tree topologies is proposed on the basis of the obtained data. The comparison of extant enzymes furthermore allowed us to define the minimal functional and evolutionary core of the enzyme. The data furthermore suggest that the ancestral enzyme was put together from subunits that previously had played a role in other electron transfer chains.
+http://www.sciencedirect.com/science/article/pii/S0022283600939159
+00222836

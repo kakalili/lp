@@ -1,0 +1,6 @@
+Identification of Two Interaction Sites in SecY that Are Important for the Functional Interaction with SecA
+8972534100,6603620644,24721951100,6507302807,7003757632,7004546498,7103120387
+protein translocation,SecA,SecY,cysteine crosslinking,peptide scanning
+The motor protein SecA drives the translocation of (pre-)proteins across the SecYEG channel in the bacterial cytoplasmic membrane by nucleotide-dependent cycles of conformational changes often referred to as membrane insertion/de-insertion. Despite structural data on SecA and an archaeal homolog of SecYEG, the identity of the sites of interaction between SecA and SecYEG are unknown. Here, we show that SecA can be cross-linked to several residues in cytoplasmic loop 5 (C5) of SecY, and that SecA directly interacts with a part of transmembrane segment 4 (TMS4) of SecY that is buried in the membrane region of SecYEG. Mutagenesis of either the conserved Arg357 in C5 or Glu176 in TMS4 interferes with the catalytic activity of SecA but not with binding of SecA to SecYEG. Our data explain how conformational changes in SecA could be directly coupled to the previously proposed opening mechanism of the SecYEG channel.
+http://www.sciencedirect.com/science/article/pii/S0022283606008813
+00222836

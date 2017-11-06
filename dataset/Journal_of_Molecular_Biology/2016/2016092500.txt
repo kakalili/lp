@@ -1,0 +1,6 @@
+Progesterone Receptor Signaling Mechanisms
+7006648851,16834668300,7404087852
+structural dynamics,mammary gland,breast cancer,stem cells,RANKL
+Progesterone receptor (PR) is a master regulator in female reproductive tissues that controls developmental processes and proliferation and differentiation during the reproductive cycle and pregnancy. PR also plays a role in progression of endocrine-dependent breast cancer. As a member of the nuclear receptor family of ligand-dependent transcription factors, the main action of PR is to regulate networks of target gene expression in response to binding its cognate steroid hormone, progesterone. This paper summarizes recent advances in understanding the structure–function properties of the receptor protein and the tissue/cell-type-specific PR signaling pathways that contribute to the biological actions of progesterone in the normal breast and in breast cancer.
+http://www.sciencedirect.com/science/article/pii/S002228361630242X
+00222836

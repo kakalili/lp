@@ -1,0 +1,6 @@
+Identification of the Catalytic Subdomain of the VS Ribozyme and Evidence for Remarkable Sequence Tolerance in the Active Site Loop
+7005891194,7403351065
+ribozyme,active site,chemical modification,kinetics,deletion
+We show here that the ribozyme domain of the Neurospora VS ribozyme consists of separable upper and lower subdomains. Deletion analysis demonstrates that the entire upper subdomain (helices III/IV/V) is dispensable for site-specific cleavage activity, providing experimental evidence that the active site is contained within the lower subdomain and within the substrate itself. We demonstrate an important role in cleavage activity for a region of helix VI called the 730 loop. Surprisingly, several loop sequences, sizes, and structures at this position can support site-specific cleavage, suggesting that a variety of non-Watson–Crick structures, rather than a specific loop structure, in this region of the ribozyme can contribute to formation of the active site.
+http://www.sciencedirect.com/science/article/pii/S0022283602005211
+00222836

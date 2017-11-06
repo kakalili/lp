@@ -1,0 +1,6 @@
+Rad54 Oligomers Translocate and Cross-bridge Double-stranded DNA to Stimulate Synapsis
+7101961435,22950143400,22950211700,22950287800
+Rad54,Recombination,Single molecule,DNA helicase,Chromatin
+Rad54 is a key component of the eukaryotic recombination machinery. Its presence in DNA strand-exchange reactions in vitro results in a significant stimulation of the overall reaction rate. Using untagged Rad54, we show that this stimulation can be attributed to enhancement of the formation of a key reaction intermediate known as DNA networks. Using a novel, single DNA molecule, dual-optical tweezers approach we show how Rad54 stimulates DNA network formation. We discovered that Rad54 oligomers possess a unique ability to cross-bridge or bind double-stranded DNA molecules positioned in close proximity. Further, Rad54 oligomers rapidly translocate double-stranded DNA while simultaneously inducing topological loops in the DNA at the locus of the oligomer. The combination of the cross-bridging and double-stranded DNA translocation activities of Rad54 stimulates the formation of DNA networks, leading to rapid and efficient DNA strand exchange by Rad51.
+http://www.sciencedirect.com/science/article/pii/S0022283607012405
+00222836

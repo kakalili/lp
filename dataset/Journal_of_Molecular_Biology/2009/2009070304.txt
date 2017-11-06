@@ -1,0 +1,6 @@
+Structure of the RNA Polymerase Core-Binding Domain of σ54 Reveals a Likely Conformational Fracture Point
+7102538397,10143812700,7103123247
+σ54,bacterial transcription,RNA polymerase,NMR structure,gene regulation
+Transcription initiation by bacterial σ54-RNA polymerase requires a conformational change of the holopolymerase–DNA complex, driven by an enhancer-binding protein. Although structures of the core polymerase and the more common σ70 factor have been determined, little is known about the structure of the σ54 variant. We report here the structure of an Aquifex aeolicus σ54 domain (residues 69–198), which binds core RNA polymerase. The structure is composed of two distinct subdomains held together by a small, conserved hydrophobic interface that appears to act as a fracture point in the structure. The N-terminal, four-helical subdomain has a negative surface and conserved residues that likely contact the core polymerase, while the C-terminal, three-helical bundle has a strongly positive patch that could contact DNA. Sequence conservation indicates that these structural features are conserved and are important for the role of σ54 in the polymerase complex.
+http://www.sciencedirect.com/science/article/pii/S0022283609005373
+00222836

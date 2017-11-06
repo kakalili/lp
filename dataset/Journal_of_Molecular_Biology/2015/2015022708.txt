@@ -1,0 +1,6 @@
+Bactobolin A Binds to a Site on the 70S Ribosome Distinct from Previously Seen Antibiotics
+10046152000,55616931200,55552038500,8969316700,7101820848,15733878000
+translation,antibiotic,P-site,tRNA
+The ribosome is the target of a large number of antibiotics. Here, we report a 3.4-Å-resolution crystal structure of bactobolin A bound to 70S ribosome–tRNA complex. The antibiotic binds at a previously unseen site in the 50S subunit and displaces tRNA bound at the P-site. It thus likely has a similar mechanism of action as blasticidin S despite binding to a different site. The structure also rationalizes previously identified resistance mutations.
+http://www.sciencedirect.com/science/article/pii/S0022283614006548
+00222836

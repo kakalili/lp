@@ -1,0 +1,6 @@
+Crystal Structure of Mouse MD-1 with Endogenous Phospholipid Bound in Its Cavity
+36673004200,6506657364,55520641600
+MD-2-related lipid-recognition protein,MD-1,crystal structure,glycoprotein,LPS
+MD-1 is a glycoprotein that associates with a B-cell-specific RP105 protein and has a low sequence identity of 16% to MD-2 that associates with Toll-like receptor 4 and recognizes endotoxic lipopolysaccharide. MD-1 and RP105 are supposed to mediate lipopolysaccharide recognition; however, little is known about their structures and functions. Here, the crystal structure of mouse MD-1 is determined at 1.65 Å resolution. MD-1 has a hydrophobic cavity sandwiched by two β-sheets as is MD-2. The cavity is 25 Å long, 5 Å wide, and 10 Å deep: longer, narrower, and shallower than that of MD-2. No charged residues are located on the cavity entrance. MD-1 is primarily monomeric in solution but shows a dimeric assembly in the crystal lattices, with their cavity entrances facing each other. In the cavity, electron densities attributable to phosphatidylcholine are located. Together with the binding assay with tetra-acylated lipid IVa, MD-1 is shown to be a lipid-binding coreceptor.
+http://www.sciencedirect.com/science/article/pii/S002228361000567X
+00222836

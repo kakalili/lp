@@ -1,0 +1,6 @@
+Structural Foundations of RNA Silencing by Argonaute
+55481176500,7005519101
+Argonaute,RNA-induced silencing complex,RNA silencing,microRNA
+Nearly every cell in the human body contains a set of programmable gene-silencing proteins named Argonaute. Argonaute proteins mediate gene regulation by small RNAs and thereby contribute to cellular homeostasis during diverse physiological process, such as stem cell maintenance, fertilization, and heart development. Over the last decade, remarkable progress has been made toward understanding Argonaute proteins, small RNAs, and their roles in eukaryotic biology. Here, we review current understanding of Argonaute proteins from a structural prospective and discuss unanswered questions surrounding this fascinating class of enzymes.
+http://www.sciencedirect.com/science/article/pii/S0022283617303686
+00222836

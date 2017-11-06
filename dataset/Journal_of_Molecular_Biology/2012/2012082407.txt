@@ -1,0 +1,6 @@
+Disease-Associated Polyglutamine Stretches in Monomeric Huntingtin Adopt a Compact Structure
+6505959590,56120275200,6602674190,55399409900,13807862800,57194045695,6603427098,13807516600,6505786167,57028673300,35315763200,6603317595,57062873900,55475223900,7102284785,7004508339
+Huntington's disease,huntingtin structure,polyglutamine expansion,amyloid,antibody
+Abnormal polyglutamine (polyQ) tracts are the only common feature in nine proteins that each cause a dominant neurodegenerative disorder. In Huntington's disease, tracts longer than 36 glutamines in the protein huntingtin (htt) cause degeneration. In situ, monoclonal antibody 3B5H10 binds to different htt fragments in neurons in proportion to their toxicity. Here, we determined the structure of 3B5H10 Fab to 1.9 Å resolution by X-ray crystallography. Modeling demonstrates that the paratope forms a groove suitable for binding two β-rich polyQ strands. Using small-angle X-ray scattering, we confirmed that the polyQ epitope recognized by 3B5H10 is a compact two-stranded hairpin within monomeric htt and is abundant in htt fragments unbound to antibody. Thus, disease-associated polyQ stretches preferentially adopt compact conformations. Since 3B5H10 binding predicts degeneration, this compact polyQ structure may be neurotoxic.
+http://www.sciencedirect.com/science/article/pii/S0022283612000885
+00222836

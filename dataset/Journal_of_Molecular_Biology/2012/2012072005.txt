@@ -1,0 +1,6 @@
+Plasmodium falciparum SSB Tetramer Binds Single-Stranded DNA Only in a Fully Wrapped Mode
+6507111496,56352797900,7201825325,7103412351
+DNA repair,recombination,replication,structure,malaria
+The tetrameric Escherichia coli single-stranded DNA (ssDNA) binding protein (Ec-SSB) functions in DNA metabolism by binding to ssDNA and interacting directly with numerous DNA repair and replication proteins. Ec-SSB tetramers can bind ssDNA in multiple DNA binding modes that differ in the extent of ssDNA wrapping. Here, we show that the structurally similar SSB protein from the malarial parasite Plasmodium falciparum (Pf-SSB) also binds tightly to ssDNA but does not display the same number of ssDNA binding modes as Ec-SSB, binding ssDNA exclusively in fully wrapped complexes with site sizes of 52–65 nt/tetramer. Pf-SSB does not transition to the more cooperative (SSB)35 DNA binding mode observed for Ec-SSB. Consistent with this, Pf-SSB tetramers also do not display the dramatic intra-tetramer negative cooperativity for binding of a second (dT)35 molecule that is evident in Ec-SSB. These findings highlight variations in the DNA binding properties of these two highly conserved homotetrameric SSB proteins, and these differences might be tailored to suit their specific functions in the cell.
+http://www.sciencedirect.com/science/article/pii/S0022283612003518
+00222836

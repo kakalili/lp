@@ -1,0 +1,6 @@
+Engineering Protein Allostery: 1.05 Å Resolution Structure and Enzymatic Properties of a Na+-activated Trypsin
+55636320853,6603003047,7006649816
+trypsin,allostery,monovalent cation activation,crystal structure,sodium
+Some trypsin-like proteases are endowed with Na+-dependent allosteric enhancement of catalytic activity, but this important mechanism has been difficult to engineer in other members of the family. Replacement of 19 amino acids in Streptomyces griseus trypsin targeting the active site and the Na+-binding site were found necessary to generate efficient Na+ activation. Remarkably, this property was linked to the acquisition of a new substrate selectivity profile similar to that of factor Xa, a Na+-activated protease involved in blood coagulation. The X-ray crystal structure of the mutant trypsin solved to 1.05 Å resolution defines the engineered Na+ site and active site loops in unprecedented detail. The results demonstrate that trypsin can be engineered into an efficient allosteric protease, and that Na+ activation is interwoven with substrate selectivity in the trypsin scaffold.
+http://www.sciencedirect.com/science/article/pii/S0022283608002945
+00222836

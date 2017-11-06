@@ -1,0 +1,6 @@
+Role of Small Oligomers on the Amyloidogenic Aggregation Free-Energy Landscape
+24474709400,14524741400,6602520301
+atomic force microscopy,fluorescence,dynamic light scattering,protein aggregation,amyloid
+We combine atomic-force-microscopy particle-size-distribution measurements with earlier measurements on 1-anilino-8-naphthalene sulfonate, thioflavin T, and dynamic light scattering to develop a quantitative kinetic model for the aggregation of β-lactoglobulin into amyloid. We directly compare our simulations to the population distributions provided by dynamic light scattering and atomic force microscopy. We combine species in the simulation according to structural type for comparison with fluorescence fingerprint results. The kinetic model of amyloidogenesis leads to an aggregation free-energy landscape. We define the roles of and propose a classification scheme for different oligomeric species based on their location in the aggregation free-energy landscape. We relate the different types of oligomers to the amyloid cascade hypothesis and the toxic oligomer hypothesis for amyloid-related diseases. We discuss existing kinetic mechanisms in terms of the different types of oligomers. We provide a possible resolution to the toxic oligomer–amyloid coincidence.
+http://www.sciencedirect.com/science/article/pii/S0022283609012595
+00222836

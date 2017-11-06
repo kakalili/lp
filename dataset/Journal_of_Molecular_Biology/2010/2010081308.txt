@@ -1,0 +1,6 @@
+Crystal Structure of the 2-Oxoglutarate- and Fe(II)-Dependent Lysyl Hydroxylase JMJD6
+24554195800,6505989773,24167822000,9732743100,9839309200,26649509700,35427571800,7006473645,7007178051,35461437200
+demethylase,histone modification,Ehlers–Danlos syndrome type VI,hydroxylase,lysyl hydroxylase
+Lysyl and prolyl hydroxylations are well-known post-translational modifications to animal and plant proteins with extracellular roles. More recent work has indicated that the hydroxylation of intracellular animal proteins may be common. JMJD6 catalyses the iron- and 2-oxoglutarate-dependent hydroxylation of lysyl residues in arginine–serine-rich domains of RNA-splicing-related proteins. We report crystallographic studies on the catalytic domain of JMJD6 in complex with Ni(II) substituting for Fe(II). Together with mutational studies, the structural data suggest how JMJD6 binds its lysyl residues such that it can catalyse C-5 hydroxylation rather than Nɛ-demethylation, as for analogous enzymes.
+http://www.sciencedirect.com/science/article/pii/S0022283610005589
+00222836

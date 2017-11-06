@@ -1,0 +1,6 @@
+Cryo Electron Microscopy Reconstructions of the Leviviridae Unveil the Densest Icosahedral RNA Packing Possible
+6603074729,7005476072,40162720000,7005962038,7006747970
+bacteriophage,RNA,cryo-electron microscopy,virus,structure
+We solved the structures of the single-stranded RNA bacteriophages Qβ, PP7 and AP205 by cryo-electron microscopy. On the outside, the symmetrized electron density maps resemble the previously described cryo-electron microscopy structure of MS2. RNA density is present inside the capsids, suggesting that the genomic RNA of Qβ, PP7 and AP205, analogous to MS2, contains many coat protein-binding sites in addition to the hairpin on which assembly and packaging are initiated. All four bacteriophages harbour the same overall arrangement of the RNA, which is a unique combination of both triangles and pentagons. This combination has not been found in other icosahedral viruses, in which the RNA structures are either triangular or pentagonal. Strikingly, the unique RNA packing of the Leviviridae appears to deploy the most efficient method of RNA storage by obeying icosahedral symmetry.
+http://www.sciencedirect.com/science/article/pii/S0022283606010928
+00222836

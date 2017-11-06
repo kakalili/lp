@@ -1,0 +1,6 @@
+The Effects of Non-Synonymous Single Nucleotide Polymorphisms (nsSNPs) on Protein–Protein Interactions
+55584291400,7101911184
+disease,mutation,SNP,protein structure,bioinformatics
+Non-synonymous single nucleotide polymorphisms (nsSNPs) are single base changes leading to a change to the amino acid sequence of the encoded protein. Many of these variants are associated with disease, so nsSNPs have been well studied, with studies looking at the effects of nsSNPs on individual proteins, for example, on stability and enzyme active sites. In recent years, the impact of nsSNPs upon protein–protein interactions has also been investigated, giving a greater insight into the mechanisms by which nsSNPs can lead to disease.In this review, we summarize these studies, looking at the various mechanisms by which nsSNPs can affect protein–protein interactions. We focus on structural changes that can impair interaction, changes to disorder, gain of interaction, and post-translational modifications before looking at some examples of nsSNPs at human–pathogen protein–protein interfaces and the analysis of nsSNPs from a network perspective.
+http://www.sciencedirect.com/science/article/pii/S0022283613004440
+00222836

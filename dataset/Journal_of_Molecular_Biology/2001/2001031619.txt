@@ -1,0 +1,6 @@
+Structural and energetic analysis of RNA recognition by a universally conserved protein from the signal recognition particle11Edited by D. Draper
+7101961726,6701571414,7006285665
+RNA structure,RNA-protein interactions,X-ray crystallography,signal recognition particle,protein translocation
+The signal recognition particle (SRP) is a ribonucleoprotein complex responsible for targeting proteins to the endoplasmic reticulum in eukarya or to the inner membrane in prokarya. The crystal structure of the universally conserved RNA-protein core of the Escherichia coli SRP, refined here to 1.5 Å resolution, revealed minor groove recognition of the 4.5 S RNA component by the M domain of the Ffh protein. Within the RNA, nucleotides comprising two phylogenetically conserved internal loops create a unique surface for protein recognition. To determine the energetic importance of conserved nucleotides for SRP assembly, we measured the affinity of the M domain for a series of RNA mutants. This analysis reveals how conserved nucleotides within the two internal loop motifs establish the architecture of the macromolecular interface and position essential functional groups for direct recognition by the protein.
+http://www.sciencedirect.com/science/article/pii/S0022283600944541
+00222836

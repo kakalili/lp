@@ -1,0 +1,6 @@
+Regions 1.2 and 3.2 of the RNA Polymerase σ Subunit Promote DNA Melting and Attenuate Action of the Antibiotic Lipiarmycin
+9533681900,6603580318,6602629589
+fidaxomicin,rpoS,promoter melting,switch region,TFIIB B-reader
+Initiation of RNA synthesis by bacterial RNA polymerase (RNAP) requires melting of promoter DNA, which is nucleated by the σ subunit during formation of the “open” promoter complex (RPo). The antibiotic lipiarmycin (Lpm) inhibits promoter melting by blocking access of the template DNA strand to the RNAP active-site cleft. Here we show that Escherichia coli RNAP holoenzymes containing either housekeeping σ70, with a deletion in the region 3.2, or the stationary phase σS subunits exhibited hypersensitivity to Lpm and increased cold sensitivity of RPo formation. Similar effects were produced by mutation located ~60Å away from the Lpm binding site within σ70 region 1.2, controlling −10 promoter element recognition. Our data suggested that template strand single-stranded DNA competes with Lpm for binding to RNAP and that σ70 regions 1.2 and 3.2 attenuate Lpm action by promoting DNA duplex opening.
+http://www.sciencedirect.com/science/article/pii/S0022283615007081
+00222836

@@ -1,0 +1,6 @@
+Asymmetry in the Triple Helix of Collagen-like Heterotrimers Confirms that External Bonds Stabilize Collagen Structure
+7003703354,7103118852,35371746400
+collagen,homotrimer,heterotrimer,structure,stability
+Heating and subsequent cooling mixtures of (Pro-Pro-Gly)10 and (Pro-Hyp-Gly)10 peptides leads to formation of model heterotrimeric collagen helices that can be isolated by HPLC. These heterotrimeric collagen peptide helices are shown to be fundamentally unstable as denaturing then renaturing experiments result in heterotrimeric/homotrimeric mixtures.As the proportion of hydroxyproline-containing chains in the trimers increases, differential scanning calorimetry shows that the helix melting temperatures and denaturation enthalpies increasing non-linearly. Three types of Rich–Crick hydrogen bonds observed by NMR allow modelling of heterotrimeric structures based on published homotrimeric X-ray data. This revealed a small axial movement of (Pro-Hyp-Gly)10 chains towards the C-terminal of the helix, demonstrating heterotrimeric asymmetry.
+http://www.sciencedirect.com/science/article/pii/S0022283603003802
+00222836

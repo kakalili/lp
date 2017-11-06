@@ -1,0 +1,6 @@
+A Conserved Acidic Amino Acid Mediates the Interaction between Modulators and Co-Chaperones in Enterobacteria
+16041318000,8161877400
+CbpA,DnaJ,J-domain,protein–protein interactions,E. coli
+Hsp40-like co-chaperones are ubiquitous enzymes that stimulate the protein refolding activity of Hsp70 family chaperones. They are widespread in prokaryotic and eukaryotic systems. In bacteria, the best characterized co-chaperone is the Escherichia coli DnaJ protein. Many γ-proteobacteria encode a functional homologue of DnaJ, known as CbpA, which is expressed in response to starvation and environmental stress. The activity of CbpA is regulated by the “modulator” protein CbpM. Here, we have used a combination of genetics and biochemistry to identify the co-chaperone contact determinant of CbpM. We show that the nature of the interaction is conserved in enterobacteria.
+http://www.sciencedirect.com/science/article/pii/S0022283611006061
+00222836

@@ -1,0 +1,6 @@
+SMN, Gemin2 and Gemin3 Associate with β-Actin mRNA in the Cytoplasm of Neuronal Cells In Vitro
+16317778000,35337690000,16317492900,36673354900,36904404000,7402038151
+SMN,gemins,RNA granules,SMA
+Childhood spinal muscular atrophy is caused by a reduced expression of the survival motor neuron (SMN) protein. SMN has been implicated in the axonal transport of β-actin mRNA in both primary and transformed neuronal cell lines, and loss of this function could account, at least in part, for spinal muscular atrophy onset and pathological specificity. Here we have utilised a targeted screen to identify mRNA associated with SMN, Gemin2 and Gemin3 in the cytoplasm of a human neuroblastoma cell line, SHSY5Y. Importantly, we have provided the first direct evidence that β-actin mRNA is present in SMN cytoplasmic complexes in SHSY5Y cells.
+http://www.sciencedirect.com/science/article/pii/S0022283610007011
+00222836

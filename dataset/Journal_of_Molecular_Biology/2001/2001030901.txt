@@ -1,0 +1,6 @@
+Structure of a eukaryotic decoding region A-site RNA11Edited by I. Tinoco
+57153445900,7007185376
+decoding,structure,oligonucleotide,NMR,eukaryotic 16 S rRNA
+The aminoglycoside antibiotics target a region of highly conserved nucleotides in the aminoacyl-tRNA site (A site) of 16 S RNA on the 30 S subunit. The structures of a prokaryotic decoding region A-site oligonucleotide free in solution and bound to the aminoglycosides paromomycin and gentamicin C1A have been determined. Here, the structure of a eukaryotic decoding region A-site oligonucleotide has been determined using homonuclear and heteronuclear NMR spectroscopy, and compared to the unbound prokaryotic rRNA structure. The two structures are similar, with a U1406-U1495 base-pair, a C1407-G1494 Watson-Crick base-pair, and a G1408-A1493 base-pair instead of the A1408-A1493 base-pair of the prokaryotic structure. The two structures differ in the orientation of the 1408 position with respect to A1493; G1408 is rotated toward the major groove, which is the binding pocket for aminoglycosides. The structures also differ in the stacking geometry of G1494 on A1493, which could have slight long-range conformational effects.
+http://www.sciencedirect.com/science/article/pii/S002228360094419X
+00222836

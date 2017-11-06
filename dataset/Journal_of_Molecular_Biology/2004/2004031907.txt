@@ -1,0 +1,6 @@
+NMR Structure of the 101-nucleotide Core Encapsidation Signal of the Moloney Murine Leukemia Virus
+7005671368,20336510400,8738363800,7102839169
+MLV,NMR,A-minor K-turn,stem loop
+The full length, positive-strand genome of the Moloney Murine Leukemia Virus contains a “core encapsidation signal” that is essential for efficient genome packaging during virus assembly. We have determined the structure of a 101-nucleotide RNA that contains this signal (called mΨ) using a novel isotope-edited NMR approach. The method is robust and should be generally applicable to larger RNAs. mΨ folds into three stem loops, two of which (SL-C and SL-D) co-stack to form an extended helix. The third stem loop (SL-B) is connected to SL-C by a flexible, four-nucleotide linker. The structure contains five mismatched base-pairs, an unusual C·CG base-triple platform, and a novel “A-minor K-turn,” in which unpaired adenosine bases A340 and A341 of a GGAA bulge pack in the minor groove of a proximal stem, and a bulged distal uridine (U319) forms a hydrogen bond with the phosphodiester of A341. Phylogenetic analyses indicate that these essential structural elements are conserved among the murine C-type retroviruses.
+http://www.sciencedirect.com/science/article/pii/S0022283604000932
+00222836

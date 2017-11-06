@@ -1,0 +1,6 @@
+The structure of intramolecular triplex DNA: atomic force microscopy study11Edited by I. Tinoco
+6506896240,7003374275,7101839191,7005653761
+atomic force microscopy,intramolecular triplexes,alternative DNA structures,H-DNA,DNA supercoiling
+We applied atomic force microscopy (AFM) for direct imaging of intramolecular triplexes (H-DNA) formed by mirror-repeated purine-pyrimidine repeats and stabilized by negative DNA supercoiling. H-DNA appears in atomic force microscopy images as a clear protrusion with a different thickness than DNA duplex. Consistent with the existing models, H-DNA formation results in a kink in the double helix path. The kink forms an acute angle so that the flanking DNA regions are brought in close proximity. The mobility of flanking DNA arms is limited compared with that for cruciforms and three-way junctions. Structural properties of H-DNA may be important for promoter-enhancer interactions and other DNA transactions.
+http://www.sciencedirect.com/science/article/pii/S0022283601951745
+00222836

@@ -1,0 +1,6 @@
+Structure of Prokaryotic SECIS mRNA Hairpin and its Interaction with Elongation Factor SelB
+7005044034,7006108166,7102324880
+elongation factor SelB,NMR spectroscopy,protein–RNA interaction,selenocysteine,translation
+In prokaryotes, the recoding of a UGA stop codon as a selenocysteine codon requires a special elongation factor (EF) SelB and a stem-loop structure within the mRNA called a selenocysteine insertion sequence (SECIS). Here, we used NMR spectroscopy to determine the solution structure of the SECIS mRNA hairpin and characterized its interaction with the mRNA-binding domain of SelB. Our structural and biochemical data identified the conserved structural features important for binding to EF SelB within different SECIS RNA sequences. In the free SECIS mRNA structure, conserved nucleotides are strongly exposed for recognition by SelB. Binding of the C-terminal domain of SelB stabilizes the RNA secondary structure. In the protein–RNA complex, a Watson–Crick loop base-pair leaves a GpU sequence accessible for SelB recognition. This GpU sequence at the tip of the capping tetraloop and a bulge uracil five Watson–Crick base-pairs apart from the GpU are essential for interaction with SelB.
+http://www.sciencedirect.com/science/article/pii/S0022283602010306
+00222836

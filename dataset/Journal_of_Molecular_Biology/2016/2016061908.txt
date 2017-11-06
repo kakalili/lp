@@ -1,0 +1,6 @@
+Zooming in on Transcription Preinitiation
+23978046800,57188868818,36470364300,8898106600,35432442400
+preinitiation complex,general transcription factor TFIID,transcription initiation,RNA polymerase II,multiprotein complex
+Class II gene transcription commences with the assembly of the Preinitiation Complex (PIC) from a plethora of proteins and protein assemblies in the nucleus, including the General Transcription Factors (GTFs), RNA polymerase II (RNA pol II), co-activators, co-repressors, and more. TFIID, a megadalton-sized multiprotein complex comprising 20 subunits, is among the first GTFs to bind the core promoter. TFIID assists in nucleating PIC formation, completed by binding of further factors in a highly regulated stepwise fashion. Recent results indicate that TFIID itself is built from distinct preformed submodules, which reside in the nucleus but also in the cytosol of cells. Here, we highlight recent insights in transcription factor assembly and the regulation of transcription preinitiation.
+http://www.sciencedirect.com/science/article/pii/S0022283616300468
+00222836

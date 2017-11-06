@@ -1,0 +1,6 @@
+Localization of the protein L2 in the 50 S subunit and the 70 S E. coli ribosome11Edited by D. E. Draper
+55091613800,6603100513,15744992400,6603766373,14034695300,7003802140,7103367884
+protein biosynthesis,neutron scattering,ribosomal protein L2,spin-contrast variation
+The protein L2 is found in all ribosomes and is one of the best conserved proteins of this mega-dalton complex. The protein was localized within both the isolated 50 S subunit and the 70 S ribosome of the Escherichia coli bacteria with the neutron-scattering technique of spin-contrast variation. L2 is elongated, exposing one end of the protein to the surface of the intersubunit interface of the 50 S subunit. The protein changes its conformation slightly when the 50 S subunit reassociates with the 30 S subunit to form a 70 S ribosome, becoming more elongated and moving approximately 30 Å into the 50 S matrix. The results support a recent observation that L2 is essential for the association of the ribosomal subunits and might participate in the binding and translocation of the tRNAs.
+http://www.sciencedirect.com/science/article/pii/S002228360094289X
+00222836

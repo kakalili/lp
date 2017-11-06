@@ -1,0 +1,6 @@
+Fully Reduced Ribonuclease A Does not Expand at High Denaturant Concentration or Temperature
+7402566234,6508349908,7005157924,7005833979
+protein folding,small-angle X-ray scattering,intermediate,ribonuclease A,radius of gyration
+The dimensions of a denatured protein, fully reduced ribonuclease A (r-RNase A), have been measured using synchrotron-based small angle X-ray scattering. The radius of gyration, 34–35 Å, is unchanged from 0–6 M guanidinium chloride and from 20–90 °C at pH 2.5, and agrees with the known scaling behavior for a multitude of chemically denatured states. The polypeptide is behaving as a statistical coil in the non-interacting, high-temperature limit.
+http://www.sciencedirect.com/science/article/pii/S0022283607000381
+00222836

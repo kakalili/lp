@@ -1,0 +1,6 @@
+Leaving Group Activation by Aromatic Stacking: An Alternative to General Acid Catalysis
+6505854771,6602545226,8047995400,7006082598,7005263030
+aromatic stacking,leaving group activation,general acid catalysis,nucleoside hydrolase,ab initio calculations
+General acid catalysis is a powerful and widely used strategy in enzymatic nucleophilic displacement reactions. For example, hydrolysis/phosphorolysis of the N-glycosidic bond in nucleosides and nucleotides commonly involves the protonation of the leaving nucleobase concomitant with nucleophilic attack. However, in the nucleoside hydrolase of the parasite Trypanosoma vivax, crystallographic and mutagenesis studies failed to identify a general acid. This enzyme binds the purine base of the substrate between the aromatic side-chains of Trp83 and Trp260. Here, we show via quantum chemical calculations that face-to-face stacking can raise the pKa of a heterocyclic aromatic compound by several units. Site-directed mutagenesis combined with substrate engineering demonstrates that Trp260 catalyzes the cleavage of the glycosidic bond by promoting the protonation of the purine base at N-7, hence functioning as an alternative to general acid catalysis.
+http://www.sciencedirect.com/science/article/pii/S0022283604002293
+00222836

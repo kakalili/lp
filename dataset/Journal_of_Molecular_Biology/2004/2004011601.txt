@@ -1,0 +1,6 @@
+Studies of the Escherichia coli Rsd–σ70 Complex
+57192956853,7005531447,7202502297,7005622176,7403375239,7006351834
+Escherichia coli,transcription initiation,σ factors,anti-σ factors,stoichiometry
+Escherichia coli Rsd protein was previously identified on the basis of its binding to the RNA polymerase σ70 subunit. The Rsd–σ70 complex has been studied using different methods. Our data show that Rsd associates with σ70 to form a complex with a stoichiometry of 1:1. Alanine scanning and deletion mutagenesis were used to locate regions of σ70 that are required for the formation of the Rsd–σ70 complex.
+http://www.sciencedirect.com/science/article/pii/S002228360301386X
+00222836

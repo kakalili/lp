@@ -1,0 +1,6 @@
+Cryo-trapping the six-coordinate, distorted-octahedral active site of manganese superoxide dismutase11Edited by R. Huber
+7003288176,7801553179,6603767677,6506653716,7004401582
+manganese,superoxide dismutase,cryocrystallography,solvent structure,metalloprotein
+Superoxide dismutase protects organisms from potentially damaging oxygen radicals by catalyzing the disproportionation of superoxide to oxygen and hydrogen peroxide. We report the use of cryogenic temperatures to kinetically capture the sixth ligand bound to the active site of manganese superoxide dismutase (MnSOD). Synchrotron X-ray diffraction data was collected from Escherichia coli MnSOD crystals grown at pH 8.5 and cryocooled to 100 K. Structural refinement to 1.55 Å resolution and close inspection of the active site revealed electron density for a sixth ligand that was interpreted to be a hydroxide ligand. The six-coordinate, distorted-octahedral geometry assumed during inhibition by hydroxide is compared to the room temperature, five-coordinate, trigonal bipyramidal active site determined with crystals grown from practically identical conditions. The gateway residues Tyr34, His30 and a tightly bound water molecule are implicated in closing-off the active site and blocking the escape route of the sixth ligand.
+http://www.sciencedirect.com/science/article/pii/S0022283699935064
+00222836

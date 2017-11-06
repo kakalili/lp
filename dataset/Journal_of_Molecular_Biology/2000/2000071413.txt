@@ -1,0 +1,6 @@
+A new crystal form for the dodecamer C-G-C-G-A-A-T-T-C-G-C-G: symmetry effects on sequence-dependent DNA structure11Edited by A. Klug
+22957707900,7102183504,35820006900
+crystal packing,dodecanucleotide,structure,symmetry,base morphology
+The dodecanucleotide d(CGCGAATTCGCG) has been crystallised in the space group P3212, representing a new crystal form for this sequence. The structure has been solved by molecular replacement and refined at 1.8 Å resolution. The present structure contrasts with previous ones for this sequence since it is situated on a crystallographic 2-fold axis, and the crystal symmetry reflects the palindromic nature of this sequence. Some features accord with previous observations, notably that the minor groove is hydrated with a continuous spine of solvent. There is no evidence of alkali metal ions within this spine. The minor groove retains its narrow width, although it is now symmetric and extends over the A/T tract. Various base and base-pair morphological parameters have been examined. Their values do not show significant correlations with earlier reports, suggesting that crystal packing effects on them are more dominant than has been hitherto realised.
+http://www.sciencedirect.com/science/article/pii/S002228360093907X
+00222836

@@ -1,0 +1,6 @@
+Peptide NMHRYPNQ of the Cellular Prion Protein (PrPC) Inhibits Aggregation and Is a Potential Key for Understanding Prion–Prion Interactions
+28568115600,24484437400,15823096800,35084860800,28568190100,24366846200,6603254363,55535440600,7402073158
+surface plasmon resonance,BSE,aggregation,NMR binding epitope
+Pathogenesis of transmissible spongiform encephalopathies is correlated with a conversion of the normal cellular form of the prion protein (PrPC) into the abnormal isoform (scrapie form of PrP). Contact of the normal PrP with its abnormal isoform, the scrapie form of PrP, induces the transformation. Knowledge of molecules that inhibit such contacts leads to an understanding of the mechanism of the aggregation, and these molecules may serve as leads for drugs against transmissible spongiform encephalopathies. Therefore, we screened a synthetic octapeptide library of the globular domain of the human PrPC for binding affinity to PrPC. Two fragments with binding affinity, 149YYRENMHR156 and 153NMHRYPNQ160, were identified with Kd values of 21 and 25 μM, respectively. A 10-fold excess of peptide 153NMHRYPNQ160 inhibits aggregation of the PrP by 99%. NMR and mass spectrometry showed that the binding region of the peptide 153NMHRYPNQ160 is located at helix 3 of the PrP.
+http://www.sciencedirect.com/science/article/pii/S0022283609008456
+00222836

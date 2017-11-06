@@ -1,0 +1,6 @@
+Binders Based on Dimerised Immunoglobulin VH Domains
+7005033581,7403073032,6603945012,35495205700,7004278581
+antibody engineering,binders,immunoglobulin domains
+Antibody binding to antigen is mediated by the surface formed by the association of the two variable (V) regions of the L (VL) and H (VH) chains. The capacity of VL to dimerise and the high structural similarity of VL and VH domains suggested the possibility that VH could also associate. We show here that spontaneous formation of VH dimers (VHD) is in many cases permissive, producing stable molecules with antigen binding specificity. VHD were displayed on filamentous phages for the selection of antigen-specific binders. VHD were expressed and secreted efficiently from both bacteria and mammalian cells in different formats, including single-chain (VH(1)-linker-VH(2)), double chain ((VH)2) and IgG analogues having the VL replaced by VH. The affinity (Kd,app) achieved with a VH dimer expressed in the IgG format, specific for a glutenin subunit was around 30nM measured by two different methods, which was about 20 times higher than that corresponding to the VL/VH counterpart.
+http://www.sciencedirect.com/science/article/pii/S0022283603010647
+00222836

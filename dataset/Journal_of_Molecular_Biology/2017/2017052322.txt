@@ -1,0 +1,6 @@
+Applications of Single-Molecule Methods to Membrane Protein Folding Studies
+36171717600,55697889900,36193694400,57193747202,56762230300
+atomic force spectroscopy,magnetic tweezer,forced unfolding,fluorescence
+Protein folding is a fundamental life process with many implications throughout biology and medicine. Consequently, there have been enormous efforts to understand how proteins fold. Almost all of this effort has focused on water-soluble proteins, however, leaving membrane proteins largely wandering in the wilderness. The neglect has occurred not because membrane proteins are unimportant but rather because they present many theoretical and technical complications. Indeed, quantitative membrane protein folding studies are generally restricted to a handful of well-behaved proteins. Single-molecule methods may greatly alter this picture, however, because the ability to work at or near infinite dilution removes aggregation problems, one of the main technical challenges of membrane protein folding studies.
+http://www.sciencedirect.com/science/article/pii/S0022283617302504
+00222836

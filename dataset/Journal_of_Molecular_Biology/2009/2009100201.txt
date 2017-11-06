@@ -1,0 +1,6 @@
+Mitochondrial F1Fo-ATP Synthase: The Small Subunits e and g Associate with Monomeric Complexes to Trigger Dimerization
+22837120400,6701851102,6506809884,7405761856,7102395155,7005398936
+cristae membranes,dimerization,F1Fo-ATP synthase,mitochondria,Saccharomyces cerevisiae
+Mitochondrial F1Fo-ATP synthase catalyzes the formation of ATP from ADP and inorganic phosphate. The enzyme is found in monomeric, dimeric and higher oligomeric forms in the inner mitochondrial membrane. Dimerization of ATP synthase complexes is a prerequisite for the generation of larger oligomers that promote membrane bending and formation of tubular cristae membranes. Two small proteins of the membrane-embedded Fo-domain, subunit e (Su e; Atp21) and Su g (Atp20), were identified as dimer-specific subunits of yeast ATP synthase and shown to be required for stabilization of the dimers. We have identified two distinct monomeric forms of yeast ATP synthase. Su e and Su g are present not only in the dimer but also in one of the monomeric forms. We demonstrate that Su e and Su g sequentially assemble with monomeric ATP synthase to form a dimerization-competent primed monomer. We conclude that association of Su e and Su g with monomeric F1Fo-ATP synthase represents an initial step of oligomer formation.
+http://www.sciencedirect.com/science/article/pii/S0022283609009152
+00222836

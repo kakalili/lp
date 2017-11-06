@@ -1,0 +1,6 @@
+HSFs, Stress Sensors and Sculptors of Transcription Compartments and Epigenetic Landscapes
+54998013300,6507750610,6603773766
+HSF,epigenetics,stress responsive,chromatin remodeling
+Starting as a paradigm for stress responses, the study of the transcription factor (TF) family of heat shock factors (HSFs) has quickly and widely expanded these last decades, thanks to their fascinating and significant involvement in a variety of pathophysiological processes, including development, reproduction, neurodegeneration and carcinogenesis. HSFs, originally defined as classical TFs, strikingly appeared to play a central and often pioneering role in reshaping the epigenetic landscape. In this review, we describe how HSFs are able to sense the epigenetic environment, and we review recent data that support their role as sculptors of the chromatin landscape through their complex interplay with chromatin remodelers, histone-modifying enzymes and non-coding RNAs.
+http://www.sciencedirect.com/science/article/pii/S0022283615005793
+00222836

@@ -1,0 +1,6 @@
+Dodecin Sequesters FAD in Closed Conformation from the Aqueous Solution
+8272535500,15061830600,6603632617,7101607962
+closed FAD,FAD conformation,π-stacking,intramolecular stacking,riboflavin
+Both extensive theoretical calculations and experimental data obtained during several decades leave little doubt that flavin adenine dinucleotide (FAD) exists in an open as well as in a closed conformation in aqueous solution. However, the knowledge about the intramolecularly stacked complex of FAD is constructed on indirect methods while direct structural evidence is lacking. Recently, dodecin was reported as an unspecific flavin binding protein which exhibits the unique binding mode of incorporating stacked dimers of flavins into a single binding pocket. Here, we show that FAD is not bound in this manner, but in monomers of intramolecularly stacked conformation. As resulting from the dodecin ligand binding characteristic, this FAD stacked conformation suggests to be directly sequestered from the aqueous solution and thus to be the first X-ray structural view on a FAD solution-stacked form. Moreover, in extraordinary FAD binding, dodecin serves as a model for studying bound monomeric (FAD) versus bound dimeric (e.g. riboflavin) flavin properties.
+http://www.sciencedirect.com/science/article/pii/S0022283606011417
+00222836

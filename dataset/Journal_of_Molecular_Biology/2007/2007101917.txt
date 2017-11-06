@@ -1,0 +1,6 @@
+Drosophila CTCF Is Required for Fab-8 Enhancer Blocking Activity in S2 Cells
+6506603720,7402160095,7005710626
+DNA insulator,Fab-8,CTCF,RNAi,S2 cells
+CTCF is a conserved transcriptional regulator with binding sites in DNA insulators identified in vertebrates and invertebrates. The Drosophila Abdominal-B locus contains CTCF binding sites in the Fab-8 DNA insulator. Previous reports have shown that Fab-8 has enhancer blocking activity in Drosophila transgenic assays. We now confirm the enhancer blocking capability of the Fab-8 insulator in stably transfected Drosophila S2 cells and show this activity depends on the Fab-8 CTCF binding sites. Furthermore, knockdown of Drosophila CTCF by RNAi in our stable cell lines demonstrates that CTCF itself is critical for Fab-8 enhancer blocking.
+http://www.sciencedirect.com/science/article/pii/S0022283607010303
+00222836

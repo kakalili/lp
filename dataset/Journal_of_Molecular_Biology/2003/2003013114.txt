@@ -1,0 +1,6 @@
+Crystal Structure of Tabtoxin Resistance Protein Complexed with Acetyl Coenzyme A Reveals the Mechanism for β-Lactam Acetylation
+56390189400,7404136267,6701775559,7401804244,56240644400,8054545200,55784518100,7404864581,26540762500,7410109301,55484680200,7102549060
+acetyl coenzyme A,crystal structure,GCN5-related N-acetyltransferase superfamily,histone acetyltransferase,tabtoxin resistance protein
+Tabtoxin resistance protein (TTR) is an enzyme that renders tabtoxin-producing pathogens, such as Pseudomonas syringae, tolerant to their own phytotoxins. Here, we report the crystal structure of TTR complexed with its natural cofactor, acetyl coenzyme A (AcCoA), to 1.55Å resolution. The binary complex forms a characteristic “V” shape for substrate binding and contains the four motifs conserved in the GCN5-related N-acetyltransferase (GNAT) superfamily, which also includes the histone acetyltransferases (HATs). A single-step mechanism is proposed to explain the function of three conserved residues, Glu92, Asp130 and Tyr141, in catalyzing the acetyl group transfer to its substrate. We also report that TTR possesses HAT activity and suggest an evolutionary relationship between TTR and other GNAT members.
+http://www.sciencedirect.com/science/article/pii/S0022283602012846
+00222836

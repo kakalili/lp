@@ -1,0 +1,6 @@
+The Alkali Molten Globule State of Horse Ferricytochrome c: Observation of Cold Denaturation
+55707347700,8579719700,56731307000,6603733981
+molten globule,B state,cytochrome c,cold denaturation,protein folding
+Here, we present the basic structural properties and the thermodynamic description of a previously unknown alkali molten globule state of horse “ferricytochrome c”. Both sodium and guanidinium cations stabilize the alkali-denatured state at pH 13, presumably by a charge screening mechanism. The Na+-stabilized conformation (B state) clearly meets with the molecular organizational definition of the generic molten globule state. The B state exhibits highly cooperative thermal unfolding transitions monitored by both near and far-UV CD. Analyses of these transitions show substantial heat capacity change, suggesting that the hydrophobic effect contributes considerably to its energetic stability. At low salt concentration where molten globules are less stable, the B state undergoes reversible cold denaturation.
+http://www.sciencedirect.com/science/article/pii/S0022283606012162
+00222836

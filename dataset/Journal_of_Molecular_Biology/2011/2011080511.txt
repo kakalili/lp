@@ -1,0 +1,6 @@
+Crystallographic Snapshots of the Complete Catalytic Cycle of the Unregulated Aspartate Transcarbamoylase from Bacillus subtilis
+13005843400,52263523200,52264284100,7006063181
+pyrimidine nucleotide biosynthesis,transferase enzymes,catalytic cycle,X-ray crystallography
+Here, we report high-resolution X-ray structures of Bacillus subtilis aspartate transcarbamoylase (ATCase), an enzyme that catalyzes one of the first reactions in pyrimidine nucleotide biosynthesis. Structures of the enzyme have been determined in the absence of ligands, in the presence of the substrate carbamoyl phosphate, and in the presence of the bisubstrate/transition state analog N-phosphonacetyl-l-aspartate. Combining the structural data with in silico docking and electrostatic calculations, we have been able to visualize each step in the catalytic cycle of ATCase, from the ordered binding of the substrates, to the formation and decomposition of the tetrahedral intermediate, to the ordered release of the products from the active site. Analysis of the conformational changes associated with these steps provides a rationale for the lack of cooperativity in trimeric ATCases that do not possess regulatory subunits.
+http://www.sciencedirect.com/science/article/pii/S0022283611005997
+00222836

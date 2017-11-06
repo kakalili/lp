@@ -1,0 +1,6 @@
+Snorkeling Preferences Foster an Amino Acid Composition Bias in Transmembrane Helices
+7101825537,56092206100,7601602471,7102792896
+membrane,protein,side-chain,polarity,rotamer
+By analyzing transmembrane (TM) helices in known structures, we find that some polar amino acids are more frequent at the N terminus than at the C terminus. We propose the asymmetry occurs because most polar amino acids are better able to snorkel their polar atoms away from the membrane core at the N terminus than at the C terminus. Two findings lead us to this proposition: (1) side-chain conformations are influenced strongly by the N or C-terminal position of the amino acid in the bilayer, and (2) the favored snorkeling direction of an amino acid correlates well with its N to C-terminal composition bias. Our results suggest that TM helix predictions should incorporate an N to C-terminal composition bias, that rotamer preferences of TM side-chains are position-dependent, and that the ability to snorkel influences the evolutionary selection of amino acids for the helix N and C termini.
+http://www.sciencedirect.com/science/article/pii/S0022283604003912
+00222836

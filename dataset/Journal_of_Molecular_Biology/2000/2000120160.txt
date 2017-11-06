@@ -1,0 +1,6 @@
+Crystal structure of Escherichia coli UDPMurNAc-tripeptide d-alanyl-d-alanine-adding enzyme (MurF) at 2.3 Å resolution11Edited by I. Wilson
+55239606400,7005735959,6701866142,16214453600,6507156537,7409481366
+MurF,peptidoglycan,bacterial cell wall synthesis,antibacterial target,crystal structure
+MurF is required to catalyze the final step in the synthesis of the cytoplasmic precursor of the bacterial cell wall peptidoglycan, rendering it an attractive target for antibacterial drug development. The crystal structure of the MurF apo-enzyme has been determined using the multiwavelength anomalous dispersion method and refined to 2.3 Å resolution. It contains three consecutive open α/β-sheet domains. In comparison with the complex crystal structures of MurD and its substrates, The topology of the N-terminal domain of MurF is unique, while its central and C-terminal domains exhibit similar mononucleotide and dinucleotide-binding folds, respectively. The apo-enzyme of MurF crystal structure reveals an open conformation with the three domains juxtaposed in a crescent-like arrangement creating a wide-open space where substrates are expected to bind. As such, catalysis is not feasible and significant domain closure is expected upon substrate binding.
+http://www.sciencedirect.com/science/article/pii/S0022283600942153
+00222836

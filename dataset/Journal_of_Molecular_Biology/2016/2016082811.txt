@@ -1,0 +1,6 @@
+Heme Synthesis and Acquisition in Bacterial Pathogens
+55981504800,6701410252
+iron uptake,hemoglobin,Isd system,heme toxicity,NEAT domain
+Bacterial pathogens require the iron-containing cofactor heme to cause disease. Heme is essential to the function of hemoproteins, which are involved in energy generation by the electron transport chain, detoxification of host immune effectors, and other processes. During infection, bacterial pathogens must synthesize heme or acquire heme from the host; however, host heme is sequestered in high-affinity hemoproteins. Pathogens have evolved elaborate strategies to acquire heme from host sources, particularly hemoglobin, and both heme acquisition and synthesis are important for pathogenesis. Paradoxically, excess heme is toxic to bacteria and pathogens must rely on heme detoxification strategies. Heme is a key nutrient in the struggle for survival between host and pathogen, and its study has offered significant insight into the molecular mechanisms of bacterial pathogenesis.
+http://www.sciencedirect.com/science/article/pii/S0022283616002047
+00222836

@@ -1,0 +1,6 @@
+The Histone Variant H3.3 in Transcriptional Regulation and Human Disease
+35207076500,35849431800,9334781100
+epigenetics,H3.3,HIRA,DAXX,human cancer
+Histone proteins wrap around DNA to form nucleosomes, which further compact into the higher-order structure of chromatin. In addition to the canonical histones, there are also variant histones that often have pivotal roles in regulating chromatin dynamics and in the accessibility of the underlying DNA. H3.3 is the most common non-centromeric variant of histone H3 that differs from the canonical H3 by just 4–5 aa. Here, we discuss the current knowledge of H3.3 in transcriptional regulation and the recent discoveries and molecular mechanisms of H3.3 mutations in human cancer.
+http://www.sciencedirect.com/science/article/pii/S0022283616305137
+00222836

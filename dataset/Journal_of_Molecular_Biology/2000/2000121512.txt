@@ -1,0 +1,6 @@
+The SH3-fold Family: Experimental Evidence and Prediction of Variations in the Folding Pathways
+6603232437,7101901077
+SH3 domain,Sso7d,folding kinetics,folding prediction,transistion state
+To investigate the relationships between protein topology, amino acid sequence and folding mechanisms, the folding transition state of the Sso7d protein has been characterised both experimentally and theoretically. Although Sso7d protein has a similar topology to that of the SH3 domains, the structure of its transition state is different from that of α-spectrin and src SH3 domains previously studied. The folding algorithm, Fold-X, including an energy function with specific sequence features, accounts for these differences and reproduces with a good agreement the set of experimental φ‡−Uvalues obtained for the three proteins. Our analysis shows that taking into account sequence features underlying protein topology is critical for an accurate prediction of the folding process.
+http://www.sciencedirect.com/science/article/pii/S0022283600942347
+00222836

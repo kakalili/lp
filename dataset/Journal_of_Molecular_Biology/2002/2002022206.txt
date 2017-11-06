@@ -1,0 +1,6 @@
+Functional analysis of a carboxyl-terminal phosphorylation mutant of the bovine papillomavirus E1 protein11Edited by K. Yamamoto
+7006264288,6508063444,6504691859,56948153100,57142180500
+DNA replication,phosphorylation,helicase,papillomavirus,E1 protein
+The papillomavirus E1 protein is essential for viral DNA replication, and phosphorylation of E1 appears to regulate protein function and DNA replication. Serine 584 of bovine papillomavirus E1 is in a conserved motif resembling a CK2 consensus site, and is phosphorylated by CK2 in vitro. Mutation of serine 584 to alanine eliminates replication of the viral genome in transient replication assays. Wild-type and mutant E1 proteins were expressed from recombinant baculoviruses and used to assess biochemical functions of the amino acid 584 substitution. Helicase enzyme activity, E1 binding to the viral E2 protein and to cellular DNA polymerase alpha-primase were all unaffected in the mutant protein. Binding of E1 to viral replication origin DNA sequences was reduced in the mutant, but not eliminated. The carboxyl-terminal region of the protein appears to play a role in regulating E1 function, and adds to a complex picture emerging for papillomavirus DNA replication control.
+http://www.sciencedirect.com/science/article/pii/S0022283601953756
+00222836

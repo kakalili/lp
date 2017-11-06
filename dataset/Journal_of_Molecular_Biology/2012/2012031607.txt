@@ -1,0 +1,6 @@
+Structure of the Ultra-High-Affinity Colicin E2 DNase–Im2 Complex
+31967894900,7004456136,55463548900,7005601272
+protein–protein interaction,colicin,immunity protein,high-affinity binding
+How proteins achieve high-affinity binding to a specific protein partner while simultaneously excluding all others is a major biological problem that has important implications for protein design. We report the crystal structure of the ultra-high-affinity protein–protein complex between the endonuclease domain of colicin E2 and its cognate immunity (Im) protein, Im2 (Kd∼10−15 M), which, by comparison to previous structural and biophysical data, provides unprecedented insight into how high affinity and selectivity are achieved in this model family of protein complexes. Our study pinpoints the role of structured water molecules in conjoining hotspot residues that govern stability with residues that control selectivity. A key finding is that a single residue, which in a noncognate context massively destabilizes the complex through frustration, does not participate in specificity directly but rather acts as an organizing center for a multitude of specificity interactions across the interface, many of which are water mediated.
+http://www.sciencedirect.com/science/article/pii/S0022283612000733
+00222836

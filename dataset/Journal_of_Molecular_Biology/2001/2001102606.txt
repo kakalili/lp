@@ -1,0 +1,6 @@
+Crystal structure of the Escherichia coli RNA degradosome component enolase11Edited by R. Huber
+6602223349,7004221679
+enolase,degradosome,analytical ultracentrifugation,dimer interface,active site
+The crystal structure of Escherichia coli enolase (EC 4.2.1.11, phosphopyruvate hydratase), which is a component of the RNA degradosome, has been determined at 2.5 Å. There are four molecules in the asymmetric unit of the C2 cell, and in one of the molecules, flexible loops close onto the active site. This closure mimics the conformation of the substrate-bound intermediate. A comparison of the structure of the E. coli enolase with the eukaryotic enolase structures available (lobster and yeast) indicates a high degree of conservation of the hydrophobic core and the subunit interface of this homodimeric enzyme. The dimer interface is enriched in charged residues compared with other protein homodimers, which may explain our observations from analytical ultracentrifugation that dimerisation is affected by ionic strength. The putative role of enolase in the RNA degradosome is discussed; although it was not possible to ascribe a specific role to it, a structural role is possible.
+http://www.sciencedirect.com/science/article/pii/S002228360195065X
+00222836

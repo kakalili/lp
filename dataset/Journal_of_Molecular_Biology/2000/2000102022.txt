@@ -1,0 +1,6 @@
+Crystal structures of the chromosomal proteins Sso7d/Sac7d bound to DNA containing T-G mismatched base-pairs11Edited by I. Tinoco
+7402029797,7404706139,7202477995,57136391000,7006389325,7007147183,55513813500
+DNA binding protein,protein-DNA interactions,protein stability,hyperthermophile,achaeabacteria
+Sso7d and Sac7d are two small chromatin proteins from the hyperthermophilic archaeabacterium Sulfolobus solfataricus and Sulfolobus acidocaldarius, respectively. The crystal structures of Sso7d-GTGATCGC, Sac7d-GTGATCGC and Sac7d-GTGATCAC have been determined and refined at 1.45 Å, 2.2 Å and 2.2 Å, respectively, to investigate the DNA binding property of Sso7d/Sac7d in the presence of a T-G mismatch base-pair. Detailed structural analysis revealed that the intercalation site includes the T-G mismatch base-pair and Sso7d/Sac7d bind to that mismatch base-pair in a manner similar to regular DNA. In the Sso7d-GTGATCGC complex, a new inter-strand hydrogen bond between T2O4 and C14N4 is formed and well-order bridging water molecules are found. The results suggest that the less stable DNA stacking site involving a T-G mismatch may be a preferred site for protein side-chain intercalation.
+http://www.sciencedirect.com/science/article/pii/S0022283600941123
+00222836

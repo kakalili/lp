@@ -1,0 +1,6 @@
+Crystal Structure of the Archaeal Translation Initiation Factor 2 in Complex with a GTP Analogue and Met-tRNAfMet
+8432179900,7005068735,6602074252,55557863600,7101632975,35412032800,6701680783
+archaea,ribosome,translation initiation,e/aIF2
+Heterotrimeric aIF2αβγ (archaeal homologue of the eukaryotic translation initiation factor 2) in its GTP-bound form delivers Met-tRNAiMet to the small ribosomal subunit. It is known that the heterodimer containing the GTP-bound γ subunit and domain 3 of the α subunit of aIF2 is required for the formation of a stable complex with Met-tRNAi. Here, the crystal structure of an incomplete ternary complex including aIF2αD3γ⋅GDPNP⋅Met-tRNAfMet has been solved at 3.2Å resolution. This structure is in good agreement with biochemical and hydroxyl radical probing data. The analysis of the complex shows that despite the structural similarity of aIF2γ and the bacterial translation elongation factor EF-Tu, their modes of tRNA binding are very different. Remarkably, the recently published 5.0-Å-resolution structure of almost the same ternary initiation complex differs dramatically from the structure presented. Reasons for this discrepancy are discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283612009710
+00222836

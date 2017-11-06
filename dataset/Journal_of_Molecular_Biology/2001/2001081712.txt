@@ -1,0 +1,6 @@
+Functional expression of a chimeric myosin-containing motor domain of Chara myosin and neck and tail domains of Dictyostelium myosin II11Edited by J. Karn
+6701474735,7410402953,55739393600
+characean algae,chimeric myosin,cytoplasmic streaming,motor domain,plant myosin
+We succeeded in expressing a chimeric myosin that comprises the motor domain of characean algal myosin, (the fastest known motor protein), and the neck and tail domains of Dictyostelium myosin II. Although the chimeric myosin showed an ATPase activity comparable to that of muscle myosin (15 times higher than that of the wild-type Dictyostelium myosin II), the motile activity of the chimera was only 1.3 times higher than that of the wild-type. However, this is the first chimeric myosin that showed motile activity faster than at least one of the parent myosins. It was suggested, therefore, that the motor domain of Chara myosin has the potential for performing fast sliding movement.
+http://www.sciencedirect.com/science/article/pii/S0022283601948831
+00222836

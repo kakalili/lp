@@ -1,0 +1,6 @@
+The ScPex13p SH3 Domain Exposes Two Distinct Binding Sites for Pex5p and Pex14p
+8630288600,7201551852,7003401390,55407418200,7004556901,7006132552,7006146835
+SH3 domain,PEX13,PEX5,peroxin,peroxisome
+Pex13p is an essential component of the peroxisomal protein import machinery and interacts via its C-terminal SH3 domain with the type II SH3-ligand Pex14p and the non-PXXP protein Pex5p. We report the solution structure of the SH3 domain of Pex13p from Saccharomyces cerevisiae and the identification of a novel-binding pocket, which binds a non-PXXP-peptide representing the binding site of Pex5p. Chemical shift assays revealed the binding sites for Pex5p and Pex14p ligand peptides to be distinct and spatially separated. Competition assays demonstrated that the two ligand peptides can bind simultaneously to the SH3 domain.
+http://www.sciencedirect.com/science/article/pii/S0022283603000391
+00222836

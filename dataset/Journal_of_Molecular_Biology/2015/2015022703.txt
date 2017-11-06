@@ -1,0 +1,6 @@
+Novel Essential Gene Involved in 16S rRNA Processing in Escherichia coli
+56480058300,56479972600,35430931600,7004049430,55605034900,56427554800,7402069424
+16S rRNA,E. coli,essential gene,rRNA processing,YqgF
+Biogenesis of ribosomes is a complex process mediated by many factors. While its transcription proceeds, ribosomal RNA (rRNA) folds itself into a characteristic three-dimensional structure through interaction with ribosomal proteins, during which its ends are processed. Here, we show that the essential protein YqgF, a RuvC family protein with an RNase-H-like motif, is involved in the processing of pre-16S rRNA during ribosome maturation. Indeed, pre-16S rRNA accumulated in cells of a temperature-sensitive yqgF mutant (yqgFts) cultured at a non-permissive temperature. In addition, purified YqgF was shown to process the 5′ end of pre-16S rRNA within 70S ribosomes in vitro. Mass spectrometry analysis of the total proteins in the yqgFts mutant cells showed that the expression of genes containing multiple Shine–Dalgarno-like sequences was observed to be lower than in wild type. These results are interpreted to indicate that YqgF is involved in a novel enzymic activity necessary for the processing of pre-16S rRNA, thereby affecting elongation of translation.
+http://www.sciencedirect.com/science/article/pii/S0022283614006482
+00222836

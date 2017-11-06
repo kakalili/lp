@@ -1,0 +1,6 @@
+PIAS Proteins as Repressors of Oct4 Function
+6602923037,6603002658,7101880812,8784173600,7007127751,6603775762
+PIAS,POU,Oct4,SUMO,transcriptional repression
+The POU domain transcription factor Oct4 plays essential functions in the maintenance of pluripotent embryonic and germ cells of mammals. Molecular mechanisms of Oct4 action remain poorly understood. To isolate modulators of Oct4 activity, we performed a yeast two-hybrid screen with the Oct4 POU domain as a bait and isolated PIASy as an Oct4-interacting protein. Oct4 and PIASy interact in vivo via their POU domain and SAP-domain-containing N terminus, respectively. PIASy does not enhance Oct4 sumoylation but acts as a potent inhibitor of Oct4-mediated transcriptional activation, sequestering Oct4 protein from the vicinity of Cajal bodies and splicing speckles to the nuclear periphery. These modes of PIASy action are uncoupled from its sumoylation activity. Other PIAS family members, PIAS1 and PIAS3, can also interact with Oct4 in vivo and target Oct4 to the nuclear periphery, depending on cellular context. We propose that Oct4 inhibition, mediated by this new class of transcriptional partners, might be instrumental during mammalian development.
+http://www.sciencedirect.com/science/article/pii/S0022283607012934
+00222836

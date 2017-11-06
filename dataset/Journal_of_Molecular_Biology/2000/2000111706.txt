@@ -1,0 +1,6 @@
+The crystal structure of UUCG tetraloop11Edited by J Doudna
+6602276286,7101632975,7004017393,6603009616,56063234700,35412032800,7004834698,7005013515,7005068735,24301565200
+tetraloop,RNA,X-ray,crystal structure,MAD
+All large structured RNAs contain hairpin motifs made of a stem closed by several looped nucleotides. The most frequent loop motif is the UUCG one. This motif belongs to the tetraloop family and has the peculiarity of being highly thermodynamically stable. Here, we report the first crystal structure of two UUCG tetraloops embedded in a larger RNA-protein complex solved at 2.8 Å resolution. The two loops present in the asymmetric unit are in a different crystal packing environment but, nevertheless, have an identical conformation. The observed structure is globally close to that obtained in solution by nuclear magnetic resonance. However, subtle differences point to a more detailed picture of the role played by 2′-hydroxyl groups in stabilising this tetraloop.
+http://www.sciencedirect.com/science/article/pii/S0022283600942049
+00222836

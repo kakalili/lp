@@ -1,0 +1,6 @@
+BolA Inhibits Cell Elongation and Regulates MreB Expression Levels
+8058106000,37034714100,7003605542
+BolA,MreB,transcriptional repressor,morphology,cytoskeleton
+The morphogene bolA is a general stress response gene in Escherichia coli that induces a round morphology when overexpressed. Results presented in this report show that increased BolA levels can inhibit cell elongation mechanisms. MreB polymerization is crucial for the bacterial cell cytoskeleton, and this protein is essential for the maintenance of a cellular rod shape. In this report, we demonstrate that bolA overexpression affects the architecture of MreB filaments. An increase in BolA leads to a significant reduction in MreB protein levels and mreB transcripts. BolA affects the mreBCD operon in vivo at the level of transcription. Furthermore, our results show that BolA is a new transcriptional repressor of MreB. The alterations in cell morphology induced by bolA seem to be mediated by a complex pathway that integrates PBP5, PBP6, MreB, and probably other regulators of cell morphology/elongation.
+http://www.sciencedirect.com/science/article/pii/S0022283608015350
+00222836

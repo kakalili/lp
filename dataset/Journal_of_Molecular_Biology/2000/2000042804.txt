@@ -1,0 +1,6 @@
+Evolutionary conservation in protein folding kinetics11Edited by C. R. Matthews
+7003642375,7202795449,6602228820,7005554411,6601991828,6507190598,7402001557,55463548900
+nucleation-condensation,phi-values,evolution
+The sequence and structural conservation of folding transition states have been predicted on theoretical grounds. Using homologous sequence alignments of proteins previously characterized via coupled mutagenesis/kinetics studies, we tested these predictions experimentally. Only one of the six appropriately characterized proteins exhibits a statistically significant correlation between residues’ roles in transition state structure and their evolutionary conservation. However, a significant correlation is observed between the contributions of individual sequence positions to the transition state structure across a set of homologous proteins. Thus the structure of the folding transition state ensemble appears to be more highly conserved than the specific interactions that stabilize it.
+http://www.sciencedirect.com/science/article/pii/S002228369993663X
+00222836

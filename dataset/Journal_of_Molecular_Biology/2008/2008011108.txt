@@ -1,0 +1,6 @@
+Predicting the Effect of a Point Mutation on a Protein Fold: The Villin and Advillin Headpieces and Their Pro62Ala Mutants
+56021570100,6701393479,56493279600,6602938212,8885965100,7003949377,7201798885
+protein folding,molecular dynamics simulation,metadynamics,villin headpiece,advillin headpiece
+Homology modeling of unknown proteins is based on the assumption that highly similar sequences are likely to share the same fold. However, this does not provide any information on the stability of a given fold, which is ultimately determined by the subtle interplay of enthalpic and entropic contributions. Herein it is shown that ab initio atomistic simulations can be used to predict the effect of point mutations on the stability of a protein fold. The calculations indicate that the fold stabilities of two proteins of similar sequence and identical fold, the villin and advillin C-terminal headpiece fragments, are different and that the same P62A point mutation has a dramatic effect on the fold of villin but a minor one on that of advillin. These predictions were subsequently validated by NMR and CD experiments.
+http://www.sciencedirect.com/science/article/pii/S0022283607013423
+00222836

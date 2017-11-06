@@ -1,0 +1,6 @@
+The Interaction of Capping Protein with the Barbed End of the Actin Filament
+55628533827,56523542600,6701722672
+actin,capping protein,cytoskeleton,docking,mutagenesis
+The interaction of capping protein (CP) with actin filaments is an essential element of actin assembly and actin-based motility in nearly all eukaryotes. The dendritic nucleation model for Arp2/3-based lamellipodial assembly features capping of barbed ends by CP, and the formation of filopodia is proposed to involve inhibition of capping by formins and other proteins. To understand the molecular basis for how CP binds the barbed end of the actin filament, we have used a combination of computational and experimental approaches, primarily involving molecular docking and site-directed mutagenesis. We arrive at a model that supports all of our biochemical data and agrees very well with a cryo-electron microscopy structure of the capped filament. CP interacts with both actin protomers at the barbed end of the filament, and the amphipathic helix at the C-terminus of the β-subunit binds to the hydrophobic cleft on actin, in a manner similar to that of WH2 domains. These studies provide us with new molecular insight into how CP binds to the actin filament.
+http://www.sciencedirect.com/science/article/pii/S0022283610011253
+00222836

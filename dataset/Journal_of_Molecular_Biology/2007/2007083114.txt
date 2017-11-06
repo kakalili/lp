@@ -1,0 +1,6 @@
+Mapping the Electrostatic Potential within the Ribosomal Exit Tunnel
+56142162300,6603204944,7102639587
+MTS reagents,maleimide reagents,cysteine modification,pegylation,translation
+Electrostatic potentials influence interactions among proteins and nucleic acids, the orientation of dipoles and quadrupoles, and the distribution of mobile charges. Consequently, electrostatic potentials can modulate macromolecular folding and conformational stability, as well as rates of catalysis and substrate binding. The ribosomal exit tunnel, along with its resident nascent peptide, is no less susceptible to these consequences. Yet, the electrostatics inside the tunnel have never been measured. Here we map both the electrostatic potential and accessibilities along the length of the tunnel and determine the electrostatic consequences of introducing a charged amino acid into the nascent peptide. To do this we developed novel probes and strategies. Our findings provide new insights regarding the dielectric of the tunnel and the dynamics of its local electric fields.
+http://www.sciencedirect.com/science/article/pii/S0022283607008327
+00222836

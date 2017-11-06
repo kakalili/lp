@@ -1,0 +1,6 @@
+A two-stranded template-based approach to G·(C-A) triad formation: designing novel structural elements into an existing DNA framework11Edited by M. Summers
+6602166150,7007009971,35495172900,7201437287,7004417391,7402238251
+G·(C-A) base triad,G-quadruplex,minor groove recognition of G·C pair,uniform 13C, 15N-labeled DNA
+We have designed a DNA sequence, d(G-G-G-T-T-C-A-G-G), which dimerizes to form a 2-fold symmetric G-quadruplex in which G(syn)·G(anti)·G(syn)·G(anti) tetrads are sandwiched between all trans G·(C-A) triads. The NMR-based solution structural analysis was greatly aided by monitoring hydrogen bond alignments across NH···N and NH···OC hydrogen bonds within the triad and tetrad, in a uniformly (13C,15N)-labeled sample of the d(G-G-G-T-T-C-A-G-G) sequence. The solution structure establishes that the guanine base-pairs with the cytosine through Watson-Crick G·C pair formation and with adenine through sheared G·A mismatch formation within the G·(C-A) triad. A model of triad DNA was constructed that contains the experimentally determined G·(C-A) triad alignment as the repeating stacked unit.
+http://www.sciencedirect.com/science/article/pii/S0022283600939329
+00222836

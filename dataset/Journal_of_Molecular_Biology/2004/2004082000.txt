@@ -1,0 +1,6 @@
+Crystallographic Analysis of Synechocystis Cyanoglobin Reveals the Structural Changes Accompanying Ligand Binding in a Hexacoordinate Hemoglobin
+7201692447,7201407194,7004417566,7004987664
+hemoglobin,globin,hexacoordinate,truncated,crystal
+The crystal structures of cyanide and azide-bound forms of the truncated hemoglobin from Synechocystis are presented at 1.8Å resolution. A comparison with the structure of the endogenously liganded protein reveals a conformational shift unprecedented in hemoglobins, and provides the first picture of a hexacoordinate hemoglobin in both the bis-histidyl and the exogenously coordinated states. The structural changes between the different conformations are confined to two regions of the protein; the B helix, and the E helix, including the EF loop. A molecular “hinge” controlling movement of the E helix is observed in the EF loop, which is composed of three principal structural elements: Arg64, the heme-d-propionate, and a three-residue extension of the F helix. Additional features of the structural transition between the two protein conformations are discussed as they relate to the complex ligand-binding behavior observed in hexacoordinate hemoglobins, and the potential physiological function of this class of proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283604006515
+00222836

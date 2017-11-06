@@ -1,0 +1,6 @@
+The effects of ligand binding on the backbone dynamics of the kringle 1 domain of human plasminogen11Edited by P. E. Wright
+7005672411,7501842171,35497577000
+plasminogen kringle 1,backbone dynamics,ligand binding,protein modules,kringle domains
+The internal motions of the backbone nitrogen atoms of the kringle 1 domain of human plasminogen (K1Pg) were examined in the absence and presence of the ligand, ε-aminocaproic acid. These dynamic properties were determined from 15N NMR relaxation data in terms of the extended model-free parameters. The model of isotropic reorientation was found sufficient to account for overall molecular tumbling for both apo and EACA-bound K1Pg. The global rotational correlation time (τm) for apo-K1Pg was 5.87(±0.01) ns, while the τm for ligand-bound K1Pg was 5.20(±0.01) ns, suggesting that perhaps some small degree of aggregation occurred in the apo form of the kringle module. Complexation of K1Pg with ligand mainly reduced those internal motions that occurred on a 100 ps to 5 ns time-scale. The magnitude of the chemical exchange was also attenuated upon ligand binding. These data are consistent with studies employing other approaches that suggest that the binding pocket is preformed in K1Pg.
+http://www.sciencedirect.com/science/article/pii/S002228360093972X
+00222836

@@ -1,0 +1,6 @@
+Functional Roles of the Hook in a Rotating Tethered Cell
+17134709500,17135859900,8621178300,55728240200,35376117800
+flagellar hook,tethered cell,Salmonella typhimurium,universal joint
+A bacterial cell tethered through a flagellum on a glass slide rotates its cell body in either counter-clockwise or clockwise at around 10 Hz. To analyze the detailed manner of rotation, we have constructed and expressed yellow fluorescent protein (YFP)-FliN fusion protein in a fliN deletion mutant, resulting in the recovery of motility of the Fla- mutant cells. The tethered cells that incorporated the fusion protein in the flagellar motor rotate around one of the fluorescent spots. Tracing the center spot of a rotating cell, we have found that the rotating circles of the tethered cells were often distorted, and that the cell has seldom rotated smoothly but gyrated around the center point. The radii of the gyrating circles were 100–200 nm for the wild-type cells, and 50 nm for the cells carrying short hooks, suggesting that the flexibility of the hook is responsible for asymmetrical rotation. These observations indicate that tethered cells almost always interact with the glass surface in one cycle of rotation, where the length and flexibility of the hook have an important role.
+http://www.sciencedirect.com/science/article/pii/S002228360701234X
+00222836

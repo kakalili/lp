@@ -1,0 +1,6 @@
+Redirecting SR Protein Nuclear Trafficking through an Allosteric Platform
+6506705834,35095316700,53867760400,7202926101,57047088300
+kinase,kinetics,phosphorylation,phosphatase,SR protein
+Although phosphorylation directs serine-arginine (SR) proteins from nuclear storage speckles to the nucleoplasm for splicing function, dephosphorylation paradoxically induces similar movement, raising the question of how such chemical modifications are balanced in these essential splicing factors. In this new study, we investigated the interaction of protein phosphatase 1 (PP1) with the SR protein splicing factor (SRSF1) to understand the foundation of these opposing effects in the nucleus. We found that RNA recognition motif 1 (RRM1) in SRSF1 binds PP1 and represses its catalytic function through an allosteric mechanism. Disruption of RRM1–PP1 interactions reduces the phosphorylation status of the RS domain in vitro and in cells, redirecting SRSF1 in the nucleus. The data imply that an allosteric SR protein-phosphatase platform balances phosphorylation levels in a “goldilocks” region for the proper subnuclear storage of an SR protein splicing factor.
+http://www.sciencedirect.com/science/article/pii/S0022283617302620
+00222836

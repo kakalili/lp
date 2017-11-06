@@ -1,0 +1,6 @@
+The Solution Structure of the Loop E Region of the 5S rRNA from Spinach Chloroplasts
+8571415000,7403684759
+5S rRNA,loop E,Spinacia oleracia,L25,NMR
+A structure has been obtained for the loop E region of the 5S rRNA from Spinacia oleracia chloroplast ribosomes using residual dipolar coupling data as well as NOE, J coupling and chemical shift information. Even though the loop E sequence of this chloroplast 5S rRNA differs from that of Escherichia coli loop E at ∼40% of its positions, its conformation is remarkably similar to that of E.coli loop E. Consistent with this conclusion, ribosomal protein L25 from E.coli, which binds to the loop E region of both intact E.coli 5S rRNA and to oligonucleotides containing that sequence, also binds to the chloroplast-derived oligonucleotide discussed here.
+http://www.sciencedirect.com/science/article/pii/S0022283602012706
+00222836

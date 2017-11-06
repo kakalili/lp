@@ -1,0 +1,6 @@
+Polarity Effects in the Lactose Operon of Escherichia coli
+56189284200,7103152962
+RNase P,RNase E,lacZ:lacA,reporter gene,intergenic region
+An intergenic RNA segment between lacY and lacA of the lactose operon in Escherichia coli is cleaved by RNase P, an endoribonuclease. The cleavage of the intergenic RNA was ten times less efficient than cleavage of a tRNA precursor in vitro. Fragments of the RNase P cleavage product are detectable in vivo in the wild-type strain but not in a mutant strain at the restrictive temperature. The cleavage product that contains lacA in the wild-type strain was quickly degraded. When this intergenic segment was cloned upstream of a reporter gene, the expression of the reporter gene was also inhibited substantially in wild-type E.coli, but not in a temperature sensitive mutant strain in RNase P at the restrictive temperature. These results support data regarding the natural polarity between lacZ versus lacA, the downstream gene.
+http://www.sciencedirect.com/science/article/pii/S002228360400333X
+00222836

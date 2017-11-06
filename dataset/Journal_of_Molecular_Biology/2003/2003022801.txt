@@ -1,0 +1,6 @@
+Annotating Nucleic Acid-Binding Function Based on Protein Structure
+6507625006,6701547677,6602654834
+structural genomics,nucleic acid binding,function prediction,electrostatics,surface patches
+Many of the targets of structural genomics will be proteins with little or no structural similarity to those currently in the database. Therefore, novel function prediction methods that do not rely on sequence or fold similarity to other known proteins are needed. We present an automated approach to predict nucleic-acid-binding (NA-binding) proteins, specifically DNA-binding proteins. The method is based on characterizing the structural and sequence properties of large, positively charged electrostatic patches on DNA-binding protein surfaces, which typically coincide with the DNA-binding-sites. Using an ensemble of features extracted from these electrostatic patches, we predict DNA-binding proteins with high accuracy. We show that our method does not rely on sequence or structure homology and is capable of predicting proteins of novel-binding motifs and protein structures solved in an unbound state. Our method can also distinguish NA-binding proteins from other proteins that have similar, large positive electrostatic patches on their surfaces, but that do not bind nucleic acids.
+http://www.sciencedirect.com/science/article/pii/S0022283603000317
+00222836

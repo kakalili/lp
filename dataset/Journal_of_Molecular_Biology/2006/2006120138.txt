@@ -1,0 +1,6 @@
+DBC2 is Essential for Transporting Vesicular Stomatitis Virus Glycoprotein
+15057657900,55721560800,15057998300,15058300900,6602879808,7101666421
+DBC2,protein transport,VSVG ts045,fluorescence microscope,FRAP
+DBC2 is a tumor suppressor gene linked to breast and lung cancers. Although DBC2 belongs to the RHO GTPase family, it has a unique structure that contains a Broad-Complex/Tramtrack/Bric a Brac (BTB) domain at the C terminus instead of a typical CAAX motif. A limited number of functional studies on DBC2 have indicated its participation in diverse cellular activities, such as ubiquitination, cell-cycle control, cytoskeleton organization and protein transport. In this study, the role of DBC2 in protein transport was analyzed using vesicular stomatitis virus glycoprotein (VSVG) fused with green fluorescent protein. We discovered that DBC2 knockdown hinders the VSVG transport system in 293 cells. Previous studies have demonstrated that VSVG is transported via the microtubule motor complex. We demonstrate that DBC2 mobility depends also on an intact microtubule network. We conclude that DBC2 plays an essential role in microtubule-mediated VSVG transport from the endoplasmic reticulum to the Golgi apparatus.
+http://www.sciencedirect.com/science/article/pii/S0022283606012174
+00222836

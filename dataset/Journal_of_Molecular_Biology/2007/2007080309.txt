@@ -1,0 +1,6 @@
+Dynamic Allostery in the Ring Protein TRAP
+7005373220,35080914700,57053593000,7005747404,7501826573,56981758400
+cooperativity,isothermal titration calorimetry (ITC),ring protein,conformation,protein dynamics
+We have discovered distinct, characteristic differences in the thermodynamic signatures of tryptophan binding by trp RNA-binding attenuation protein (TRAP) from two different bacterial species. The TRAP 11mer ring binds 11 molecules of tryptophan at symmetry-related sites. Tryptophan binding to Bacillus stearothermophilus TRAP is not cooperative, but isothermal titration calorimetry shows that filling the first tryptophan binding sites of Bacillus subtilis TRAP has a marked effect on the thermodynamics of subsequent ligand binding. We have identified a single, conservative amino acid replacement (Ile to Leu) in B. subtilis TRAP that abolishes this effect, and suggest the initial ligand binding causes a change throughout the wild-type protein ring.
+http://www.sciencedirect.com/science/article/pii/S0022283607006183
+00222836

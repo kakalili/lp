@@ -1,0 +1,6 @@
+Long-Range Interactions in Nonsense-Mediated mRNA Decay Are Mediated by Intrinsically Disordered Protein Regions
+36853583800,14824672200,6602652997,7004050821
+nonsense-mediated decay,protein disorder,fly-casting,long-range interaction
+In nonsense-mediated mRNA decay (NMD), large protein complexes cooperate to trigger degradation of mRNA with a premature termination codon. Due to the extreme variation in the size and topology of its mRNA substrate, the structural underpinning of the fidelity of NMD is little understood. Based on bioinformatic predictions, we suggest that fly-casting mechanisms enabled by long disordered regions in NMD complexes are exploited for the underlying effective long-range communication.
+http://www.sciencedirect.com/science/article/pii/S002228361200722X
+00222836

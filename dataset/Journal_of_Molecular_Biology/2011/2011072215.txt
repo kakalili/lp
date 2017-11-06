@@ -1,0 +1,6 @@
+The Role of Cellular Factors in Promoting HIV Budding
+55417920400,7006152331
+HIV-1,budding,ESCRT pathway
+Human immunodeficiency virus type 1 (HIV-1) becomes enveloped while budding through the plasma membrane, and the release of nascent virions requires a membrane fission event that separates the viral envelope from the cell surface. To facilitate this crucial step in its life cycle, HIV-1 exploits a complex cellular membrane remodeling and fission machinery known as the endosomal sorting complex required for transport (ESCRT) pathway. HIV-1 Gag directly interacts with early-acting components of this pathway, which ultimately triggers the assembly of the ESCRT-III membrane fission complex at viral budding sites. Surprisingly, HIV-1 requires only a subset of ESCRT-III components, indicating that the membrane fission reaction that occurs during HIV-1 budding differs in crucial aspects from topologically related cellular abscission events.
+http://www.sciencedirect.com/science/article/pii/S0022283611004888
+00222836

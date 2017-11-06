@@ -1,0 +1,6 @@
+Prediction of folding mechanism for circular-permuted proteins11Edited by C. R. Matthews
+7004494909,7202926101,35602445700
+protein folding,circular-permuted protein,transition state,molecular dynamics simulations
+Recent theoretical and experimental studies have suggested that real proteins have sequences with sufficiently small energetic frustration that topological effects are central in determining the folding mechanism. A particularly interesting and challenging framework for exploring and testing the viability of these energetically unfrustrated models is the study of circular-permuted proteins. Here we present the results of the application of a topology-based model to the study of circular permuted SH3 and CI2, in comparison with the available experimental results. The folding mechanism of the permuted proteins emerging from our simulations is in very good agreement with the experimental observations. The differences between the folding mechanisms of the permuted and wild-type proteins seem then to be strongly related to the change in the native state topology.
+http://www.sciencedirect.com/science/article/pii/S0022283601948715
+00222836

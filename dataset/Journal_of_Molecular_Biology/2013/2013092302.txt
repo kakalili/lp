@@ -1,0 +1,6 @@
+S100A6 Competes with the TAZ2 Domain of p300 for Binding to p53 and Attenuates p53 Acetylation
+55205923500,22136829000,8362306100
+p53,S100A6,posttranslational modifications,p300 acetyltransferase,TAZ2 domain
+S100A6 is a calcium binding protein that, like some other members of the S100 protein family, is able to bind p53. This interaction may be physiologically relevant considering the numerous connotations of S100 proteins and of S100A6, in particular, with cancer and metastasis. In this work, we show that the interaction with S100A6 is limited to unmodified or phosphorylated p53 and is inhibited by p53 acetylation. Using in vitro acetylation assay, we show that the presence of S100A6 attenuates p53 acetylation by p300. Furthermore, using ELISA, we show that S100A6 and the TAZ2 domain of p300 bind p53 with similar affinities and that S100A6 effectively competes with TAZ2 for binding to p53. Our results add another element to the complicated scheme of p53 activation.
+http://www.sciencedirect.com/science/article/pii/S0022283613003860
+00222836

@@ -1,0 +1,6 @@
+A rapid test for identification of autonomous folding units in proteins11Edited by J. Thornton
+7403154200,7007050019
+RAFT,protein,autonomous,folding,subdomain,domain,fragment
+The structure of a protein is dictated by a large number of weak interactions that cooperatively stabilize the native state. Usually, excised fragments smaller than a domain have little if any residual structure. When autonomous units of structure are found within domains, this challenges common assumptions about the cooperativity of protein structure. Such autonomous folding units (AFUs) are of wide interest and have applications in protein engineering and as simple model systems for studying the determinants of stability and specificity. A new method of identifying AFUs within proteins is presented here. The rapid autonomous fragment test (RAFT) identifies AFUs based on analysis of inter-residue contacts present in the three-dimensional structure of a protein. RAFT is fast enough to mine the entire PDB for AFUs and provide a library of potential small stable folds. We show that RAFT is able to predict whether a protein fragment will be structured if isolated from its parent domain.
+http://www.sciencedirect.com/science/article/pii/S002228360094049X
+00222836

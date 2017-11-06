@@ -1,0 +1,6 @@
+From Foe to Friend: Using Animal Toxins to Investigate Ion Channel Function
+14522522200,8683841100,57188954201,56267629300,55206878500,7402995101,7102293584,6602442718
+animal toxin,voltage-gated ion channel,transient receptor potential channel,toxin engineering,screening approaches
+Ion channels are vital contributors to cellular communication in a wide range of organisms, a distinct feature that renders this ubiquitous family of membrane-spanning proteins a prime target for toxins found in animal venom. For many years, the unique properties of these naturally occurring molecules have enabled researchers to probe the structural and functional features of ion channels and to define their physiological roles in normal and diseased tissues. To illustrate their considerable impact on the ion channel field, this review will highlight fundamental insights into toxin–channel interactions and recently developed toxin screening methods and practical applications of engineered toxins.
+http://www.sciencedirect.com/science/article/pii/S0022283614003945
+00222836

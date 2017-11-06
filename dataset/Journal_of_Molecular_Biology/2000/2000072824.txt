@@ -1,0 +1,6 @@
+Mutational analysis and NMR studies of the death domain of the tumor necrosis factor receptor-111Edited by P. E. Wright
+6603158410,7404265102,6603301599,7403175548,7409255217,24449203300,6602682802,7202315004,7404130826
+TNFR-1,death domain,mutagenesis,secondary structure,topology
+Tumor necrosis factor receptor-1 (TNFR-1) death domain (DD) is the intracellular functional domain responsible for the receptor signaling activities. To understand the transduction mechanism of TNFR-1 signaling we performed structural and functional analysis of the TNFR-DD. The secondary structure of the TNFR-DD shows that it consists of six anti-parallel α-helices. The determination of the topological fold and an extensive mutagenesis analysis revealed that there are two opposite faces that are involved in self-association and interaction with the TRADD death domain. Interestingly, the same critical residues in TNFR-DD are involved in both interactions. There is a good correlation between the binding activities of the mutant proteins and their cytotoxic activities. These results provide important insight into the molecular interactions mediating TNFR-DD self-association and subsequent recruitment of TRADD in the signaling activity of TNFR-1.
+http://www.sciencedirect.com/science/article/pii/S0022283600938993
+00222836

@@ -1,0 +1,6 @@
+Crystal Structure of the Carboxyltransferase Domain of the Oxaloacetate Decarboxylase Na+ Pump from Vibrio cholerae
+35074982400,57194645680,57192621218,6503859081,56191388700,7103362655
+oxaloacetate decarboxylase,carboxyltransferase structure,biotin enzymes,Zn2+ binding site,TIM-barrel fold
+Oxaloacetate decarboxylase is a membrane-bound multiprotein complex that couples oxaloacetate decarboxylation to sodium ion transport across the membrane. The initial reaction catalyzed by this enzyme machinery is the carboxyl transfer from oxaloacetate to the prosthetic biotin group. The crystal structure of the carboxyltransferase at 1.7 Å resolution shows a dimer of α8β8 barrels with an active site metal ion, identified spectroscopically as Zn2+, at the bottom of a deep cleft. The enzyme is completely inactivated by specific mutagenesis of Asp17, His207 and His209, which serve as ligands for the Zn2+ metal ion, or by Lys178 near the active site, suggesting that Zn2+ as well as Lys178 are essential for the catalysis. In the present structure this lysine residue is hydrogen-bonded to Cys148. A potential role of Lys178 as initial acceptor of the carboxyl group from oxaloacetate is discussed.
+http://www.sciencedirect.com/science/article/pii/S0022283606017104
+00222836

@@ -1,0 +1,6 @@
+Mechanism of Phosphoryl Transfer Catalyzed by Shikimate Kinase from Mycobacterium tuberculosis
+35725501400,6603911435,6603800082,6701922368,7004143635
+P-loop kinase,in-line associative phosphotransfer,transition state,kinetic crystallography,X-ray crystal structure
+The structural mechanism of the catalytic functioning of shikimate kinase from Mycobacterium tuberculosis was investigated on the basis of a series of high-resolution crystal structures corresponding to individual steps in the enzymatic reaction. The catalytic turnover of shikimate and ATP into the products shikimate-3-phosphate and ADP, followed by release of ADP, was studied in the crystalline environment. Based on a comparison of the structural states before initiation of the reaction and immediately after the catalytic step, we derived a structural model of the transition state that suggests that phosphoryl transfer proceeds with inversion by an in-line associative mechanism. The random sequential binding of shikimate and nucleotides is associated with domain movements. We identified a synergic mechanism by which binding of the first substrate may enhance the affinity for the second substrate.
+http://www.sciencedirect.com/science/article/pii/S0022283606011685
+00222836

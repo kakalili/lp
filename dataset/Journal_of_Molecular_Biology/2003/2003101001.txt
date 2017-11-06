@@ -1,0 +1,6 @@
+Glucose and Type 2A Protein Phosphatase Regulate the Interaction Between Catalytic and Regulatory Subunits of AMP-activated Protein Kinase
+6506061579,7102001749
+glucose regulation,phosphorylated residues,yeast,rat hepatocytes
+We have expressed in yeast the different subunits of AMP-activated protein kinase (AMPK) and, by using the two-hybrid system, we have found a glucose-regulated interaction between α2 catalytic and γ1 regulatory subunits. This regulation was not affected by known regulators of the corresponding yeast orthologue, the SNF1 complex, such as Reg1 or Hxk2, but it was affected by deletion of regulatory subunits of yeast type 2A protein phosphatase (PP2A) complex. We have also found that Tpd3 and PR65α, the corresponding yeast and mammalian A subunits of PP2A, interacted with AMPKα2 both in yeast and mammals, respectively. This interaction occurred only through the regulatory domain of this subunit. These results suggested a direct involvement of PP2A complex in regulating the interaction between AMPK α2 and γ1 in a glucose-dependent manner.
+http://www.sciencedirect.com/science/article/pii/S0022283603010556
+00222836

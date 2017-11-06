@@ -1,0 +1,6 @@
+Three-dimensional reconstruction of transcription termination factor rho: orientation of the N-terminal domain and visualization of an RNA-binding site11Edited by W. Baumeister
+7404115272,25929270700,7003279624,7005654856
+transcription,electron microscopy,image analysis,helicases
+The Escherichia coli rho transcription termination protein is a hexameric helicase, and is believed to function by separating an RNA-DNA hybrid. Unlike hexameric DNA helicases, where a single strand of DNA passes through the central channel, it has been proposed that the RNA wraps around the outside of the ring. We have generated a three-dimensional reconstruction of rho, and localized a tRNA molecule bound to the primary RNA-binding site to the outside of the ring. An atomic structure of the N-terminal domain of rho fits into our reconstruction uniquely, with the residues involved in RNA-binding on the outside of the ring. Although rho shares a common structural core with the F1-ATPase and other hexameric helicases, there has been a divergence in function due to rho’s N-terminal domain, which has no homology to other helicases.
+http://www.sciencedirect.com/science/article/pii/S0022283600938105
+00222836

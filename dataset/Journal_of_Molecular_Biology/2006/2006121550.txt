@@ -1,0 +1,6 @@
+Arrestin Binding to Calmodulin: A Direct Interaction Between Two Ubiquitous Signaling Proteins
+7201444246,36522901300,12800128700,6602228802,7006786902,7004972347,7004497901,24294144900
+arrestin,calmodulin,receptor,signaling,EPR
+Arrestins serve as multi-functional regulators of G-protein coupled receptors, interacting with hundreds of different receptor subtypes and a variety of other signaling proteins. Here we identify calmodulin as a novel arrestin interaction partner using three independent methods in vitro and in cells. Arrestin preferentially binds calcium-loaded calmodulin with a Kd value of ∼7 μM, which is within range of endogenous calmodulin concentrations. The calmodulin binding site is localized on the concave side of the C-domain and a loop in the center of the arrestin molecule, significantly overlapping with receptor and microtubule-binding sites. Using purified proteins, we found that arrestins sequester calmodulin, preventing its binding to microtubules. Nanomolar affinity of arrestins for their cognate receptors makes calmodulin an ineffective competitor for arrestin binding at relatively high receptor concentrations. The arrestin–calmodulin interaction likely regulates the localization of both proteins and their availability for other interaction partners.
+http://www.sciencedirect.com/science/article/pii/S002228360601299X
+00222836

@@ -1,0 +1,6 @@
+Characterization of disease-associated single amino acid polymorphisms in terms of sequence and structure properties11Edited by J. Thornton
+8866407700,7102809158,6603686486
+disease,protein structure,amino acid polymorphisms,protein stability,protein function
+In the present work, we use structural information to characterize a set of disease-associated single amino acid polymorphisms exhaustively. The analysis of different properties, such as substitution matrix elements, secondary structure, accessibility, free energies of transfer from water to octanol, amino acid volume, etc., suggests that many disease-causing mutations are associated with extreme changes in the value of parameters relating to protein stability. Overall, our results indicate that, while knowledge of protein structure clearly helps in understanding these mutations, a finer understanding can come only from a quantitative knowledge of protein stability and of the protein environment in the cell. Interestingly, use of evolutionary information from multiple sequence alignments can be used to increase our knowledge of disease-associated mutations.
+http://www.sciencedirect.com/science/article/pii/S0022283601952556
+00222836

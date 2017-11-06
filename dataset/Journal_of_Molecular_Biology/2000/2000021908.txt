@@ -1,0 +1,6 @@
+Bacteriophage lambda display of complex cDNA libraries: a new approach to functional genomics11Edited by J. M. Thornton
+7005889479,7004007609,6506122350,7004331602,7007026198,7003722047,35509776500
+lambda phage,human brain cDNA library,mouse embryo cDNA library,GAP-43,EMX1-EMX2
+We describe the construction and characterization of two lambda surface displayed cDNA expression libraries derived from human brain and mouse embryo. cDNA inserts were obtained by tagged random-priming elongation of commercially available cDNA libraries and cloned into a novel lambda vector at the 3′ end of the D capsid protein gene, which produced highly complex repertoires (1×108 and 2×107 phage). These libraries were affinity selected with a monoclonal antibody against the neural specific factor GAP-43 and with polyclonal antibodies that recognize the EMX1 and EMX2 homeoproteins. In both cases rapid identification of specific clones was achieved, which demonstrates the great potential of the lambda display system for generating affinity selectable cDNA libraries from complex genomes.
+http://www.sciencedirect.com/science/article/pii/S002228369993471X
+00222836

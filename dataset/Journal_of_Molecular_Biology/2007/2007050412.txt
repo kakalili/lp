@@ -1,0 +1,6 @@
+Hydrophobic Cooperativity as a Mechanism for Amyloid Nucleation
+27171618500,36861599500
+amyloid fibril,critical nucleus,cooperativity,fibril formation kinetics,replica exchange molecular dynamics
+The kinetics of amyloid fibril formation are in most cases explained by classical nucleation theory, yet the mechanisms behind nucleation are not well understood. We show using molecular dynamics simulations that the hydrophobic cooperativity in the self-association of the model amyloidogenic peptide STVIYE is sufficient to allow for nucleation-dependent polymerization with a pentamer critical nucleus. The role of electrostatics was also investigated. Novel considerations of the electrostatic solvation energy using the Born–Onsager equation are put forth to rationalize the aggregation of charged peptides and provide new insight into the energetic differences between parallel and antiparallel β-sheets. Together these results help explain the influence of molecular charge in the class of fibril-forming hexapeptides recently designed by Serrano and collaborators.
+http://www.sciencedirect.com/science/article/pii/S0022283607002240
+00222836

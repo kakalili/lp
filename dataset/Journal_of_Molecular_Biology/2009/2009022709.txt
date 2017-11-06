@@ -1,0 +1,6 @@
+Purified Membrane-Containing Procapsids of Bacteriophage PRD1 Package the Viral Genome
+8512093100,6603201787,7102811522,55589242300
+DNA packaging,internal membrane,terminal protein,bacteriophage PRD1,packaging rate
+Icosahedral-tailed double-stranded DNA (dsDNA) bacteriophages and herpesviruses translocate viral DNA into a preformed procapsid in an ATP-driven reaction by a packaging complex that operates at a portal vertex. A similar packaging system operates in the tailless dsDNA phage PRD1 (Tectiviridae family), except that there is an internal membrane vesicle in the procapsid. The unit-length linear dsDNA genome with covalently linked 5′-terminal proteins enters the procapsid through a unique vertex. Two small integral membrane proteins, P20 and P22, provide a conduit for DNA translocation. The packaging machinery also contains the packaging ATPase P9 and the packaging efficiency factor P6. Here we describe a method used to obtain purified packaging-competent PRD1 procapsids. The optimized in vitro packaging system allowed efficient packaging of defined DNA substrates. We determined that the genome terminal protein P8 is necessary for packaging and provided an estimation of the packaging rate.
+http://www.sciencedirect.com/science/article/pii/S0022283608016045
+00222836

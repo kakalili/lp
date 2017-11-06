@@ -1,0 +1,6 @@
+Crystal Structures of Glycosyltransferase UGT78G1 Reveal the Molecular Basis for Glycosylation and Deglycosylation of (Iso)flavonoids
+6506086291,56094107400,7403295010,7005734346,7402020530,8509827600
+glycosylation,deglycosylation,uridine diphosphate glycosyltransferase,isoflavonoid,crystal structure
+The glycosyltransferase UGT78G1 from Medicago truncatula catalyzes the glycosylation of various (iso)flavonoids such as the flavonols kaempferol and myricetin, the isoflavone formononetin, and the anthocyanidins pelargonidin and cyanidin. It also catalyzes a reverse reaction to remove the sugar moiety from glycosides. The structures of UGT78G1 bound with uridine diphosphate or with both uridine diphosphate and myricetin were determined at 2.1 Å resolution, revealing detailed interactions between the enzyme and substrates/products and suggesting a distinct binding mode for the acceptor/product. Comparative structural analysis and mutagenesis identify glutamate 192 as a key amino acid for the reverse reaction. This information provides a basis for enzyme engineering to manipulate substrate specificity and to design effective biocatalysts with glycosylation and/or deglycosylation activity.
+http://www.sciencedirect.com/science/article/pii/S0022283609010018
+00222836

@@ -1,0 +1,6 @@
+The X-ray Structure of Escherichia coli RraA (MenG), A Protein Inhibitor of RNA Processing
+6701476394,34770743300,8980831900,7101850711,35511157700
+crystal structure,degradosome,three-layer sandwich,disulfide bond formation
+The Escherichia coli protein regulator of RNase E activity A (RraA) has recently been shown to act as a trans-acting modulator of RNA turnover in bacteria; it binds to the essential endonuclease RNase E and inhibits RNA processing in vivo and in vitro. Here, we report the 2.0Å X-ray structure of RraA. The structure reveals a ring-like trimer with a central cavity of approximately 12Å in diameter. Based on earlier sequence analysis, RraA had been identified as a putative S-adenosylmethionine:2-demethylmenaquinone and was annotated as MenG. However, an analysis of the RraA structure shows that the protein lacks the structural motifs usually required for methylases. Comparison of the observed fold with that of other proteins (and domains) suggests that the RraA fold is an ancient platform that has been adapted for a wide range of functions. An analysis of the amino acid sequence shows that the E.coli RraA exhibits an ancient relationship to a family of aldolases.
+http://www.sciencedirect.com/science/article/pii/S0022283603009707
+00222836

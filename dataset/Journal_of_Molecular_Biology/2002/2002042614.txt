@@ -1,0 +1,6 @@
+Identification of Four GyrA Residues Involved in the DNA Breakage–Reunion Reaction of DNA Gyrase
+57192365130,7101974168
+topoisomerase,supercoiling,quinolone,DNA cleavage
+DNA supercoiling by DNA gyrase involves the cleavage of a DNA helix, the passage of another helix through the break, and the religation of the first helix. The cleavage–religation reaction involves the formation of a 5′-phosphotyrosine intermediate with the GyrA subunit of the gyrase (A2B2) complex. We report the characterization of mutations near the active-site tyrosine residue in GyrA predicted to affect the cleavage–religation reaction of gyrase. We find that mutations at Arg32, Arg47, His78 and His80 inhibit DNA supercoiling and other reactions of gyrase. These effects are caused by the involvement of these residues in the DNA cleavage reaction; religation is largely unaffected by these mutations. We show that these residues cooperate with the active-site tyrosine residue on the opposite subunit of the GyrA dimer during the cleavage–religation reaction.
+http://www.sciencedirect.com/science/article/pii/S0022283602000487
+00222836

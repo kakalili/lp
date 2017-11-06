@@ -1,0 +1,6 @@
+Anastellin, an FN3 Fragment with Fibronectin Polymerization Activity, Resembles Amyloid Fibril Precursors
+6602540858,7102265564,7102990391,35480460400,7005398959
+amyloid fibril,anastellin,extracellular matrix,fibronectin type 3 (FN3) domain,NMR
+Anastellin is a carboxy-terminal fragment of the first FN3 domain from human fibronectin. It is capable of polymerizing fibronectin in vitro, and it displays anti-tumor, anti-metastatic and anti-angiogenic properties in vivo. We have determined the structure of anastellin using nuclear magnetic resonance spectroscopy and identified residues critical for its activity. Anastellin exhibits dynamic fluctuations and conformational exchange in solution. Its overall topology is very similar to the corresponding region of full-length FN3 domains. However, its hydrophobic core becomes solvent-accessible and some of its β-strands lose their protection against hydrogen bonding to β-strands from other molecules. These features seem to be relevant for the fibronectin polymerization activity of anastellin and resemble the characteristics of amyloid fibril precursors. We suggest that this analogy is not random and may reflect similarities between fibronectin and amyloid fibril formation.
+http://www.sciencedirect.com/science/article/pii/S0022283603008908
+00222836

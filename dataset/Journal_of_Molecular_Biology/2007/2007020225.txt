@@ -1,0 +1,6 @@
+HURP Wraps Microtubule Ends with an Additional Tubulin Sheet That Has a Novel Conformation of Tubulin
+6507115358,6602522882,6603566774,7202668793,36551391800
+cryo-EM,high-resolution shadowing,HURP,microtubules,tubulin
+HURP is a newly discovered microtubule-associated protein (MAP) required for correct spindle formation both in vitro and in vivo. HURP protein is highly charged with few predicted secondary and tertiary folding domains. Here we explore the effect of HURP on pure tubulin, and describe its ability to induce a new conformation of tubulin sheets that wrap around the ends of intact microtubules, thereby forming two concentric tubes. The inner tube is a normal microtubule, while the outer one is a sheet composed of tubulin protofilaments that wind around the inner tube with a 42.5° inclination. We used cryo-electron microscopy and unidirectional surface shadowing to elucidate the structure and conformation of HURP-induced tubulin sheets and their interaction with the inner microtubule. These studies clarified that HURP-induced sheets are composed of anti-parallel protofilaments exhibiting P2 symmetry. HURP is a unique MAP that not only stabilizes and bundles microtubules, but also polymerizes free tubulin into a new configuration.
+http://www.sciencedirect.com/science/article/pii/S0022283606014446
+00222836

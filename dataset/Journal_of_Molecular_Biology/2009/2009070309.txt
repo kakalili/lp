@@ -1,0 +1,6 @@
+Binding of 2′-Amino-2′-Deoxycytidine-5′-Triphosphate to Norovirus Polymerase Induces Rearrangement of the Active Site
+6507831130,7005551438,7003674587,7003386491,7403178437
+calicivirus,positive-strand RNA virus,viral replication,enzyme inhibitor,antiviral
+Crystal structures of a genogroup II.4 human norovirus polymerase bound to an RNA primer–template duplex and the substrate analogue 2′-amino-2′-deoxycytidine-5′-triphosphate have been determined to 1.8 Å resolution. The alteration of the substrate-binding site that is required to accommodate the 2′-amino group leads to a rearrangement of the polymerase active site and a disruption of the coordination shells of the active-site metal ions. The mode of binding seen for 2′-amino-2′-deoxycytidine-5′-triphosphate suggests a novel molecular mechanism of inhibition that may be exploited for the design of inhibitors targeting viral RNA polymerases.
+http://www.sciencedirect.com/science/article/pii/S0022283609005361
+00222836

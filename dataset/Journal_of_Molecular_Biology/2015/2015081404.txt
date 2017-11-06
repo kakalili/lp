@@ -1,0 +1,6 @@
+When Too Much ATP Is Bad for Protein Synthesis
+8243404100,14026134600,35586565400
+magnesium,PhoP/PhoQ,protein synthesis,ribosome,stress response
+Adenosine triphosphate (ATP) is the energy currency of living cells. Even though ATP powers virtually all energy-dependent activities, most cellular ATP is utilized in protein synthesis via tRNA aminoacylation and guanosine triphosphate regeneration. Magnesium (Mg2+), the most common divalent cation in living cells, plays crucial roles in protein synthesis by maintaining the structure of ribosomes, participating in the biochemistry of translation initiation and functioning as a counterion for ATP. A non-physiological increase in ATP levels hinders growth in cells experiencing Mg2+ limitation because ATP is the most abundant nucleotide triphosphate in the cell, and Mg2+ is also required for the stabilization of the cytoplasmic membrane and as a cofactor for essential enzymes. We propose that organisms cope with Mg2+ limitation by decreasing ATP levels and ribosome production, thereby reallocating Mg2+ to indispensable cellular processes.
+http://www.sciencedirect.com/science/article/pii/S0022283615003617
+00222836

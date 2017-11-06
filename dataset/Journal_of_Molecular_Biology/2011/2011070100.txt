@@ -1,0 +1,6 @@
+Proteomic Analysis of Ribosomes: Translational Control of mRNA Populations by Glycogen Synthase GYS1
+8643343700,8643488100,6602142346,6603543482,7005724735
+translational control,energy metabolism,mass spectrometry,translational profiling,ribosome filter
+Ribosomes exist as a heterogenous pool of macromolecular complexes composed of ribosomal RNA molecules, ribosomal proteins, and numerous associated “nonribosomal” proteins. To identify nonribosomal proteins that may modulate ribosome activity, we examined the composition of translationally active and inactive ribosomes using a proteomic multidimensional protein identification technology. Notably, the phosphorylated isoform of glycogen synthase, glycogen synthase 1 (GYS1), was preferentially associated with elongating ribosomes. Depletion of GYS1 affected the translation of a subset of cellular mRNAs, some of which encode proteins that modulate protein biosynthesis. These findings argue that GYS1 abundance, by virtue of its ribosomal association, provides a feedback loop between the energy state of the cells and the translation machinery.
+http://www.sciencedirect.com/science/article/pii/S0022283611005079
+00222836

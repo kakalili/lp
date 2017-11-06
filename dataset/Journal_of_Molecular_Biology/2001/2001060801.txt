@@ -1,0 +1,6 @@
+Structural Studies of the tRNA Domain of tmRNA
+6601984458,6506878204,7007141949,25223218700
+tmRNA,ssrA RNA,transient electric birefringence,RNA structure,molecular modeling
+tmRNA is a small, stable prokaryotic RNA. It rescues ribosomes that have become stalled during the translation of mRNA fragments lacking stop codons, or during periods of tRNA scarcity. It derives its name from the presence of two separate domains, one that functions as a tRNA, and another that serves as an mRNA. We have carried out modeling and transient electric birefringence studies to determine the angle between the acceptor stem and anticodon stem of the tRNA domain of Eschericia coli tmRNA. The results of the modeling studies yielded an interstem angle of 110°, in agreement with the lower end of the range of angles (111°-137°) determined experimentally for various solution conditions. The range of experimental angles is greater than the angles observed for any of the tRNA crystal structures, in line with the presence of a shortened D stem. The secondary structure of the tRNA domain is conserved for all known tmRNA sequences, so we propose that the angle is also conserved. These results also suggest that the region of tmRNA between P2a and P2b may interact with the decoding site of the ribosome.
+http://www.sciencedirect.com/science/article/pii/S0022283601946327
+00222836

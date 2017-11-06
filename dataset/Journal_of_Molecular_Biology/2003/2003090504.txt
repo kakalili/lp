@@ -1,0 +1,6 @@
+In Vitro Selection for Enzymatic Activity: A Model Study Using Adenylate Cyclase
+36958212300,7003993346,55951934300
+enzyme catalysis,molecular evolution,gene technology,phage display,lyase
+An in vitro enzyme selection that can, in principle, be generalised to most chemical reactions, is described. It makes use of filamentous phage display and of a tailor-made antibody fragment directed against the reaction product. The conversion of ATP into 3′,5′-cyclic AMP catalysed by Bordetella pertussis adenylate cyclase is taken as an example.
+http://www.sciencedirect.com/science/article/pii/S0022283603009203
+00222836

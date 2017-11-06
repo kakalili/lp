@@ -1,0 +1,6 @@
+The Immunoglobulin-like Domains 1 and 2 of the Protein Tyrosine Phosphatase LAR Adopt an Unusual Horseshoe-like Conformation
+36993646700,6701408382,8681819300,6507818952
+cell adhesion,receptor protein tyrosine phosphatase,heparan sulfate proteoglycans,immunoglobulin-like domains,crystal structure
+Neurogenesis depends on exquisitely regulated interactions between macromolecules on the cell surface and in the extracellular matrix. In particular, interactions between proteoglycans and members of the type IIa subgroup of receptor protein tyrosine phosphatases underlie crucial developmental processes such as the formation of synapses at the neuromuscular junction and the migration of axons to their appropriate targets. We report the crystal structures of the first and second immunoglobulin-like domains of the Drosophila type IIa receptor Dlar and its mouse homolog LAR. These two domains adopt an unusual antiparallel arrangement that has not been reported in tandem repeats of immunoglobulin-like domains and that is presumably conserved in all type IIa receptor protein tyrosine phosphatases.
+http://www.sciencedirect.com/science/article/pii/S0022283611002786
+00222836

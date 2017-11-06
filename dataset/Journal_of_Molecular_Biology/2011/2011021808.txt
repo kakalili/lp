@@ -1,0 +1,6 @@
+Structural Studies of ROK Fructokinase YdhR from Bacillus subtilis: Insights into Substrate Binding and Fructose Specificity
+6506074827,8616883300,6603754543,6602969836,57060880100,25222104800,55409106600
+fructokinase,ROK family,metal dependent,ADP and d-fructose binding,reductive methylation
+The main pathway of bacterial sugar phosphorylation utilizes specific phosphoenolpyruvate phosphotransferase system (PTS) enzymes. In addition to the classic PTS system, a PTS-independent secondary system has been described in which nucleotide-dependent sugar kinases are used for monosaccharide phosphorylation. Fructokinase (FK), which phosphorylates d-fructose with ATP as a cofactor, has been shown to be a member of this secondary system. Bioinformatic analysis has shown that FK is a member of the “ROK” (bacterial Repressors, uncharacterized Open reading frames, and sugar Kinases) sequence family. In this study, we report the crystal structures of ROK FK from Bacillus subtilis (YdhR) (a) apo and in the presence of (b) ADP and (c) ADP/d-fructose. All structures show that YdhR is a homodimer with a monomer composed of two similar α/β domains forming a large cleft between domains that bind ADP and d-fructose. Enzymatic activity assays support YdhR function as an ATP-dependent fructose kinase.
+http://www.sciencedirect.com/science/article/pii/S0022283610013288
+00222836

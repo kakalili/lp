@@ -1,0 +1,6 @@
+Structure of the BamC Two-Domain Protein Obtained by Rosetta with a Limited NMR Data Set
+56043786300,25628714400,36879681900,39560938600,55463548900,7103201393,7006397676
+β-barrel assembly machine,helix–grip motif,NMR structure,Rosetta,outer membrane protein
+The CS-RDC-NOE Rosetta program was used to generate the solution structure of a 27-kDa fragment of the Escherichia coli BamC protein from a limited set of NMR data. The BamC protein is a component of the essential five-protein β-barrel assembly machine in E. coli. The first 100 residues in BamC were disordered in solution. The Rosetta calculations showed that BamC101–344 forms two well-defined domains connected by an ∼18-residue linker, where the relative orientation of the domains was not defined. Both domains adopt a helix–grip fold previously observed in the Bet v 1 superfamily. 15N relaxation data indicated a high degree of conformational flexibility for the linker connecting the N-terminal domain and the C-terminal domain in BamC. The results here show that CS-RDC-NOE Rosetta is robust and has a high tolerance for misassigned nuclear Overhauser effect restraints, greatly simplifying NMR structure determinations.
+http://www.sciencedirect.com/science/article/pii/S0022283611005729
+00222836

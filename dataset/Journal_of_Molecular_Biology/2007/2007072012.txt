@@ -1,0 +1,6 @@
+Processing of Proteins by the Molecular Chaperone Hsp104
+6506473205,24781006100,12765640100,12764808900,7201572786
+AAA+ ATPase,ATP hydrolysis,unfolding,ClpB,disaggregation
+The molecular chaperone Hsp104 is an AAA+ ATPase (ATPase associated with a variety of cellular activities) from yeast that catalyzes protein disaggregation. Using mutagenesis, we impaired nucleotide binding or hydrolysis in the two nucleotide-binding domains (NBD) of Hsp104 and analyzed the consequences for chaperone function by monitoring ATP hydrolysis, polypeptide binding, polypeptide processing, and disaggregation. Our results reveal that ATP binding to NBD1 serves as a central regulatory switch for the chaperone; it triggers binding of polypeptides, and stimulates ATP hydrolysis in the C-terminal NBD2 by more than two orders of magnitude, implying that ATP hydrolysis in this domain is important for disaggregation. Moreover, we show that Hsp104 actively unfolds its polypeptide substrates during processing, demonstrating that AAA+ proteins involved in disaggregation share a common threading mechanism with AAA+ proteins mediating protein unfolding/degradation.
+http://www.sciencedirect.com/science/article/pii/S0022283607005839
+00222836

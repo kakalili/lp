@@ -1,0 +1,6 @@
+The Pentameric Nucleoplasmin Fold Is Present in Drosophila FKBP39 and a Large Number of Chromatin-Related Proteins
+56698882700,12762272200,15070272500,6507905628,13806568500,56167237100,35598057300,6701713973,6603847057,8673995600,55666584000,7003683829
+histone chaperone,nucleoplasmin,FKBP,structure determination,NMR
+Nucleoplasmin is a histone chaperone that consists of a pentameric N-terminal domain and an unstructured C-terminal tail. The pentameric core domain, a doughnut-like structure with a central pore, is only found in the nucleoplasmin family. Here, we report the first structure of a nucleoplasmin-like domain (NPL) from the unrelated Drosophila protein, FKBP39, and we present evidence that this protein associates with chromatin. Furthermore, we show that two other chromatin proteins, Arabidopsis thaliana histone deacetylase type 2 (HD2) and Saccharomyces cerevisiae Fpr4, share the NPL fold and form pentamers, or a dimer of pentamers in the case of HD2. Thus, we propose a new family of proteins that share the pentameric nucleoplasmin-like NPL domain and are found in protists, fungi, plants and animals.
+http://www.sciencedirect.com/science/article/pii/S0022283615001941
+00222836

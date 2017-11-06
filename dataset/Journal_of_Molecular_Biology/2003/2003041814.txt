@@ -1,0 +1,6 @@
+Mutational Analysis of Residue Roles in AraC Function
+37019186800,6507233928,7006309611
+AraC protein,mutation analysis,arm–domain interactions,fluorescence,computation
+The previously isolated hemiplegic, induction-negative, repression-positive mutants, H80R and Y82C, were found to be defective in the binding of arabinose. Randomization of other residues close to arabinose in the three-dimensional structure of AraC or that make strong interactions with arabinose yielded induction-negative, repression-positive mutants. The induction and repression properties of mutants obtained by randomizing individual residues of the N-terminal arm of AraC allowed identification of the domain with which that residue very likely makes its predominant interactions. Residues 8–14 of the arm appear to make their predominant interaction with the DNA-binding domain. Although the side-chain of residue 15 interacts directly with arabinose bound to the N-terminal dimerization domain, the properties of mutant F15L indicate that this mutation increases the affinity of the arm for the DNA-binding domain.
+http://www.sciencedirect.com/science/article/pii/S0022283603002626
+00222836

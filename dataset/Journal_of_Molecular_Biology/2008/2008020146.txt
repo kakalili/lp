@@ -1,0 +1,6 @@
+Examining the Dynamic Energy Landscape of an Antiporter upon Inhibitor Binding
+8544665500,15043650500,17342164200,7101826977,24173563400
+atomic force microscopy,SMFS,single-molecule force spectroscopy,NhaA,Na+/H+ antiporter of Escherichia coli
+Previously, we applied single-molecule force spectroscopy to detect and locate interactions within the functional Na+/H+ antiporter NhaA from Escherichia coli. It was observed that the binding of the inhibitor 2-aminoperimidine established interactions different from those introduced by the binding of the native ligand. To understand the inhibitory mechanism of the inhibitor, we applied single-molecule dynamic force spectroscopy to reconstruct the energy landscape of NhaA. Dynamic force spectroscopy revealed that the energy landscape of the antiporter remained mainly unchanged except for the energy barrier of the functionally important transmembrane α-helix IX. Inhibitor binding set this domain into a newly formed deep and narrow energy minimum that kinetically stabilized α-helix IX and reduced its conformational entropy. The entropy reduction of α-helix IX is thought to inhibit its functionally important structural flexibility, while the deeper energy barrier shifted the population of active antiporters towards inhibited antiporters.
+http://www.sciencedirect.com/science/article/pii/S0022283607015033
+00222836

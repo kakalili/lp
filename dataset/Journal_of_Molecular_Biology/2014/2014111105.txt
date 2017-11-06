@@ -1,0 +1,6 @@
+Structural Analysis of the Human Fibroblast Growth Factor Receptor 4 Kinase
+56388766200,22980446200,34975087600,56388373300
+autoinhibition,Ponatinib,Dovitinib,rhabdomyosarcoma,tyrosine receptor kinase
+The family of fibroblast growth factor receptors (FGFRs) plays an important and well-characterized role in a variety of pathological disorders. FGFR4 is involved in myogenesis and muscle regeneration. Mutations affecting the kinase domain of FGFR4 may cause cancer, for example, breast cancer or rhabdomyosarcoma. Whereas FGFR1–FGFR3 have been structurally characterized, the structure of the FGFR4 kinase domain has not yet been reported. In this study, we present four structures of the kinase domain of FGFR4, in its apo-form and in complex with different types of small-molecule inhibitors. The two apo-FGFR4 kinase domain structures show an activation segment similar in conformation to an autoinhibitory segment observed in the hepatocyte growth factor receptor kinase but different from the known structures of other FGFR kinases. The structures of FGFR4 in complex with the type I inhibitor Dovitinib and the type II inhibitor Ponatinib reveal the molecular interactions with different types of kinase inhibitors and may assist in the design and development of FGFR4 inhibitors.
+http://www.sciencedirect.com/science/article/pii/S0022283614004744
+00222836

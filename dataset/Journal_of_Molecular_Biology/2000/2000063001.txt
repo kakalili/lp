@@ -1,0 +1,6 @@
+Design and evolution of artificial M13 coat proteins11Edited by G. Von Heijne
+7401577320,7102079606
+protein engineering,viral evolution,phage display,protein libraries,M13 bacteriophage
+Using simple design and selective pressure, we have evolved an artificial M13 bacteriophage coat protein. M13 coat proteins first reside in the bacterial inner membrane and subsequently surround the DNA core of the assembled virus. The artificial coat protein (ACP) was designed and evolved to mimic both functions of the natural M13 coat proteins, but with an inverted orientation. ACP is a non-functional coat protein because it is not required for the production of phage particles. Instead, it incorporates into a phage coat which still requires all the natural coat proteins for structural integrity. In contrast with other M13 coat proteins, which can display polypeptides as amino-terminal fusions, ACP permits the carboxy-terminal display of large polypeptides. The results suggest that viruses can co-opt host membrane proteins to acquire new coat proteins and thus new functions. In particular, M13 bacteriophage can be engineered for new functions, such as carboxy-terminal phage display.
+http://www.sciencedirect.com/science/article/pii/S0022283600938452
+00222836

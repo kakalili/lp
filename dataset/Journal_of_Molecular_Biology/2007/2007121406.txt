@@ -1,0 +1,6 @@
+Archaeal Hel308 Domain V Couples DNA Binding to ATP Hydrolysis and Positions DNA for Unwinding Over the Helicase Ratchet
+55872078500,7102768306,6602909858
+ATPase,Hel308,helicase,archaea,DNA repair
+Hel308 and PolQ are paralogues with roles promoting genome stability in archaea and higher eukaryotes. The context in which they act is not clear, although Hel308 helicase from archaea may interact with abnormal replication forks. The atomic structure of archaeal Hel308 from Archaeoglobus fulgidus in complex with DNA was recently reported and has given insights into the mechanisms of superfamily-2 helicases generally. An intriguing aspect of the structure was the positioning of a C-terminal domain V relative to single-stranded DNA and to the helicase ratchet domain IV. We have mutagenised a triplet of arginine residues in domain V of archaeal Hel308 to assess the effects on DNA binding, unwinding, and ATPase activities. Our observations can now be interpreted in light of the atomic structure. We describe crucial roles for domain V as a brake on ATP hydrolysis by coupling it to binding single-stranded DNA and in positioning DNA relative to the helicase ratchet domain IV for efficient unwinding of forked DNA.
+http://www.sciencedirect.com/science/article/pii/S0022283607013083
+00222836

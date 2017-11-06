@@ -1,0 +1,6 @@
+Analysis of the NF-κB p50 dimer interface by diversity screening11Edited by J. Wells
+12777523600,56731974600,7202056225,7102292652
+NF-κB,homodimer,random mutagenesis,dimer interface,DNA binding
+An in vivo screen has been devised for NF-κB p50 activity in Escherichia coli exploiting the ability of the mammalian transcription factor to emulate a prokaryotic repressor. Active intracellular p50 was shown to repress the expression of a green fluorescent protein reporter gene allowing for visual screening of colonies expressing active p50 on agar plates. A library of mutants was constructed in which the residues Y267, L269, A308 and V310 of the dimer interface were simultaneously randomised and twenty-five novel functional interfaces were selected which repressed the reporter gene to similar levels as the wild-type protein. The leucine-269 alanine-308 core was repeatedly, but not exclusively, selected from the library whilst a diversity of predominantly non-polar residues were selected at positions 267 and 310. These results indicate that L269 and A308 may form a hot spot of interaction and allow an insight into the processes of dimer selectivity and evolution within this family of transcription factors.
+http://www.sciencedirect.com/science/article/pii/S0022283601947242
+00222836

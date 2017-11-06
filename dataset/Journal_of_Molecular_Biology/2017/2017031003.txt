@@ -1,0 +1,6 @@
+Mechanism of Action of ABC Importers: Conservation, Divergence, and Physiological Adaptations
+6505758328,23992829600
+ABC transporter,structure–function,ATP hydrolysis,membrane protein,substrate-binding protein
+The past decade has seen a remarkable surge in structural characterization of ATP binding cassette (ABC) transporters, which have spurred a more focused functional analysis of these elaborate molecular machines. As a result, it has become increasingly apparent that there is a substantial degree of mechanistic variation between ABC transporters that function as importers, which correlates with their physiological roles. Here, we summarize recent advances in ABC importers' structure–function studies and provide an explanation as to the origin of the different mechanisms of action.
+http://www.sciencedirect.com/science/article/pii/S0022283617300384
+00222836

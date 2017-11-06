@@ -1,0 +1,6 @@
+Stabilization of bound polycyclic aromatic hydrocarbons by a π-cation interaction11Edited by J. Thornton
+6603743649,7403059519,36911304300,55708674400,24802383200,26643417200,6701622510,7103122391
+cation-π interaction,antibody-antigen complex,molecular recognition,protein mutagenesis,molecular modeling
+Proteins can use aromatic side-chains to stabilize bound cationic ligands through cation-π interactions. Here, we report the first example of the reciprocal process, termed π-cation, in which a cationic protein side-chain stabilizes a neutral aromatic ligand. Site-directed mutagenesis revealed that an arginine side-chain located in the deep binding pocket of a monoclonal antibody (4D5) is essential for binding the neutral polynuclear aromatic hydrocarbon benzo[a]pyrene. This Arg was very likely selected for in the primary response, further underscoring the importance of the π-cation interaction for ligand binding, which should be considered in protein analysis and design when ligands include aromatic groups.
+http://www.sciencedirect.com/science/article/pii/S0022283600940336
+00222836

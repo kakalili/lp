@@ -1,0 +1,6 @@
+Crystal Structure of the Ig1 Domain of the Neural Cell Adhesion Molecule NCAM2 Displays Domain Swapping
+24723253200,8911811400,7005596469,7101864665,6701637637,7005697558,7102492398,7102868898,6603467737,7003568806
+crystal structure,differential scanning calorimetry,domain swapping,gel filtration,neural cell adhesion molecule 2
+The crystal structure of the first immunoglobulin (Ig1) domain of neural cell adhesion molecule 2 (NCAM2/OCAM/RNCAM) is presented at a resolution of 2.7 Å. NCAM2 is a member of the immunoglobulin superfamily of cell adhesion molecules (IgCAMs). In the structure, two Ig domains interact by domain swapping, as the two N-terminal β-strands are interchanged. β-Strand swapping at the terminal domain is the accepted mechanism of homophilic interactions amongst the cadherins, another class of CAMs, but it has not been observed within the IgCAM superfamily. Gel-filtration chromatography demonstrated the ability of NCAM2 Ig1 to form dimers in solution. Taken together, these observations suggest that β-strand swapping could have a role in the molecular mechanism of homophilic binding for NCAM2.
+http://www.sciencedirect.com/science/article/pii/S0022283608009649
+00222836

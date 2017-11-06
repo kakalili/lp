@@ -1,0 +1,6 @@
+Characterization of a Novel Prokaryotic GDP Dissociation Inhibitor Domain from the G Protein Coupled Membrane Protein FeoB
+47661064300,24401132300,6506100619,7004721153
+bacterial proteins,GTP-binding protein,guanine nucleotide dissociation inhibitor,switch region,Fe(II)-uptake
+The FeoB family of membrane embedded G proteins are involved with high affinity Fe(II) uptake in prokaryotes. Here, we report that FeoB harbors a novel GDP dissociation inhibitor-like domain that specifically stabilizes GDP-binding through an interaction with the switch I region of the G protein. We show that the stabilization of GDP binding is conserved between species despite a high degree of sequence variability in their guanine nucleotide dissociation inhibitor (GDI)-like domains, and demonstrate that the presence of the membrane embedded domain increases GDP-binding affinity roughly 150-fold over the level accomplished by action of the GDI-like domain alone. To our knowledge, this is the first example for a prokaryotic GDI, targeting a bacterial G protein-coupled membrane process. Our findings suggest that Fe(II) uptake in bacteria involves a G protein regulatory pathway reminiscent of signaling mechanisms found in higher-order organisms.
+http://www.sciencedirect.com/science/article/pii/S0022283607014982
+00222836

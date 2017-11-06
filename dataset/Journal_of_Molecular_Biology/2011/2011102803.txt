@@ -1,0 +1,6 @@
+On Unsatisfied Hydrogen Bonds in the N-Terminal Subdomain of Villin Headpiece
+7409456030,26658269900,55663279900
+villin headpiece,NMR,X-ray crystallography,protein folding,hydrogen bond
+Villin headpiece is a small autonomously folding protein that has emerged as a model system for understanding the fundamental tenets governing protein folding. In this communication, we employ NMR and X-ray crystallography to characterize a point mutant, H41F, which retains actin-binding activity, is more thermostable but, interestingly, does not exhibit the partially folded intermediate observed of either wild-type or other similar point mutants.
+http://www.sciencedirect.com/science/article/pii/S0022283611009065
+00222836

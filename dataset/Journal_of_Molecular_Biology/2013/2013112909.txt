@@ -1,0 +1,6 @@
+Regulation of the DNA Damage Response by Cyclin-Dependent Kinases
+35276387300,24465566800,49661462900,6701366616
+Cdk1,checkpoint,HR,NHEJ,resection
+The eukaryotic cell cycle comprises a series of events, whose ordering and correct progression depends on the oscillating activity of cyclin-dependent kinases (Cdks), which safeguard timely duplication and segregation of the genome. Cell division is intimately connected to an evolutionarily conserved DNA damage response (DDR), which involves DNA repair pathways that reverse DNA lesions, as well as checkpoint pathways that inhibit cell cycle progression while repair occurs. There is increasing evidence that Cdks are involved in the DDR, in particular in DNA repair by homologous recombination and in activation of the checkpoint response. However, Cdks have to be carefully regulated, because even an excess of their activity can affect genome stability. In this review, we consider the physiological role of Cdks in the DDR.
+http://www.sciencedirect.com/science/article/pii/S0022283613002441
+00222836

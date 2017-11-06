@@ -1,0 +1,6 @@
+Conversion of two-state to multi-state folding kinetics on fusion of two protein foldons11Edited by J. Karn
+35744890100,36057013400,36043863300
+CI2,foldon,folding intermediate,protein design
+Chymotrypsin inhibitor 2 (CI2) is the archetypal single-foldon protein that folds in simple two-state kinetics without the accumulation of a folding intermediate. To model the effects of fusion of single foldons to give a multi-foldon protein, we engineered a “double-CI2“ protein, in which another CI2 polypeptide was inserted into the loop region of the parent CI2. CD and HSQC spectra demonstrated that while the double-CI2 protein adopted two kinds of native conformations, CI2-like structure was almost preserved in both the domains of double-CI2. In the folding kinetic studies, double-CI2 exhibited a remarkable rollover of the observed folding rates at low denaturant concentrations, indicating that double-CI2 accumulated a kinetic folding intermediate. The different folding mechanisms between WT-CI2 and double-CI2 support the present view that protein size or number of domains is an important determinant for formation of folding intermediates.
+http://www.sciencedirect.com/science/article/pii/S0022283600940245
+00222836

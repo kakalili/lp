@@ -1,0 +1,6 @@
+Vitamin B12 Stalls the 80S Ribosomal Complex on the Hepatitis C Internal Ribosome Entry Site
+56782998800,7005846349,6602196971
+hepatitis C virus,internal ribosome entry site,translation control,vitamin B12,toeprinting
+The effect of cyanocobalamin (CNCbl, vitamin B12) on hepatitis C virus internal ribosome entry site (HCV IRES)-dependent initiation of translation was studied by ribosomal toeprinting and sucrose gradient centrifugation analysis. These results suggested that CNCbl did not inhibit HCV IRES-dependent translation by a competitive binding mechanism. CNCbl allowed 80S elongation complex formation on the mRNA, but stalled the initiation at that point, effectively trapping the 80S ribosomal complexes on the HCV IRES. CNCbl had no effect on cap-dependent mRNA, consistent with the known mRNA specificity of this translational inhibitor. To help elucidate the mechanism, comparative data were collected for the well-characterised translation inhibitors cycloheximide and 5′-guanylyl-imidophosphate. Although CNCbl stalled HCV IRES-dependent translation at approximately the same step in initiation as cycloheximide, the mechanisms of these two inhibitors are distinct.
+http://www.sciencedirect.com/science/article/pii/S0022283602003005
+00222836

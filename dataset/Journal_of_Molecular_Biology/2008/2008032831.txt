@@ -1,0 +1,6 @@
+Identification and Structural Characterization of a CBP/p300-Binding Domain from the ETS Family Transcription Factor GABPα
+55467038200,23490181100,6602916979,7801556071,7102237655,7101609907
+transcription factor,protein–protein interaction,ubiquitin,NMR spectroscopy
+Using NMR spectroscopy, we identified and characterized a previously unrecognized structured domain near the N-terminus (residues 35–121) of the ETS family transcription factor GABPα. The monomeric domain folds as a five-stranded β-sheet crossed by a distorted helix. Although globally resembling ubiquitin, the GABPα fragment differs in its secondary structure topology and thus appears to represent a new protein fold that we term the OST (On-SighT) domain. The surface of the GABPα OST domain contains two predominant clusters of negatively-charged residues suggestive of electrostatically driven interactions with positively-charged partner proteins. Following a best-candidate approach to identify such a partner, we demonstrated through NMR-monitored titrations and glutathione S-transferase pulldown assays that the OST domain binds to the CH1 and CH3 domains of the co-activator histone acetyltransferase CBP/p300. This provides a direct structural link between GABP and a central component of the transcriptional machinery.
+http://www.sciencedirect.com/science/article/pii/S0022283608001010
+00222836

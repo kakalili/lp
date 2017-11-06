@@ -1,0 +1,6 @@
+REDOR NMR Characterization of DNA Packaging in Bacteriophage T4
+7401861889,7201747046
+DNA conformation,isotopic labeling,phage nanomotors,solid-state NMR
+Bacteriophage T4 is a large-tailed Escherichia coli virus whose capsid is 120×86 nm. ATP-driven DNA packaging of the T4 capsid results in the loading of a 171-kb genome in less than 5 min during viral infection. We have isolated 50-mg quantities of uniform 15N- and [ε-15N]lysine-labeled bacteriophage T4. We have also introduced 15NH4+ into filled, unlabeled capsids from synthetic medium by exchange. We have examined lyo- and cryoprotected lyophilized T4 using 15N{31P} and 31P{15N} rotational-echo double resonance. The results of these experiments have shown that (i) packaged DNA is in an unperturbed duplex B-form conformation; (ii) the DNA phosphate negative charge is balanced by lysyl amines (3.2%), polyamines (5.8%), and monovalent cations (40%); and (iii) 11% of lysyl amines, 40% of –NH2 groups of polyamines, and 80% of monovalent cations within the lyophilized T4 capsid are involved in the DNA charge balance. The NMR evidence suggests that DNA enters the T4 capsid in a charge-unbalanced state. We propose that electrostatic interactions may provide free energy to supplement the nanomotor-driven T4 DNA packaging.
+http://www.sciencedirect.com/science/article/pii/S0022283608009467
+00222836

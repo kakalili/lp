@@ -1,0 +1,6 @@
+The interconversion of isoforms of seminal ribonuclease: modelling key intermediates and trypsin effects11Edited by J. Thorton
+6603958089,7005763561
+BS-RNase,domain swapping,limited proteolysis,molecular modelling,molecular dynamics
+The stepwise tryptic degradation of the interconverting quaternary isoforms of seminal ribonuclease has been analysed by structural modelling, based on the experimental results obtained by treating the dimeric protein with trypsin. The results of the analysis were compared with those obtained applying to the action of trypsin on seminal ribonuclease a recently proposed predictive algorithm for limited proteolysis. The attention was focussed on the MxM form of the protein, in which the two subunits swap their N-terminal ends interconverting at equilibrium with the M=M form with no interchange between subunits. The analysis led to the identification of a key intermediate in the interconversion pathway, and to the resolution of the apparent contradiction between prediction and actual experimental data.
+http://www.sciencedirect.com/science/article/pii/S0022283600939858
+00222836

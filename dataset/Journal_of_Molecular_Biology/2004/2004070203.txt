@@ -1,0 +1,6 @@
+The “Two-state Folder” MerP Forms Partially Unfolded Structures that Show Temperature Dependent Hydrogen Exchange
+6602305979,6505586512,7004554913,6701678153,6507852652,7401732321
+protein folding,hydrogen exchange,protein stability,intermediate,partially unfolded
+We have analysed the folding energy landscape of the 72 amino acid protein MerP by monitoring native state hydrogen exchange as a function of temperature in the range of 7–55 °C. The temperature dependence of the hydrogen exchange has allowed us to determine ΔG, ΔH and ΔCp values for the conformational processes that permit hydrogen exchange. When studied with the traditional probes, fluorescence and CD, MerP appears to behave as a typical two-state protein, but the results from the hydrogen exchange analysis reveal a much more complex energy landscape. Analysis at the individual amino acid level show that exchange is allowed from an ensemble of partially unfolded structures (i.e. intermediates) in which the stabilities at the amino acid level form a broad distribution throughout the protein. The formation of partially unfolded structures might contribute to the unusually slow folding of MerP.
+http://www.sciencedirect.com/science/article/pii/S0022283604005273
+00222836

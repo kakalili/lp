@@ -1,0 +1,6 @@
+A DNA Mimic: The Structure and Mechanism of Action for the Anti-Repressor Protein AbbA
+35076669500,6508304412,24365997500,46662059700,12445938000,7102055446,55363274400,8917921400,36836475300,35601377400
+transition state regulator,AbbA,DNA mimic,molecular docking,NMR
+Bacteria respond to adverse environmental conditions by switching on the expression of large numbers of genes that enable them to adapt to unfavorable circumstances. In Bacillus subtilis, many adaptive genes are under the negative control of the global transition state regulator, the repressor protein AbrB. Stressful conditions lead to the de-repression of genes under AbrB control. Contributing to this de-repression is AbbA, an anti-repressor that binds to and blocks AbrB from binding to DNA. Here, we have determined the NMR structure of the functional AbbA dimer, confirmed that it binds to the N-terminal DNA-binding domain of AbrB, and have provided an initial description for the interaction using computational docking procedures. Interestingly, we show that AbbA has structural and surface characteristics that closely mimic the DNA phosphate backbone, enabling it to readily carry out its physiological function.
+http://www.sciencedirect.com/science/article/pii/S0022283614000771
+00222836

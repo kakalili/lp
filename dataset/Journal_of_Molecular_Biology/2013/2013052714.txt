@@ -1,0 +1,6 @@
+Acidic pH-Induced Membrane Insertion of Colicin A into E. coli Natural Lipids Probed by Site-Directed Spin Labeling
+36470872600,7005240612
+channel activity in liposomes,water-soluble pore-forming toxin,insertion-competent state,closed channel state,site-directed spin labeling
+Colicin A is a pore-forming toxin that forms a voltage-gated channel in the inner membrane of the target bacteria. The structures of the closed and open channel states of membrane-bound colicin A are not resolved. In the present site-directed spin-labeling study, the insertion-competent state of colicin A is provoked by an acidic pH jump prior to the insertion into liposomes prepared from Escherichia coli natural lipids. The membrane-bound colicin A is able to open a voltage-dependent channel as demonstrated by the efflux of tempophosphate spin label from the lumen of liposomes. The EPR spectra of spin-labeled colicin A variants in the membrane-bound closed channel state reveal a conformational equilibrium with resolved interhelical tertiary contacts. The spin label accessibility and polarity profiles suggest the amphipathic helices (H1–H7 and H10) to be located in the membrane close to the membrane–water interface and the hydrophobic hairpin (H8 and H9) to be immersed more deeply in the membrane.
+http://www.sciencedirect.com/science/article/pii/S0022283613000697
+00222836

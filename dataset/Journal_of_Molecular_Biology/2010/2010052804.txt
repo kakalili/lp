@@ -1,0 +1,6 @@
+X-Ray Structures of the LXRα LBD in Its Homodimeric Form and Implications for Heterodimer Signaling
+7003772045,36674089100,6506071888,6602343859,6602858589,7004504145,7203078731,6508245381,7403372903,55742490500,7103166664,6602114000
+crystal,interface,helix 12,GW3965,cholesterol
+Liver X receptors (LXRs) are nuclear receptors that are central regulators of cholesterol homeostasis, and synthetic LXR agonists have shown promise as promoters of reverse cholesterol transport and anti-inflammatory agents. Here, we present three X-ray structures of three different agonists bound to the ligand binding domain of LXRα. These compounds are GW3965, F3methylAA, and a benzisoxazole urea, and we show that these diverse chemical scaffolds address common structural themes, leading to high binding affinity for LXR. Our structures show the LXRα ligand binding domain in its homodimeric form, an arrangement previously thought to be stereochemically difficult. A comparison with existing structures of the LXRβ homodimer and LXRα:RXR (retinoid X receptor) heterodimers explains differences in dimer affinity and leads us to propose a model for allosteric activation in nuclear receptor dimers, in which an unactivated RXR partner provides an inhibitory tail wrap to the cofactor binding pocket of LXR.
+http://www.sciencedirect.com/science/article/pii/S0022283610003566
+00222836

@@ -1,0 +1,6 @@
+Structure of Novel Enzyme in Mannan Biodegradation Process 4-O-β-d-Mannosyl-d-Glucose Phosphorylase MGP
+55831698800,36982606600,53463417100,8053049300,6603398237,7003735223,6507940868,55728582900,7401554570
+X-ray crystallography,biomass degradation,hemicellulose,protein evolution
+The crystal structure of a novel component of the mannan biodegradation system, 4-O-β-d-mannosyl-d-glucose phosphorylase (MGP), was determined to a 1.68-Å resolution. The structure of the enzyme revealed a unique homohexameric structure, which was formed by using two helices attached to the N-terminus and C-terminus as a tab for sticking between subunits. The structures of MGP complexes with genuine substrates, 4-O-β-d-mannosyl-d-glucose and phosphate, and the product d-mannose-1-phosphate were also determined. The complex structures revealed that the invariant residue Asp131, which is supposed to be the general acid/base, did not exist close to the glycosidic Glc-O4 atom, which should be protonated in the catalytic reaction. Also, no solvent molecule that might mediate a proton transfer from Asp131 was observed in the substrate complex structure, suggesting that the catalytic mechanism of MGP is different from those of known disaccharide phosphorylases.
+http://www.sciencedirect.com/science/article/pii/S0022283613005056
+00222836

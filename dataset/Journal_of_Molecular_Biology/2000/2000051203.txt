@@ -1,0 +1,6 @@
+Overproduced Salmonella typhimurium flagellar motor switch complexes11Edited by J. Karn
+7006319055,23987485700,56408938800
+organelle assembly,negative stain electron microscopy,rotary motor,bacterial chemotaxis,chemiosmotic machine
+Three Salmonella typhimurium flagellar motor proteins, FliG, FliM and FliN, are required for the switching of rotation sense. The proteins have been localized to the cytoplasmic module of the flagellar base. Structures, which were morphologically indistinguishable from the native transmembrane MS-ring and cytoplasmic C-ring basal body modules, formed in Escherichia coli upon plasmid-encoded synthesis of these proteins together with FliF. The structures localized to the cell membrane and contained all three motor proteins, as determined by immuno-electron microscopy. This result supports the deduction, based on earlier biochemical analysis, that the C-ring is composed entirely of these proteins and, therefore, functions as a dedicated motor component. In addition, it demonstrates that the morphologically correct assembly of the C-ring onto the MS-ring proceeds independently of other structural components of these modules.
+http://www.sciencedirect.com/science/article/pii/S0022283600937033
+00222836

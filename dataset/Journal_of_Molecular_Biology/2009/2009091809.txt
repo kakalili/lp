@@ -1,0 +1,6 @@
+Crystal Structure of Dicamba Monooxygenase: A Rieske Nonheme Oxygenase that Catalyzes Oxidative Demethylation
+6602828028,55483583700,7202751820,55482055100
+X-ray crystallography,protein structure,Rieske protein,nonheme oxygenase,xenobiotic degradation
+Dicamba (3,6-dichloro-2-methoxybenzoic acid) is a widely used herbicide that is efficiently degraded by soil microbes. These microbes use a novel Rieske nonheme oxygenase, dicamba monooxygenase (DMO), to catalyze the oxidative demethylation of dicamba to 3,6-dichlorosalicylic acid (DCSA) and formaldehyde. We have determined the crystal structures of DMO in the free state, bound to its substrate dicamba, and bound to the product DCSA at 2.10–1.75 Å resolution. The structures show that the DMO active site uses a combination of extensive hydrogen bonding and steric interactions to correctly orient chlorinated, ortho-substituted benzoic-acid-like substrates for catalysis. Unlike other Rieske aromatic oxygenases, DMO oxygenates the exocyclic methyl group, rather than the aromatic ring, of its substrate. This first crystal structure of a Rieske demethylase shows that the Rieske oxygenase structural scaffold can be co-opted to perform varied types of reactions on xenobiotic substrates.
+http://www.sciencedirect.com/science/article/pii/S0022283609008614
+00222836

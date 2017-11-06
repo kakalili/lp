@@ -1,0 +1,6 @@
+A Neutral Molecule in a Cation-binding Site: Specific Binding of a PEG-SH to Acetylcholinesterase from Torpedo californica
+7004676454,7103109878,7006901530,7006335104,7102888560
+acetylcholinesterase,crystal structure,weak hydrogen bonding,C–H⋯π interaction,cation–π interaction
+The crystal structure of acetylcholinesterase from Torpedo californica complexed with the uncharged inhibitor, PEG-SH-350 (containing mainly heptameric polyethylene glycol with a terminal thiol group) is determined at 2.3Å resolution. This is an untypical acetylcholinesterase inhibitor, since it lacks the cationic moiety typical of the substrate (acetylcholine). In the crystal structure, the elongated ligand extends along the whole of the deep and narrow active-site gorge, with the terminal thiol group bound near the bottom, close to the catalytic site. Unexpectedly, the cation-binding site (formed by the faces of aromatic side-chains) is occupied by CH2 groups of the inhibitor, which are engaged in C–H⋯π interactions that structurally mimic the cation–π interactions made by the choline moiety of acetylcholine. In addition, the PEG-SH molecule makes numerous other weak but specific interactions of the C–H⋯O and C–H⋯π types.
+http://www.sciencedirect.com/science/article/pii/S0022283602004758
+00222836

@@ -1,0 +1,6 @@
+Functional Analysis of the Novel C-terminal Domains of S.pombe Transcription Factor IIIA
+7007007340,7003835735
+TFIIIA,5S rRNA,S.pombe,transcription,zinc-finger
+Transcription factor IIIA from S.pombe exhibits a novel structural organization compared to its homologues in other species. TFIIIA from S.cerevisiae or vertebrates contains a total of nine C2H2 zinc-finger domains and a non-zinc finger region at its C terminus. In addition, the S.cerevisiae protein possesses an 81-amino acid spacer between zinc fingers eight and nine. In contrast, the S.pombe TFIIIA sequence includes ten potential zinc finger motifs, with a 53-amino acid spacer between fingers nine and ten. Zinc finger nine of the S.pombe protein deviates from the consensus for a C2H2 zinc finger, however, in that it does not include an appropriately positioned second Zn2+-coordinating histidine. We demonstrate here, through analysis of mutated forms of the protein, that the non-canonical ninth zinc finger is functional in both DNA binding and transcription. In addition, we have shown that the spacer preceding finger ten and finger ten itself are essential for the transcriptional function of S.pombe TFIIIA, but neither is required for wild-type 5S rRNA gene-binding activity.
+http://www.sciencedirect.com/science/article/pii/S0022283603007307
+00222836

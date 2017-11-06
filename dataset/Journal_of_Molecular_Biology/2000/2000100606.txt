@@ -1,0 +1,6 @@
+Catalysis of decarboxylation by a preorganized heterogeneous microenvironment: crystal structures of abzyme 21D811Edited by D. Rees
+7202730590,16029244700,6701790653,55077350600,7007131465,7401743864
+medium effects,antibody catalysis,computational docking,immune response,enzyme evolution
+Antibody 21D8 catalyzes the solvent-sensitive decarboxylation of 3-carboxybenzisoxazoles. The crystal structure of chimeric Fab 21D8 with and without hapten at 1.61 Å and 2.10 Å, respectively, together with computational analysis, shows how a melange of polar and non-polar sites are exploited to achieve both substrate binding and acceleration of a reaction normally facilitated by purely aprotic dipolar media. The striking similarity of the decarboxylase and a series of unrelated esterase antibodies also highlights the chemical versatility of structurally conserved anion binding sites and the relatively subtle changes involved in fine-tuning the immunoglobulin pocket for recognition of different ligands and catalysis of different reactions.
+http://www.sciencedirect.com/science/article/pii/S0022283600945030
+00222836

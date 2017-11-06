@@ -1,0 +1,6 @@
+A comparative analysis of 23 structures of the amyloidogenic protein transthyretin11Edited by F. Cohen
+6508025208,6507327956,57189705867,7102011789,6602122912
+transthyretin,amyloidosis,X-ray structure,structural comparison,familial amyloidotic polyneuropathy
+Self-assembly of the human plasma protein transthyretin (TTR) into unbranched insoluble amyloid fibrils occurs as a result of point mutations that destabilize the molecule, leading to conformational changes. The tertiary structure of native soluble TTR and many of its disease-causing mutants have been determined. Several independent studies by X-ray crystallography have suggested structural differences between TTR variants which are claimed to be of significance for amyloid formation. As these changes are minor and not consistent between the studies, we have compared all TTR structures available at the protein data bank including three wild-types, three non-amyloidogenic mutants, seven amyloidogenic mutants and nine complexes. The reference for this study is a new 1.5 Å resolution structure of human wild-type TTR refined to an R-factor/R-free of 18.6 %/21.6 %. The present findings are discussed in the light of the previous structural studies of TTR variants, and show the reported structural differences to be non-significant.
+http://www.sciencedirect.com/science/article/pii/S0022283600940786
+00222836

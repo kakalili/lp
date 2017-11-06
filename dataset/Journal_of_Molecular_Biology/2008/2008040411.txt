@@ -1,0 +1,6 @@
+Switching Antibody Specificity through Minimal Mutation
+6506827372,23567455700,7007131465
+complementarity,cross-reactivity,immunoglobulin,molecular recognition,steroid
+Antibody 1E9, which was elicited with a hexachloronorbornene derivative and catalyzes the Diels–Alder reaction between tetrachlorothiophene dioxide and N-ethylmaleimide with high efficiency, was successfully reengineered to bind a range of structurally diverse steroids with nanomolar affinities. Remarkably, two mutations (LeuH47Trp/ArgH100Trp) out of 36 total sequence differences suffice to switch the selectivity of 1E9 to that of the progesterone-binding antibody DB3. In contrast to the double mutant, which tightly binds multiple steroids with differently configured A–B ring junctions, the individual LeuH47Trp and ArgH100Trp single mutants both exhibit significantly greater specificity than DB3, preferentially binding 5α-pregnan-3β-ol-20-one (Kd≈5 nM) over other steroids. These findings illustrate how easily differently shaped binding pockets can be created through subtle changes to the same primordial germ line template.
+http://www.sciencedirect.com/science/article/pii/S0022283608001253
+00222836

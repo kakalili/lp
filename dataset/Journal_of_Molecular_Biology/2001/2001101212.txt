@@ -1,0 +1,6 @@
+MicF: an antisense RNA gene involved in response of Escherichia coli to global stress factors11Edited by D. Draper
+7004204141,7003346388
+antisense RNA,gene regulation,stress response,transcription factor-DNA interaction,RNA-RNA interaction
+The micF gene is a stress response gene found in Escherichia coli and related bacteria that post-transcriptionally controls expression of the outer membrane porin gene ompF. The micF gene encodes a non-translated 93 nt antisense RNA that binds its target ompF mRNA and regulates ompF expression by inhibiting translation and inducing degradation of the message. In addition, other factors, such as the RNA chaperone protein StpA also play a role in this regulatory system. Expression of micF is controlled by both environmental and internal stress factors. Four transcriptional regulators are known to bind the micF promoter region and activate micF expression. The crystal structure of one these transcriptional activators, Rob, complexed with the micF promoter has been reported. Here, we review new developments in the micF regulatory network.
+http://www.sciencedirect.com/science/article/pii/S0022283601950296
+00222836

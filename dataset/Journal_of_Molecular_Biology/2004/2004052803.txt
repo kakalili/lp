@@ -1,0 +1,6 @@
+The N-terminal Prion Domain of Ure2p Converts from an Unfolded to a Thermally Resistant Conformation upon Filament Formation
+6603598833,7402412649,7103166151,7101692985
+yeast prion,amyloid,prionogenesis,differential scanning calorimetry,electron microscopy
+According to the “amyloid backbone” model of Ure2p prionogenesis, the N-terminal domain of Ure2p polymerizes to form an amyloid filament backbone surrounded by the C-terminal domains. The latter domains retain their native glutathione-S-transferase (GST)-like fold but are sterically inactivated from their regulatory role in nitrogen catabolism. We have tested this model by differential scanning calorimetry of soluble and filamentous Ure2p and of soluble C-terminal domains, combined with electron microscopy. As predicted, the C-terminal domains respond to thermal perturbation identically in all three states, exhibiting a single endotherm at 76 °C. In contrast, no thermal signal was associated with the N-terminal domains: in the soluble state of Ure2p, because they are unfolded; in the filamentous state, because their robust amyloid conformation resists heating to 100 °C.
+http://www.sciencedirect.com/science/article/pii/S0022283604003304
+00222836

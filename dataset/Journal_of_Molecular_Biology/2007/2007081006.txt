@@ -1,0 +1,6 @@
+Structural Basis of Phospholipase Activity of Staphylococcus hyicus lipase
+8882179900,36479285000,7006788064,6701589034,7102573661
+Staphylococcus hyicus lipase,phospholipase,substrate specificity,alpha/beta hydrolase fold,crystal structure
+Staphylococcus hyicus lipase differs from other bacterial lipases in its high phospholipase A1 activity. Here, we present the crystal structure of the S. hyicus lipase at 2.86 Å resolution. The lipase is in an open conformation, with the active site partly covered by a neighbouring molecule. Ser124, Asp314 and His355 form the catalytic triad. The substrate-binding cavity contains two large hydrophobic acyl chain-binding pockets and a shallow and more polar third pocket that is capable of binding either a (short) fatty acid or a phospholipid head-group. A model of a phospholipid bound in the active site shows that Lys295 is at hydrogen bonding distance from the substrate's phosphate group. Residues Ser356, Glu292 and Thr294 hold the lysine in position by hydrogen bonding and electrostatic interactions. These observations explain the biochemical data showing the importance of Lys295 and Ser356 for phospholipid binding and phospholipase A1 activity.
+http://www.sciencedirect.com/science/article/pii/S0022283607006766
+00222836

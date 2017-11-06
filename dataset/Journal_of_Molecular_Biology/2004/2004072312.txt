@@ -1,0 +1,6 @@
+Crystal Structure of the Motor Domain of the Human Kinetochore Protein CENP-E
+56298929500,7202232742,7201396126,6603076837
+CENP-E,crystal structure,kinesin,kinetochore,mitosis
+The human kinetochore is a highly complex macromolecular structure that connects chromosomes to spindle microtubules (MTs) in order to facilitate accurate chromosome segregation. Centromere-associated protein E (CENP-E), a member of the kinesin superfamily, is an essential component of the kinetochore, since it is required to stabilize the attachment of chromosomes to spindle MTs, to develop tension across aligned chromosomes, to stabilize spindle poles and to satisfy the mitotic checkpoint. Here we report the 2.5Å resolution crystal structure of the motor domain and linker region of human CENP-E with MgADP bound in the active site. This structure displays subtle but important differences compared to the structures of human Eg5 and conventional kinesin. Our structure reveals that the CENP-E linker region is in a “docked” position identical to that in the human plus-end directed conventional kinesin. CENP-E has many advantages as a potential anti-mitotic drug target and this crystal structure of human CENP-E will provide a starting point for high throughput virtual screening of potential inhibitors.
+http://www.sciencedirect.com/science/article/pii/S0022283604005960
+00222836

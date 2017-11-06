@@ -1,0 +1,6 @@
+Leveraging Reciprocity to Identify and Characterize Unknown Allosteric Sites in Protein Tyrosine Phosphatases
+57194774715,55499088700,57193563173,6505702001,55667074300
+Protein tyrosine phosphatase,NMR spectroscopy,Allostery,NMR,Chemical Shift
+Drug-like molecules targeting allosteric sites in proteins are of great therapeutic interest; however, identification of potential sites is not trivial. A straightforward approach to identify hidden allosteric sites is demonstrated in protein tyrosine phosphatases (PTP) by creation of single alanine mutations in the catalytic acid loop of PTP1B and VHR. This approach relies on the reciprocal interactions between an allosteric site and its coupled orthosteric site. The resulting NMR chemical shift perturbations (CSPs) of each mutant reveal clusters of distal residues affected by acid loop mutation. In PTP1B and VHR, two new allosteric clusters were identified in each enzyme. Mutations in these allosteric clusters altered phosphatase activity with changes in kcat/KM ranging from 30% to nearly 100-fold. This work outlines a simple method for identification of new allosteric sites in PTP, and given the basis of this method in thermodynamics, it is expected to be generally useful in other systems.
+http://www.sciencedirect.com/science/article/pii/S0022283617303091
+00222836

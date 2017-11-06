@@ -1,0 +1,6 @@
+Poising of Escherichia coli RNA Polymerase and Its Release from the σ38 C-Terminal Tail for osmY Transcription
+36911033600,55699518700,7006480389
+poised polymerase,osmotic transcription,ChIP,Sigma38,sigma CTD
+Bacteria must adapt their transcription to overcome the osmotic stress associated with the gastrointestinal tract of their host. This requires the σ38 (rpoS) form of RNA polymerase. Here, chromatin immunoprecipitation experiments show that activation is associated with a poise-and-release mechanism in vivo. A C-terminal tail unique among σ factors is shown to be required for in vivo recruitment of RNA polymerase to the promoter region prior to osmotic shock. C-terminal domain tail-dependent transcription in vivo can be mimicked by using the intracellular signaling molecule potassium glutamate in vitro. Following signaling, the barrier to elongation into the gene body is overcome and RNA polymerase is released to produce osmY mRNA.
+http://www.sciencedirect.com/science/article/pii/S002228360701652X
+00222836

@@ -1,0 +1,6 @@
+Comparative Enzymology in the Alkaline Phosphatase Superfamily to Determine the Catalytic Role of an Active-Site Metal Ion
+35514248900,6603256714,7005822572
+alkaline phosphatase,enzyme,mechanism,evolution
+Mechanistic models for biochemical systems are frequently proposed from structural data. Site-directed mutagenesis can be used to test the importance of proposed functional sites, but these data do not necessarily indicate how these sites contribute to function. In this study, we applied an alternative approach to the catalytic mechanism of alkaline phosphatase (AP), a widely studied prototypical bimetallo enzyme. A third metal ion site in AP has been suggested to provide general base catalysis, but comparison of AP with an evolutionarily related enzyme casts doubt on this model. Removal of this metal site from AP has large differential effects on reactions of cognate and promiscuous substrates, and the results are inconsistent with general base catalysis. Instead, these and additional results suggest that the third metal ion stabilizes the transferred phosphoryl group in the transition state. These results establish a new mechanistic model for this prototypical bimetallo enzyme and demonstrate the power of a comparative approach for probing biochemical function.
+http://www.sciencedirect.com/science/article/pii/S0022283608012175
+00222836

@@ -1,0 +1,6 @@
+Crystal Structures of the Pro-Inflammatory Cytokine Interleukin-23 and Its Complex with a High-Affinity Neutralizing Antibody
+7006008332,7102835423,7003555295,7006093580,7202645685,7004849618,7003338179
+IL-23,cytokine,Fab,receptor,crystal structure
+Interleukin (IL)-23 is a pro-inflammatory cytokine playing a key role in the pathogenesis of several autoimmune and inflammatory diseases. We have determined the crystal structures of the heterodimeric p19–p40 IL-23 and its complex with the Fab (antigen-binding fragment) of a neutralizing antibody at 2.9 and 1.9 Å, respectively. The IL-23 structure closely resembles that of IL-12. They share the common p40 subunit, and IL-23 p19 overlaps well with IL-12 p35. Along the hydrophilic heterodimeric interface, fewer charged residues are involved for IL-23 compared with IL-12. The binding site of the Fab is located exclusively on the p19 subunit, and comparison with published cytokine–receptor structures suggests that it overlaps with the IL-23 receptor binding site.
+http://www.sciencedirect.com/science/article/pii/S0022283608009728
+00222836

@@ -1,0 +1,6 @@
+The Schizosaccharomyces pombe Open Promoter Bubble: Mammalian-like Arrangement and Properties
+7402516109,7407356268,7006480389
+promoter opening,Schizosaccharomyces pombe,XBP,TFIIB,transcription initiation
+The fission yeast Schizosaccharomyces pombe is often used as a genetic system to model processes that apply to higher cells. Here S.pombe was used to study promoter DNA opening and transcription initiation by RNA polymerase II. The melted region within the adh promoter is about 20 bp in size and has the start site near its center. This arrangement is similar to that at the AdML promoter but different from that in Saccharomyces cerevisiae. Although expression of human TFIIB shifts the start site to the nearby human position, it does not change the location of the bubble. The start site shift is directed by the C terminus of human TFIIB, in contrast to expectations from S.cerevisiae. The creation of the bubble requires the ATPase motifs of XPB. Overall, the data show that promoter melting and initiation in fission yeast is much more similar to humans than to budding yeast.
+http://www.sciencedirect.com/science/article/pii/S0022283604005716
+00222836

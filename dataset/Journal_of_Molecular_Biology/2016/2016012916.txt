@@ -1,0 +1,6 @@
+Where Do We Stand with Super-Resolution Optical Microscopy?
+6701801724,7007133242
+super-resolution fluorescence microscopy,localization microscopy,stimulated emission depletion microscopy,fluorescence correlation spectroscopy,raster image correlation spectroscopy
+Super-resolution fluorescence microscopy has become an invaluable, powerful approach to study biomolecular dynamics and interactions via selective labeling and observation of specific molecules in living cells, tissues and even entire organisms. In this perspective, we present a brief overview of the main techniques and their application to cellular biophysics. We place special emphasis on super-resolution imaging via single-molecule localization microscopy and stimulated emission depletion/reversible saturable optical fluorescence transitions microscopy, and we also briefly address fluorescence fluctuation approaches, notably raster image correlation spectroscopy, as tools to record fast diffusion and transport.
+http://www.sciencedirect.com/science/article/pii/S0022283615007111
+00222836

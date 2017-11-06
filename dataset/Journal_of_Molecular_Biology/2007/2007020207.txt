@@ -1,0 +1,6 @@
+Crystallographic and in Silico Analysis of the Sialoside-binding Characteristics of the Siglec Sialoadhesin
+6506284157,7202742101,7403878989,7003413509,7102247831,7007017681,55400265900,55448333000
+Siglec,sialoadhesin,sialic acid,structure-based drug design,GRID
+The Siglec family of receptors mediates cell-surface interactions through recognition of sialylated glycoconjugates. Previously reported structures of the N-terminal domain of the Siglec sialoadhesin (SnD1) in complex with various sialic acid analogs revealed the structural template for sialic acid binding. To characterize further the carbohydrate-binding properties, we have determined the crystal structures of SnD1 in the absence of ligand, and in complex with 2-benzyl-Neu5NPro and 2-benzyl-Neu5NAc. These structures reveal that SnD1 undergoes very few structural changes on ligand binding and detail how two novel classes of sialic acid analogs bind, one of which unexpectedly can induce Siglec dimerization. In conjunction with in silico analysis, this set of structures informs us about the design of putative ligands with enhanced binding affinities and specificities to different Siglecs, and provides data with which to test the effectiveness of different computational drug design protocols.
+http://www.sciencedirect.com/science/article/pii/S0022283606015099
+00222836

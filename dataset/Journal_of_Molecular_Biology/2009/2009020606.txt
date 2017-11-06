@@ -1,0 +1,6 @@
+Coupling of Domain Swapping to Kinetic Stability in a Thioredoxin Mutant
+8544854300,6507853173,16176654100,7005251750,7003765725,6603875334
+X-ray protein structure,evolution,domain swapping,kinetic and thermodynamic stability,DSC
+The thioredoxin (Trx) fold is a small monomeric domain that is ubiquitous in redox-active enzymes. Trxs are characterized by a typical WCGPC active-site sequence motif. A single active-site mutation of the tryptophan to an alanine in Staphylococcus aureus Trx converts the oxidized protein into a biologically inactive domain-swapped dimer. While the monomeric protein unfolds reversibly in a two-state manner, the oxidized dimeric form is kinetically stable and converts to the monomeric form upon refolding. After reduction, the half-life of the dimer decreases many orders of magnitude to ∼4.3 h, indicating that the active-site disulfide between Cys29 and Cys32 is an important determinant for the kinetics of unfolding. We propose kinetic stability as a possible evolutionary strategy in the evolution of multimeric proteins from their monomeric ancestors by domain swapping, which, for this biologically inactive Trx mutant, turned out to be an evolutionary dead end.
+http://www.sciencedirect.com/science/article/pii/S0022283608014745
+00222836

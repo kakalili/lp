@@ -1,0 +1,6 @@
+Multiple Pathways for Protein Transport to Peroxisomes
+56539216800,6602091471
+peroxisome,peroxin,protein import
+Peroxisomes are unique among the organelles of the endomembrane system. Unlike other organelles that derive most if not all of their proteins from the ER (endoplasmic reticulum), peroxisomes contain dedicated machineries for import of matrix proteins and insertion of membrane proteins. However, peroxisomes are also able to import a subset of their membrane proteins from the ER. One aspect of peroxisome biology that has remained ill defined is the role the various import pathways play in peroxisome maintenance. In this review, we discuss the available data on matrix and membrane protein import into peroxisomes.
+http://www.sciencedirect.com/science/article/pii/S0022283615000996
+00222836

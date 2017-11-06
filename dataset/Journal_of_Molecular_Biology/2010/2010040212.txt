@@ -1,0 +1,6 @@
+A Survey of λ Repressor Fragments from Two-State to Downhill Folding
+36064205800,7404706139,7006230488
+heat denaturation,cold denaturation,CD,fluorescence,temperature jump
+We survey the two-state to downhill folding transition by examining 20 λ6–85⁎ mutants that cover a wide range of stabilities and folding rates. We investigated four new λ6–85⁎ mutants designed to fold especially rapidly. Two were engineered using the core remodeling of Lim and Sauer, and two were engineered using Ferreiro et al.'s frustratometer. These proteins have probe-dependent melting temperatures as high as 80 °C and exhibit a fast molecular phase with the characteristic temperature dependence of the amplitude expected for downhill folding. The survey reveals a correlation between melting temperature and downhill folding previously observed for the β-sheet protein WW domain. A simple model explains this correlation and predicts the melting temperature at which downhill folding becomes possible. An X-ray crystal structure with a 1.64-Å resolution of a fast-folding mutant fragment shows regions of enhanced rigidity compared to the full wild-type protein.
+http://www.sciencedirect.com/science/article/pii/S0022283610001269
+00222836

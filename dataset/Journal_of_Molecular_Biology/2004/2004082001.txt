@@ -1,0 +1,6 @@
+Expression, Purification and the 1.8Å Resolution Crystal Structure of Human Neuron Specific Enolase
+7005035272,7201421445,6603184800,35405856600,7003314184,7006067303
+enolase,neurons,isozymes,surface charges,crystal structure
+Human neuron-specific enolase (NSE) or isozyme γ has been expressed with a C-terminal His-tag in Escherichia coli. The enzyme has been purified, crystallized and its crystal structure determined. In the crystals the enzyme forms the asymmetric complex NSE·Mg2·SO4/NSE·Mg·Cl, where “/” separates the dimer subunits. The subunit that contains the sulfate (or phosphate) ion and two magnesium ions is in the closed conformation observed in enolase complexes with the substrate or its analogues; the other subunit is in the open conformation observed in enolase subunits without bound substrate or analogues. This indicates negative cooperativity for ligand binding between subunits. Electrostatic charge differences between isozymes α and γ, −19 at physiological pH, are concentrated in the regions of the molecular surface that are negatively charged in α, i.e. surface areas negatively charged in α are more negatively charged in γ, while areas that are neutral or positively charged tend to be charge-conserved.
+http://www.sciencedirect.com/science/article/pii/S0022283604006497
+00222836

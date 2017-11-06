@@ -1,0 +1,6 @@
+Bacterial Sec-translocase Unfolds and Translocates a Class of Folded Protein Domains
+6603620644,11940444700,7103120387
+protein translocation,folding,SecA,SecY
+It is generally assumed that preprotein substrates must be presented in an unfolded state to the bacterial Sec-translocase in order to be translocated. Here, we have examined the ability of the Sec-translocase to translocate folded preproteins. Tightly folded human cardiac Ig-like domain I27 fused to the C terminus of proOmpA is translocated efficiently by the Sec-translocase and the translocation kinetics are determined by the extent of folding of the titin I27 domain. Accumulation of specific translocation intermediates around the fusion point that undergo translocation progress upon ATP binding suggests that the motor protein SecA plays an important and decisive role in promoting unfolding of the titin I27 domain. It is concluded that the bacterial Sec-translocase is capable of actively unfolding preproteins.
+http://www.sciencedirect.com/science/article/pii/S0022283607009187
+00222836

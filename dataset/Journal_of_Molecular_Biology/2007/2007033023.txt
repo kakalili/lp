@@ -1,0 +1,6 @@
+A Divalent Metal-mediated Switch Controlling Protein-induced DNA Bending
+7003940299,35847436000,35074368100,35489341500,7004117939,7005120981
+divalent metal,DNA architectural proteins,DNA topology,integration host factor,nucleoprotein complex formation
+Architectural proteins that reconfigure the paths of DNA segments are required for the establishment of functional interfaces in many genomic transactions. A single-chain derivative of the DNA architectural protein integration host factor was found to adopt two stable conformational states in complex with a specific DNA target. In the so-called open state, the degree of protein-induced DNA bending is reduced significantly compared with the closed state. The conformational switch between these states is controlled by divalent metal binding in two electronegative zones arising from the lysine-to-glutamate substitution in the protein body proximal to the phosphate backbone of one DNA arm. We show that this switch can be employed to control the efficiency of site-specific recombination catalyzed by λ integrase. Introduction of acidic residues at the protein–DNA interface holds potential for the design of metal-mediated switches for the investigation of functional relationships.
+http://www.sciencedirect.com/science/article/pii/S0022283606013064
+00222836

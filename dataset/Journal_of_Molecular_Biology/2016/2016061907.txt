@@ -1,0 +1,6 @@
+Mediator Architecture and RNA Polymerase II Interaction
+55444352100,57189577973,7005337794
+gene transcription,RNA polymerase II,coactivator,multiprotein complex
+Integrated structural biology recently elucidated the architecture of Mediator and its position on RNA polymerase II. Here we summarize these achievements and list open questions on Mediator structure and mechanism.
+http://www.sciencedirect.com/science/article/pii/S0022283616000838
+00222836

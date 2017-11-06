@@ -1,0 +1,6 @@
+The Role of Hydration in Protein Stability: Comparison of the Cold and Heat Unfolded States of Yfh1
+23494632000,6603084728,7404840773,6507024383,6601921039,18134896800,6701320814,7005733416,7101941822
+cold denaturation,frataxin,NMR,protein stability,SAXS
+Protein unfolding occurs at both low and high temperatures, although in most cases, only the high-temperature transition can be experimentally studied. A pressing question is how much the low- and high-temperature denatured states, although thermodynamically equivalent, are structurally and kinetically similar. We have combined experimental and computational approaches to compare the high- and low-temperature unfolded states of Yfh1, a natural protein that, at physiologic pH, undergoes cold and heat denaturation around 0 °C and 40 °C without the help of ad hoc destabilization. We observe that the two denatured states have similar but not identical residual secondary structures, different kinetics and compactness and a remarkably different degree of hydration. We use molecular dynamics simulations to rationalize the role of solvation and its effect on protein stability.
+http://www.sciencedirect.com/science/article/pii/S0022283612001428
+00222836

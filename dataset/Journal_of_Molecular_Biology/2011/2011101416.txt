@@ -1,0 +1,6 @@
+Archaeal Translation Initiation Factor aIF2 Can Substitute for Eukaryotic eIF2 in Ribosomal Scanning during Mammalian 48S Complex Formation
+7102791533,8432179900,7801465301,12784589700,35412032800,7004620758
+Archaea,aIF2,eIF2,Met-tRNA binding,ribosomal scanning
+Heterotrimeric translation initiation factor (IF) a/eIF2 (archaeal/eukaryotic IF 2) is present in both Eukarya and Archaea. Despite strong structural similarity between a/eIF2 orthologs from the two domains of life, their functional relationship is obscure. Here, we show that aIF2 from Sulfolobus solfataricus can substitute for its mammalian counterpart in the reconstitution of eukaryotic 48S initiation complexes from purified components. aIF2 is able to correctly place the initiator Met-tRNAi into the P-site of the 40S ribosomal subunit and accompany the entire set of eukaryotic translation IFs in the process of cap-dependent scanning and AUG codon selection. However, it seems to be unable to participate in the following step of ribosomal subunit joining. In accordance with this, aIF2 inhibits rather than stimulates protein synthesis in mammalian cell-free system. The ability of recombinant aIF2 protein to direct ribosomal scanning suggests that some archaeal mRNAs may utilize this mechanism during translation initiation.
+http://www.sciencedirect.com/science/article/pii/S0022283611009089
+00222836

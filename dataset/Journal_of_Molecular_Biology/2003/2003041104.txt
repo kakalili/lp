@@ -1,0 +1,6 @@
+RNA DNA Discrimination by the Antitermination Protein NusB
+55909679800,6508223766,7006598190,6506740673,6602372037,7202209456,7102875119,7202605893
+antitermination,NMR spectroscopy,surface plasmon resonance spectroscopy,protein RNA interaction,DNA RNA discrimination
+The regulation of ribosomal RNA biosynthesis in Escherichia coli by antitermination requires binding of NusB protein to a dodecamer sequence designated boxA on the nascent RNA. The affinity of NusB protein for boxA RNA exceeds that for the homologous DNA segment by more than three orders of magnitude as shown by surface plasmon resonance measurements. DNA RNA discrimination by NusB protein was shown to involve methyl groups (i.e. discrimination of uracil versus thymine) and 2′ hydroxyl groups (i.e. discrimination of ribose versus deoxyribose side-chains) in the RNA motif. Ligand perturbation experiments monitored by 1H15N correlation NMR experiments identified amide NH groups whose chemical shifts are affected selectively by ribose/deoxyribose exchange in the 5′ and the central part of the dodecameric boxA motif respectively. The impact of structural modification of the boxA motif on the affinity for NusB protein as observed by 1H15N heterocorrelation was analysed by a generic algorithm.
+http://www.sciencedirect.com/science/article/pii/S0022283603002134
+00222836

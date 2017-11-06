@@ -1,0 +1,6 @@
+The conformations of polypeptide chains where the main-chain parts of successive residues are enantiomeric. Their occurrence in cation and anion-binding regions of proteins11Edited by J. Thornton
+7404155667,7004202611
+hydrogen bonds,cation binding,Ramachandran,calcium,potassium
+We have investigated the shapes of polypeptides where successive residues have main-chain φ,ψ conformations of opposite hand. A graph not unlike a Ramachandran plot is presented illustrating the various possible conformations. All are ring-shaped or extended. Some of these conformations occur in native proteins, the commonest approximating to a feature we propose calling a nest, described in the accompanying paper, where the main-chain NH groups point inwards relative to the ring and give rise to an anion-binding site. Another conformation is related but more extended and is found uniquely in the four stretches of polypeptide that line the tetrameric K+ channel; their CO groups bind the K ions in the channel. In a different ring-shaped conformation that we propose calling a catgrip, the main-chain CO groups point into the ring; this is employed for specific Ca ion binding in the annexin, phospholipase A2 and subtilisin loops, and the regularly arranged β-roll loops of the serralysin protease family.
+http://www.sciencedirect.com/science/article/pii/S0022283601952283
+00222836

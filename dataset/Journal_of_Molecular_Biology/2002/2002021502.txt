@@ -1,0 +1,6 @@
+Crystal structure of human cytosolic phosphoenolpyruvate carboxykinase reveals a new GTP-binding site11Edited by I. A. Wilson
+6701547699,6603345473,7103082498,6508354573,6507756012,7101961622,7203059681,7006378502,7103180605,24497926500,56346897300
+phosphoenolpyruvate carboxykinase,X-ray structure,gluconeogenesis,diabetes
+We report crystal structures of the human enzyme phosphoenolpyruvate carboxykinase (PEPCK) with and without bound substrates. These structures are the first to be determined for a GTP-dependent PEPCK, and provide the first view of a novel GTP-binding site unique to the GTP-dependent PEPCK family. Three phenylalanine residues form the walls of the guanine-binding pocket on the enzyme’s surface and, most surprisingly, one of the phenylalanine side-chains contributes to the enzyme’s specificity for GTP. PEPCK catalyzes the rate-limiting step in the metabolic pathway that produces glucose from lactate and other precursors derived from the citric acid cycle. Because the gluconeogenic pathway contributes to the fasting hyperglycemia of type II diabetes, inhibitors of PEPCK may be useful in the treatment of diabetes.
+http://www.sciencedirect.com/science/article/pii/S0022283601953641
+00222836

@@ -1,0 +1,6 @@
+Structure of the Neutrophil-activating Protein from Helicobacter pylori
+7005121806,6506645474,56712656200,6701854228,7003666108,7006629475,56976632300,7102958374
+neutrophil-activating protein,Helicobacter pylori,iron storage,ferritins,crystal structure
+Helicobacter pylori is a major human pathogen associated with severe gastroduodenal diseases, including ulcers and cancers. An H.pylori protein that is highly immunogenic in humans and mice has been identified recently. This protein has been termed HP-NAP, due to its ability of activating neutrophils. In order to achieve a molecular understanding of its unique immunogenic and pro-inflammatory properties, we have determined its three-dimensional structure. Its quaternary structure is similar to that of the dodecameric bacterial ferritins (Dps-like family), but it has a different surface potential charge distribution. This is due to the presence of a large number of positively charged residues, which could well account for its unique ability in activating human leukocytes.
+http://www.sciencedirect.com/science/article/pii/S0022283602008793
+00222836

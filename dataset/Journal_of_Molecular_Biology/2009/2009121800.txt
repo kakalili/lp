@@ -1,0 +1,6 @@
+The Processing of Human Rhomboid Intramembrane Serine Protease RHBDL2 Is Required for Its Proteolytic Activity
+55430865300,36548525900
+regulated intramembrane proteolysis,rhomboids,proenzyme activation,serine proteases,signal transduction
+RHBDL2, a human homolog of the rhomboids, belongs to a unique class of serine intramembrane proteases; little is known about its function and regulation. Here, we show that RHBDL2 is produced as a proenzyme and that the processing of RHBDL2 is required for its cellular protease activity. The processing of RHBDL2 was shown by both Western blot and immunofluorescence analysis. We have demonstrated that a highly conserved Arg residue on loop 1 of RHBDL2 plays a critical role in the activation of the proenzyme. The activation of RHBDL2 is catalyzed by a protease that is sensitive to a class of sulfonamide compounds. Furthermore, endogenous RHBDL2 exists as the processed form and treatment of cells with a sulfonamide inhibitor led to an accumulation of the full length of RHBDL2. Therefore, this study has demonstrated that RHBDL2 activity is regulated by proenzyme activation, revealed a role for the conserved WR residues in loop 1 in RHBDL2 activity, and provided critical insights into the regulation and function of this human rhomboid protease.
+http://www.sciencedirect.com/science/article/pii/S0022283609012650
+00222836

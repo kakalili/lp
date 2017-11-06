@@ -1,0 +1,6 @@
+Nucleotide-Dependent Lateral and Longitudinal Interactions in Microtubules
+17433930100,18437431100,7005823898
+tubulin,assembly,cytoskeleton,molecular dynamics,coarse graining
+Microtubule (MT) stability is related to the hydrolysis of the guanosine triphosphate nucleotide (NT) bound to β-tubulin. However, the molecular mechanism by which the NT state influences the stability of the contacts in the MT lattice remains elusive. Here, we present large-scale atomistic simulations of different tubulin aggregates, including individual dimers, short protofilaments, a small lattice patch, and a piece of the MT lattice with two infinite protofilaments in both NT states. Together with a coarse-grained (CG) analysis of the fluctuations, these simulations highlight several regions of the protein where local changes are induced by the NT state or by the lateral and longitudinal contacts in the aggregates. Additionally, the CG analysis provides an indication of how the structural changes affect the bonds between the proteins. The results suggest a consistent picture of a possible molecular mechanism by which the NT state induces changes in the H1–S2 loop and more stable longitudinal bonds, both of which locate the H1–S2 and M-loop in more favorable positions to form lateral contacts.
+http://www.sciencedirect.com/science/article/pii/S0022283613001927
+00222836

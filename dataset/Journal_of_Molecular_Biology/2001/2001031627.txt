@@ -1,0 +1,6 @@
+Molecular, genetic and physiological characterisation of dystrobrevin-like (dyb-1) mutants of Caenorhabditis elegans11Edited by J. Karn
+6602670921,6602982153,6505796356,6701705807,7006175182,7003815028,6603712152
+dystrobrevin,dystrophin,Duchenne muscular dystrophy,nematode
+Dystrobrevins are protein components of the dystrophin complex, whose disruption leads to Duchenne muscular dystrophy and related diseases. The Caenorhabditis elegans dystrobrevin gene (dyb-1) encodes a protein 38 % identical with its mammalian counterparts. The C. elegans dystrobrevin is expressed in muscles and neurons. We characterised C. elegans dyb-1 mutants and showed that: (1) their behavioural phenotype resembles that of dystrophin (dys-1) mutants; (2) the phenotype of dyb-1 dys-1 double mutants is not different from the single ones; (3) dyb-1 mutants are more sensitive than wild-type animals to reductions of acetylcholinesterase levels and have an increased response to acetylcholine; (4) dyb-1 mutations alone do not lead to muscle degeneration, but synergistically produce a progressive myopathy when combined with a mild MyoD/hlh-1 mutation. All together, these findings further substantiate the role of dystrobrevins in cholinergic transmission and as functional partners of dystrophin.
+http://www.sciencedirect.com/science/article/pii/S0022283600944802
+00222836

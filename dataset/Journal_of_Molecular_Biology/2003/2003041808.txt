@@ -1,0 +1,6 @@
+Human DNA Polymerase λ Possesses Terminal Deoxyribonucleotidyl Transferase Activity And Can Elongate RNA Primers: Implications for Novel Functions
+7003470883,16181243000,7102056878,7005580440,7103149544,7101888729
+DNA polymerase λ,terminal deoxyribonucleotidyl transferase activity,RNA primer elongation,human,DNA replication and repair
+DNA polymerase λ is a novel enzyme of the family X of DNA polymerases. The recent demonstration of an intrinsic 5′-deoxyribose-5′-phosphate lyase activity, a template/primer dependent polymerase activity, a distributive manner of DNA synthesis and sequence similarity to DNA polymerase β suggested a novel β-like enzyme. All these properties support a role of DNA polymerase λ in base excision repair. On the other hand, the biochemical properties of the polymerisation activity of DNA polymerase λ are still largely unknown. Here we give evidence that human DNA polymerase λ has an intrinsic terminal deoxyribonucleotidyl transferase activity that preferentially adds pyrimidines onto 3′OH ends of DNA oligonucleotides. Furthermore, human DNA polymerase λ efficiently elongates an RNA primer hybridized to a DNA template. These two novel properties of human DNA polymerase λ might suggest additional roles for this enzyme in DNA replication and repair processes.
+http://www.sciencedirect.com/science/article/pii/S0022283603002651
+00222836

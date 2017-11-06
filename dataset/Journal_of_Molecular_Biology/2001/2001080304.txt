@@ -1,0 +1,6 @@
+The crystal and molecular structure of a collagen-like peptide with A biologically relevant sequence12Edited by I. A. Wilson
+7401737374,7005259979,7007159588,7101628162
+collagen,triple helix,hydroxyproline,hydration,intermolecular assembly
+A detailed description of the 2.0 Å structure of the triple-helical peptide, (Pro-Hyp-Gly)3-Ile-Thr-Gly-Ala-Arg-Gly-Leu-Ala-Gly-Pro-Hyp-Gly-(Pro-Hyp-Gly)3, denoted as T3-785, is presented. This peptide contains a biologically relevant sequence and was designed to model the imino acid-poor 785–796 region of human type III collagen just C-terminal to the matrix metalloproteinase cleavage site. The crystal structure of the T3-785 peptide demonstrates that sequence can influence local conformational changes in triple-helical structure, in terms of superhelical pitch, hydrogen bonding pattern, and hydration patterns. The novel packing arrangement displayed by the T3-785 structure, compared with those of collagen-like peptides with more imino acid-rich sequences indicates the sequence dependence of intermolecular assemblies in collagen as well. The observed synergy between the packing arrangements and the extended hydration network indicates that hydration of the triple helix is directly related to its association with other molecules.
+http://www.sciencedirect.com/science/article/pii/S0022283601948491
+00222836

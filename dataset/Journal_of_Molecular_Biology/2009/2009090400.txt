@@ -1,0 +1,6 @@
+Selection of Small Peptides, Inhibitors of Translation
+7801349066,34977029900,7005529709
+translation,inhibitory peptides,phage display,antibiotics,ribosome
+Identification of small molecular weight compounds targeting specific sites in the ribosome can accelerate development of new antibiotics and provide new tools for ribosomal research. We demonstrate here that antibiotic-size short peptides capable of inhibiting protein synthesis can be selected by using specific elements of ribosomal RNA as a target. The ‘h18’ pseudoknot encompassing residues 500–545 of the small ribosomal subunit RNA was used as a target in screening a heptapeptide phage-display library. Two of the selected peptides could efficiently interfere with both bacterial and eukaryotic translation. One of these inhibitory peptides exhibited a high-affinity binding to the isolated small ribosomal subunit (Kd of 1.1 μM). Identification of inhibitory peptides that likely target a specific rRNA structure may pave new ways for validating new antibiotic sites in the ribosome. The selected peptides can be used as a tool in search of novel site-specific inhibitors of translation.
+http://www.sciencedirect.com/science/article/pii/S0022283609008018
+00222836

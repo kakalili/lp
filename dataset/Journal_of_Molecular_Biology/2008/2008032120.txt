@@ -1,0 +1,6 @@
+Disulfide Bond Introduction for General Stabilization of Immunoglobulin Heavy-Chain Variable Domains
+6505890239,35508111500,23488191700,7005810441
+Nanobody,antibody,stability,β-strand,cystine
+Several antibody fragment engineering techniques aim at intrinsic stability enhancement, but are not applied in a truly generic way. Here, a strategy is proposed whereby consistent gain in stability is accomplished by introducing a specific disulfide bond between two opposite β-strands in the hydrophobic core of the immunoglobulin heavy-chain variable domain of heavy-chain antibodies (Nanobody). Besides the rational design of a disulfide bond between residues 39 and 87, a Nanobody harboring an extra naturally occurring cystine between residues 54 and 78 was compared to an equivalent Nanobody without that cystine. Both novel disulfide cross-links were introduced in several Nanobodies in various combinations. Interestingly, only the extra naturally occurring cystine consistently increased the conformational and thermal stabilities of wild-type Nanobodies without affecting antigen binding.
+http://www.sciencedirect.com/science/article/pii/S0022283608000405
+00222836

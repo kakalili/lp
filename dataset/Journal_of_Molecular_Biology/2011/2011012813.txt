@@ -1,0 +1,6 @@
+Tuning Riboswitch Regulation through Conformational Selection
+8146967200,7406756153,12770019100,36657289400,7006685053,7202971338
+NMR spectroscopy,isothermal titration calorimetry,gene regulation,preexisting equilibrium,riboswitch
+The SMK box riboswitch, which represents one of three known classes of S-adenosylmethionine (SAM)-responsive riboswitches, regulates gene expression in bacteria at the level of translation initiation. In contrast to most riboswitches, which contain separate domains responsible for ligand recognition and gene regulation, the ligand-binding and regulatory domains of the SMK box riboswitch are coincident. This property was exploited to allow the first atomic-level characterization of a functionally intact riboswitch in both the ligand-bound state and the ligand-free state. NMR spectroscopy revealed distinct mutually exclusive RNA conformations that are differentially populated in the presence or in the absence of the effector metabolite. Isothermal titration calorimetry and in vivo reporter assay results revealed the thermodynamic and functional consequences of this conformational equilibrium. We present a comprehensive model of the structural, thermodynamic, and functional properties of this compact RNA regulatory element.
+http://www.sciencedirect.com/science/article/pii/S0022283610011976
+00222836

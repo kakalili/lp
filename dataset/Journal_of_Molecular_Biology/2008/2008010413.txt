@@ -1,0 +1,6 @@
+Mapping of RNA Polymerase Residues that Interact with Bacteriophage Xp10 Transcription Antitermination Factor p7
+8335462700,6506189458,7005509332
+RNA polymerase,transcription antitermination,promoter recognition,transcription factor,bacteriophage
+Bacteriophage Xp10-encoded transcription factor p7 interacts with host Xanthomonas oryzae RNA polymerase β′ subunit and prevents both promoter recognition by the RNA polymerase holoenzyme and transcription termination by the RNA polymerase core. P7 does not bind to and has no effect on RNA polymerase from Escherichia coli. Here, we use a combination of biochemical and genetic methods to map the p7 interaction site to within four β′ amino acid residues at the N terminus of X. oryzae RNAP β′. The interaction site is located in an area that is close to the promoter spacer in the open complex and to the upstream boundary of the transcription bubble in the elongation complex, providing a possible explanation of how a small protein can affect both transcription initiation and termination by binding to the same RNA polymerase site.
+http://www.sciencedirect.com/science/article/pii/S0022283607014027
+00222836

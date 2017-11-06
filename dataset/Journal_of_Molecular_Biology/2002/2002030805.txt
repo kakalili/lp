@@ -1,0 +1,6 @@
+p53 blocks RuvAB promoted branch migration and modulates resolution of Holliday junctions by RuvC11Edited by M. Gottesman
+7102996103,8571936600,57080285800,6603534613,7402049533,8710629000
+p53,Holliday junction,RuvAB,RuvC,branch migration
+The Holliday junction is the central intermediate in homologous recombination. Branch migration of this four-stranded DNA structure is a key step in genetic recombination that affects the extent of genetic information exchanged between two parental DNA molecules. Here, we have constructed synthetic Holliday junctions to test the effects of p53 on both spontaneous and RuvAB promoted branch migration as well as the effect on resolution of the junction by RuvC. We demonstrate that p53 blocks branch migration, and that cleavage of the Holliday junction by RuvC is modulated by p53. These findings suggest that p53 can block branch migration promoted by proteins such as RuvAB and modulate the cleavage by Holliday junction resolution proteins such as RuvC. These results suggest that p53 could have similar effects on eukaryotic homologues of RuvABC and thus have a direct role in recombinational DNA repair.
+http://www.sciencedirect.com/science/article/pii/S0022283601954087
+00222836

@@ -1,0 +1,6 @@
+DNA Disentangling by Type-2 Topoisomerases
+7102147783,6603868317
+DNA crossovers,helix–helix juxtaposition,catenane,knot,DNA supercoil
+A type-2 topoisomerase cleaves a DNA strand, passes another through the break, and then rejoins the severed ends. Because it appears that this action is as likely to increase as to decrease entanglements, the question is: how are entanglements removed? We argue that type-2 topoisomerases have evolved to act at “hooked” juxtapositions of strands (where the strands are curved toward each other). This type of juxtaposition is a natural consequence of entangled long strands. Our model accounts for the observed preference for unlinking and unknotting of short DNA plasmids by type-2 topoisomerases and well explains experimental observations.
+http://www.sciencedirect.com/science/article/pii/S0022283604006035
+00222836

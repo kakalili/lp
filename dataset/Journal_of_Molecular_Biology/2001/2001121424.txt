@@ -1,0 +1,6 @@
+Archaeal RadA protein binds DNA as both helical filaments and octameric rings11Edited by M. Belfort
+7406945575,7404115272,7004115369,14833033100,7005654856
+recombination,electron microscopy,image analysis,protein-DNA complexes,ring proteins
+The Escherichia coli RecA protein has been a model for understanding homologous eukaryotic recombination proteins such as Rad51. The active form of both RecA and Rad51 appear to be helical filaments polymerized on DNA, in which an unusual helical structure is induced in the DNA. Surprisingly, the human meiosis-specific homolog of RecA, Dmc1, has thus far only been observed to bind DNA as an octameric ring. Sequence analysis and biochemical studies have shown that archaeal RadA proteins are more closely related to Rad51 and Dmc1 than the bacterial RecA proteins. We find that the Sulfolobus solfataricus RadA protein binds DNA in the absence of nucleotide cofactor as an octameric ring and in the presence of ATP as a helical filament. Since it is likely that RadA is closely related to a common ancestral protein of both Rad51 and Dmc1, the two DNA-binding forms of RadA may provide insight into the divergence that has taken place between Rad51 and Dmc1.
+http://www.sciencedirect.com/science/article/pii/S0022283600952136
+00222836

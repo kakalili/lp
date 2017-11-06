@@ -1,0 +1,6 @@
+Mechanistically Dissecting Autophagy: Insights from In Vitro Reconstitution
+57163727500,56610422400,57162102800
+autophagy,autophagosome,in vitro reconstitution,membrane,vesicle
+Autophagy is a fundamental cellular mechanism responsible for bulk turnover of cytoplasmic components. It is broadly related to many cellular activities, physiological processes, and pathological conditions. Autophagy entails a spatiotemporal interaction between cytosolic factors and membranes that are remodeled to encapsulate autophagic cargo within an autophagosome. Although majority of the factors [autophagy-related gene (Atg) proteins] involved in autophagy have been identified by genetic studies, the mechanism accounting for how these factors act upon the membrane to remodel it and efficiently recruit cargo for degradation is unclear. In vitro reconstitution of several different aspects of autophagy has provided important insights into the understanding of the mechanistic details underlying autophagic membrane remodeling and cargo recruitment. Here, we highlight these efforts toward studying autophagy through in vitro approaches.
+http://www.sciencedirect.com/science/article/pii/S0022283616001546
+00222836

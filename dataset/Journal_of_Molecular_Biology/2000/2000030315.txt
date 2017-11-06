@@ -1,0 +1,6 @@
+A motif for quinone binding sites in respiratory and photosynthetic systems11Edited by R. Huber
+7202546403,7102577604
+quinone binding site,photosystems,protein motif,dehydrogenases,homology
+Many of the membrane-bound protein complexes of respiratory and photosynthetic systems are reactive with quinones. To date, no clear structural relationship between sites that bind quinone has been defined, apart from that in the homologous family of “type II” photosynthetic reaction centres. We show here that a structural element containing a weak sequence motif is common to the QA and QB sites of bacterial reaction centres and the Qi site of the mitochondrial bc1 complex. Analyses of sequence databases indicate that this element may also be present in the PsaA/B subunits of photosystem I, in the ND4 and ND5 subunits of complex I and, possibly, in the mitochondrial alternative quinol oxidase. This represents a first step in the structural classification of quinone binding sites.
+http://www.sciencedirect.com/science/article/pii/S0022283600935095
+00222836

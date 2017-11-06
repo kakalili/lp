@@ -1,0 +1,6 @@
+The Coupling between Disulphide Status, Metallation and Dimer Interface Strength in Cu/Zn Superoxide Dismutase
+6508025208,7101605934,8880532400,55958959700
+ALS,protein folding,disulphide bond,dimerisation,loop entropy
+The gain of neurotoxic function in amyotrophic lateral sclerosis (ALS) has been linked to misfolding of the homodimeric enzyme Cu/Zn superoxide dismutase (SOD). Here, we present the crystal structure of fully cysteine-depleted human SOD (SODCallA), representing a reduced, marginally stable intermediate on the folding pathway in vivo that has also been implicated as neurotoxic precursor state. A hallmark of this species is that it fails to dimerise and becomes trapped as a monomer in the absence of the active-site metals. The crystallographic data show that removal of the C57–C146 disulphide bond sets free the interface loop IV in the apo protein, whereas the same loop remains unaffected in the holo protein. Thus, the low dimerisation propensity of disulphide-reduced apoSOD seems to be of entropic origin due to increased loop flexibility in the monomeric state: in the disulphide-reduced holo protein this gain in configurational entropy upon splitting of the dimer interface is reduced by the metal coordination.
+http://www.sciencedirect.com/science/article/pii/S0022283606012721
+00222836

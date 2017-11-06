@@ -1,0 +1,6 @@
+Structural Basis for Human Monoglyceride Lipase Inhibition
+6602074202,7003429355,35224717300,35565332300,23010326100,7003535634,57191470974,35225146200,35224597300,57130785000,7201851006
+monoglyceride lipase,X-ray structure,inhibitor
+Monoglyceride lipase (MGL) is a serine hydrolase that hydrolyses 2-arachidonoylglycerol (2-AG) into arachidonic acid and glycerol. 2-AG is an endogenous ligand of cannabinoid receptors, involved in various physiological processes in the brain. We present here the first crystal structure of human MGL in its apo form and in complex with the covalent inhibitor SAR629. MGL shares the classic fold of the α/β hydrolase family but depicts an unusually large hydrophobic occluded tunnel with a highly flexible lid at its entry and the catalytic triad buried at its end. Structures reveal the configuration of the catalytic triad and the shape and nature of the binding site of 2-AG. The bound structure of SAR629 highlights the key interactions for productive binding with MGL. The shape of the tunnel suggests a high druggability of the protein and provides an attractive template for drug discovery.
+http://www.sciencedirect.com/science/article/pii/S0022283609014545
+00222836

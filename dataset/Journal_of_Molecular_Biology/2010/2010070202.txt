@@ -1,0 +1,6 @@
+A Novel Mechanism for Azoreduction
+35785165900,25723346800,7801466271,22636126400,7006605336,55707967800
+azoreductase,balsalazide,hydrazone,inflammatory bowel disease,P. aeruginosa
+Azoreductases are important due to their ability to activate anti-inflammatory azo pro-drugs and to detoxify azo dyes. Three genes encoding azoreductases have been identified in Pseudomonas aeruginosa. We describe here a comparison of the three enzymes. The pure recombinant proteins each have a distinct substrate specificity profile against a range of azo substrates. Using the structure of P. aeruginosa azoreductase (paAzoR) 1 and the homology models of paAzoR2 and paAzoR3, we have identified residues important for substrate specificity. We have defined a novel flavin mononucleotide binding cradle, which is a recurrent motif in many flavodoxin-like proteins. A novel structure of paAzoR1 with the azo pro-drug balsalazide bound within the active site was determined by X-ray crystallography and demonstrates that the substrate is present in a hydrazone tautomer conformation. We propose that the structure with balsalazide bound represents an enzyme intermediate and, together with the flavin mononucleotide binding cradle, we propose a novel catalytic mechanism.
+http://www.sciencedirect.com/science/article/pii/S0022283610003840
+00222836

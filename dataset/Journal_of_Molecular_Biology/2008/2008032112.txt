@@ -1,0 +1,6 @@
+Vacuolar Protein Sorting: Two Different Functional States of the AAA-ATPase Vps4p
+7202321527,7003650441,6506693405,7003590166,7402582545,7004951250
+ESCRT,membrane traffic,HIV,AAA-ATPase,Vps
+The vacuolar protein sorting (Vps) pathway, in which Vps4 class I AAA-ATPases play a central role, regulates growth factor receptors, immune response, and developmental signaling, and participates in tumor suppression, apoptosis, and retrovirus budding. We present the first atomic structure of the nucleotide-free yeast His6ΔNVps4p dimer and its AMPPNP (5′-adenylyl-β,γ-imidodiphosphate)-bound tetradecamer, derived from a cryo electron microscopy map. Vps4p dimers form two distinct heptameric rings and accommodate AAA cassettes in a head-to-head—not in a head-to-tail—fashion as in class II AAA-ATPases. Our model suggests a mechanism for disassembling ESCRT (endosomal sorting complex required for transport) complexes by movements of substrate-binding domains located at the periphery of the tetradecamer during ATP hydrolysis in one ring, followed by translocation through the central pore and ATP hydrolysis in the second ring.
+http://www.sciencedirect.com/science/article/pii/S0022283608000284
+00222836

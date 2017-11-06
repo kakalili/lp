@@ -1,0 +1,6 @@
+Biochemical Analysis of a DNA Replication Origin in the Archaeon Aeropyrum pernix
+6602104918,6506751141,9045335200,35799117500,7004546577,14818938900,7006626082
+replication origin,DNA replication,archaea
+We have characterised the interaction of the Aeropyrum pernix origin recognition complex proteins (ORC1 and ORC2) with DNA using DNase I footprinting. Each protein binds upstream of its respective gene. However, ORC1 protein alone interacts more tightly with an additional region containing multiple origin recognition box (ORB) sites that we show to be a replication origin. At this origin, there are four ORB elements disposed either side of an A+T-rich region. An ORC1 protein dimer binds at each of these ORB sites. Once all four ORB sites have bound ORC1 protein, there is a transition to a higher-order assembly with a defined alteration in topology and superhelicity. Furthermore, after this transition, the A+T-rich region becomes sensitive to digestion by DNase I and P1 nuclease, revealing that the transition promotes distortion of the DNA in this region, presumably as a prelude to loading of MCM helicase.
+http://www.sciencedirect.com/science/article/pii/S0022283606009739
+00222836

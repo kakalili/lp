@@ -1,0 +1,6 @@
+Solution Structure of ASPP2 N-terminal Domain (N-ASPP2) Reveals a Ubiquitin-like Fold
+18234169900,7103303590,35594185200,36043863300
+ASPP2,solution structure,NMR,ubiquitin-like,β-Grasp
+Proteins of the ASPP family bind to p53 and regulate p53-mediated apoptosis. Two family members, ASPP1 and ASPP2, have pro-apoptotic functions while iASPP shows anti-apoptotic responses. However, both the mechanism of enhancement/repression of apoptosis and the molecular basis for their different responses remain unknown. To address the role of the N-termini of pro-apoptotic ASPP proteins, we solved the solution structure of N-ASPP2 (1–83) by NMR spectroscopy. The structure of this domain reveals a β-Grasp ubiquitin-like fold. Our findings suggest a possible role for the N-termini of ASPP proteins in binding to other proteins in the apoptotic response network and thus mediating their selective pro-apoptotic function.
+http://www.sciencedirect.com/science/article/pii/S0022283607006444
+00222836

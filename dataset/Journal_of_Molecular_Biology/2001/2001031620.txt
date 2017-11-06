@@ -1,0 +1,6 @@
+Crystal structure of alginate lyase A1-III complexed with trisaccharide product at 2.0 Å resolution11Edited by R. Huber
+7402990575,7006697962,7004335620,7403722766,7006318389
+alginate lyase,crystallization,X-ray crystallography,protein structure,enzyme-product complex
+The structure of A1-III from a Sphingomonas species A1 complexed with a trisaccharide product (4-deoxy-l-erythro-hex-4-enepyranosyluronate-mannuronate-mannuronic acid) was determined by X-ray crystallography at 2.0 Å with an R-factor of 0.16. The final model of the complex form comprising 351 amino acid residues, 245 water molecules, one sulfate ion and one trisaccharide product exhibited a Cα r.m.s.d. value of 0.154 Å with the reported apo form of the enzyme. The trisaccharide was bound in the active cleft at subsites −3 ∼ −1 from the non-reducing end by forming several hydrogen bonds and van der Waals interactions with protein atoms. The catalytic residue was estimated to be Tyr246, which existed between subsites −1 and +1 based on a mannuronic acid model oriented at subsite +1.
+http://www.sciencedirect.com/science/article/pii/S0022283600945091
+00222836

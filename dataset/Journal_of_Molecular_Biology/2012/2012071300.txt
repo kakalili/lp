@@ -1,0 +1,6 @@
+Homotypic Interaction and Amino Acid Distribution of Unilaterally Conserved Transmembrane Helices
+6602690137,56611706800,55221828200,7004370768
+conservation,evolution,interaction,sidedness,transmembrane helix
+Formation of non-covalent functional complexes of integral membrane proteins is frequently supported by sequence-specific interaction of their transmembrane helices. Here, we aligned human single-span membrane proteins with orthologs from other eukaryotes. We find that almost half of the human single-span membrane proteins contain a transmembrane helix that exhibits significant non-random unilateral conservation. Furthermore, unilateral conservation of transmembrane domains (TMDs) correlates well with their ability to self-interact. Glycine, polar non-ionizable, and aromatic amino acids are overrepresented in conserved versus non-conserved helix faces. Hence, our genome-wide analysis indicates that these amino acid types generally support interaction of single-span membrane protein TMDs.
+http://www.sciencedirect.com/science/article/pii/S0022283612003245
+00222836

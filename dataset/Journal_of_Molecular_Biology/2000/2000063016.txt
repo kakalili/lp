@@ -1,0 +1,6 @@
+Premature termination of DNA replication in plasmids carrying two inversely oriented ColE1 origins11Edited by J. Karn
+57190286961,7202206890,6602804127,7003458097,7004203888
+DNA replication,2D agarose gel electrophoresis,initiation,termination,replication fork barriers
+In Escherichia coli plasmids carrying two inversely oriented ColE1 origins, DNA replication initiates at only one of the two potential origins. The other silent origin acts as a replication fork barrier. Whether this barrier is permanent or simply a pausing site remains unknown. Here, we used a repeated primer extension assay to map in vivo, at the nucleotide level, the 5′ end of the nascent strand where initiation and blockage of replication forks occurs. Initiation occurred primarily at the previously defined origin, however, an alternative initiation site was detected 17 bp upstream. At the barrier, the lagging strand also terminated at the main initiation site. Therefore, the 5′ end of the nascent strand at the barrier was identical to that generated during initiation. This observation strongly suggests that blockage of the replication fork at the silent origin is not just a pausing site but permanent, and leads to a premature termination event.
+http://www.sciencedirect.com/science/article/pii/S0022283600938439
+00222836

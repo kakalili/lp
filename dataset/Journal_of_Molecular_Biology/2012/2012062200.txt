@@ -1,0 +1,6 @@
+Direct Determination of Actin Polarity in the Cell
+7006980393,56359497500,24823609200,23968365700,55861263900,24348048800
+actin filament,electron tomography,polarity of the actin filament,image analysis,cytoskeleton
+Actin filaments are polar structures that exhibit a fast growing plus end and a slow growing minus end. According to their organization in cells, in parallel or antiparallel arrays, they can serve, respectively, in protrusions or in contractions. The determination of actin filament polarity in subcellular compartments is therefore required to establish their local function. Myosin binding has previously been the sole method of polarity determination. Here, we report the first direct determination of actin filament polarity in the cell without myosin binding. Negatively stained cytoskeletons of lamellipodia were analyzed by adapting electron tomography and a single particle analysis for filamentous complexes. The results of the stained cytoskeletons confirmed that all actin filament ends facing the cell membrane were the barbed ends. In general, this approach should be applicable to the analysis of actin polarity in tomograms of the actin cytoskeleton.
+http://www.sciencedirect.com/science/article/pii/S0022283612002707
+00222836

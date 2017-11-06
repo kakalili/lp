@@ -1,0 +1,6 @@
+Resurrection of an Urbilaterian U1A/U2B″/SNF Protein
+36464726500,8581387400,7402946611
+RRM,ancestral reconstruction,RNA binding,protein phylogeny,U1A protein
+The U1A/U2B″/SNF family of proteins found in the U1 and U2 spliceosomal small nuclear ribonucleoproteins is highly conserved. In spite of the high degree of sequence and structural conservation, modern members of this protein family have unique RNA binding properties. These differences have necessarily resulted from evolutionary processes, and therefore, we reconstructed the protein phylogeny in order to understand how and when divergence occurred and how protein function has been modulated. Contrary to the conventional understanding of an ancient human U1A/U2B″ gene duplication, we show that the last common ancestor of bilaterians contained a single ancestral protein (URB). The gene for URB was synthesized, the protein was overexpressed and purified, and we assessed RNA binding to modern snRNA sequences. We find that URB binds human and Drosophila U1 snRNA SLII and U2 snRNA SLIV with higher affinity than do modern homologs, suggesting that both Drosophila SNF and human U1A/U2B″ have evolved into weaker binders of one RNA or both RNAs.
+http://www.sciencedirect.com/science/article/pii/S0022283613003987
+00222836

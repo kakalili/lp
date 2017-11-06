@@ -1,0 +1,6 @@
+A Protein–DNA Binding Mechanism Proceeds Through Multi-state or Two-state Parallel Pathways
+9241275100,7004021432
+DNA-binding,HPV-E2,protein–DNA,recognition,stopped-flow
+The DNA-binding mechanism of the dimeric C-terminal domain of the papillomavirus E2 protein with its specific DNA target was investigated and shown to proceed through two parallel pathways. A sequential multi-step reaction is initiated by the diffusion-controlled formation of an encounter complex, with no evidence of base sequence discrimination capacity. Following a substantial conformational rearrangement of the protein, a solvent exclusion step leading to the formation of a final protein–DNA complex was identified. This last step involves the largest burial of surface area from the interface and involves the consolidation of the direct readout of the DNA bases. Double-jump stopped-flow experiments allowed us to characterize the sequence of events and demonstrated that a fast-formed consolidated complex can take place through a parallel route. We present the simplest model for the overall mechanism with a description of all the intermediate species in energetic terms.
+http://www.sciencedirect.com/science/article/pii/S0022283603007204
+00222836

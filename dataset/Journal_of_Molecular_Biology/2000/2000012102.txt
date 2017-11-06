@@ -1,0 +1,6 @@
+HDEA, a periplasmic protein that supports acid resistance in pathogenic enteric bacteria11Edited by P. E. Wright
+6602583352,16749310300
+HDEA,structure,function,acid resistance,stress response
+The X-ray crystal structure of the Escherichia coli stress response protein HDEA has been determined at 2.0 Å resolution. The single domain α-helical protein is found in the periplasmic space, where it supports an acid resistance phenotype essential for infectivity of enteric bacterial pathogens, such as Shigella and E. coli. Functional studies demonstrate that HDEA is activated by a dimer-to-monomer transition at acidic pH, leading to suppression of aggregation by acid-denatured proteins. We suggest that HDEA may support chaperone-like functions during the extremely acidic conditions.
+http://www.sciencedirect.com/science/article/pii/S0022283699933478
+00222836

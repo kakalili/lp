@@ -1,0 +1,6 @@
+Full-sequence Computational Design and Solution Structure of a Thermostable Protein Variant
+7403285310,36779713500,7401609765,8328719800,6603163109,7006470104
+computational protein design,NMR structure,protein stability,engrailed homeodomain,FASTER
+Computational protein design procedures were applied to the redesign of the entire sequence of a 51 amino acid residue protein, Drosophila melanogaster engrailed homeodomain. Various sequence optimization algorithms were compared and two resulting designed sequences were experimentally evaluated. The two sequences differ by 11 mutations and share 22% and 24% sequence identity with the wild-type protein. Both computationally designed proteins were considerably more stable than the naturally occurring protein, with midpoints of thermal denaturation greater than 99 °C. The solution structure was determined for one of the two sequences using multidimensional heteronuclear NMR spectroscopy, and the structure was found to closely match the original design template scaffold.
+http://www.sciencedirect.com/science/article/pii/S0022283607008248
+00222836

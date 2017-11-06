@@ -1,0 +1,6 @@
+The Clamp-loader–Helicase Interaction in Bacillus. Atomic Force Microscopy Reveals the Structural Organisation of the DnaB–τ Complex in Bacillus
+24558908300,56390866300,7801692990,7004131351,35474276800,7403050343,6701834586
+DNA replication,clamp-loader,DnaB helicase,atomic force microscopy
+The clamp-loader–helicase interaction is an important feature of the replisome. Although significant biochemical and structural work has been carried out on the clamp-loader–clamp–DNA polymerase α interactions in Escherichia coli, the clamp-loader–helicase interaction is poorly understood by comparison. The τ subunit of the clamp-loader mediates the interaction with DnaB. We have recently characterised this interaction in the Bacillus system and established a τ5–DnaB6 stoichiometry. Here, we have obtained atomic force microscopy images of the τ–DnaB complex that reveal the first structural insight into its architecture. We show that despite the reported absence of the shorter γ version in Bacillus, τ has a domain organisation similar to its E.coli counterpart and possesses an equivalent C-terminal domain that interacts with DnaB. The interaction interface of DnaB is also localised in its C-terminal domain. The combined data contribute towards our understanding of the bacterial replisome.
+http://www.sciencedirect.com/science/article/pii/S0022283603015584
+00222836

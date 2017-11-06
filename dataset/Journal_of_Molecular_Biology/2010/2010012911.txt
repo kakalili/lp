@@ -1,0 +1,6 @@
+Molecular Evolution of Multisubunit RNA Polymerases: Structural Analysis
+7102391955,7004392493
+evolution,RNA polymerase,sequence analysis
+Comprehensive multiple sequence alignments of the multisubunit DNA-dependent RNA polymerase (RNAP) large subunits, including the bacterial β and β′ subunits and their homologs from archaebacterial RNAPs, eukaryotic RNAPs I–III, nuclear–cytoplasmic large double-stranded DNA virus RNAPs, and plant plastid RNAPs, were created [Lane, W. J. and Darst, S. A. (2009). Molecular evolution of multisubunit RNA polymerases: sequence analysis. In press]. The alignments were used to delineate sequence regions shared among all classes of multisubunit RNAPs, defining common, fundamental RNAP features as well as identifying highly conserved positions. Here, we present a systematic, detailed structural analysis of these shared regions and highly conserved positions in terms of the RNAP structure, as well as the RNAP structure/function relationship, when known.
+http://www.sciencedirect.com/science/article/pii/S0022283609013229
+00222836

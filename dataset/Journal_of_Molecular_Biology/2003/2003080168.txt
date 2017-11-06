@@ -1,0 +1,6 @@
+Folding Units Govern the Cytochrome c Alkaline Transition
+56188233500,6602085647,35584909700,56169671400,7005855921
+protein folding,cytochrome c, alkaline transition,hydrogen exchange,protein function
+The alkaline transition of cytochrome c is a model for protein structural switching in which the normal heme ligand is replaced by another group. Stopped flow data following a jump to high pH detect two slow kinetic phases, suggesting two rate-limiting structure changes. Results described here indicate that these events are controlled by the same structural unfolding reactions that account for the first two steps in the reversible unfolding pathway of cytochrome c. These and other results show that the cooperative folding-unfolding behavior of protein foldons can account for a variety of functional activities in addition to determining folding pathways.
+http://www.sciencedirect.com/science/article/pii/S0022283603006983
+00222836

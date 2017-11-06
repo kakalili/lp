@@ -1,0 +1,6 @@
+Dimerisation mutants of lac repressor. II. A single amino acid substitution, D278L, changes the specificity of dimerisation11Edited by M. Yaniv
+6506678341,20134048600,6701541481,7005968548
+Lac repressor,protein-protein interaction,mutant analysis,heterodimer formation,change of dimerisation specificity
+Assembly of the lactose repressor tetramer involves two subunit interfaces, the C-terminal heptad repeats, and the monomer-monomer interface. Dimerisation between two monomers of Lac repressor of Escherichia coli lacking the two C-terminal heptad repeats occurs through the interactions between three α-helices of each monomer, which form a highly hydrophobic interface. Residues possibly involved in specific dimer formation are known from X-ray studies and from the phenotypes of more than 4000 single amino acid substitutions. During the examination of numerous mutants within the dimerisation interface of Lac repressor, we found that substitution of one amino acid, D278 to leucine, is sufficient to change the specificity of dimerisation. Analysis of this single substitution indicates that D278L mutant Lac repressor represses like wild-type. However, it no longer forms heterodimers with wild-type Lac repressor.
+http://www.sciencedirect.com/science/article/pii/S0022283699934691
+00222836

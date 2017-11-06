@@ -1,0 +1,6 @@
+Advances in Molecular Modeling of Human Cytochrome P450 Polymorphism
+54382169100,6701774392
+cytochrome P450,metabolizing enzymes,polymorphism,molecular modeling
+Cytochrome P450 (CYP) is a supergene family of metabolizing enzymes involved in the phase I metabolism of drugs and endogenous compounds. CYP oxidation often leads to inactive drug metabolites or to highly toxic or carcinogenic metabolites involved in adverse drug reactions (ADR). During the last decade, the impact of CYP polymorphism in various drug responses and ADR has been demonstrated. Of the drugs involved in ADR, 56% are metabolized by polymorphic phase I metabolizing enzymes, 86% among them being CYP. Here, we review the major CYP polymorphic forms, their impact for drug response and current advances in molecular modeling of CYP polymorphism. We focus on recent studies exploring CYP polymorphism performed by the use of sequence-based and/or protein-structure-based computational approaches. The importance of understanding the molecular mechanisms related to CYP polymorphism and drug response at the atomic level is outlined.
+http://www.sciencedirect.com/science/article/pii/S0022283613004427
+00222836

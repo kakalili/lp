@@ -1,0 +1,6 @@
+Effect of Intracellular pH on the Torque–Speed Relationship of Bacterial Proton-Driven Flagellar Motor
+55468293100,6603145115,25958566700,7202763216,7006391123,7103162863
+bacterial flagellar motor,stator complex,torque generation,proton translocation,intracellular pH
+Bacterial flagella responsible for motility are driven by rotary motors powered by the electrochemical potential difference of specific ions across the cytoplasmic membrane. The stator of proton-driven flagellar motor converts proton influx into mechanical work. However, the energy conversion mechanism remains unclear. Here, we show that the motor is sensitive to intracellular proton concentration for high-speed rotation at low load, which was considerably impaired by lowering intracellular pH, while zero-speed torque was not affected. The change in extracellular pH did not show any effect. These results suggest that a high intracellular proton concentration decreases the rate of proton translocation and therefore that of the mechanochemical reaction cycle of the motor but not the actual torque generation step within the cycle by the stator–rotor interactions.
+http://www.sciencedirect.com/science/article/pii/S0022283608015453
+00222836

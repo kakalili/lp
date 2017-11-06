@@ -1,0 +1,6 @@
+Identification of a Conserved Aggregation-Prone Intermediate State in the Folding Pathways of Spc-SH3 Amyloidogenic Variants
+16444595300,6506421813,55889285600,35600851100
+protein folding,intermediate states,amyloids,aggregation,molecular dynamics
+We compared the folding pathways of selected mutational variants of the α-spectrin SH3 domain (Spc-SH3) by using a continuum model that combines a full atomistic protein representation with the Gō potential. Experimental data show that the N47G mutant shows very little tendency to aggregate while the N47A and triple mutant D48G(2Y) are both amyloidogenic, with the latter being clearly more aggregation prone. We identified a strikingly similar native-like folding intermediate across the three mutants, in which strand β1 is totally unstructured and more than half of the major hydrophobic core residues are highly solvent exposed. Results from extensive docking simulations show that the ability of the intermediates to dimerize is largely driven by strand β1 and is consistent with the in vitro aggregation behavior reported for the corresponding mutants. They further suggest that residues 44 and 53, which are key players in the nucleation–condensation mechanism of folding, are also important triggers of the aggregation process.
+http://www.sciencedirect.com/science/article/pii/S0022283612004937
+00222836

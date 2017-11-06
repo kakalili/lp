@@ -1,0 +1,6 @@
+Pentameric Assembly of Potassium Channel Tetramerization Domain-Containing Protein 5
+6701791739,7004021953,6506100899,9241754200,26029686000,55725671200,6603858126,55547137733
+KCTD5,BTB,Kv channel,T1 domain,GRASP55
+We report the X-ray crystal structure of human potassium channel tetramerization domain-containing protein 5 (KCTD5), the first member of the family to be so characterized. Four findings were unexpected. First, the structure reveals assemblies of five subunits while tetramers were anticipated; pentameric stoichiometry is observed also in solution by scanning transmission electron microscopy mass analysis and analytical ultracentrifugation. Second, the same BTB (bric-a-brac, tramtrack, broad complex) domain surface mediates the assembly of five KCTD5 and four voltage-gated K+ (Kv) channel subunits; four amino acid differences appear crucial. Third, KCTD5 complexes have well-defined N- and C-terminal modules separated by a flexible linker that swivels by ∼30o; the C-module shows a new fold and is required to bind Golgi reassembly stacking protein 55 with ∼1 μM affinity, as judged by surface plasmon resonance and ultracentrifugation. Fourth, despite the homology reflected in its name, KCTD5 does not impact the operation of Kv4.2, Kv3.4, Kv2.1, or Kv1.2 channels.
+http://www.sciencedirect.com/science/article/pii/S0022283609000783
+00222836

@@ -1,0 +1,6 @@
+Solution Structure of the COMMD1 N-terminal Domain
+6505874994,12797891000,7006542122
+MURR1,COMMD1,COMMD6,NF-κB,Wilson disease protein
+COMMD1 is the prototype of a new protein family that plays a role in several important cellular processes, including NF-κB signaling, sodium transport, and copper metabolism. The COMMD proteins interact with one another via a conserved C-terminal domain, whereas distinct functions are predicted to result from a variable N-terminal domain. The COMMD proteins have not been characterized biochemically or structurally. Here, we present the solution structure of the N-terminal domain of COMMD1 (N-COMMD1, residues 1–108). This domain adopts an α-helical structure that bears little resemblance to any other helical protein. The compact nature of N-COMMD1 suggests that full-length COMMD proteins are modular, consistent with specific functional properties for each domain. Interactions between N-COMMD1 and partner proteins may occur via complementary electrostatic surfaces. These data provide a new foundation for biochemical characterization of COMMD proteins and for probing COMMD1 protein–protein interactions at the molecular level.
+http://www.sciencedirect.com/science/article/pii/S0022283606013684
+00222836

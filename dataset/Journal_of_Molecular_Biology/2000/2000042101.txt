@@ -1,0 +1,6 @@
+High-resolution crystal structure of S. cerevisiae Ypt51(ΔC15)-GppNHp, a small GTP-binding protein involved in regulation of endocytosis11Edited by R. Huber
+6507061645,7004435864,7102934871,7102958399,6603738046
+GTP-binding protein,vesicular transport,crystal structure,Ypt51,Vps21
+Ypt/Rab proteins are membrane-associated small GTP-binding proteins which play a central role in the coordination, activation and regulation of vesicle-mediated transport in eukaryotic cells. We present the 1.5 Å high-resolution crystal structure of Ypt51 in its active, GppNHp-bound conformation. Ypt51 is an important regulator involved in the endocytic membrane traffic of Saccharomyces cerevisiae. The structure reveals small but significant structural differences compared with H-Ras p21. The effector loop and the catalytic loop are well defined and stabilized by extensive hydrophobic interactions. The switch I and switch II regions form a well-defined epitope for hypothetical effector protein binding. Sequence comparisons between the different isoforms Ypt51, Ypt52 and Ypt53 provide the first insights into determinants for specific effector binding and for fine-tuning of the intrinsic GTP-hydrolysis rate.
+http://www.sciencedirect.com/science/article/pii/S0022283600936453
+00222836

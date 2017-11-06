@@ -1,0 +1,6 @@
+Visualizing Side Chains of Invisible Protein Conformers by Solution NMR
+8931073300,8571415000,7202300513
+CEST,conformationally excited states,chemical shifts,protein side chains
+Sparsely populated and transiently formed protein conformers can play key roles in many biochemical processes. Understanding the structure function paradigm requires, therefore, an atomic-resolution description of these rare states. However, they are difficult to study because they cannot be observed using standard biophysical techniques. In the past decade, NMR methods have been developed for structural studies of these elusive conformers, focusing primarily on backbone 1H, 15N and 13C nuclei. Here we extend the methodology to include side chains by developing a 13C-based chemical exchange saturation transfer experiment for the assignment of side-chain aliphatic 13C chemical shifts in uniformly 13C labeled proteins. A pair of applications is provided, involving the folding of β-sheet Fyn SH3 and α-helical FF domains. Over 96% and 89% of the side-chain 13C chemical shifts for excited states corresponding to the unfolded conformation of the Fyn SH3 domain and a folding intermediate of the FF domain, respectively, have been obtained, providing insight into side-chain packing and dynamics.
+http://www.sciencedirect.com/science/article/pii/S0022283613007006
+00222836

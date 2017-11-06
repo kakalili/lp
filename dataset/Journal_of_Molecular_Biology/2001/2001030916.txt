@@ -1,0 +1,6 @@
+Prospects for ab initio protein structural genomics11Edited by B. Honig
+7202131213,7006744398,55463548900
+ab initio structure prediction,protein folding,proteomics
+We present the results of a large-scale testing of the ROSETTA method for ab initio protein structure prediction. Models were generated for two independently generated lists of small proteins (up to 150 amino acid residues), and the results were evaluated using traditional rmsd based measures and a novel measure based on the structure-based comparison of the models to the structures in the PDB using DALI. For 111 of 136 all α and α/β proteins 50 to 150 residues in length, the method produced at least one model within 7 Å rmsd of the native structure in 1000 attempts. For 60 of these proteins, the closest structure match in the PDB to at least one of the ten most frequently generated conformations was found to be structurally related (four standard deviations above background) to the native protein. These results suggest that ab initio structure prediction approaches may soon be useful for generating low resolution models and identifying distantly related proteins with similar structures and perhaps functions for these classes of proteins on the genome scale.
+http://www.sciencedirect.com/science/article/pii/S0022283600944590
+00222836

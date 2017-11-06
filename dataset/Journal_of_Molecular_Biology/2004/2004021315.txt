@@ -1,0 +1,6 @@
+Target Specificity Analysis of the Abl Kinase using Peptide Microarray Data
+7005730168,55931853100,7402561145,6701788765,6604040969
+kinase substrate prediction,peptide microarray,weight matrix,nearest neighbor
+Protein kinases play an important role in cellular signalling. The reliable prediction of their substrates is of high importance for the deciphering of signalling pathways. A recently developed peptide microarray technology for the charcterisation of protein kinases delivers data on the individual phosphorylation status of each single member of a large peptide library. This data can be used to approximate the substrate specificity of the investigated kinase. We present an approach to process the collected information using a combination of a weight matrix approach and a nearest neighbor approach. Experiments with the protein-tyrosine kinase Abl are conducted to validate the results. Randomly selected peptides (1433) are used to estimate the substrate preferences of the kinase. The obtained prediction results are compared with standard methods. The new approach is tested further on bona fide Abl phosphorylation sites.
+http://www.sciencedirect.com/science/article/pii/S0022283603015699
+00222836

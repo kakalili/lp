@@ -1,0 +1,6 @@
+Critical Scaffolding Regions of the Tumor Suppressor Axin1 Are Natively Unfolded
+37034694800,15821649600,23983981800,16318652700,36654462700,36021253300,56615500900,37034747000,6603739256,7006238724,7005538118,7005922073
+Wnt pathway,natively unfolded,scaffold,Axin,β-catenin degradation
+The Wnt pathway tumor-suppressor protein Axin coordinates the formation of a critical multiprotein destruction complex that serves to downregulate β-catenin protein levels, thereby preventing target gene activation. Given the lack of structural information on some of the major functional parts of Axin, it remains unresolved how the recruitment and positioning of Wnt pathway kinases, such as glycogen synthase kinase 3β, are coordinated to bring about β-catenin phosphorylation. Using various biochemical and biophysical methods, we demonstrate here that the central region of Axin that is implicated in binding glycogen synthase kinase 3β and β-catenin is natively unfolded. Our results support a model in which the unfolded nature of these critical scaffolding regions in Axin facilitates dynamic interactions with a kinase and its substrate, which in turn act upon each other.
+http://www.sciencedirect.com/science/article/pii/S0022283610012271
+00222836

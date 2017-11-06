@@ -1,0 +1,6 @@
+Structure of the Escherichia coli Leucine-responsive Regulatory Protein Lrp Reveals a Novel Octameric Assembly
+14122931800,7004375258
+transcriptional regulation,pap operon,protein–DNA interactions
+The structure of Escherichia coli leucine-responsive regulatory protein (Lrp) co-crystallized with a short duplex oligodeoxynucleotide reveals a novel quaternary assembly in which the protein octamer forms an open, linear array of four dimers. In contrast, structures of the Lrp homologs LrpA, LrpC and AsnC crystallized in the absence of DNA show that these proteins instead form highly symmetrical octamers in which the four dimers form a closed ring. Although the DNA is disordered within the Lrp crystal, comparative analyses suggest that the observed differences in quaternary state may arise from DNA interactions during crystallization. Interconversion of these conformations, possibly in response to DNA or leucine binding, provides an underlying mechanism to alter the relative spatial orientation of the DNA-binding domains. Breaking of the closed octamer symmetry may be a common essential step in the formation of active DNA complexes by all members of the Lrp/AsnC family of transcriptional regulatory proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283606017074
+00222836

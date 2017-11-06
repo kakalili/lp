@@ -1,0 +1,6 @@
+Structural Basis for Detoxification and Oxidative Stress Protection in Membranes
+36730453400,6603170177,6602741019,10044793500,7004017642,7005794374,7102119993,7005646932
+membrane protein,oxidative stress,enzymology,protein structure,electron crystallography
+Synthesis of mediators of fever, pain and inflammation as well as protection against reactive molecules and oxidative stress is a hallmark of the MAPEG superfamily (membrane associated proteins in eicosanoid and glutathione metabolism). The structure of a MAPEG member, rat microsomal glutathione transferase 1, at 3.2 Å resolution, solved here in complex with glutathione by electron crystallography, defines the active site location and a cytosolic domain involved in enzyme activation. The glutathione binding site is found to be different from that of the canonical soluble glutathione transferases. The architecture of the homotrimer supports a catalytic mechanism involving subunit interactions and reveals both cytosolic and membraneous substrate entry sites, providing a rationale for the membrane location of the enzyme.
+http://www.sciencedirect.com/science/article/pii/S0022283606006565
+00222836

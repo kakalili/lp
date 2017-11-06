@@ -1,0 +1,6 @@
+Arrestin Mobilizes Signaling Proteins to the Cytoskeleton and Redirects their Activity
+36522901300,16066644200,12800128700,6602228802,7003567190,36875739500,7201448736,7003661398,7004972347,24294144900
+arrestin,microtubules,ERK,Mdm2,G-protein coupled receptor
+Arrestins regulate the activity and subcellular localization of G protein-coupled receptors and other signaling molecules. Here, we demonstrate that arrestins bind microtubules (MTs) in vitro and in vivo. The MT-binding site on arrestins overlaps significantly with the receptor-binding site, but the conformations of MT-bound and receptor-bound arrestin are different. Arrestins recruit ERK1/2 and the E3 ubiquitin ligase Mdm2 to MTs in cells, similar to the arrestin-dependent mobilization of these proteins to the receptor. Arrestin-mediated sequestration of ERK to MTs reduces the level of ERK activation. In contrast, recruitment of Mdm2 to MTs by arrestin channels Mdm2 activity toward cytoskeleton-associated proteins, increasing their ubiquitination dramatically. The mobilization of signaling molecules to MTs is a novel biological function of arrestin proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283607002343
+00222836

@@ -1,0 +1,6 @@
+Solution Structure of the PDZ2 Domain from Cytosolic Human Phosphatase hPTP1E Complexed with a Peptide Reveals Contribution of the β2–β3 Loop to PDZ Domain–Ligand Interactions
+7103021262,35516482700,7006863426,7005422555
+PDZ domain,solution structure,RA-GEF-2, NMR, phosphatase
+The solution structure of the second PDZ domain from human phosphatase hPTP1E in complex with a C-terminal peptide from the guanine nucleotide exchange factor RA-GEF-2 has been determined using 2D and 3D heteronuclear NMR experiments. Compared to previously solved structures, the hPTP1E complex shows an enlarged interaction surface with the C terminus of the bound peptide. Novel contacts were found between the long structured β2/β3 loop of the PDZ domain and the sixth amino acid residue from the C terminus of the peptide. This work underlines the importance of the β2/β3 loop for ligand selection by PDZ domains.
+http://www.sciencedirect.com/science/article/pii/S0022283602005442
+00222836

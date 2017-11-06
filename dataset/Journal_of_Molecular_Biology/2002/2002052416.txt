@@ -1,0 +1,6 @@
+Contrasting IgG Structures Reveal Extreme Asymmetry and Flexibility
+6602956688,35513093100,15619028300,7004044140,7102279599,35399298000,7401577043,7401743864
+intact antibody,antibody structure,IgG,hinge region,immune recognition
+The crystal structure of IgG1 b12 represents the first visualization of an intact human IgG with a full-length hinge that has all domains ordered and visible. In comparison to intact murine antibodies and hinge-deletant human antibodies, b12 reveals extreme asymmetry, indicative of the extraordinary interdomain flexibility within an antibody. In addition, the structure provides an illustration of the human IgG1 hinge in its entirety and of asymmetry in the composition of the carbohydrate attached to each CH2 domain of the Fc. The two separate hinges assume different conformations in order to accommodate the vastly different placements of the two Fab domains relative to the Fc domain. Interestingly, only one of two possible intra-hinge disulfides is formed.
+http://www.sciencedirect.com/science/article/pii/S0022283602002449
+00222836

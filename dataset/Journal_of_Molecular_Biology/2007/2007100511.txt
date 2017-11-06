@@ -1,0 +1,6 @@
+A Novel Proteomic Approach Identifies New Interaction Partners for Proliferating Cell Nuclear Antigen
+21733356500,6504312728,36842235200,21733521200,21733666800,7202281538,7101888729,7003507953,6701627905
+PCNA,combinatorial peptide synthesis,ribonuclease HII
+During DNA replication and repair, many proteins bind to and dissociate in a highly specific and ordered manner from proliferating cell nuclear antigen (PCNA). We describe a combined approach of in silico searches at the genome level and combinatorial peptide synthesis to investigate the binding properties of hundreds of short PCNA-interacting peptides (PIP-peptides) to archaeal and eukaryal PCNAs. Biological relevance of our combined approach was demonstrated by identification an inactive complex of Pyrococcus abyssi ribonuclease HII with PCNA. Furthermore we show that PIP-peptides interact with PCNA largely in a sequence independent manner. Our experimental approach also identified many so far unidentified PCNA interacting peptides in a number of human proteins.
+http://www.sciencedirect.com/science/article/pii/S0022283607008467
+00222836

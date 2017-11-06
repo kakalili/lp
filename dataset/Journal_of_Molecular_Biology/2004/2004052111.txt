@@ -1,0 +1,6 @@
+Unique Structural Characteristics of Peptide Deformylase from Pathogenic Bacterium Leptospira interrogans
+10541178000,14049071100,7502082522,7202258601
+peptide deformylase,dimerization,active-site pocket,conformational change,formate group
+Peptide deformylase (PDF), which is essential for normal growth of bacteria but not for higher organisms, is explored as an attractive target for developing novel antibiotics. Here, we present the crystal structure of Leptospira interrogans PDF (LiPDF) at 2.2Å resolution. To our knowledge, this is the first crystal structure of PDF associating in a stable dimer. The key loop (named the CD-loop: amino acid residues 66–76) near the active-site pocket adopts “closed” or “open” conformations in the two monomers forming the dimer. In the closed subunit, the CD-loop and residue Arg109 block the entry of the substrate-binding pocket, while the active-site pocket of the open subunit is occupied by the C-terminal tail from the neighbouring molecule. Moreover, a formate group, as one product of deformylisation, is observed bound with the active-site zinc ion. LiPDF displays significant structural differences in the C-terminal region compared to both type-I and type-II PDFs, suggesting a new family of PDFs.
+http://www.sciencedirect.com/science/article/pii/S002228360400347X
+00222836

@@ -1,0 +1,6 @@
+Mapping arm-DNA-binding domain interactions in AraC11Edited by J. A. Wells
+35387294200,7006309611
+arm interactions,domain,AraC,arm-domain,alanine-glutamic scan
+AraC protein, the regulator of the l-arabinose operon in Escherichia coli has been postulated to function by a light switch mechanism. According to this mechanism, it should be possible to find mutations in the DNA-binding domain of AraC that result in weaker arm-DNA-binding domain interactions and which make the protein constitutive, that is, it no longer requires arabinose to activate transcription. We isolated such mutations by randomizing three contiguous leucine residues in the DNA-binding domain, and then by systematically scanning surface residues of the DNA-binding domain with alanine and glutamic acid. As a result, a total of 20 constitutive mutations were found at ten different positions. They form a contiguous trail on the DNA-distal face of the DNA-binding domain, and likely define the region where the N-terminal arm that extends from the N-terminal dimerization domain contacts the C-terminal DNA-binding domain.
+http://www.sciencedirect.com/science/article/pii/S0022283601945310
+00222836

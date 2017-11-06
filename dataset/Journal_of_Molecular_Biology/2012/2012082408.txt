@@ -1,0 +1,6 @@
+Amphiphilic Adsorption of Human Islet Amyloid Polypeptide Aggregates to Lipid/Aqueous Interfaces
+24529306000,35112297900,42461831400,7004655396,7003668894
+sum frequency generation spectroscopy,vibrational hyperpolarizability,human islet amyloid polypeptide,divide-and-conquer normal mode analysis,ab initio simulation of SFG spectra
+Many amyloid proteins misfold into β-sheet aggregates upon interacting with biomembranes at the onset of diseases, such as Parkinson's disease and type II diabetes. The molecular mechanisms triggering aggregation depend on the orientation of β-sheets at the cell membranes. However, understanding how β-sheets adsorb onto lipid/aqueous interfaces is challenging. Here, we combine chiral sum frequency generation (SFG) spectroscopy and ab initio quantum chemistry calculations based on a divide-and-conquer strategy to characterize the orientation of human islet amyloid polypeptides (hIAPPs) at lipid/aqueous interfaces. We show that the aggregates bind with β-strands oriented at 48° relative to the interface. This orientation reflects the amphiphilic properties of hIAPP β-sheet aggregates and suggests the potential disruptive effect on membrane integrity.
+http://www.sciencedirect.com/science/article/pii/S0022283611013647
+00222836

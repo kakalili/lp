@@ -1,0 +1,6 @@
+Bcl-2 and Porin Follow Different Pathways of TOM-dependent Insertion into the Mitochondrial Outer Membrane
+36845557000,8779566700,6506001041,7005144613
+Bcl-2,tail-anchored proteins,mitochondria,Tom20,Tom40
+The bcl-2 gene encodes a 26kDa protein which functions as a central regulator of apoptosis. Here we investigated the pathway of Bcl-2α into the mitochondrial outer membrane using the yeast Saccharomyces cerevisiae as a model organism. We found that interactions of Bcl-2α with the mitochondrial import receptor Tom20 are dependent on two positively charged lysine residues in the immediate vicinity of the carboxy-terminal hydrophobic membrane anchor. The targeting function of these residues is independent of Tom22. Subsequent insertion of Bcl-2α into the mitochondrial outer membrane does not require Tom5 or Tom40, indicating that Bcl-2α bypasses the general import pore (GIP). Bcl-2α shows a unique pattern of interactions with the components of the mitochondrial TOM complex, demonstrating that at least two different pathways lead from the import receptor Tom20 into the mitochondrial outer membrane.
+http://www.sciencedirect.com/science/article/pii/S0022283602009956
+00222836

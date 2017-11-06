@@ -1,0 +1,6 @@
+Crystal structure of a cocaine-binding antibody11Edited by D. Rees
+36808790500,18938013300,7006198578,7006607379,35500092800,7401743864
+cocaine,antibody engineering,immunotherapy,antibody structure,cocaine metabolites
+Murine monoclonal antibody GNC92H2 was elicited by active immunization with a cocaine immunoconjugate and binds free cocaine with excellent specificity and moderate affinity. Improvement of affinity, as well as humanization of GNC92H2, would be advantageous in immunopharmacotherapy for cocaine addiction, and for emergency cases of drug overdose. Toward this end, the crystal structure of an engineered murine-human chimeric Fab of GNC92H2 complexed with cocaine was determined at 2.3 Å resolution. Structural analysis reveals a binding pocket with high shape and charge complementarity to the cocaine framework, which explains the specificity for cocaine, as opposed to the pharmacologically inactive cocaine metabolites. Importantly, the structure provides a foundation for mutagenesis to enhance the binding affinity for cocaine and potent cocaine derivatives, such as cocaethylene, and for additional humanization of the antibody.
+http://www.sciencedirect.com/science/article/pii/S0022283601948399
+00222836

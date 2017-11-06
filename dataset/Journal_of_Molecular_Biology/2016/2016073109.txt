@@ -1,0 +1,6 @@
+Order–Disorder Transitions in the Cardiac Troponin Complex
+36542833900,7004297127
+troponin,coupled binding and folding,hypertrophic cardiomyopathy,disordered proteins,troponin I mobile domain
+The troponin complex is a molecular switch that ties shifting intracellular calcium concentration to association and dissociation of actin and myosin, effectively allowing excitation–contraction coupling in striated muscle. Although there is a long history of muscle biophysics and structural biology, many of the mechanistic details that enable troponin's function remain incompletely understood. This review summarizes the current structural understanding of the troponin complex on the muscle thin filament, focusing on conformational changes in flexible regions of the troponin I subunit. In particular, we focus on order–disorder transitions in the C-terminal domain of troponin I, which have important implications in cardiac disease and could also have potential as a model system for the study of coupled binding and folding.
+http://www.sciencedirect.com/science/article/pii/S0022283616302443
+00222836

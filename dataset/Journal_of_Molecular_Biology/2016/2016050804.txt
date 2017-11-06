@@ -1,0 +1,6 @@
+Structural Dynamics and Mechanochemical Coupling in DNA Gyrase
+14420907700,57188966398,6603211101
+single-molecule,molecular motor,topoisomerase,FRET,magnetic tweezers
+Gyrase is a molecular motor that harnesses the free energy of ATP hydrolysis to perform mechanical work on DNA. The enzyme specifically introduces negative supercoiling in a process that must coordinate fuel consumption with DNA cleavage and religation and with numerous conformational changes in both the protein and DNA components of a large nucleoprotein complex. Here we present a current understanding of mechanochemical coupling in this essential molecular machine, with a focus on recent diverse biophysical approaches that have revealed details of molecular architectures, new conformational intermediates, structural transitions modulated by ATP binding, and the influence of mechanics on motor function. Recent single-molecule assays have also illuminated the reciprocal relationships between supercoiling and transcription, an illustration of mechanical interactions between gyrase and other molecular machines at the heart of chromosomal biology.
+http://www.sciencedirect.com/science/article/pii/S0022283616002023
+00222836

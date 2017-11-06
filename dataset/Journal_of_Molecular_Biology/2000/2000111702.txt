@@ -1,0 +1,6 @@
+A detailed interpretation of OH radical footprints in a TBP-DNA complex reveals the role of dynamics in the mechanism of sequence-specific binding11Edited by I. Tinoco
+6604010423,7101814413,6701752031,7006596321
+molecular dynamics,entropy/enthalpy compensation,transcription
+The hydroxyl radical footprint of the TATA-binding protein (TBP) bound to the high-affinity sequence TATAAAAG of the adenovirus 2 major late promoter has been quantitatively compared to a 2 ns molecular dynamics simulation of the complex in aqueous solution at room temperature using the CHARMM23 potential. The nucleotide-by-nucleotide analysis of the TBP-TATA hydroxyl radical footprint correlates with the solvent-accessible surface calculated from the dynamics simulation. The results suggest that local reactivity towards OH radicals results from the interplay between the local DNA geometry imposed by TBP binding, and the dynamics of the side-chains contacting the sugar hydrogen atoms. Analysis of the dynamics suggests that, over time, TBP forms stable interactions with the sugar-phosphate backbone through multiple contacts to different partners. This mechanism results in an enthalpic advantage to complex formation at a low entropic cost.
+http://www.sciencedirect.com/science/article/pii/S0022283600941731
+00222836

@@ -1,0 +1,6 @@
+Solution conformation of a bulged adenosine base in an RNA duplex by relaxation matrix refinement11Edited by I. Tinoco
+6602871921,7005202917,7003428006,7006482210
+bulged RNA,MORASS,relaxation matrix refinement,bulged adenosine,kinked RNA
+Bulges are common structural motifs in RNA secondary structure and are thought to play important roles in RNA-protein and RNA-drug interactions. Adenosine bases are the most commonly occurring unpaired base in double helical RNA secondary structures. The solution conformation and dynamics of a 25-nucleotide RNA duplex containing an unpaired adenosine, r(GGCAGAGUGCCGC): r(GCGGCACCUGCC) have been studied by NMR spectroscopy and MORASS iterative relaxation matrix structural refinement. The results show that the bulged adenosine residue stacks into the RNA duplex with little perturbation around the bulged region. Most of the bases in the RNA duplex adopt C3′-endo conformation, exhibiting the N-type sugar pucker as found in the A form helices. The sugars of the bulged residue and the 5′ flanking residue to it are found to exhibit C2′-endo conformation. None of the residues are in syn conformation.
+http://www.sciencedirect.com/science/article/pii/S0022283600939317
+00222836

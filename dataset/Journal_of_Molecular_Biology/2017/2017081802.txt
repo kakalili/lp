@@ -1,0 +1,6 @@
+NMR Studies of Large Proteins
+57195052730,6602582898
+large proteins,NMR spectroscopy,protein complexes
+Recent breakthroughs in isotope-labeling and pulse sequence techniques have enabled the NMR characterization of large protein systems with molecular masses of hundreds of kilodaltons. NMR studies of a great variety of large proteins have provided unique insights into the binding, dynamic, and allosteric mechanisms. Here we present a brief summary of these developments by highlighting few cases that exemplify the uniqueness of NMR in providing atomic resolution information into key dynamic processes and structures of protein complexes with high degree of flexibility.
+http://www.sciencedirect.com/science/article/pii/S0022283617303431
+00222836

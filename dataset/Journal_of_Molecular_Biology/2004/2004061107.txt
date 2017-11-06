@@ -1,0 +1,6 @@
+Design and Crystal Structure of Bacteriophage T4 Mini-Fibritin NCCF
+6602954212,7003680887,35465028400,55926964300
+bacteriophage T4 fibritin,coiled coil,collar–whisker complex,crystal structure,foldon
+Fibritin is a fibrous protein that forms “whiskers” attached to the neck of bacteriophage T4. Whiskers interact with the long tail fibers regulating the assembly and infectivity of the virus. The fibritin trimer includes the N-terminal domain responsible for attachment to the phage particle and for the collar formation, the central domain forming a 500Å long segmented coiled-coil structure, and the C-terminal “foldon” domain. We have designed a “mini” fibritin with most of the coiled-coil domain deleted, and solved its crystal structure. The non-helical N-terminal part represents a new protein fold that tightly interacts with the coiled-coil segment forming a single domain, as revealed by calorimetry. The analysis of the crystal structure and earlier electron microscopy data on the collar–whisker complex suggests the necessity of other proteins to participate in the collar formation. Crystal structure determination of the N-terminal domain of fibritin is the first step towards elucidating the detailed structure and assembly mechanism of the collar–whisker complex.
+http://www.sciencedirect.com/science/article/pii/S0022283604004048
+00222836

@@ -1,0 +1,6 @@
+Structural Variation in PWWP Domains
+55055950200,7404105591,7005973731
+PWWP domains,protein,molecule
+The PWWP domain is a ubiquitous eukaryotic protein module characterised by a region of sequence similarity of approximately 80 amino acids containing a highly conserved PWWP motif. It is frequently found in proteins associated with chromatin. We have determined the structure of a PWWP domain from the S.pombe protein SPBC215.07c using NMR spectroscopy. The structure is composed of a five stranded beta barrel followed by two alpha helices. Comparison to the recently reported structure of a homologous domain from the mammalian DNA methyltransferase Dnmt3b reveals substantial differences both in the C-terminal helical region and in the PWWP motif.
+http://www.sciencedirect.com/science/article/pii/S0022283603004704
+00222836

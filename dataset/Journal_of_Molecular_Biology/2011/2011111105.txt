@@ -1,0 +1,6 @@
+Crystal Structure of the Passenger Domain of the Escherichia coli Autotransporter EspP
+54414266900,54891637400,57170304000,6601981263,7005382221
+SPATE,β-helix,bacterial toxin,serine protease,EHEC
+Autotransporters represent a large superfamily of known and putative virulence factors produced by Gram-negative bacteria. They consist of an N-terminal “passenger domain” responsible for the specific effector functions of the molecule and a C-terminal “β-domain” responsible for translocation of the passenger across the bacterial outer membrane. Here, we present the 2.5-Å crystal structure of the passenger domain of the extracellular serine protease EspP, produced by the pathogen Escherichia coli O157:H7 and a member of the serine protease autotransporters of Enterobacteriaceae (SPATEs). Like the previously structurally characterized SPATE passenger domains, the EspP passenger domain contains an extended right-handed parallel β-helix preceded by an N-terminal globular domain housing the catalytic function of the protease. Of note, however, is the absence of a second globular domain protruding from this β-helix. We describe the structure of the EspP passenger domain in the context of previous results and provide an alternative hypothesis for the function of the β-helix within SPATEs.
+http://www.sciencedirect.com/science/article/pii/S0022283611010345
+00222836

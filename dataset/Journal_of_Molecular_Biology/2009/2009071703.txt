@@ -1,0 +1,6 @@
+Secondary Structures for 5′ Regions of R2 Retrotransposon RNAs Reveal a Novel Conserved Pseudoknot and Regions that Evolve under Different Constraints
+6603334760,10040864100,7006405535,7003565372,7402934307,23995553500
+R2 element,RNA secondary structure,microarray,comparative structure analysis,silk moth
+Sequences from the 5′ region of R2 retrotransposons of four species of silk moth are reported. In Bombyx mori, this region of the R2 messenger RNA contains a binding site for R2 protein and mediates interactions critical to R2 element insertion into the host genome. A model of secondary structure for a segment of this RNA is proposed on the basis of binding to oligonucleotide microarrays, chemical mapping, and comparative sequence analysis. Five conserved secondary structures are identified, including a novel pseudoknot. There is an apparent transition from an entirely RNA structure coding function in most of the 5′ segment to a protein coding function near the 3′ end. This suggests that local regions evolved under separate functional constraints (structural, coding, or both).
+http://www.sciencedirect.com/science/article/pii/S0022283609004926
+00222836

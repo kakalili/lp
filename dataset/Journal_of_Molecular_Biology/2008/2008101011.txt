@@ -1,0 +1,6 @@
+Direct Evidence for Coupling between Bacterial Chemoreceptors
+6701372260,7201856564
+conformational coupling,Escherichia coli,chemotaxis,receptors,fluorescence anisotropy
+Bacterial chemoreceptors form mixed trimers of homodimers that cluster further in the presence of other cytoplasmic components. The physical proximity between receptors is thought to promote conformational coupling that enhances sensitivity, dynamic range, and collaboration between receptors of different types. We investigated conformational coupling between neighboring dimers by co-expressing two types of receptors, only one of which was labeled with yellow fluorescent protein. The two types of receptors were stimulated independently, and changes in the relative orientation of the labeled receptors were followed by fluorescence anisotropy. Possible coupling via cytoplasmic components of the taxis system was avoided by working with strains lacking those components. We find that binding of ligand to one type of receptor affects the conformation of the other type of receptor but not in the same way as binding of ligand to that receptor directly does. Thus, different receptors are coupled but not as simply as previously thought.
+http://www.sciencedirect.com/science/article/pii/S0022283608008590
+00222836

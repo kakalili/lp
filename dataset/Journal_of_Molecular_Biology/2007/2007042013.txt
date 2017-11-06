@@ -1,0 +1,6 @@
+A Comparison of Stigmatellin Conformations, Free and Bound to the Photosynthetic Reaction Center and the Cytochrome bc1 Complex
+7005606871,7004676417,16047555200,7006583849,16045596200
+conformational energy,electron transfer,inhibitor,membrane protein complexes,X-ray crystal structures
+We describe in detail the conformations of the inhibitor stigmatellin in its free form and bound to the ubiquinone-reducing (QB) site of the reaction center and to the ubiquinol-oxidizing (Qo) site of the cytochrome bc1 complex. We present here the first structures of a stereochemically correct stigmatellin in complexes with a bacterial reaction center and the yeast cytochrome bc1 complex. The conformations of the inhibitor bound to the two enzymes are not the same. We focus on the orientations of the stigmatellin side-chain relative to the chromone head group, and on the interaction of the stigmatellin side-chain with these membrane protein complexes. The different conformations of stigmatellin found illustrate the structural variability of the Q sites, which are affected by the same inhibitor. The free rotation about the χ1 dihedral angle is an essential factor for allowing stigmatellin to bind in both the reaction center and the cytochrome bc1 pocket.
+http://www.sciencedirect.com/science/article/pii/S0022283607001805
+00222836

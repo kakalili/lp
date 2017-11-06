@@ -1,0 +1,6 @@
+Interplay Between Metal Binding and cis/trans Isomerization in Legume Lectins: Structural and Thermodynamic Study of P. angolensis Lectin
+8544854300,6505848825,7005251750,7003765725
+cis-peptide,stability,lectin,crystal structure,metal binding
+The interplay between metal binding, carbohydrate binding activity, stability and structure of the lectin from Pterocarpus angolensis was investigated. Removal of the metals leads to a more flexible form of the protein with significantly less conformational stability. Crystal structures of this metal-free form show significant structural rearrangements, although some structural features that allow the binding of sugars are retained. We propose that substitution of an asparagine residue at the start of the C-terminal β-strand of the legume lectin monomer hinders the trans-isomerization of the cis-peptide bond upon demetallization and constitutes an intramolecular switch governing the isomer state of the non-proline bond and ultimately the lectin phenotype.
+http://www.sciencedirect.com/science/article/pii/S002228360600698X
+00222836

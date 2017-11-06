@@ -1,0 +1,6 @@
+E2–c-Cbl Recognition Is Necessary but not Sufficient for Ubiquitination Activity
+35435487800,34467511700,6603407256,7102271072,7006526015,7006238724
+ubiquitin,UbcH5B,UbcH7,c-Cbl,E2–E3 specificity
+The E2 ubiquitin-conjugating enzymes UbcH7 and UbcH5B both show specific binding to the RING (really interesting new gene) domain of the E3 ubiquitin-protein ligase c-Cbl, but UbcH7 hardly supports ubiquitination of c-Cbl and substrate in a reconstituted system. Here, we found that neither structural changes nor subtle differences in the E2–E3 interaction surface are possible explanations for the functional specificity of UbcH5B and UbcH7 in their interaction with c-Cbl. The quick transfer of ubiquitin from the UbcH5B∼Ub thioester to c-Cbl or other ubiquitin acceptors suggests that UbcH5B might functionally be a relatively pliable E2 enzyme. In contrast, the UbcH7∼Ub thioester is too stable to transfer ubiquitin under our assay conditions, indicating that UbcH7 might be a more specific E2 enzyme. Our results imply that the interaction specificity between c-Cbl and E2 is required but not sufficient for transfer of ubiquitin to potential targets.
+http://www.sciencedirect.com/science/article/pii/S0022283608013338
+00222836

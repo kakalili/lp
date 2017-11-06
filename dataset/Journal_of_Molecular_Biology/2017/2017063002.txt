@@ -1,0 +1,6 @@
+YEATS Domain—A Histone Acylation Reader in Health and Disease
+56673231400,56048888300,57102521700,57193111014,39861627900
+histone acylation,YEATS domain,lysine crotonylation,aromatic-π stacking,epigenetic regulation
+Histone post-translational modifications (PTMs) carry an epigenetic layer of message to regulate diverse cellular processes at the chromatin level. Many of these PTMs are selectively recognized by dedicated effector proteins for normal cell growth and development, while dysregulation of these recognition events is often implicated in human diseases, notably cancer. Thus, it is fundamentally important to elucidate the regulatory mechanism(s) underlying the readout of PTMs on histones. The Yaf9, ENL, AF9, Taf14, Sas5 (YEATS) domain is an emerging reader module that selectively recognizes histone lysine acylation with a preference for crotonylation over acetylation. In the review, we discuss the recognition of histone acylations by the YEATS domain and the biological significance of this readout from multiple perspectives.
+http://www.sciencedirect.com/science/article/pii/S0022283617301146
+00222836
